@@ -19671,50 +19671,49 @@ a. Very rarely both prepositions are detached and accented; e. g. prá yát stot
 
 // ========================================== PAGE 487 (Book p. 471) ==========================================
 
-#fit-page[
 #v(0.30cm)
 #align(center)[
   #text(size: 12.5pt, weight: "bold", tracking: 0.08em)[VEDIC INDEX]\
 ]
-#v(0.30cm)
+#v(0.20cm)
 
-#columns(2, gutter: 3mm)[
-  #set text(size: 6.8pt)
-  #set par(leading: 0.22em, first-line-indent: -0.7em, hanging-indent: 0.7em)
-  #set block(spacing: 0.06em)
+#block(spacing: 0.28em)[
+  #set text(size: 8.0pt)
+  #set par(leading: 0.40em, first-line-indent: 1.0em)
   This index contains all Sanskrit words and affixes occurring in the grammar, except the verbs in Appendix I, which can be found at once owing to their alphabetical order. Indifferent words occurring in examples of Sandhi, of nominal derivation (Chapter VI), or of Syntax, as well as in Appendixes II and III, are excluded.
 
-The figures refer to paragraphs unless pages are specified.
-
-
-#v(0.35em)
-#align(center)[#text(size: 9.5pt, weight: "bold", tracking: 0.06em)[ABBREVIATIONS]]
-#v(0.18em)
-
-A. \= adjective. act., active. adv., adverb, adverbial. ao., aorist. Bv., Bahuvrihi. cd., compound. cj., conjunction. cond., conditional. conj., conjugation, -al. corr., correlative. cpv., comparative. cs., causative. dec., declension. dem., demonstrative. den., denominative. der., derivative, derivation. ds., desiderative. encl., enclitic. Dv., Dvandva. f.n. foot-note. ft., future. gd., gerund. ij., interjection. indec., indeclinable. inf., infinitive. inj., injunctive. int., intensive. inter., interrogative. ipv., imperative. irr., irregularities. itv., iterative. mid., middle. N., nominative. n., neuter. neg., negative. nm., numeral. nom., nominal. ord., ordinal. par., paradigm. pel., particle. per., periphrastic. pf., perfect. ppf., pluperfect. poss., possessive. pp., past passive participle. pr., present. pri., primary. prn., pronoun, pronominal. prp., preposition, prepositional. prs., person, personal. ps., passive. pt., participle. red., reduplication, reduplicated. ref., reflexive. rel., relative. rt., root. sb., subjunctive. sec., secondary. sf., suffix. spv., superlative. synt., syntactical. Tp., Tatpuruṣa. v., vocative. vb., verb, verbal. w., with.
-
-A, vowel, pronunciation of, 15, 1a; initial, dropped, 5c; 156a; elided, 45, 2b; lengthened, 162, 1c; 168b; 171, 1; 175A1; thematic, 140, 6; 141; 143, 5, 6; 147, 149; change to i, 175A1; dropped, 175A2; to be restored after e and o, p. 437, a7.
-
-a, pronominal root, 111; 195 B 6; accentuation of, p. 452, 8 B c; p. 458 \\beta.
-
-a-, augment, 128\.
-
-a- or an-, privative pel., in Ev. cds., p. 455, 10 ca; in Karma-dharayas, p. 455, f.n. 2; p. 456, 10 d1 a.
-
-]
+  The figures refer to paragraphs unless pages are specified.
 ]
 
+#v(0.25em)
+#align(center)[#text(size: 8.5pt, weight: "bold", tracking: 0.06em)[ABBREVIATIONS]]
+#v(0.15em)
+
+#block(spacing: 0.28em)[
+  #set text(size: 7.0pt)
+  #set par(leading: 0.32em, first-line-indent: 0pt)
+  A. \= adjective. act., active. adv., adverb, adverbial. ao., aorist. Bv., Bahuvrihi. cd., compound. cj., conjunction. cond., conditional. conj., conjugation, -al. corr., correlative. cpv., comparative. cs., causative. dec., declension. dem., demonstrative. den., denominative. der., derivative, derivation. ds., desiderative. encl., enclitic. Dv., Dvandva. f.n. foot-note. ft., future. gd., gerund. ij., interjection. indec., indeclinable. inf., infinitive. inj., injunctive. int., intensive. inter., interrogative. ipv., imperative. irr., irregularities. itv., iterative. mid., middle. N., nominative. n., neuter. neg., negative. nm., numeral. nom., nominal. ord., ordinal. par., paradigm. pel., particle. per., periphrastic. pf., perfect. ppf., pluperfect. poss., possessive. pp., past passive participle. pr., present. pri., primary. prn., pronoun, pronominal. prp., preposition, prepositional. prs., person, personal. ps., passive. pt., participle. red., reduplication, reduplicated. ref., reflexive. rel., relative. rt., root. sb., subjunctive. sec., secondary. sf., suffix. spv., superlative. synt., syntactical. Tp., Tatpuruṣa. v., vocative. vb., verb, verbal. w., with.
+]
+
+#v(0.25em)
+#columns(2, gutter: 3mm)[
+  #set text(size: 7.0pt)
+  #set par(leading: 0.32em, first-line-indent: -0.8em, hanging-indent: 0.8em)
+  #set block(spacing: 0.10em)
+  A, vowel, pronunciation of, 15, 1a; initial, dropped, 5c; 156a; elided, 45, 2b; lengthened, 162, 1c; 168b; 171, 1; 175A1; thematic, 140, 6; 141; 143, 5, 6; 147, 149; change to i, 175A1; dropped, 175A2; to be restored after e and o, p. 437, a7.
+
+a, pronominal root, 111; 195 B 6; accentuation of, p. 452, 8 B c; p. 458 β. a-, augment, 128\. a- or an-, privative pel., in Ev. cds., p. 455, 10 ca; in Karma-dharayas, p. 455, f.n. 2; p. 456, 10 d1 a.
+]
 
 #pagebreak()
 
 // ========================================== PAGE 488 (Book p. 472) ==========================================
 
-#fit-page[
 #folio("472", "VEDIC INDEX", "")
 #columns(2, gutter: 3mm)[
-  #set text(size: 6.8pt)
-  #set par(leading: 0.22em, first-line-indent: -0.7em, hanging-indent: 0.7em)
-  #set block(spacing: 0.06em)
+  #set text(size: 7.0pt)
+  #set par(leading: 0.32em, first-line-indent: -0.8em, hanging-indent: 0.8em)
+  #set block(spacing: 0.1em)
   -a, sf. of 1st conj., 125; pri. nom. sf., 182, 1 b; sec. nom. sf., 182, 2; radical nom. stems in, 97, 3; der. nom. stems in, 97\.
 
 amś, attain, pf., 139, 6; 140, 3\. 5; rt. ao. inj., 148, 3, op., 148, 4, prc., 148, 4 a.
@@ -19838,25 +19837,18 @@ anusvāra, m. pure nasal, 3 f; 10 f; 15, 2 f; 29 b; 39; 40 a; 40, 2; 42; p. 33, 
 antár, prp. between, w. acc., abl., loc., 176, 2\.
 
 antarā, adv. prp. between, w. acc., 177, 1; 197 B c.
-
 ]
-]
-
 
 #pagebreak()
 
 // ========================================== PAGE 489 (Book p. 473) ==========================================
 
-#fit-page[
 #folio("", "VEDIC INDEX", "473")
 #columns(2, gutter: 3mm)[
   #set text(size: 6.8pt)
-  #set par(leading: 0.22em, first-line-indent: -0.7em, hanging-indent: 0.7em)
-  #set block(spacing: 0.06em)
-  #block(spacing: 0.28em)[
-  #set par(first-line-indent: 0pt)
+  #set par(leading: 0.3em, first-line-indent: -0.8em, hanging-indent: 0.8em)
+  #set block(spacing: 0.08em)
   ántareṇa, adv. prp. between, w. acc., 197 B c β.
-]
 
 antasthā, f. intermediate - semi-vowel, 11\.
 
@@ -19995,158 +19987,147 @@ avayāj, f. share of oblation, 79, 3 a a.
 avás, adv. downwards; prp. down from, below, w. abl., 177, 3; w. inst., 177, 2\.
 
 avástād, adv. below, w. gen., 202 D.
-
 ]
-]
-
 
 #pagebreak()
 
 // ========================================== PAGE 490 (Book p. 474) ==========================================
 
-#fit-page[
 #folio("474", "VEDIC INDEX", "")
 #columns(2, gutter: 3mm)[
-  #set text(size: 6.8pt)
-  #set par(leading: 0.22em, first-line-indent: -0.7em, hanging-indent: 0.7em)
-  #set block(spacing: 0.06em)
-  #block(spacing: 0.28em)[
-  #set par(first-line-indent: 0pt)
-  avāñc, a. #emph[downward], 93 #emph[b].
-]
+  #set text(size: 7.0pt)
+  #set par(leading: 0.32em, first-line-indent: -0.8em, hanging-indent: 0.8em)
+  #set block(spacing: 0.1em)
+  avāñc, a. _downward_, 93 _b_.
 
-ávāt, #emph[has shone], 3\. s. s ao. of vas, 144, 2\.
+ávāt, _has shone_, 3\. s. s ao. of vas, 144, 2\.
 
-ávi, m. #emph[sheep], p. 81, f. n. 1\.
+ávi, m. _sheep_, p. 81, f. n. 1\.
 
-1\. #emph[aś], #emph[reach], see #emph[amś].
+1\. _aś_, _reach_, see _amś_.
 
-2\. #emph[aś. eat], pr. stem, 134 E 4\.
+2\. _aś. eat_, pr. stem, 134 E 4\.
 
-aśitāvant, pf. pt. #emph[having eaten], 161\.
+aśitāvant, pf. pt. _having eaten_, 161\.
 
-aśitī, nm. #emph[eighty], 104\.
+aśitī, nm. _eighty_, 104\.
 
-áśman, m. #emph[stone], 90, 1\. 2 par.
+áśman, m. _stone_, 90, 1\. 2 par.
 
-áśrait, 3\. s. s ao. of śri, #emph[resort], 144, 2\.
+áśrait, 3\. s. s ao. of śri, _resort_, 144, 2\.
 
-aśvin, a. #emph[possessing horses], p. 64, f. n. 4\.
+aśvin, a. _possessing horses_, p. 64, f. n. 4\.
 
-aṣṭakṛtvas, nm. adv. #emph[eight times], 108 #emph[a].
+aṣṭakṛtvas, nm. adv. _eight times_, 108 _a_.
 
-aṣṭadhā, nm. adv. #emph[in eight ways], 108 #emph[b].
+aṣṭadhā, nm. adv. _in eight ways_, 108 _b_.
 
-aṣṭamā, ord. #emph[eighth], 107\.
+aṣṭamā, ord. _eighth_, 107\.
 
-aṣṭā, nm. #emph[eight], 104; 106 #emph[b] (par.).
+aṣṭā, nm. _eight_, 104; 106 _b_ (par.).
 
-aṣṭācatvārimśā, ord. #emph[forty-eighth], 107\.
+aṣṭācatvārimśā, ord. _forty-eighth_, 107\.
 
-aṣṭādaśa, nm., 104; 106 #emph[c] (par.).
+aṣṭādaśa, nm., 104; 106 _c_ (par.).
 
-as, #emph[be], pr., 134 A 2 #emph[b]; pr. pt. act., 156 #emph[a].
+as, _be_, pr., 134 A 2 _b_; pr. pt. act., 156 _a_.
 
--as, pri. nom. sf., 182, 1 #emph[b]; stems in, 83, 2 #emph[a]; p. 453, 9 A #emph[a]; adv. sf. w. loc. sense, 179, 3; abl. gen. inf. in, 163, 3 #emph[a]; 211, 3 #emph[a]; changed to o, 145, 2 #emph[b].
+-as, pri. nom. sf., 182, 1 _b_; stems in, 83, 2 _a_; p. 453, 9 A _a_; adv. sf. w. loc. sense, 179, 3; abl. gen. inf. in, 163, 3 _a_; 211, 3 _a_; changed to o, 145, 2 _b_.
 
-asakáu, dem. prn. #emph[that little], 117 #emph[a].
+asakáu, dem. prn. _that little_, 117 _a_.
 
-asaścát, Bv. cd. #emph[unequalled], 85 #emph[b].
+asaścát, Bv. cd. _unequalled_, 85 _b_.
 
-ásiknī, a. f. #emph[black], p. 86, f. n. 3\.
+ásiknī, a. f. _black_, p. 86, f. n. 3\.
 
 asiknī, f. name of a river, p. 86, f. n. 3\.
 
-ásrj, n. #emph[blood], 79, 3 #emph[b].
+ásrj, n. _blood_, 79, 3 _b_.
 
-asáu, dem. prn. #emph[that] (there), 112 (par.); synt. use, 195 B 2\.
+asáu, dem. prn. _that_ (there), 112 (par.); synt. use, 195 B 2\.
 
-ástam, acc. adv. #emph[home], 178, 2; w. verbs, 184 #emph[c].
+ástam, acc. adv. _home_, 178, 2; w. verbs, 184 _c_.
 
-astamiké, loc. adv. #emph[at home], 178, 7\.
+astamiké, loc. adv. _at home_, 178, 7\.
 
-ástodhvam, 2\. pl. s ao. of stu, #emph[praise], 144, 2 #emph[a].
+ástodhvam, 2\. pl. s ao. of stu, _praise_, 144, 2 _a_.
 
-asthi, n. #emph[bone], 99, 4\.
+asthi, n. _bone_, 99, 4\.
 
-asma, prs. prn. stem, 109 #emph[b].
+asma, prs. prn. stem, 109 _b_.
 
-asmatrá, adv. #emph[among us], 179, 3\.
+asmatrá, adv. _among us_, 179, 3\.
 
-asmátsakhi, Bv. cd. #emph[having us as companions], 109 #emph[b].
+asmátsakhi, Bv. cd. _having us as companions_, 109 _b_.
 
-asmad, prs. prn. stem in cds., 109 #emph[b].
+asmad, prs. prn. stem in cds., 109 _b_.
 
-asmadrúh, Tp. cd. #emph[hating us], 109 #emph[b].
+asmadrúh, Tp. cd. _hating us_, 109 _b_.
 
-asmāka, poss. prn. #emph[our], 116 #emph[a].
+asmāka, poss. prn. _our_, 116 _a_.
 
-asmākam, gen. pl. prs. prn. #emph[of us], 116 #emph[a].
+asmākam, gen. pl. prs. prn. _of us_, 116 _a_.
 
-ásvapnaj, #emph[sleepless], 79, 3 #emph[b].
+ásvapnaj, _sleepless_, 79, 3 _b_.
 
-ah, #emph[say], defective verb, pf., 139, 4\.
+ah, _say_, defective verb, pf., 139, 4\.
 
-áha, emphasizing pcl. #emph[just], 180\.
+áha, emphasizing pcl. _just_, 180\.
 
-áhaṃsana, a. #emph[rapacious], synt. cd., 189 B #emph[c].
+áhaṃsana, a. _rapacious_, synt. cd., 189 B _c_.
 
-áhan, n. #emph[day], 90; 91, 2; as final member of Bv. cds., 189, 3 #emph[c].
+áhan, n. _day_, 90; 91, 2; as final member of Bv. cds., 189, 3 _c_.
 
 ahám, personal prn., I, 109\.
 
-ahamuttará, n. #emph[dispute for precedence], synt. cd., 189 B #emph[c].
+ahamuttará, n. _dispute for precedence_, synt. cd., 189 B _c_.
 
-ahampūrvá, a. #emph[eager to be first], synt. cd., 189 B #emph[c].
+ahampūrvá, a. _eager to be first_, synt. cd., 189 B _c_.
 
-áhar, n. #emph[day], 91, 2; 101, 1\.
+áhar, n. _day_, 91, 2; 101, 1\.
 
-áharahar, #emph[every day], itv. cd., 189 C #emph[a].
+áharahar, _every day_, itv. cd., 189 C _a_.
 
-áhardivi, #emph[day after day], mixed itv. cd., 189 C #emph[a], f. n. 1; accentuation, p. 457, #emph[e a].
+áhardivi, _day after day_, mixed itv. cd., 189 C _a_, f. n. 1; accentuation, p. 457, _e a_.
 
-aharpáti, m. #emph[lord of day], 49 #emph[d].
+aharpáti, m. _lord of day_, 49 _d_.
 
-ahī, m. #emph[serpent], 100, I #emph[a].
+ahī, m. _serpent_, 100, I _a_.
 
 áhait, 3\. s. s ao. of hi, 144, 2\.
 
-ahorátrá, n. #emph[day and night], 186 A 2; accentuation, p. 457, #emph[e].
+ahorátrá, n. _day and night_, 186 A 2; accentuation, p. 457, _e_.
 
-ahna \= áhan, #emph[day], in cds., p. 275, f. n. 3\.
+ahna \= áhan, _day_, in cds., p. 275, f. n. 3\.
 
-Ā, vowel, dropped, p. 206, f. n. 3; low grade of, 5 #emph[c]; reduced to i or i, 148, 1 #emph[f]; 160, 2; 169, 2; to i, p. 190, 2; shortened, 19 #emph[a], f. n. 5; 147 #emph[a] 1; p. 273, f. n. 4; nasalized, 19 #emph[b], f. n. 1\.
+\\bar{A}, vowel, dropped, p. 206, f. n. 3; low grade of, 5 _c_; reduced to i or i, 148, 1 _f_; 160, 2; 169, 2; to i, p. 190, 2; shortened, 19 _a_, f. n. 5; 147 _a_ 1; p. 273, f. n. 4; nasalized, 19 _b_, f. n. 1\.
 
-ā, prp. #emph[on], w. loc., acc., abl., 176, 2; reverses meaning of gam, #emph[go], and dā, #emph[give], p. 265, f. n. 6\.
+\\bar{a}, prp. _on_, w. loc., acc., abl., 176, 2; reverses meaning of gam, _go_, and dā, _give_, p. 265, f. n. 6\.
 
-ā, emphasizing pcl., 180\.
+\\bar{a}, emphasizing pcl., 180\.
 
--ā, pri. nom. sf., 182, 1 #emph[b]; stems in, 97, 2; sec. nom. sf., 182, 2; stems in, 97; for a in sb., 134 A 4 #emph[c] \\beta; du. ending, p. 78, f. n. 13; p. 81, f. n. 1, 2; pl. n. ending, p. 78, f. n. 14\.
+-ā, pri. nom. sf., 182, 1 _b_; stems in, 97, 2; sec. nom. sf., 182, 2; stems in, 97; for a in sb., 134 A 4 _c_ β; du. ending, p. 78, f. n. 13; p. 81, f. n. 1, 2; pl. n. ending, p. 78, f. n. 14\.
 
-āké, loc. adv. #emph[near], 178, 7\.
+āké, loc. adv. _near_, 178, 7\.
 
-ātmán, m. #emph[self], 115 #emph[b a].
+ātmán, m. _self_, 115 _b a_.
 
-ād, adv. #emph[then], 178, 5; synt. use, 180\.
+ād, adv. _then_, 178, 5; synt. use, 180\.
 
-ādhī, f. #emph[care], 100 C #emph[a], f. n. 1\.
+ādhī, f. _care_, 100 C _a_, f. n. 1\.
 
 ān-, pf. red., 139, 6; shortened, 140, 1\.
-
 ]
-]
-
 
 #pagebreak()
 
 // ========================================== PAGE 491 (Book p. 475) ==========================================
 
-#fit-page[
 #folio("", "VEDIC INDEX", "475")
 #columns(2, gutter: 3mm)[
-  #set text(size: 6.8pt)
-  #set par(leading: 0.22em, first-line-indent: -0.7em, hanging-indent: 0.7em)
-  #set block(spacing: 0.06em)
+  #set text(size: 7.0pt)
+  #set par(leading: 0.32em, first-line-indent: -0.8em, hanging-indent: 0.8em)
+  #set block(spacing: 0.1em)
   -āna, sf. of mid. pt., pr. 158 a, pf. 159\.
 
 -āna, sf. of 2\. s. ipv. act., 125, f. n. 9; 134 E 4\.
@@ -20274,38 +20255,18 @@ iṣṭāpūrtām, n. Dv. ed. what has been offered and given, 186 A 3; accentua
 ihā, adv. here, 179, 1\.
 
 Ī, vowel, often changed to iy in
-
 ]
-]
-
 
 #pagebreak()
 
 // ========================================== PAGE 492 (Book p. 476) ==========================================
 
-#fit-page[
 #folio("476", "VEDIC INDEX", "")
 #columns(2, gutter: 3mm)[
-  #set text(size: 6.8pt)
-  #set par(leading: 0.22em, first-line-indent: -0.7em, hanging-indent: 0.7em)
-  #set block(spacing: 0.06em)
-  Sandhi, 57; low grade of yā,
-
-5 b a; ending of du. and of amī,
-
-uncontracted in Sandhi, 25 a,
-
-b, c; inserted in int. red., 172 a;
-
-173, 3; sec. nom. sf., 182, 2;
-
-stems in, 95; 100 b; connecting
-
-vowel, 144, 2 (s ao.); 145 b (iṣ
-
-ao.); 160, 3 a (pp.); 162, 4
-
-(gdv.).
+  #set text(size: 7.0pt)
+  #set par(leading: 0.32em, first-line-indent: -0.8em, hanging-indent: 0.8em)
+  #set block(spacing: 0.1em)
+  Sandhi, 57; low grade of yā, 5 b a; ending of du. and of amī, uncontracted in Sandhi, 25 a, b, c; inserted in int. red., 172 a; 173, 3; sec. nom. sf., 182, 2; stems in, 95; 100 b; connecting vowel, 144, 2 (s ao.); 145 b (iṣ ao.); 160, 3 a (pp.); 162, 4 (gdv.).
 
 id, f. praise, 80\.
 
@@ -20319,49 +20280,27 @@ idṛśa, prn. cd., 117, f. n. 4\.
 
 -ina, secondary nom. suffix, 182, 2\.
 
-im, encl. pronominal particle,
+im, encl. pronominal particle, 180; p. 452, 8 A a.
 
-180; p. 452, 8 A a.
-
--im, ending of 1\. s. iṣ aorist,
-
-145 c.
+-im, ending of 1\. s. iṣ aorist, 145 c.
 
 -iya, secondary nom. suffix, 182, 2\.
 
--iyāṃs, pri. cpv. suffix, 103, 2;
-
-p. 453, 9 A c.
+-iyāṃs, pri. cpv. suffix, 103, 2; p. 453, 9 A c.
 
 iyivāṃs, pf. pt. act. of i, go, 89 a.
 
-ivant, prn. derivative, so great,
+ivant, prn. derivative, so great, 118 c.
 
-118 c.
-
-iś, rule, pr. stem, 134 A 3 b;
-
-134 A 4 c a.
+iś, rule, pr. stem, 134 A 3 b; 134 A 4 c a.
 
 iś, m. lord, 79, 4\.
 
-iśvarā, a. able, concord of, 194 B 2 a;
+iśvarā, a. able, concord of, 194 B 2 a; w. inf., 216 (p. 365 β); w. gen. inf., 211, 3 a a; 211, 3 b a; w. yād and op., 216 (p. 364 β).
 
-w. inf., 216 (p. 365 β); w. gen.
+U, vowel, low grade of o and va, 5 a, b.
 
-inf., 211, 3 a a; 211, 3 b a; w.
-
-yād and op., 216 (p. 364 β).
-
-U, vowel, low grade of o and va,
-
-5 a, b.
-
-u, encl. pcl. now, pray, 180; form
-
-of, in Pada text, p. 25, f. n. 2;
-
-p. 452, 8 A b.
+u, encl. pcl. now, pray, 180; form of, in Pada text, p. 25, f. n. 2; p. 452, 8 A b.
 
 -u, stems in, 98\.
 
@@ -20381,89 +20320,51 @@ utó, cj. and also, synt. use, 180\.
 
 uttamá, spv. highest, 103, 1 c.
 
-úttara, cpv. higher, 103, 1 c; 120 c 1
+úttara, cpv. higher, 103, 1 c; 120 c 1 (par.).
 
-(par.).
-
-uttarāt, abl. adv. from the north,
-
-178, 5\.
+uttarāt, abl. adv. from the north, 178, 5\.
 
 úttareṇa, adv. prp. north of, w.
 
-acc., 177, 1, f. n. 3; 197 B c β;
-
-p. 209, f. n. 3\.
+acc., 177, 1, f. n. 3; 197 B c β; p. 209, f. n. 3\.
 
 úd, f. wave, 77, 3 a.
 
 -ud, stems in, 77, 3 b.
 
-údañc, a. upward, 93 a; northward
+údañc, a. upward, 93 a; northward of, w. gen., 202 D β.
 
-of, w. gen., 202 D β.
-
-udátta, m. rising accent, p. 448, 1;
-
-p. 451, 6; how marked, p. 449,
-
-2: p. 450, 3, 4, 5\.
+udátta, m. rising accent, p. 448, 1; p. 451, 6; how marked, p. 449, 2: p. 450, 3, 4, 5\.
 
 -una, pri. nom. suffix, 182, 1 b.
 
-úpa, prp. to, w. acc., 176 b; upon,
+úpa, prp. to, w. acc., 176 b; upon, w. loc., ibid.
 
-w. loc., ibid.
-
-upadhmānīya, la'rial breathing, 3 g;
-
-14; 15; 43, 2\.
+upadhmānīya, la'rial breathing, 3 g; 14; 15; 43, 2\.
 
 upamá, spv. highest, 120 c 1\.
 
 úpara, cpv. lower, 120 c 1\.
 
-upári, prp. above, w. acc., 177, 1;
+upári, prp. above, w. acc., 177, 1; 197 B c.
 
-197 B c.
-
-upáristād, adv. behind, w. gen.,
-
-202 D.
+upáristād, adv. behind, w. gen., 202 D.
 
 upānáh, f. shoe, 81, f. n. 1\.
 
-úbhaya, a. of both kinds, 120 c 3
+úbhaya, a. of both kinds, 120 c 3 (par.).
 
-(par.).
+ubhayátas, adv. on both sides of, w. acc., 197 B c β.
 
-ubhayátas, adv. on both sides of,
+ubhayadyús, adv. on both days, 179, 1\.
 
-w. acc., 197 B c β.
+ubhayá, inst. adv. in both ways, 178, 3 c.
 
-ubhayadyús, adv. on both days,
-
-179, 1\.
-
-ubhayá, inst. adv. in both ways,
-
-178, 3 c.
-
--ur, ending of gen. s., 99, 1\. 2;
-
-101; of 3\. pl. act.: impf. 134 A 4 c;
-
-p. 125, f. n. 7; pf., 136; ppf.,
-
-140, 6; s ao., 143, 1; root ao.,
-
-148, 1\.
+-ur, ending of gen. s., 99, 1\. 2; 101; of 3\. pl. act.: impf. 134 A 4 c; p. 125, f. n. 7; pf., 136; ppf., 140, 6; s ao., 143, 1; root ao., 148, 1\.
 
 urú, a. wide, 98 c; cpv. of, 103, 2 a.
 
-uruvyáñc, a. far-extending, p. 54,
-
-f. n. 1\.
+uruvyáñc, a. far-extending, p. 54, f. n. 1\.
 
 urviyá, inst. adv. far, 178, 3 b.
 
@@ -20477,38 +20378,26 @@ uśij, a. desiring, 79, 3 b (par.).
 
 uṣás, f. dawn, 83, 2 a.
 
-uṣāsā, f. elliptical du., dawn and
+uṣāsā, f. elliptical du., dawn and night, 193, 2 a.
 
-night, 193, 2 a.
+ústrānām, gen. pl. without cere- bral n, p. 43, f. n. 1\.
 
-ústrānām, gen. pl. without cere-
+uṣṇib, f. a metre, 81; p. 444, 1; p. 476, 11 A.
 
-bral n, p. 43, f. n. 1\.
-
-uṣṇib, f. a metre, 81; p. 444, 1;
-
-p. 476, 11 A.
-
--us, pri. nom. sf., 182, 1 b; stems
-
-in, 83, 2 c.
+-us, pri. nom. sf., 182, 1 b; stems in, 83, 2 c.
 
 usṛ, f. dawn, 101, 1\.
-
 ]
-]
-
 
 #pagebreak()
 
 // ========================================== PAGE 493 (Book p. 477) ==========================================
 
-#fit-page[
 #folio("", "VEDIC INDEX", "477")
 #columns(2, gutter: 3mm)[
-  #set text(size: 6.8pt)
-  #set par(leading: 0.22em, first-line-indent: -0.7em, hanging-indent: 0.7em)
-  #set block(spacing: 0.06em)
+  #set text(size: 7.0pt)
+  #set par(leading: 0.32em, first-line-indent: -0.8em, hanging-indent: 0.8em)
+  #set block(spacing: 0.1em)
   Ū, vowel often changed to uv in Sandhi, 57; shortened to u, p. 274, f.n. 1; pri. nom. sf., 182, 1 b; stems in, 100 (pp. 88-90).
 
 ūdhá, pp. of vah, carry, 160, 2\.
@@ -20618,109 +20507,68 @@ O, diphthong, originally āu, p. 22, f. n. 3; high grade of u, 4 b; low grade of
 okivāṃs, pf. pt. act. of uc, 89 a.
 
 ótave, dat. inf. to weave, 167 b 4\.
-
 ]
-]
-
 
 #pagebreak()
 
 // ========================================== PAGE 494 (Book p. 478) ==========================================
 
-#fit-page[
 #folio("478", "VEDIC INDEX", "")
 #columns(2, gutter: 3mm)[
-  #set text(size: 6.8pt)
-  #set par(leading: 0.22em, first-line-indent: -0.7em, hanging-indent: 0.7em)
-  #set block(spacing: 0.06em)
-  #block(spacing: 0.28em)[
-  #set par(first-line-indent: 0pt)
+  #set text(size: 7.0pt)
+  #set par(leading: 0.32em, first-line-indent: -0.8em, hanging-indent: 0.8em)
+  #set block(spacing: 0.1em)
   óṣam, adv. quickly, 103, 2 a.
-]
 
 óṣiṣṭha, spv. very quick, 103, 2 a.
 
 ohāná, pr. pt. of ūh, consider, 158 a.
 
-AI, diphthong, low grade of, 5 d;
-
-Sandhi of final, 22; internal
-
-Sandhi of, 59; stem in, 102\.
+AI, diphthong, low grade of, 5 d; Sandhi of final, 22; internal Sandhi of, 59; stem in, 102\.
 
 -ais, inst. pl. ending, p. 78, f. n. 9\.
 
-AU, diphthong, low grade of, 5 d;
+AU, diphthong, low grade of, 5 d; Sandhi of final, 22; internal Sandhi of, 59; stem in, 102\.
 
-Sandhi of final, 22; internal
-
-Sandhi of, 59; stem in, 102\.
-
--au, ending of 1\. 3\. s. pf. act.,
-
-136, 4; of N. A. du., p. 59,
-
-f. n. 2; p. 78, f. n. 13\.
+-au, ending of 1\. 3\. s. pf. act., 136, 4; of N. A. du., p. 59, f. n. 2; p. 78, f. n. 13\.
 
 K, insertion of transitional, 35\.
 
 ka, inter. prn. who? 113\.
 
--ka, pri. nom. sf., 182, 1 b; sec.
-
-nom. sf., 182, 2\.
+-ka, pri. nom. sf., 182, 1 b; sec. nom. sf., 182, 2\.
 
 kakūd, f. summit, 77, 3 b.
 
-kakūbh, f. peak, 78, 2; a metre,
+kakūbh, f. peak, 78, 2; a metre, p. 444, 3\.
 
-p. 444, 3\.
+katamā, inter. prn. a. who? (of many), 117 b; 120 a.
 
-katamā, inter. prn. a. who? (of
+katarā, prn. a. which (of two)?, 117 b; 120 a.
 
-many), 117 b; 120 a.
+kāti, nm. du. how many? 113 a; 118 a.
 
-katarā, prn. a. which (of two)?,
-
-117 b; 120 a.
-
-kāti, nm. du. how many? 113 a;
-
-118 a.
-
-katidhā, inter. adv. how many
-
-times? 179, 1\.
+katidhā, inter. adv. how many times? 179, 1\.
 
 katpayā, a. greatly swelling, 113 a.
 
 kathām, inter. adv. how? 179, 1 a.
 
-kāthā, inter. adv. how? p. 354\. 2 a;
-
-216, 2 a.
+kāthā, inter. adv. how? p. 354\. 2 a; 216, 2 a.
 
 kād, inter. prn. what? 113\.
 
-kādartha, a. having what purpose?
+kādartha, a. having what purpose? 113 a.
 
-113 a.
-
-kacā, inter. adv. when? 179, 3;
-
-p. 354, 2 a; 216, 2 a.
+kacā, inter. adv. when? 179, 3; p. 354, 2 a; 216, 2 a.
 
 kadrū, f. Soma vessel, p. 89, f. n. 3\.
 
 kāniṣṭha, spv. smallest, 103, 2 b.
 
-kaniṣṭhā, spv. youngest, p. 95,
+kaniṣṭhā, spv. youngest, p. 95, f. n. 3\.
 
-f. n. 3\.
-
-kāniyāṃs, cpv. lesser, 103, 2 a;
-
-younger, 88\.
+kāniyāṃs, cpv. lesser, 103, 2 a; younger, 88\.
 
 kanyā, f. girl, p. 96, f. n. 3\.
 
@@ -20728,31 +20576,21 @@ kāprth, n. penis, 77, 2\.
 
 kām, adv. well, synt. use, 180\.
 
-kam, pcl. used after nū, sū, hī,
-
-180; p. 453, 8 B d.
+kam, pcl. used after nū, sū, hī, 180; p. 453, 8 B d.
 
 kāya, inter. prn. who? 113 b.
 
 kayā, inst. adv. how? 178, 3 c.
 
-kārṇa, ear, compounded w.
+kārṇa, ear, compounded w. 184 c.
 
-184 c.
-
-karmadhāraya, poss. cds., 188;
-
-189 d; accentuation of, p. 455,
-
-10 d 1\.
+karmadhāraya, poss. cds., 188; 189 d; accentuation of, p. 455, 10 d 1\.
 
 kárman, n. work, 90, 2 (p. 69).
 
 kasipú, m. n. mat, 98 a.
 
-kás ca, indefinite prn. any one,
-
-119 b.
+kás ca, indefinite prn. any one, 119 b.
 
 kás caná, indef. prn. any, 119 b.
 
@@ -20760,19 +20598,13 @@ kás cid, indef. prn. any, 119 b.
 
 kākūd, f. palate, 77, 3 b.
 
-kākubha pragātha, m. a kind of
+kākubha pragātha, m. a kind of mixed strophe, p. 446, 11 B 1\.
 
-mixed strophe, p. 446, 11 B 1\.
-
-Kāthaka Saṃhitā, accentuation
-
-of, p. 450, 3\.
+Kāthaka Saṃhitā, accentuation of, p. 450, 3\.
 
 kāmam, adv. at will, 197 A 5 a.
 
-kāmāya, adv. dat. for the sake of,
-
-200 B 5\.
+kāmāya, adv. dat. for the sake of, 200 B 5\.
 
 kās, f. cough, 83, 1\.
 
@@ -20780,23 +20612,15 @@ kī, inter. prn. stem in cds., 113 a.
 
 kikkitā, ij., 181\.
 
-kikkirā, ij., 181; w. kr, tear to
-
-tatters, 184 d.
+kikkirā, ij., 181; w. kr, tear to tatters, 184 d.
 
 kimkārā, m. servant, 113 a.
 
-kimtvā, synt. cd. asking garra-
+kimtvā, synt. cd. asking garra- lously, 189 B c.
 
-lously, 189 B c.
+kím, inter. prn. what? 113; inter. pcl. why? 178, 2 a; 180\.
 
-kím, inter. prn. what? 113; inter.
-
-pcl. why? 178, 2 a; 180\.
-
-kīyant, prn. der. how great? 113 a;
-
-118 b.
+kīyant, prn. der. how great? 113 a; 118 b.
 
 kīla, adv. indeed, synt. use, 180\.
 
@@ -20804,52 +20628,28 @@ kīcfē, prn. cd. what like? 117\.
 
 kīvant, prn. cd. how far? 118 c.
 
-ku, inter. stem in derivatives,
-
-113 a.
+ku, inter. stem in derivatives, 113 a.
 
 kumārī, f. girl, 100, 1 b a (p. 88).
 
-kuvītsa, some one, synt. cd.,
+kuvītsa, some one, synt. cd., 189 B c.
 
-189 B c.
+kuvīd, inter. pcl., 180; p. 354, 2 a; 216, 2 a; accents verb, p. 467, 19 B.
 
-kuvīd, inter. pcl., 180; p. 354, 2 a;
+kūba, inter. adv. where? 113 a; 179, 1\.
 
-216, 2 a; accents verb, p. 467,
-
-19 B.
-
-kūba, inter. adv. where? 113 a;
-
-179, 1\.
-
-kr, make, 127, 4 a; pr. system,
-
-132 (par.); anomalous pr. stem,
-
-134 C 4; pr. pt., 85; pf., 38, 2;
-
-pf. pt., 157; 89, 1 (par.); a ao.,
-
-transfers, 147 a 2; root ao.,
-
-148, 1 b (par.); op., 148, 4; inj.,
-
+kr, make, 127, 4 a; pr. system, 132 (par.); anomalous pr. stem, 134 C 4; pr. pt., 85; pf., 38, 2; pf. pt., 157; 89, 1 (par.); a ao., transfers, 147 a 2; root ao., 148, 1 b (par.); op., 148, 4; inj.,
 ]
-]
-
 
 #pagebreak()
 
 // ========================================== PAGE 495 (Book p. 479) ==========================================
 
-#fit-page[
 #folio("", "VEDIC INDEX", "479")
 #columns(2, gutter: 3mm)[
-  #set text(size: 6.8pt)
-  #set par(leading: 0.22em, first-line-indent: -0.7em, hanging-indent: 0.7em)
-  #set block(spacing: 0.06em)
+  #set text(size: 7.0pt)
+  #set par(leading: 0.32em, first-line-indent: -0.8em, hanging-indent: 0.8em)
+  #set block(spacing: 0.1em)
   148, 3; pt., 148, 6; sb., 148, 2 (par.); impv., 148, 5; ps. ao., 155; ft., 151 b (par.); ft. pt., 85; 151 b 2; prc., 148, 4 a.
 
 kf-t, a. making, 77, 1\.
@@ -20963,67 +20763,40 @@ grávan, m. pressing stone, 90, 1\. 3\.
 gláu, m. f. lump, 102; 102, 5\.
 
 Gha, emphasizing encl. pcl., 180; p. 452, 8 A b.
-
 ]
-]
-
 
 #pagebreak()
 
 // ========================================== PAGE 496 (Book p. 480) ==========================================
 
-#fit-page[
 #folio("480", "VEDIC INDEX", "")
 #columns(2, gutter: 3mm)[
-  #set text(size: 6.8pt)
-  #set par(leading: 0.22em, first-line-indent: -0.7em, hanging-indent: 0.7em)
-  #set block(spacing: 0.06em)
-  #block(spacing: 0.28em)[
-  #set par(first-line-indent: 0pt)
-  ghánighnat, pr. pt. int. of han,
-]
+  #set text(size: 6.4pt)
+  #set par(leading: 0.26em, first-line-indent: -0.8em, hanging-indent: 0.8em)
+  #set block(spacing: 0.05em)
+  ghánighnat, pr. pt. int. of han, kill, 85 b.
 
-kill, 85 b.
+ghas, eat, pf., 137, 2 b; pf. pt., 157 a; rt. ao., 148, 1 d; des., 171, 5\.
 
-ghas, eat, pf., 137, 2 b; pf. pt.,
-
-157 a; rt. ao., 148, 1 d; des.,
-
-171, 5\.
-
-ghrtávant, a. having ghee, 86 (p. 64,
-
-f. n. 3).
+ghrtávant, a. having ghee, 86 (p. 64, f. n. 3).
 
 ghnánt, pr. pt. of han, kill, 85\.
 
 ghrā, smell, pr. stem, 134 B 3 β.
 
-Ca, cj. and, syntactical use, 180;
+Ca, cj. and, syntactical use, 180; if. w. sb., p. 360 δ; p. 452, 8 A b; 467, 19 B.
 
-if. w. sb., p. 360 δ; p. 452, 8 A b;
+cakrváms, pf. pt., having done, 89 (par.).
 
-467, 19 B.
+cakrí, f. wheel, 100 I a (p. 86, f. n. 1).
 
-cakrváms, pf. pt., having done, 89
-
-(par.).
-
-cakrí, f. wheel, 100 I a (p. 86,
-
-f. n. 1).
-
-cáksus, n. eye, 83, 2; 83, 2 c; a.
-
-seeing, 83, 2 c.
+cáksus, n. eye, 83, 2; 83, 2 c; a. seeing, 83, 2 c.
 
 catúr, nm. four, 104; 105, 4 (par.).
 
 caturthá, ord. fourth, 107\.
 
-cáturdaśa, nm. fourteen, 104; 106 c
-
-(par.).
+cáturdaśa, nm. fourteen, 104; 106 c (par.).
 
 caturdhā, adv. in four ways, 108 b.
 
@@ -21037,43 +20810,27 @@ catvārimśá, ord. fortieth, 107\.
 
 catvārimśát, nm. forty, 104\.
 
-caná, pcl. not even, synt. use, 180;
-
-accents verb, p. 467, 19 A d.
+caná, pcl. not even, synt. use, 180; accents verb, p. 467, 19 A d.
 
 cāru, a. dear, 98 a, c.
 
+1\. ci, gather, pf., 139, 4\.
 
-*1. ci,* gather, pf., 139, 4\.
+2\. ci, note, pf., 139, 4\.
 
-
-*2. ci,* note, pf., 139, 4\.
-
-cit, perceive, pr. stem, 134 A 4 c a;
-
-pf. pt., 157 b a; rt. ao., 148, 1 d;
-
-s ao., 144, 5\.
+cit, perceive, pr. stem, 134 A 4 c a; pf. pt., 157 b a; rt. ao., 148, 1 d; s ao., 144, 5\.
 
 cit, f. thought, 77, 1\.
 
-cid, pcl. even, synt. use, 180;
-
-p. 452, 8 A b.
+cid, pcl. even, synt. use, 180; p. 452, 8 A b.
 
 ciścā, ij. whiz! 181\.
 
-céd, cj. if. synt. use, 180; w. op.,
+céd, cj. if. synt. use, 180; w. op., p. 366, 5; p. 467, 19 B.
 
-p. 366, 5; p. 467, 19 B.
+cyu, stir, pf., 139, 8; red. ao., 149, 1; inj., 149, 3; op., 149, 4\.
 
-cyu, stir, pf., 139, 8; red. ao.,
-
-149, 1; inj., 149, 3; op., 149, 4\.
-
-Ch, doubling of, 51; produces
-
-length by position, p. 437, a 3\.
+Ch, doubling of, 51; produces length by position, p. 437, a 3\.
 
 -cha, pr. stem sf., 133 A 2; 133 C 2\.
 
@@ -21081,33 +20838,21 @@ chand, seem, s ao., 144, 5\.
 
 chándas, n. metre, p. 436, f. n. 1\.
 
-chid, split, pf. pt., 157 a; rt. ao.
-
-inj., 148, 3\.
+chid, split, pf. pt., 157 a; rt. ao. inj., 148, 3\.
 
 J before conj. s, 63 (p. 41, f. n. 3).
 
-jágat, a. going; n. inanimate world,
-
-85 b.
+jágat, a. going; n. inanimate world, 85 b.
 
 jagatī, f. a metre, p. 442, 7\.
 
 jaganvāms, pf. pt. act. of gam, 89 a.
 
-jagmivāms, pf. pt. act. of gam,
-
-go, 89 a.
+jagmivāms, pf. pt. act. of gam, go, 89 a.
 
 jajñivāms, pf. pt. of jñā, 89 a.
 
-jan, beget, pr. stem, 134 A 3 b; pf.,
-
-137, 2 b; red. ao., 149, 1 (par.);
-
-pr. stem, 154 d; ps. ao., 155 a 1;
-
-cs. pt., 85\.
+jan, beget, pr. stem, 134 A 3 b; pf., 137, 2 b; red. ao., 149, 1 (par.); pr. stem, 154 d; ps. ao., 155 a 1; cs. pt., 85\.
 
 janayitṝ, a. creative, 101, 2 b.
 
@@ -21119,9 +20864,7 @@ janús, n. birth, 83, 2 c.
 
 jám, f. earth, 78, 3\.
 
-jamat, palatalized ao. pt. of gam,
-
-go, 189 A 2 a (p. 280, f. n. 4).
+jamat, palatalized ao. pt. of gam, go, 189 A 2 a (p. 280, f. n. 4).
 
 jarás, m. old age, 83, 2 a a.
 
@@ -21129,49 +20872,29 @@ jávistha, spv. quickest, 103, 2\.
 
 jáviyāms, cpv. quicker, 103, 2\.
 
-jahí, 2\. s. pr. ipv. of han, strike,
-
-134 A 2 c; p. 41, f. n. 1\.
+jahí, 2\. s. pr. ipv. of han, strike, 134 A 2 c; p. 41, f. n. 1\.
 
 jā, m. f. child, 97, 2\.
 
-jánu, n. knee, du. of, p. 81, f. n. 14,
+jánu, n. knee, du. of, p. 81, f. n. 14, 15\.
 
-15\.
+jāpáya, cs. of ji, conquer: red. ao., 149 a 3\.
 
-jāpáya, cs. of ji, conquer: red. ao.,
+jāraya, den. play the lover, ps. ao., 155 a 2\.
 
-149 a 3\.
-
-jāraya, den. play the lover, ps. ao.,
-
-155 a 2\.
-
-ji, conquer, pf., 139, 4; pf. pt.,
-
-157 b a; rt. ao. inj., 148, 3;
-
-s ao., 144, 5; ft., 151 a; cs.,
-
-p. 196, f. n. 1\.
+ji, conquer, pf., 139, 4; pf. pt., 157 b a; rt. ao. inj., 148, 3; s ao., 144, 5; ft., 151 a; cs., p. 196, f. n. 1\.
 
 jít, a. conquering, 77, 1\.
 
-jinv, quicken, pr. stem, 133 A 3 b;
+jinv, quicken, pr. stem, 133 A 3 b; 134 C 4 β.
 
-134 C 4 β.
-
-jihvāmūliya, guttural spirant, 3 g;
-
-14; 15 j; 43, 2\.
+jihvāmūliya, guttural spirant, 3 g; 14; 15 j; 43, 2\.
 
 ji, overpower, pr. stem, 134 E 1\.
 
 jīvātave, dat. inf. to live, 167 b 4\.
 
-juhú, f. tongue, 100, II a; sacrificial
-
-spoon, ibid.
+juhú, f. tongue, 100, II a; sacrificial spoon, ibid.
 
 jū, hasten, pr. stem, 134 E 1\.
 
@@ -21183,32 +20906,21 @@ jéman, a. victorious, 90, 2\.
 
 jógu, a. singing aloud, 100, II a.
 
-jñaptá, pp. cs. of jñā, know, p. 185,
-
-f. n. 3\.
+jñaptá, pp. cs. of jñā, know, p. 185, f. n. 3\.
 
 jñā, know, pr. stem, 134 E 3; pr.
-
 ]
-]
-
 
 #pagebreak()
 
 // ========================================== PAGE 497 (Book p. 481) ==========================================
 
-#fit-page[
 #folio("", "VEDIC INDEX", "481")
 #columns(2, gutter: 3mm)[
-  #set text(size: 6.8pt)
-  #set par(leading: 0.22em, first-line-indent: -0.7em, hanging-indent: 0.7em)
-  #set block(spacing: 0.06em)
-  #block(spacing: 0.28em)[
-  #set par(first-line-indent: 0pt)
-  pt., 85; rt. ao. op., 148, 4; siṣ
-]
-
-ao., 146\.
+  #set text(size: 7.0pt)
+  #set par(leading: 0.32em, first-line-indent: -0.8em, hanging-indent: 0.8em)
+  #set block(spacing: 0.1em)
+  pt., 85; rt. ao. op., 148, 4; siṣ ao., 146\.
 
 jñāpāya, cs. of jñā: red. ao., 149 a 3\.
 
@@ -21218,143 +20930,73 @@ jyā, f. bowstring, 97, 2\.
 
 jyāyāṃs, cpv. greater, 88; 103, 2 a.
 
-jyēṣṭha, spv. greatest, 103, 2; as
-
-final member of Bv. ed., 189, 1 b.
+jyēṣṭha, spv. greatest, 103, 2; as final member of Bv. ed., 189, 1 b.
 
 jyeṣṭhá, spv. eldest, 103, 2\.
 
 jyōtis, n. light, 83, 2\.
 
-T, interposed in Sandhi, 36 a;
+T, interposed in Sandhi, 36 a; 40, 1; in gdv., 162, 1 d; deter- minative sf., 77, 1; 182, 1 a; 187 A a (in eds.); stems in secondary, 77, 1\.
 
-40, 1; in gdv., 162, 1 d; deter-
+tá, dem. prn. that, 110 (par.); in syntax: position of, 191 j; as corr., 195 B 3; w. prs. prns., 195 B 3 b a; w. dem. prns., 195 B 3 b β.
 
-minative sf., 77, 1; 182, 1 a;
+-ta, pri. nom. sf., 182, 1 b; sf. of pp., 160\.
 
-187 A a (in eds.); stems in
+tams, shake, pf., 137, 2 d; a ao., 147 b.
 
-secondary, 77, 1\.
-
-tá, dem. prn. that, 110 (par.); in
-
-syntax: position of, 191 j; as
-
-corr., 195 B 3; w. prs. prns.,
-
-195 B 3 b a; w. dem. prns.,
-
-195 B 3 b β.
-
--ta, pri. nom. sf., 182, 1 b; sf. of
-
-pp., 160\.
-
-tams, shake, pf., 137, 2 d; a ao.,
-
-147 b.
-
-taká, dem. prn. that little, 110 a 3;
-
-117 a.
+taká, dem. prn. that little, 110 a 3; 117 a.
 
 tátas, adv. thence, synt. use, 180\.
 
 táti, nm. der. so many, 118 a.
 
-tatpuruṣa compounds, 100, I a;
+tatpuruṣa compounds, 100, I a; 187, 2 a; w. acc. sense, 187 A 1, inst., A 2, dat., A 3, abl., A 4, gen., A 5, loc., A 6; as possessives, 189, 2; accentuation of, p. 456, 2\.
 
-187, 2 a; w. acc. sense, 187 A 1,
+táthā, adv. thus, 110 a; 179, 1; synt. use, 180\.
 
-inst., A 2, dat., A 3, abl., A 4,
+tád, adv. then, thither, synt. use, 180\.
 
-gen., A 5, loc., A 6; as possessives,
-
-189, 2; accentuation of, p. 456, 2\.
-
-táthā, adv. thus, 110 a; 179, 1;
-
-synt. use, 180\.
-
-tád, adv. then, thither, synt. use,
-
-180\.
-
-tádapas, Bv. ed. accustomed to that
-
-work, 110 a.
+tádapas, Bv. ed. accustomed to that work, 110 a.
 
 tadā, adv. then, 179, 3\.
 
 tadānīm, adv. then, 179, 3 β.
 
-tan, stretch, pr. stem, 134 C 4 a;
+tan, stretch, pr. stem, 134 C 4 a; pf., 137, 2 a, b; 140, 1\. 2; s ao., 144, 2; 144, 5; rt. ao., 148, 1 d; ps. stem, 154 d.
 
-pf., 137, 2 a, b; 140, 1\. 2; s ao.,
-
-144, 2; 144, 5; rt. ao., 148, 1 d;
-
-ps. stem, 154 d.
-
-tán, f. succession, 77, 5; accent,
-
-p. 458, c 1\.
+tán, f. succession, 77, 5; accent, p. 458, c 1\.
 
 -tana, secondary nom. sf., 182, 2\.
 
--tana, ending of 2\. pl. impf. and
-
-ipv., 133 A 5\.
+-tana, ending of 2\. pl. impf. and ipv., 133 A 5\.
 
 tánu, a. thin, 98 c.
 
-tanú, f. body, p. 89 (par.); self.
-
-115 b.
+tanú, f. body, p. 89 (par.); self. 115 b.
 
 tandrī, f. weariness, p. 88 a.
 
-tap, heat, pf., 137, 2 a; 138 b;
-
-140, 1; s ao., 144, 2; red. ao.
-
-sb., 149, 2\.
+tap, heat, pf., 137, 2 a; 138 b; 140, 1; s ao., 144, 2; red. ao. sb., 149, 2\.
 
 tápus, a. hot, 83, 2 c.
 
 tam, faint, pr. stem, 133 B 3\.
 
--tama, sec. spv. sf., 103, 1; 117 b;
-
-120 a; 182; ord. sf., 107; ad-
-
-verbs formed w., p. 301 β; ac-
-
-centuation of, p. 454, 9 B b.
+-tama, sec. spv. sf., 103, 1; 117 b; 120 a; 182; ord. sf., 107; ad- verbs formed w., p. 301 β; ac- centuation of, p. 454, 9 B b.
 
 tár, f. star, 82, f. n. 5; 82 b.
 
 -tar, loc. inf. of stems in, 167, 4 b.
 
--tara, sec. cpv. sf., 103, 1; 117 b;
-
-120 a; 182, 2; adverbs formed
-
-w., p. 301 β.
+-tara, sec. cpv. sf., 103, 1; 117 b; 120 a; 182, 2; adverbs formed w., p. 301 β.
 
 tárhi, adv. then, synt. use, 180\.
 
 tavástara, cpv. stronger, 103, 1\.
 
--tavái, dat. inf. in, senses of,
+-tavái, dat. inf. in, senses of, 211, 1 b δ; accentuation of, p. 452, 7\.
 
-211, 1 b δ; accentuation of,
-
-p. 452, 7\.
-
--tavyà, gdv. suffix, 162; 162, 5;
-
-209, 5\.
+-tavyà, gdv. suffix, 162; 162, 5; 209, 5\.
 
 távyāṃs, cpv. stronger, 103, 2 a.
 
@@ -21366,15 +21008,7 @@ tásmād, abl. adv. therefore, 180\.
 
 -tā, secondary nom. sf., 182, 2\.
 
--tāt, sec. nom. sf., 182, 2; stems
-
-in, 77, 1; adv. sf. w. abl. sense,
-
-179, 2; ending of 2\. s. pr. ipv.
-
-act., p. 125; 133 A 4; 133 C 3 a;
-
-134 C 4 δ; 168 c, f. n. 2 (es.).
+-tāt, sec. nom. sf., 182, 2; stems in, 77, 1; adv. sf. w. abl. sense, 179, 2; ending of 2\. s. pr. ipv. act., p. 125; 133 A 4; 133 C 3 a; 134 C 4 δ; 168 c, f. n. 2 (es.).
 
 -tāti, secondary nom. sf., 182, 2\.
 
@@ -21382,27 +21016,17 @@ tād, adv. thus, 178, 5\.
 
 tādṛś, prn. ed. such, 117\.
 
-tādṛśa, prn. ed., such, p. 113,
-
-f. n. 4\.
+tādṛśa, prn. ed., such, p. 113, f. n. 4\.
 
 tāvaké, poss. prn. thy, 116 b.
 
 tāvant, prn. der. so great, 118 c.
 
--ti, nm. a. sf., 118 a; pri. nom.
-
-sf., 182, 1 b.
+-ti, nm. a. sf., 118 a; pri. nom. sf., 182, 1 b.
 
 tiraścí, m. a man's name, 100, I b.
 
-tirás, prp. across, w. acc., 176, 1;
-
-197 B c; adv. across, 179, 2;
-
-aside, compounded w. verbs,
-
-184 b.
+tirás, prp. across, w. acc., 176, 1; 197 B c; adv. across, 179, 2; aside, compounded w. verbs, 184 b.
 
 tiryánc, a. transverse, 93 a.
 
@@ -21411,25 +21035,17 @@ tīkṣṇá, a. sharp, 103, 2 β.
 tīkṣṇīyāṃs, cpv. sharper, 103, 2 β.
 
 tú, pcl. then, but, synt. use, 180\.
-
-1819
-
-I i
-
 ]
-]
-
 
 #pagebreak()
 
 // ========================================== PAGE 498 (Book p. 482) ==========================================
 
-#fit-page[
 #folio("482", "VEDIC INDEX", "")
 #columns(2, gutter: 3mm)[
-  #set text(size: 6.8pt)
-  #set par(leading: 0.22em, first-line-indent: -0.7em, hanging-indent: 0.7em)
-  #set block(spacing: 0.06em)
+  #set text(size: 6.4pt)
+  #set par(leading: 0.26em, first-line-indent: -0.8em, hanging-indent: 0.8em)
+  #set block(spacing: 0.05em)
   -tu, pri. nom. sf., 182, 1 b.
 
 tud, thrust, pr., 125, 2; 133 C 1; pf., 138, 1\.
@@ -21571,31 +21187,20 @@ dakṣiṇatás, adv. from the right, 179, 2; w. gen., 202 D.
 dakṣiṇatrā, adv. on the right, 179, 3\.
 
 dákṣiṇena, adv. south of, w. acc., 197 B c β; p. 209, f. n. 3\.
-
 ]
-]
-
 
 #pagebreak()
 
 // ========================================== PAGE 499 (Book p. 483) ==========================================
 
-#fit-page[
 #folio("", "VEDIC INDEX", "483")
 #columns(2, gutter: 3mm)[
-  #set text(size: 6.8pt)
-  #set par(leading: 0.22em, first-line-indent: -0.7em, hanging-indent: 0.7em)
-  #set block(spacing: 0.06em)
-  #block(spacing: 0.28em)[
-  #set par(first-line-indent: 0pt)
-  dagh, reach, rt. ao. inj., 148, 3;
-]
+  #set text(size: 6.0pt)
+  #set par(leading: 0.24em, first-line-indent: -0.8em, hanging-indent: 0.8em)
+  #set block(spacing: 0.04em)
+  dagh, reach, rt. ao. inj., 148, 3; ipv., 148, 5; prc., 148, 4 a.
 
-ipv., 148, 5; prc., 148, 4 a.
-
-dattá, pp. of dā, give, 160, 2 b;
-
-134 B 3 β.
+dattá, pp. of dā, give, 160, 2 b; 134 B 3 β.
 
 dádat, pr. pt. of dā, give, 85 b.
 
@@ -21613,9 +21218,7 @@ dám, n. (?), house, 78, 3\.
 
 -dam, adv. suffix of time, 179, 3\.
 
-dámpati, m. lord of the house,
-
-78, 3 a; p. 273, f. n. 3\.
+dámpati, m. lord of the house, 78, 3 a; p. 273, f. n. 3\.
 
 dávīyāṃs, farther, 103, 2 a.
 
@@ -21625,31 +21228,13 @@ dásataya, nm. der. tenfold, 108 c.
 
 daśamā, ord. tenth, 107\.
 
-dásyave vṛka, m. Wolf to the Dasya,
+dásyave vṛka, m. Wolf to the Dasya, as a name, 200 A 2 a γ.
 
-as a name, 200 A 2 a γ.
+dah, burn, s ao., 144, 5; s ao. pt., 143 b; 156 a; ft., 151 a; pt., 151 b 2\.
 
-dah, burn, s ao., 144, 5; s ao. pt.,
+1\. dā, give, pr. stem, 134 B 1 b; 134 B 3 a; 134 B 3 β; pf. pt., 157; 157 b a; s ao., 144, 3; a ao., 147 a 1; rt. ao. inj., 148, 3; op., 148, 4; ft., 151 a; pp., 160, 2 b.
 
-143 b; 156 a; ft., 151 a; pt.,
-
-151 b 2\.
-
-
-*1. dā,* give, pr. stem, 134 B 1 b;
-
-134 B 3 a; 134 B 3 β; pf. pt.,
-
-157; 157 b a; s ao., 144, 3;
-
-a ao., 147 a 1; rt. ao. inj.,
-
-148, 3; op., 148, 4; ft., 151 a;
-
-pp., 160, 2 b.
-
-
-*2. dā,* cut, s ao., 144, 3; op., 143, 4\.
+2\. dā, cut, s ao., 144, 3; op., 143, 4\.
 
 dā, m. giver, 97, 2\.
 
@@ -21657,9 +21242,7 @@ dā, m. giver, 97, 2\.
 
 dātár, m. giver, 101, 2 (par.).
 
--dānīm, adv. suffix of time,
-
-179, 3 β.
+-dānīm, adv. suffix of time, 179, 3 β.
 
 dāman, n. giving, 90, 2\.
 
@@ -21669,17 +21252,13 @@ dáván, n. giving, 90, 3\.
 
 dás, f. worship, 79, 4\.
 
-dásat, pr. pt. worshipping, 85 b;
-
-156 a.
+dásat, pr. pt. worshipping, 85 b; 156 a.
 
 dásivāṃs, unred. pf. pt., 157 b.
 
 dásvāṃs, unred. pf. pt., 157 b.
 
-didṛkṣénya, ds. gdv. worthy to be
-
-seen, 162, 3\.
+didṛkṣénya, ds. gdv. worthy to be seen, 162, 3\.
 
 div, play, fourth conj. class, 125, 3\.
 
@@ -21687,21 +21266,15 @@ div, m. f. sky, 99, 5 (p. 85, f. n. 1).
 
 divā, inst. adv. by day, 178, 3\.
 
-divédive, itv. cd. day by day,
+divédive, itv. cd. day by day, 189 C a; 200 B 3 a.
 
-189 C a; 200 B 3 a.
-
-dís, f. direction, 63 b (f. n. 1);
-
-79, 4\.
+dís, f. direction, 63 b (f. n. 1); 79, 4\.
 
 dīp, shine, irr. red. ao., 149 a 1\.
 
 dīrghá, a. long, 103, 2 a.
 
-dūghāna, pr. pt. mid. of duh,
-
-milk, 158 a.
+dūghāna, pr. pt. mid. of duh, milk, 158 a.
 
 duṣ, spoil, cs. future of, 151 a a.
 
@@ -21709,15 +21282,9 @@ duṣṭára, a. hard to cross, 50 b.
 
 duḥṣáha, a. hard to resist, 50 b.
 
-dus-, adv. in cds., Sandhi of, 49 c;
+dus-, adv. in cds., Sandhi of, 49 c; accent of, p. 455, 10 c a.
 
-accent of, p. 455, 10 c a.
-
-duh, milk, pr. stem, 134 A 4 b;
-
-134 A 4 c a; sa ao., 141 a; s ao.
-
-op., 143, 4\.
+duh, milk, pr. stem, 134 A 4 b; 134 A 4 c a; sa ao., 141 a; s ao. op., 143, 4\.
 
 dūhāna, pr. pt., mid. of duh, 158 a.
 
@@ -21745,17 +21312,11 @@ dūrát, abl. adv. from afar, 178, 5
 
 dūrē, loc. adv. afar, 178, 7\.
 
-dr, tear, s ao. op., 143, 4; rt. ao.
-
-148, 1 d.
+dr, tear, s ao. op., 143, 4; rt. ao. 148, 1 d.
 
 -drkṣa, sf. in prn. cds. \= like, 117\.
 
-drś, see, pf. pt., 157; rt. ao. inj.,
-
-148, 3; pt., 148, 6; a ao., 147 c;
-
-ps. ao., 155\.
+drś, see, pf. pt., 157; rt. ao. inj., 148, 3; pt., 148, 6; a ao., 147 c; ps. ao., 155\.
 
 drś, f. look, 63 b (f. n. 1); 79, 4\.
 
@@ -21769,23 +21330,15 @@ drh, make firm, pr. stem, 133 C 1\.
 
 déya, gdv. to be given, 162, 1 a.
 
-Devatā-dvandva cds., accent of,
-
-p. 457, e β.
+Devatā-dvandva cds., accent of, p. 457, e β.
 
 devátāt, f. divine service, 77, 1\.
 
-devattá, Tp. cd. given by the gods,
+devattá, Tp. cd. given by the gods, 160, 2 b.
 
-160, 2 b.
+devadryánc, a. godward, 93 (p. 73, f. n. 1).
 
-devadryánc, a. godward, 93 (p. 73,
-
-f. n. 1).
-
-devaśás, adv. to each of the gods,
-
-179, 1\.
+devaśás, adv. to each of the gods, 179, 1\.
 
 devánc, a. godward, 93 b.
 
@@ -21793,32 +21346,21 @@ devī, f. goddess, 100 I b (par.).
 
 devṛ, m. husband's brother, 101, 1\.
 
-dehi, 2\. s. pr. ipv. act. of dā, give,
-
-134 B 1 b.
+dehi, 2\. s. pr. ipv. act. of dā, give, 134 B 1 b.
 
 dós, n. arm, 83, 1\.
-
-1 i 2
-
 ]
-]
-
 
 #pagebreak()
 
 // ========================================== PAGE 500 (Book p. 484) ==========================================
 
-#fit-page[
 #folio("484", "VEDIC INDEX", "")
 #columns(2, gutter: 3mm)[
-  #set text(size: 6.8pt)
-  #set par(leading: 0.22em, first-line-indent: -0.7em, hanging-indent: 0.7em)
-  #set block(spacing: 0.06em)
-  #block(spacing: 0.28em)[
-  #set par(first-line-indent: 0pt)
+  #set text(size: 7.0pt)
+  #set par(leading: 0.32em, first-line-indent: -0.8em, hanging-indent: 0.8em)
+  #set block(spacing: 0.1em)
   dyáv, m. f. sky, 99, 5 (p. 85, f. n. 1).
-]
 
 dyávaḥ, N. pl. the (three) heavens, 193, 3 a.
 
@@ -21884,11 +21426,9 @@ dhánvan, n. bow, 90, 3\.
 
 dhartṛ, n. prop, 101, 2 b.
 
+1\. dhā, put, pr. stem, 134 B 1 b; 134 B 3 a: 134 B 3 β; pf., 137, 2 e; 138, 3; a ao., 147 a 1; rt. ao. inj., 148, 3; op., 148, 4; ipv., 148, 5; ps. ao., 155\.
 
-*1. dhā,* put, pr. stem, 134 B 1 b; 134 B 3 a: 134 B 3 β; pf., 137, 2 e; 138, 3; a ao., 147 a 1; rt. ao. inj., 148, 3; op., 148, 4; ipv., 148, 5; ps. ao., 155\.
-
-
-*2. dhā,* suck, pr. stem, 133 B 1\.
+2\. dhā, suck, pr. stem, 133 B 1\.
 
 -dhā, adv. sf. of manner, 179, 1\.
 
@@ -21933,25 +21473,18 @@ N, dental nasal, never cerebralized in ghn \= han, in cds., 50 c β; inserted, i
 ná, pel. not, 180; w. sb., 215 C 2 β, w. inj. (\= ft.), 215 c 1\. w. op., p. 362 a, p. 364 γ, w. pre., 217; like, 180\.
 
 -na, pri. nom. sf., 182, 1 b; pp. sf., 160\.
-
 ]
-]
-
 
 #pagebreak()
 
 // ========================================== PAGE 501 (Book p. 485) ==========================================
 
-#fit-page[
 #folio("", "VEDIC INDEX", "485")
 #columns(2, gutter: 3mm)[
-  #set text(size: 6.8pt)
-  #set par(leading: 0.22em, first-line-indent: -0.7em, hanging-indent: 0.7em)
+  #set text(size: 6.6pt)
+  #set par(leading: 0.28em, first-line-indent: -0.8em, hanging-indent: 0.8em)
   #set block(spacing: 0.06em)
-  #block(spacing: 0.28em)[
-  #set par(first-line-indent: 0pt)
   nákis, indec. prn. no one, never, 180; 113, f. n. 2\.
-]
 
 nákim, adv. prn. never, 180\.
 
@@ -22003,11 +21536,9 @@ návyasā, inst. adv. anew, 178, 3\.
 
 návyāms, cpv. newer, 103, 2 a.
 
+1\. naś, reach, rt. ao., 148, 1 d, inj., 148, 3, op., 148, 4\.
 
-*1. naś,* reach, rt. ao., 148, 1 d, inj., 148, 3, op., 148, 4\.
-
-
-*2. naś,* be lost, red. ao., 149, 1; irr., 149 a 2\.
+2\. naś, be lost, red. ao., 149, 1; irr., 149 a 2\.
 
 náś, f. night, 79, 4\.
 
@@ -22096,25 +21627,18 @@ Paṅkti, stanza, p. 440, c; triplets, p. 446, 11 A.
 pac, cork, pf., 137, 2 a.
 
 páñca, nm. five, 104; 106 c (par.).
-
 ]
-]
-
 
 #pagebreak()
 
 // ========================================== PAGE 502 (Book p. 486) ==========================================
 
-#fit-page[
 #folio("486", "VEDIC INDEX", "")
 #columns(2, gutter: 3mm)[
   #set text(size: 6.8pt)
-  #set par(leading: 0.22em, first-line-indent: -0.7em, hanging-indent: 0.7em)
-  #set block(spacing: 0.06em)
-  #block(spacing: 0.28em)[
-  #set par(first-line-indent: 0pt)
+  #set par(leading: 0.3em, first-line-indent: -0.8em, hanging-indent: 0.8em)
+  #set block(spacing: 0.08em)
   páñcadaśa, nm. fifteen, 104; 106 c (par.).
-]
 
 pañcadhá, nm. adv. in fire ways, 108 b.
 
@@ -22194,11 +21718,9 @@ paścāt, abl. adv. from behind, 178, 5; w. gen., 202 D.
 
 paścātāt, adv. from behind, 179, 2\.
 
+1\. pā, drink, pr. stem, 133 A 3 a; 134 B 3 β, rt. ao. prc., 148, 4 a; ipv., 148, 5\.
 
-*1. pā,* drink, pr. stem, 133 A 3 a; 134 B 3 β, rt. ao. prc., 148, 4 a; ipv., 148, 5\.
-
-
-*2. pā,* protect, pr. stem, 134 A 4 c.
+2\. pā, protect, pr. stem, 134 A 4 c.
 
 Pāṇini, m. a grammarian, 15\.
 
@@ -22237,25 +21759,18 @@ purá, adv. formerly, w. pr., 212 A 2 a; w. sma, 180; prp. before, w. abl., acc.
 purāṇavát, adv. as of old, 179, 1\.
 
 purú, a. much, in Bv. compounds, p. 455, 10 c a.
-
 ]
-]
-
 
 #pagebreak()
 
 // ========================================== PAGE 503 (Book p. 487) ==========================================
 
-#fit-page[
 #folio("", "VEDIC INDEX", "487")
 #columns(2, gutter: 3mm)[
-  #set text(size: 6.8pt)
-  #set par(leading: 0.22em, first-line-indent: -0.7em, hanging-indent: 0.7em)
+  #set text(size: 6.6pt)
+  #set par(leading: 0.28em, first-line-indent: -0.8em, hanging-indent: 0.8em)
   #set block(spacing: 0.06em)
-  #block(spacing: 0.28em)[
-  #set par(first-line-indent: 0pt)
   purutrá, adv. in many places, 179, 3\.
-]
 
 purudhá, adv. variously, 179, 1\.
 
@@ -22390,31 +21905,20 @@ bahutrá, adv. among many, 179, 3\.
 bahudhā, adv. in many ways, 179, 1\.
 
 bahuvrihi (a. having much rice) compounds, 100, I a; 189; as substantives, 189, 3; ending modified, 189, 4 d; suffixes a,
-
 ]
-]
-
 
 #pagebreak()
 
 // ========================================== PAGE 504 (Book p. 488) ==========================================
 
-#fit-page[
 #folio("488", "VEDIC INDEX", "")
 #columns(2, gutter: 3mm)[
-  #set text(size: 6.8pt)
-  #set par(leading: 0.22em, first-line-indent: -0.7em, hanging-indent: 0.7em)
-  #set block(spacing: 0.06em)
-  #block(spacing: 0.28em)[
-  #set par(first-line-indent: 0pt)
-  ya, ka, in added to, 189, 4 b, c;
-]
+  #set text(size: 7.0pt)
+  #set par(leading: 0.32em, first-line-indent: -0.8em, hanging-indent: 0.8em)
+  #set block(spacing: 0.1em)
+  ya, ka, in added to, 189, 4 b, c; accentuation of, p. 455, 10 c.
 
-accentuation of, p. 455, 10 c.
-
-bārhata pragātha, m. a kind of
-
-mixed strophe, p. 446, 11 B 2\.
+bārhata pragātha, m. a kind of mixed strophe, p. 446, 11 B 2\.
 
 bāt, ij. dash! 181\.
 
@@ -22422,135 +21926,73 @@ bibibābhavant, pt. crackling, 184 d.
 
 bibhyat, pr. pt. of bhī, fear, 85 b.
 
-bībhatsú, ds. a. loathing, 100\. II b a,
+bībhatsú, ds. a. loathing, 100\. II b a, f. n. 3\.
 
-f. n. 3\.
+budh, wake, ao., 141; rt. ao. pt., 148, 6; red. ao., 149, 1; ps. ao., 155\.
 
-budh, wake, ao., 141; rt. ao. pt.,
+bṛhatī, f. a metre, p. 444\. 3 b; p. 446, 11 A.
 
-148, 6; red. ao., 149, 1; ps. ao.,
+Bṛhadāraṇyaka Upaniṣad, ac- cented, p. 448, 1\.
 
-155\.
+bṛhant, (pt.) a. great, 85 a; cpv. of, 103, 2 a; accentuation of, p. 459\.
 
-bṛhatī, f. a metre, p. 444\. 3 b;
+bodhí, 2\. s. ipv. rt. ao. of bhū, be and budh, wake, 148, 5; cp. 62, f. n. 1\.
 
-p. 446, 11 A.
-
-Bṛhadāraṇyaka Upaniṣad, ac-
-
-cented, p. 448, 1\.
-
-bṛhant, (pt.) a. great, 85 a; cpv.
-
-of, 103, 2 a; accentuation of,
-
-p. 459\.
-
-bodhí, 2\. s. ipv. rt. ao. of bhū, be
-
-and budh, wake, 148, 5; cp. 62,
-
-f. n. 1\.
-
-brū, speak, pr. stem, 134 A 1 c a;
-
-134 A 4 c a.
+brū, speak, pr. stem, 134 A 1 c a; 134 A 4 c a.
 
 -Bha, sec. nom. suffix, 182, 2\.
 
-bhágavattara, cpv. more bounteous,
-
-103, 1\.
+bhágavattara, cpv. more bounteous, 103, 1\.
 
 bhágavant, a. bounteous, 86\.
 
-bhaj, share, pf., 139, 1; s. ao. op.,
+bhaj, share, pf., 139, 1; s. ao. op., 143, 4; red. ao., 149, 1; cs., 154, 6 a.
 
-143, 4; red. ao., 149, 1; cs.,
+bhañj, break, pr. stem, 134 D 1; pr. pt., 85; ps., 154, 5\.
 
-154, 6 a.
-
-bhañj, break, pr. stem, 134 D 1;
-
-pr. pt., 85; ps., 154, 5\.
-
-bhudrapāpās, N. pl. Dv. ed., the
-
-good and the bad, 186 A 2\.
+bhudrapāpās, N. pl. Dv. ed., the good and the bad, 186 A 2\.
 
 bhartṛ, a. supporting, 101, 2 b.
 
-bharbharābhavat, impf. became
-
-confounded, 184 d.
+bharbharābhavat, impf. became confounded, 184 d.
 
 bhala, pel. indeed, p. 452, 8 A b.
 
-bhavān, m. Your Honour, w. 3\.
-
-prs. s., 195 A c.
+bhavān, m. Your Honour, w. 3\. prs. s., 195 A c.
 
 bhávīyāms, cpv. more, 88\.
 
-bhas, chew, pr. stem, 134 B 3;
-
-134 B 3 β.
+bhas, chew, pr. stem, 134 B 3; 134 B 3 β.
 
 bhasád, f. hind quarters, 77, 3 b.
 
 -bhāj, a. sharing, 79, 3 a, f. n. 3\.
 
-bhāmitá, den. pp. enraged, 160,
-
-3, f. n. 2\.
+bhāmitá, den. pp. enraged, 160, 3, f. n. 2\.
 
 bhās, n. light, 83, 1\.
 
-bhid, pierce, rt. ao., 148, 1 d; inj.,
-
-148, 3\.
+bhid, pierce, rt. ao., 148, 1 d; inj., 148, 3\.
 
 bhíd, f. destroyer, 77, 3 a.
 
 bhī, f. fear, 100, I a.
 
-bhī, fear, s ao., 144, 2; rt. ao. inj.,
+bhī, fear, s ao., 144, 2; rt. ao. inj., 148, 3, pt., 148, 6; red. ao., 149, 1; cs., 168, irr. 3\.
 
-148, 3, pt., 148, 6; red. ao.,
-
-149, 1; cs., 168, irr. 3\.
-
-bhīṣaya, cs. frighten; red. ao.,
-
-149 a 3\.
+bhīṣaya, cs. frighten; red. ao., 149 a 3\.
 
 bhúk, ij. bang! 181\.
 
 bhuj, enjoy, rt. ao. inj., 148, 3\.
 
-bhujé, dat. inf., to enjoy, 167 a
-
-(p. 191).
+bhujé, dat. inf., to enjoy, 167 a (p. 191).
 
 bhurīj, f. arm, 79, 3 b.
 
 bhuvé, inf. to be, 167 a (p. 191).
 
-bhū, be, as representing first class
-
-of the a conj., 125, 1; pr. system
-
-of, 132 (par.); pf., 139, 7;
-
-140, 3, 4, 5; pt. 157; rt. ao.,
-
-148, 1 c (par.), inj., 148, 3, prc.,
-
-148, 4 a, op., 148, 4, ipv., 148, 5;
-
-red. ao., 149, 1, pt., 151 a;
-
-per. ft., 152\.
+bhū, be, as representing first class of the a conj., 125, 1; pr. system of, 132 (par.); pf., 139, 7; 140, 3, 4, 5; pt. 157; rt. ao., 148, 1 c (par.), inj., 148, 3, prc., 148, 4 a, op., 148, 4, ipv., 148, 5; red. ao., 149, 1, pt., 151 a; per. ft., 152\.
 
 bhū, f. earth, 100, II a; II b (par.).
 
@@ -22562,74 +22004,43 @@ bhūmi, f. earth, 98 a.
 
 bhūyas, cpv. adv. acc. more, 178, 2\.
 
-bhūyāms, cpv. more, 88; becoming
-
-more, 103, 2 a; as final member
-
-of Bv., 189, 1 b.
+bhūyāms, cpv. more, 88; becoming more, 103, 2 a; as final member of Bv., 189, 1 b.
 
 bhūyiṣṭha, spv. greatest, 103, 2 a.
 
-bhūridāvattara, cpv. a. giving more
+bhūridāvattara, cpv. a. giving more abundantly, 103, 1\.
 
-abundantly, 103, 1\.
+M, final, before vowels, 41, some- times dropped, 41 a; before consonants, 42; 42, 1, f. n. 1; unchanged in internal Sandhi, 68; becomes n, 68\.
 
-M, final, before vowels, 41, some-
+ma-, prn. stem of first prs. in der. and cds., 109 b.
 
-times dropped, 41 a; before
-
-consonants, 42; 42, 1, f. n. 1;
-
-unchanged in internal Sandhi,
-
-68; becomes n, 68\.
-
-ma-, prn. stem of first prs. in der.
-
-and cds., 109 b.
-
--ma, pri. nom. sf., 182, 1 b; sec.
-
-nom. sf., 182, 2; p. 454, 9 B c.
+-ma, pri. nom. sf., 182, 1 b; sec. nom. sf., 182, 2; p. 454, 9 B c.
 
 mámhiṣṭha, spv. most liberal, 103, 2\.
 
 maghávan, a. bountiful, 91, 5\.
 
-maghávant, a. bountiful, 91, 5,
-
-f. n. 3\.
+maghávant, a. bountiful, 91, 5, f. n. 3\.
 
 mátkrta, Tp. cd. done by me, 109 b.
 
 mattás, adv. from me, 179, 2\.
 
-mad, be exhilarated, pr. stem,
+mad, be exhilarated, pr. stem, 133 B 3; rt. ao. ipv., 148, 5\.
 
-133 B 3; rt. ao. ipv., 148, 5\.
-
-mad-, prn. stem of 1st prs.,
-
-109 b.
-
+mad-, prn. stem of 1st prs., 109 b.
 ]
-]
-
 
 #pagebreak()
 
 // ========================================== PAGE 505 (Book p. 489) ==========================================
 
-#fit-page[
 #folio("", "VEDIC INDEX", "489")
 #columns(2, gutter: 3mm)[
-  #set text(size: 6.8pt)
-  #set par(leading: 0.22em, first-line-indent: -0.7em, hanging-indent: 0.7em)
+  #set text(size: 6.6pt)
+  #set par(leading: 0.28em, first-line-indent: -0.8em, hanging-indent: 0.8em)
   #set block(spacing: 0.06em)
-  #block(spacing: 0.28em)[
-  #set par(first-line-indent: 0pt)
   madíntara, cpv. more gladdening, 103, 1 a.
-]
 
 mádhu, a. sweet, 98 (par.).
 
@@ -22693,14 +22104,11 @@ mahimán, m. greatness, 90, 2\.
 
 mahé, inf. to be glad, 167 a (p. 191).
 
+1\. mā, measure, pr. stem, 134 B 1 a; root ao. ipv., 148, 5\.
 
-*1. mā,* measure, pr. stem, 134 B 1 a; root ao. ipv., 148, 5\.
+2\. mā, bellow, pr. stem, 134 B 3 β; red. ao. inj., 149, 3\.
 
-
-*2. mā,* bellow, pr. stem, 134 B 3 β; red. ao. inj., 149, 3\.
-
-
-*3. mā,* exchange, pr. stem, 133 B 1\. mā, f. measure, 97, 2\.
+3\. mā, exchange, pr. stem, 133 B 1\. mā, f. measure, 97, 2\.
 
 mā, encl. prs. prn. acc. s., me, 109 a; p. 452, 8 A a.
 
@@ -22765,28 +22173,20 @@ múd, f. joy, 77, 3 a.
 múr, m. destroyer, 82, f. n. 6\.
 
 mūrdhán, m. head, 90\.
-
 ]
-]
-
 
 #pagebreak()
 
 // ========================================== PAGE 506 (Book p. 490) ==========================================
 
-#fit-page[
 #folio("490", "VEDIC INDEX", "")
 #columns(2, gutter: 3mm)[
-  #set text(size: 6.8pt)
-  #set par(leading: 0.22em, first-line-indent: -0.7em, hanging-indent: 0.7em)
-  #set block(spacing: 0.06em)
-  
-*1. mr,* die, rt. ao. inj., 148, 3; ps., 154 d.
+  #set text(size: 7.0pt)
+  #set par(leading: 0.32em, first-line-indent: -0.8em, hanging-indent: 0.8em)
+  #set block(spacing: 0.1em)
+  1\. mr, die, rt. ao. inj., 148, 3; ps., 154 d.
 
-
-*2. mr,* crush, pr. stem, 134 E 4 a.
-
-mrc, injure, s ao. op., 143, 4\.
+2\. mr, crush, pr. stem, 134 E 4 a. mrc, injure, s ao. op., 143, 4\.
 
 mṛc, f. injury, 79, 1\.
 
@@ -22890,32 +22290,23 @@ yāvat, cj. as long as, 180\.
 
 yāvant, prn. der. as great, 118 c.
 
+1\. yu, unite, pr. stem, 134, 1 a.
 
-*1. yu,* unite, pr. stem, 134, 1 a.
-
-
-*2. yu,* separate, 133 A 2; 134 B 3 a.
+2\. yu, separate, 133 A 2; 134 B 3 a.
 
 -yu, pri. nom. sf., 182, 1 b; stems in, 98 a.
-
 ]
-]
-
 
 #pagebreak()
 
 // ========================================== PAGE 507 (Book p. 491) ==========================================
 
-#fit-page[
 #folio("", "VEDIC INDEX", "491")
 #columns(2, gutter: 3mm)[
-  #set text(size: 6.8pt)
-  #set par(leading: 0.22em, first-line-indent: -0.7em, hanging-indent: 0.7em)
-  #set block(spacing: 0.06em)
-  #block(spacing: 0.28em)[
-  #set par(first-line-indent: 0pt)
+  #set text(size: 7.0pt)
+  #set par(leading: 0.32em, first-line-indent: -0.8em, hanging-indent: 0.8em)
+  #set block(spacing: 0.1em)
   yuj, join, pr. system, 132 (pp. 136-7); root ao. ipv., 148, 5; ft., 151 a.
-]
 
 yúj, m. companion, 79, 3 a.
 
@@ -23042,35 +22433,24 @@ rudh, obstruct, s ao., 144, 5\.
 rúp, f. earth, 78, 1\.
 
 rúsant, (pt.) a. brilliant, 85 a.
-
 ]
-]
-
 
 #pagebreak()
 
 // ========================================== PAGE 508 (Book p. 492) ==========================================
 
-#fit-page[
 #folio("492", "VEDIC INDEX", "")
 #columns(2, gutter: 3mm)[
-  #set text(size: 6.8pt)
-  #set par(leading: 0.22em, first-line-indent: -0.7em, hanging-indent: 0.7em)
-  #set block(spacing: 0.06em)
-  #block(spacing: 0.28em)[
-  #set par(first-line-indent: 0pt)
-  ruh, ascend, sa ao., 141 a; 168
-]
-
-irr. 2, f. n. 1\.
+  #set text(size: 7.0pt)
+  #set par(leading: 0.32em, first-line-indent: -0.8em, hanging-indent: 0.8em)
+  #set block(spacing: 0.1em)
+  ruh, ascend, sa ao., 141 a; 168 irr. 2, f. n. 1\.
 
 rúh, f. sprout, 81\.
 
 rūpám, acc. adv. inform, 178, 2\.
 
--re, 3\. pl. mid. ending, pr.,
-
-134 C 4 γ; pf., 136 a, f. n. 1\.
+-re, 3\. pl. mid. ending, pr., 134 C 4 γ; pf., 136 a, f. n. 1\.
 
 rái, m. f. wealth, 102; 102, 1 (par.).
 
@@ -23090,77 +22470,37 @@ lup, break, pr. stem, 133 C 1\.
 
 Va, low grade of. 4 a.
 
--va, pri. nom. sf., 182, 1 b; adv.
-
-sf., 179, 1\.
+-va, pri. nom. sf., 182, 1 b; adv. sf., 179, 1\.
 
 vaghát, m. sacrificer, 85 b.
 
-vac, speak, pr. stem, 135, 4; pf.,
-
-137, 2 c; 138, 8; red. ao. irr.,
-
-149 a 2, op., 149, 4, ipv., 149, 5;
-
-ps., 154, 6; ps. ao., 155\.
+vac, speak, pr. stem, 135, 4; pf., 137, 2 c; 138, 8; red. ao. irr., 149 a 2, op., 149, 4, ipv., 149, 5; ps., 154, 6; ps. ao., 155\.
 
 vañc, move crookedly, ps., 154, 5\.
 
 vanij, m. trader, 79, 3 b.
 
--vat, sec. nom. sf., 182, 2; stems
+-vat, sec. nom. sf., 182, 2; stems in, 77, 1; adv. sf., like, 179, 1; advs. in, 197 A 5 b γ (p. 301).
 
-in, 77, 1; adv. sf., like, 179, 1;
-
-advs. in, 197 A 5 b γ (p. 301).
-
-vad, speak, pr. stem, 135, 4; pf.,
-
-137, 2 c; ps., 154, 6\.
+vad, speak, pr. stem, 135, 4; pf., 137, 2 c; ps., 154, 6\.
 
 vádhár, n. weapon, 101, 1\.
 
-van, win, pr. stem, 134 C 4 a;
+van, win, pr. stem, 134 C 4 a; 135, 4; pf., 137, 2 b; 139, 2; s ao. op., 143, 4; s ao., 144, 3; sis ao., 146; root ao. ipv., 148, 5; ds., 171 (p. 200), par.
 
-135, 4; pf., 137, 2 b; 139, 2; s
+ván, n. (?) wood, 77, 5; accent, p. 458 c 1\.
 
-ao. op., 143, 4; s ao., 144, 3;
-
-sis ao., 146; root ao. ipv., 148, 5;
-
-ds., 171 (p. 200), par.
-
-ván, n. (?) wood, 77, 5; accent, p. 458
-
-c 1\.
-
--van, pri. nom. sf., 182, 1 b;
-
-nouns in, 90, 1\. 2; fem. of, 90
-
-(p. 59, f. n. 2); 95 c; sec. nom.
-
-sf., 182, 2; v. in, 94, f. n. 4\.
+-van, pri. nom. sf., 182, 1 b; nouns in, 90, 1\. 2; fem. of, 90 (p. 59, f. n. 2); 95 c; sec. nom. sf., 182, 2; v. in, 94, f. n. 4\.
 
 vanád, f. longing, 77, 3 b.
 
-vanarsád, a. sitting in the wood,
+vanarsád, a. sitting in the wood, 49 d.
 
-49 d.
+-vant, sec. nom. sf., 182, 2; stems in, 86; pf. pt. act. in, 161; 205, 1 a.
 
--vant, sec. nom. sf., 182, 2; stems
+vap, strew, pr. stem, 135, 4; pf., 137, 2 c.
 
-in, 86; pf. pt. act. in, 161;
-
-205, 1 a.
-
-vap, strew, pr. stem, 135, 4; pf.,
-
-137, 2 c.
-
-vápustara, cpv. more wonderful,
-
-103, 1\.
+vápustara, cpv. more wonderful, 103, 1\.
 
 vápus, n. beauty, 83, 2 c.
 
@@ -23174,21 +22514,15 @@ váyas, n. vigour, 83, 2 a a.
 
 vára, a. choice, spv. of, 103, 2 a.
 
-várāya, dat. adv. according to wish,
-
-178, 4\.
+várāya, dat. adv. according to wish, 178, 4\.
 
 varimán, m. width, 90, 2\.
 
-váriṣṭha, spv. most excellent, 103, 2 a;
-
-widest, 103, 2 a.
+váriṣṭha, spv. most excellent, 103, 2 a; widest, 103, 2 a.
 
 váriyāms, cpv. wider, 103, 2 a.
 
-varjivāms, pf. pt. act. of vrj,
-
-twist, 157 b.
+varjivāms, pf. pt. act. of vrj, twist, 157 b.
 
 várṣiṣṭha, spv. highest, 103, 2 b.
 
@@ -23198,57 +22532,29 @@ várṣman, n. height, 103, 2 b, f. n. 5\.
 
 vaś, desire, pr. stem, 134 A 2 a.
 
-1 vas, dwell, pf., 137, 2 c; s ao.,
+1 vas, dwell, pf., 137, 2 c; s ao., 144, 1; s ao., 144, 2; red. pf. pt., 157 a.
 
-144, 1; s ao., 144, 2; red. pf.
+2\. vas, wear, pr. stem, 134 A 3 b; 135, 4; pf., 139, 2; cs. ft., 151 a a.
 
-pt., 157 a.
-
-
-*2. vas,* wear, pr. stem, 134 A 3 b;
-
-135, 4; pf., 139, 2; cs. ft.,
-
-151 a a.
-
-
-*3. vas,* shine, pr. stem, 133 C 2;
-
-s ao., 144, 1; s ao., 144, 5; root
-
-ao., 148, 1 d.
+3\. vas, shine, pr. stem, 133 C 2; s ao., 144, 1; s ao., 144, 5; root ao., 148, 1 d.
 
 vás, m. (?) abode, 83, 1\.
 
-vas, encl. prs. prn. A.D.G. pl. you,
+vas, encl. prs. prn. A.D.G. pl. you, 109 a; p. 452, 8 A a.
 
-109 a; p. 452, 8 A a.
-
--vas, v. in, 86; 89; 90, 3; 94, 3,
-
-f. n. 3\.
+-vas, v. in, 86; 89; 90, 3; 94, 3, f. n. 3\.
 
 vásiṣṭha, spv. best, 103, 2 a.
 
-vásu, n. wealth, 98 a; spv. of, best,
-
-103, 2 a.
+vásu, n. wealth, 98 a; spv. of, best, 103, 2 a.
 
 vasuván, a. bestowing wealth, 90, 3\.
 
-vástos, gen. adv. in the morning,
-
-178, 6; 202 D 3 a.
+vástos, gen. adv. in the morning, 178, 6; 202 D 3 a.
 
 vásyāms, cpv. better, 103, 2 a.
 
-vah, carry, pr. stem, 135, 4; pf.,
-
-137, 2 c; s ao., 144, 2; 144, 5;
-
-root ao. ipv., 148, 5; ps., 154, 6;
-
-ps. sb., 154 b; ps. ao., 155 a 1\.
+vah, carry, pr. stem, 135, 4; pf., 137, 2 c; s ao., 144, 2; 144, 5; root ao. ipv., 148, 5; ps., 154, 6; ps. sb., 154 b; ps. ao., 155 a 1\.
 
 vahát, f. stream, 85 b.
 
@@ -23258,28 +22564,19 @@ vā, weave, pr. stem, 133 B 1\.
 
 vā, encl. cj. or, 180; p. 452, 8 A b.
 
--vāms, sf. of red. pf. pt., 157;
-
-pf. pt. in, 89 (par.).
-
+-vāms, sf. of red. pf. pt., 157; pf. pt. in, 89 (par.).
 ]
-]
-
 
 #pagebreak()
 
 // ========================================== PAGE 509 (Book p. 493) ==========================================
 
-#fit-page[
 #folio("", "VEDIC INDEX", "493")
 #columns(2, gutter: 3mm)[
   #set text(size: 6.8pt)
-  #set par(leading: 0.22em, first-line-indent: -0.7em, hanging-indent: 0.7em)
-  #set block(spacing: 0.06em)
-  #block(spacing: 0.28em)[
-  #set par(first-line-indent: 0pt)
+  #set par(leading: 0.3em, first-line-indent: -0.8em, hanging-indent: 0.8em)
+  #set block(spacing: 0.08em)
   vāz, f. speech, 79, 1\.
-]
 
 -vāze, inf. to speak, 167 a (p. 191).
 
@@ -23315,11 +22612,9 @@ vij, f. (?) stake, 79, 3 a.
 
 vitarām, adv. more widely, 178, 2\.
 
+1\. vid, know, unred. pf., 139, 3; ao. ps., 155\.
 
-*1. vid,* know, unred. pf., 139, 3; ao. ps., 155\.
-
-
-*2. vid,* find, pr. stem, 133 C 1; 134 A 4 c a; a ao., 147, 1 (par.); a ao. op., 147, 4 (par.).
+2\. vid, find, pr. stem, 133 C 1; 134 A 4 c a; a ao., 147, 1 (par.); a ao. op., 147, 4 (par.).
 
 vid, f. knowledge, 77, 3 a.
 
@@ -23385,11 +22680,9 @@ vī, m. receiver, 100, I a.
 
 vīrā, m. hero, accent of, in compounds, p. 454, 10\.
 
+1\. vṛ, cover, pr. stem, 134 C 3; root ao., 148, 1 d, inj., 148, 3, ipv., 148, 5, pt., 148, 6; red. ao., 149, 1; cs. ft., 151 a a.
 
-*1. vṛ,* cover, pr. stem, 134 C 3; root ao., 148, 1 d, inj., 148, 3, ipv., 148, 5, pt., 148, 6; red. ao., 149, 1; cs. ft., 151 a a.
-
-
-*2. vṛ,* choose, root ao. inj., 148, 3\.
+2\. vṛ, choose, root ao. inj., 148, 3\.
 
 vṛj, twist, sa ao., 141 a; root ao., 148, 1 d, op., 148, 4\.
 
@@ -23408,184 +22701,170 @@ vṛddhī, f. strong grade of vowels, 5 a; 5 a a; 17; 17 a; 19 b; 22; 23 (for Gu
 vṛdh, grow, red. ao., 149, 1\.
 
 vṛdh, f. prosperity, 77, 4; a. strengthening, 77, 4\.
-
 ]
-]
-
 
 #pagebreak()
 
 // ========================================== PAGE 510 (Book p. 494) ==========================================
 
-#fit-page[
 #folio("494", "VEDIC INDEX", "")
 #columns(2, gutter: 3mm)[
-  #set text(size: 6.8pt)
-  #set par(leading: 0.22em, first-line-indent: -0.7em, hanging-indent: 0.7em)
-  #set block(spacing: 0.06em)
-  #block(spacing: 0.28em)[
-  #set par(first-line-indent: 0pt)
-  vṛṣaṇaśvá, Bv. ed. #emph[having stallions as steeds], 52 #emph[a].
-]
+  #set text(size: 6.4pt)
+  #set par(leading: 0.26em, first-line-indent: -0.8em, hanging-indent: 0.8em)
+  #set block(spacing: 0.05em)
+  vṛṣaṇaśvá, Bv. ed. _having stallions as steeds_, 52 _a_.
 
-vṛṣan, m. #emph[bull], 90\.
+vṛṣan, m. _bull_, 90\.
 
-vṛṣántama, spv. #emph[most manly], 103, 1 #emph[a].
+vṛṣántama, spv. _most manly_, 103, 1 _a_.
 
-védi, f. #emph[altar], loc. of, 98 (p. 81), f. n. 6\.
+védi, f. _altar_, loc. of, 98 (p. 81), f. n. 6\.
 
-vedhás, m. #emph[ordainer], 83, 2 #emph[a a].
+vedhás, m. _ordainer_, 83, 2 _a a_.
 
-vehát, f. #emph[barren cow], 85 #emph[b].
+vehát, f. _barren cow_, 85 _b_.
 
-váí, emphasizing pcl. #emph[indeed], 180\.
+váí, emphasizing pcl. _indeed_, 180\.
 
 vaitāliya, n. a metre, p. 436, f. n. 2\.
 
-vólhave, dat. inf. #emph[to carry], 167, 1 #emph[b] 4\.
+vólhave, dat. inf. _to carry_, 167, 1 _b_ 4\.
 
-vyac, #emph[extend], pr. stem, 134 B 2: 135, 4\.
+vyac, _extend_, pr. stem, 134 B 2: 135, 4\.
 
-vyadh, #emph[pierce], pr. stem, 133 B 1\.
+vyadh, _pierce_, pr. stem, 133 B 1\.
 
-vyā, #emph[envelope], pr. stem, 133 B 1; a ao., 147 #emph[a] 1\.
+vyā, _envelope_, pr. stem, 133 B 1; a ao., 147 _a_ 1\.
 
-vyātta, #emph[opened], pp. of vi-ā-dā, 160, 2 #emph[b].
+vyātta, _opened_, pp. of vi-ā-dā, 160, 2 _b_.
 
-vraśc, #emph[cut], pr. stem, 133 C 2\.
+vraśc, _cut_, pr. stem, 133 C 2\.
 
--vraska, a. #emph[cutting], 133 C 2, f. n. 2\.
+-vraska, a. _cutting_, 133 C 2, f. n. 2\.
 
-vrā, f. #emph[troop], 97, 2\.
+vrā, f. _troop_, 97, 2\.
 
-vrādhantama, spv. #emph[being most mighty], 103, 1 #emph[b].
+vrādhantama, spv. _being most mighty_, 103, 1 _b_.
 
-vṛś, f. #emph[finger], 79, 4\.
+vṛś, f. _finger_, 79, 4\.
 
 Ś, stems in, 79, 4\.
 
 -śa, sec. nom. suffix, 182, 2\.
 
-śams, #emph[praise], ps., 154, 5\.
+śams, _praise_, ps., 154, 5\.
 
-śak, #emph[be able], pf., 137, 2 #emph[a]; root ao. ipv., 148, 5\.
+śak, _be able_, pf., 137, 2 _a_; root ao. ipv., 148, 5\.
 
-śákṛt, n. #emph[excrement], 77, 1\.
+śákṛt, n. _excrement_, 77, 1\.
 
-śakvarī, f. a metre, p. 440 #emph[d]; p. 441, f. n. 6\.
+śakvarī, f. a metre, p. 440 _d_; p. 441, f. n. 6\.
 
-śácī, f. #emph[might], 100, 1 #emph[b].
+śácī, f. _might_, 100, 1 _b_.
 
-śatákratu, a. #emph[having a hundred powers], 98 (p. 82), f. n. 6\.
+śatákratu, a. _having a hundred powers_, 98 (p. 82), f. n. 6\.
 
-śatatamā, ord. #emph[hundredth], 107\.
+śatatamā, ord. _hundredth_, 107\.
 
-śatadāvan, a. #emph[giving a hundredfold], 90\.
+śatadāvan, a. _giving a hundredfold_, 90\.
 
 Śatapatha Brāhmaṇa, accentuation of, p. 448, 1; p. 451, 5\.
 
-śatám, nm. #emph[a hundred], 104; 106 #emph[d] (par.); concord of, 194 B 1 #emph[b].
+śatám, nm. _a hundred_, 104; 106 _d_ (par.); concord of, 194 B 1 _b_.
 
-śataśás, adv. #emph[by hundreds], 179, 1\.
+śataśás, adv. _by hundreds_, 179, 1\.
 
-śatrahá, a. #emph[slaying enemies], 97, 3\.
+śatrahá, a. _slaying enemies_, 97, 3\.
 
-śānais, adv. #emph[slowly], 178, 3 #emph[b].
+śānais, adv. _slowly_, 178, 3 _b_.
 
-śap, #emph[curse], pf., 137, 2 #emph[a].
+śap, _curse_, pf., 137, 2 _a_.
 
-śám, n. #emph[happiness], 78, 3\.
+śám, n. _happiness_, 78, 3\.
 
-śāyāna, pr. pt. mid. of śī, #emph[lie], 158 #emph[a].
+śāyāna, pr. pt. mid. of śī, _lie_, 158 _a_.
 
-śayutrā, adv. #emph[on a couch], 179, 3\.
+śayutrā, adv. _on a couch_, 179, 3\.
 
-śarād, f. #emph[autumn], 77, 3 #emph[b].
+śarād, f. _autumn_, 77, 3 _b_.
 
-śāl, ij. #emph[clap]! 181\.
+śāl, ij. _clap_! 181\.
 
-śāśayānā, pf. pt. mid. of śī, #emph[lie], 159 #emph[a].
+śāśayānā, pf. pt. mid. of śī, _lie_, 159 _a_.
 
-śāśīyāms, cpv. #emph[more frequent], 103, 2 #emph[a].
+śāśīyāms, cpv. _more frequent_, 103, 2 _a_.
 
-śāśvattamā, spv. #emph[most constant], 103, 1\.
+śāśvattamā, spv. _most constant_, 103, 1\.
 
-śāśvadhā, adv. #emph[again and again], 179, 1\.
+śāśvadhā, adv. _again and again_, 179, 1\.
 
-śāśvant, a. #emph[constant], 103, 2 #emph[a].
+śāśvant, a. _constant_, 103, 2 _a_.
 
 -śas, adv. sf. w. distributive sense, 179, 1\.
 
-śā, #emph[sharpen], pr. stem, 134 B 1 #emph[a]; 134 B 3 #emph[a].
+śā, _sharpen_, pr. stem, 134 B 1 _a_; 134 B 3 _a_.
 
-śās, #emph[order], pr. stem, 134 A 4 #emph[a]; a ao., 147 #emph[a] 1\.
+śās, _order_, pr. stem, 134 A 4 _a_; a ao., 147 _a_ 1\.
 
-śās, m. #emph[ruler], 83, 1\.
+śās, m. _ruler_, 83, 1\.
 
-śāsat, pr. pt. #emph[instructing], 85 #emph[b]; 156 #emph[a].
+śāsat, pr. pt. _instructing_, 85 _b_; 156 _a_.
 
-śīras, n. #emph[head], 90, 1 #emph[a].
+śīras, n. _head_, 90, 1 _a_.
 
-śiṣṭā, pp. of śās, #emph[order], 160, 2 #emph[b].
+śiṣṭā, pp. of śās, _order_, 160, 2 _b_.
 
-śikṣānarā, a. #emph[helping men], 189 A 2 #emph[b].
+śikṣānarā, a. _helping men_, 189 A 2 _b_.
 
-śī, #emph[lie], pr. stem, 134, 1 #emph[c]; 134 A 4 #emph[c a]; pf., 139, 7 (f. n. 1).
+śī, _lie_, pr. stem, 134, 1 _c_; 134 A 4 _c a_; pf., 139, 7 (f. n. 1).
 
-śīrṣān, n. #emph[head], 90, 1\.
+śīrṣān, n. _head_, 90, 1\.
 
-śuc, #emph[shine], red. pf. pt., 157 #emph[b a]; red. ao. inj., 149, 3\.
+śuc, _shine_, red. pf. pt., 157 _b a_; red. ao. inj., 149, 3\.
 
-śúc, f. #emph[flame], 79, 1\.
+śúc, f. _flame_, 79, 1\.
 
-śūcī, a. #emph[bright], 98 (par.).
+śūcī, a. _bright_, 98 (par.).
 
-śubh, #emph[shine], pr. stem, 133 C 1; root ao. pt., 148, 6\.
+śubh, _shine_, pr. stem, 133 C 1; root ao. pt., 148, 6\.
 
-śūbh, f. #emph[splendour], 78, 2\.
+śūbh, f. _splendour_, 78, 2\.
 
-śū, #emph[swell], red. pf. pt., 157 #emph[b a].
+śū, _swell_, red. pf. pt., 157 _b a_.
 
-śocīs, n. #emph[glow], 83, 2 #emph[b].
+śocīs, n. _glow_, 83, 2 _b_.
 
-ścandrā, a. #emph[bright], 50 #emph[a].
+ścandrā, a. _bright_, 50 _a_.
 
-śnath, #emph[pierce], pr. stem, 134 A 3 #emph[b]; red. ao., 149, 1\.
+śnath, _pierce_, pr. stem, 134 A 3 _b_; red. ao., 149, 1\.
 
-śrath, #emph[slacken], red. ao. ipv., 195, 5\.
+śrath, _slacken_, red. ao. ipv., 195, 5\.
 
-śrad, #emph[heart], compounded with verbs, 184 #emph[b].
+śrad, _heart_, compounded with verbs, 184 _b_.
 
-śraddhē, inf. #emph[to trust], 167, 1, f. n. 2 (p. 191).
+śraddhē, inf. _to trust_, 167, 1, f. n. 2 (p. 191).
 
-śram, #emph[be weary], pr. stem, 133 B 3\.
+śram, _be weary_, pr. stem, 133 B 3\.
 
-śri, #emph[resort], root ao. inj., 148, 3; red. ao., 149, 1; ps. ao., 155; cs., 168 #emph[c], f. n. 1 (p. 196).
+śri, _resort_, root ao. inj., 148, 3; red. ao., 149, 1; ps. ao., 155; cs., 168 _c_, f. n. 1 (p. 196).
 
-śrī, f. #emph[glory], 100, 1 #emph[a].
+śrī, f. _glory_, 100, 1 _a_.
 
-śru, #emph[hear], pr. stem, 134 C 3; root ao. ipv., 148, 5; ps. ao., 155\.
+śru, _hear_, pr. stem, 134 C 3; root ao. ipv., 148, 5; ps. ao., 155\.
 
-śrūt, a. #emph[hearing], 77, 1\.
-
+śrūt, a. _hearing_, 77, 1\.
 ]
-]
-
 
 #pagebreak()
 
 // ========================================== PAGE 511 (Book p. 495) ==========================================
 
-#fit-page[
 #folio("", "VEDIC INDEX", "495")
 #columns(2, gutter: 3mm)[
-  #set text(size: 6.8pt)
-  #set par(leading: 0.22em, first-line-indent: -0.7em, hanging-indent: 0.7em)
+  #set text(size: 6.6pt)
+  #set par(leading: 0.28em, first-line-indent: -0.8em, hanging-indent: 0.8em)
   #set block(spacing: 0.06em)
-  #block(spacing: 0.28em)[
-  #set par(first-line-indent: 0pt)
   śreṇiśás, adv. in rows, 179, 1\.
-]
 
 śréyāṃs, cpv. better, 103, 2 a.
 
@@ -23714,21 +22993,17 @@ samāná, a. similar, 120 c 2 (p. 117).
 samudrī, f. oceanic, 100, I a (p. 86), f. n. 1\.
 
 samprasāraṇa, m. distraction, 5 b; 17 a, f. n. 2; 69 c, f. n. 2; 89; 91,
-
 ]
-]
-
 
 #pagebreak()
 
 // ========================================== PAGE 512 (Book p. 496) ==========================================
 
-#fit-page[
 #folio("496", "VEDIC INDEX", "")
 #columns(2, gutter: 3mm)[
   #set text(size: 6.8pt)
-  #set par(leading: 0.22em, first-line-indent: -0.7em, hanging-indent: 0.7em)
-  #set block(spacing: 0.06em)
+  #set par(leading: 0.3em, first-line-indent: -0.8em, hanging-indent: 0.8em)
+  #set block(spacing: 0.08em)
   3\. 4\. 5; 96, 2; 99, 5, f. n. 1; pr. stem, 133 B 1; 133 C 2, f. n. 1; 134 A 2 a; 134 B 2; 134 E 2; 135, 4; 137, 2 a, f. n. 1; 137, 2 c; 139, 2; 154, 6; 160, 2; 160, 3 a; inf., 167, 1, f. n. 3; cs., 168, irr., 5\.
 
 samyáñc, a. united, 93 a; w. acc., 197\.
@@ -23862,25 +23137,18 @@ stár, m. star, 82, f. n. 5; 82 b.
 stavāná, pr. pt. mid. of stu, praise, 158 a.
 
 stu, praise, pr. stem, 134, 1 c a; pf., 138, 5; s ao., 143, 1\. 2 (par.); ft. pt., 151 b 2; ps. ao., 155\.
-
 ]
-]
-
 
 #pagebreak()
 
 // ========================================== PAGE 513 (Book p. 497) ==========================================
 
-#fit-page[
 #folio("", "VEDIC INDEX", "497")
 #columns(2, gutter: 3mm)[
-  #set text(size: 6.8pt)
-  #set par(leading: 0.22em, first-line-indent: -0.7em, hanging-indent: 0.7em)
+  #set text(size: 6.6pt)
+  #set par(leading: 0.28em, first-line-indent: -0.8em, hanging-indent: 0.8em)
   #set block(spacing: 0.06em)
-  #block(spacing: 0.28em)[
-  #set par(first-line-indent: 0pt)
   stúbh, f. praise, 78, 2\.
-]
 
 str, star, accentuation of, p. 458, c 1\.
 
@@ -24013,29 +23281,18 @@ has, laugh, pr. stem, 134 B 3\.
 hásta, m. hand, compounded w. gd., 184 c.
 
 hastin, a. having hands, 87 (par.).
-
-1819
-
-K k
-
 ]
-]
-
 
 #pagebreak()
 
 // ========================================== PAGE 514 (Book p. 498) ==========================================
 
-#fit-page[
 #folio("498", "VEDIC INDEX", "")
 #columns(2, gutter: 3mm)[
-  #set text(size: 6.8pt)
-  #set par(leading: 0.22em, first-line-indent: -0.7em, hanging-indent: 0.7em)
-  #set block(spacing: 0.06em)
-  #block(spacing: 0.28em)[
-  #set par(first-line-indent: 0pt)
+  #set text(size: 7.0pt)
+  #set par(leading: 0.32em, first-line-indent: -0.8em, hanging-indent: 0.8em)
+  #set block(spacing: 0.1em)
   hā, go away. pr. stem, 134 B 1 a; s ao., 144, 2\. 5; 146\.
-]
 
 hí, ej. for, 180; accents verb, p. 467, 19 B.
 
@@ -24080,31 +23337,32 @@ hvā, call, pr. stem, 133 B 1; a ao., 147 a 1\.
 I \= d, 3 b γ (p. 3), f. n. 1; 11 d a; 15, 2 d; 15, 2 i.
 
 I.h \= dh, 3 b γ (p. 3), f. n. 1; 15, 2 d; 15, 2 i; produces length by position, p. 437, a 3\.
-
 ]
-]
-
 
 #pagebreak()
 
 // ========================================== PAGE 515 (Book p. 499) ==========================================
 
-#fit-page[
 #v(0.30cm)
 #align(center)[
   #text(size: 12.5pt, weight: "bold", tracking: 0.08em)[GENERAL INDEX]\
 ]
-#v(0.30cm)
+#v(0.20cm)
 
-#columns(2, gutter: 3mm)[
-  #set text(size: 6.8pt)
-  #set par(leading: 0.22em, first-line-indent: -0.7em, hanging-indent: 0.7em)
-  #set block(spacing: 0.06em)
+#block(spacing: 0.28em)[
+  #set text(size: 8.0pt)
+  #set par(leading: 0.40em, first-line-indent: 1.0em)
   The abbreviations occurring in this index have been explained at the beginning of Appendix I and of the Vedic Index.
 
-The figures refer to paragraphs unless pages are specified.
+  The figures refer to paragraphs unless pages are specified.
+]
 
-Ablative, syntactical use of, 201; w. verbs, 201 A 1; w. substantives, 201 A 2; w. adjectives, 201 A 3; w. numerals, 201 A 3 c; w. adverbs, 201 A 4; w. prepositions, 176 a, b; 177, 3; expresses the reason, 201 b.
+#v(0.25em)
+#columns(2, gutter: 3mm)[
+  #set text(size: 7.0pt)
+  #set par(leading: 0.32em, first-line-indent: -0.8em, hanging-indent: 0.8em)
+  #set block(spacing: 0.10em)
+  Ablative, syntactical use of, 201; w. verbs, 201 A 1; w. substantives, 201 A 2; w. adjectives, 201 A 3; w. numerals, 201 A 3 c; w. adverbs, 201 A 4; w. prepositions, 176 a, b; 177, 3; expresses the reason, 201 b.
 
 Abl.-gen. inf., 167, 3 (p. 194); synt. use of, 211, 3\.
 
@@ -24129,23 +23387,17 @@ Adverbial, suffixes, 179: w. inst. sense, 171, 1; w. abl. sense, 179, 2; w. loc.
 Adverbs, 180; compound, 197 A 5 b δ, ε (p. 301); compounded w. verbs, 184 b, w. gd., 164, 1 a; numeral, 108 a-c; prepositional, 177; w. gen., 202 d.
 
 Agent, expressed by inst., 199, 2; nouns, 101, 2; 152, f. n. 1; 182, 1; w. gdv., 209, 1 a, 3,
-
-K k 2
-
 ]
-]
-
 
 #pagebreak()
 
 // ========================================== PAGE 516 (Book p. 500) ==========================================
 
-#fit-page[
 #folio("500", "GENERAL INDEX", "")
 #columns(2, gutter: 3mm)[
-  #set text(size: 6.8pt)
-  #set par(leading: 0.22em, first-line-indent: -0.7em, hanging-indent: 0.7em)
-  #set block(spacing: 0.06em)
+  #set text(size: 7.0pt)
+  #set par(leading: 0.32em, first-line-indent: -0.8em, hanging-indent: 0.8em)
+  #set block(spacing: 0.1em)
   4, 5 a; w. inf. in ps. sense, 211 b β.
 
 Analogy, 97, f. n. 5 (p. 77); of an stems, p. 78, f. n. 15; of r stems, 99, 1, f. n. 1; 139, 6 (pf.); p. 273, f. n. 3\.
@@ -24211,21 +23463,17 @@ Causative, 124; 168; tenses and moods of, 168 c; sense of ao., 149; sf. dropped,
 Cerebral sibilant ṣ, 12 b; in dec. and conj., 64 a; ṣ, 8, f. n. 1; 11 c; 49 c (in cds.).
 
 Cerebralization, of ch, 63 d; of j, 63; of ś, 63 b; of dentals, 15, 2 k a; 64; 69 c; of n, 10 c; 65; 66, 2 b; of n in cds., 50 c; 65 a; 65 b; of n in external Sandhi, 65 c; of initial d, n in cds., 49 c; of dh, 160, 2, f. n. 1; of s, 50 b; 67; 81 a, f. n. 2; 83, 2 b, 2 c; of s in vb. cds.,
-
 ]
-]
-
 
 #pagebreak()
 
 // ========================================== PAGE 517 (Book p. 501) ==========================================
 
-#fit-page[
 #folio("", "GENERAL INDEX", "501")
 #columns(2, gutter: 3mm)[
-  #set text(size: 6.8pt)
-  #set par(leading: 0.22em, first-line-indent: -0.7em, hanging-indent: 0.7em)
-  #set block(spacing: 0.06em)
+  #set text(size: 7.0pt)
+  #set par(leading: 0.32em, first-line-indent: -0.8em, hanging-indent: 0.8em)
+  #set block(spacing: 0.1em)
   67 a; of s in nom. cds., 67 b; of s in external Sandhi, 67 c; of Visarjaniya, 43, 1 a; 43, 2 a; absence of, 67, f. n. 1, 3, 4; 92, f. n. 1\.
 
 Cerebrals, 3 b γ; 29 a; internal Sandhi of, 64; 65; 67; origin of, 8; pronunciation of, 15, 2 d; stems in, 80\.
@@ -24285,21 +23533,17 @@ Denominative, 124; 175; ao., 175 B a; ft., ibid.; pp. ibid.
 Dental: n, Sandhi of final, 35; 36; 39; 40; 42, 3 a; 52; 66 A 1; 66 A 2; s, changed to t or d, 9 a; 66 B 1; disappears, 66 B 2; inserted, 40, 2\.
 
 Dentals, 3 b δ; 9 a; 10 a (n); 15, 2 e; 29 a; palatalized, 37 a; 38; 40 (n); 63 a; cerebralized, 64; stems in, 77\.
-
 ]
-]
-
 
 #pagebreak()
 
 // ========================================== PAGE 518 (Book p. 502) ==========================================
 
-#fit-page[
 #folio("502", "GENERAL INDEX", "")
 #columns(2, gutter: 3mm)[
-  #set text(size: 6.8pt)
-  #set par(leading: 0.22em, first-line-indent: -0.7em, hanging-indent: 0.7em)
-  #set block(spacing: 0.06em)
+  #set text(size: 7.0pt)
+  #set par(leading: 0.32em, first-line-indent: -0.8em, hanging-indent: 0.8em)
+  #set block(spacing: 0.1em)
   Derivative verbs, 168-75\.
 
 Descriptive compounds, 188; accent of, p. 455, 10 d 1\.
@@ -24377,21 +23621,17 @@ Hendecasyllabic verse, p. 440, 4 B.
 Hiatus, 15, 1 f; 16; 21 b; 22; 24; 45; 48; 49; 97, 1, f. n. 11; avoidance of, 16; in compounds, 49; restored, 18 b; 19 a, f. n. 4; 20; 21 b; secondary, 22 a; 48 a (avoided).
 
 High grade syllables (e, o, ar, al), 5 a; (ya, va, ra), 5 b; (yā, vā, rā), 5 b a; of i and u, 4 b; 5 a, b.
-
 ]
-]
-
 
 #pagebreak()
 
 // ========================================== PAGE 519 (Book p. 503) ==========================================
 
-#fit-page[
 #folio("", "GENERAL INDEX", "503")
 #columns(2, gutter: 3mm)[
-  #set text(size: 6.8pt)
-  #set par(leading: 0.22em, first-line-indent: -0.7em, hanging-indent: 0.7em)
-  #set block(spacing: 0.06em)
+  #set text(size: 7.0pt)
+  #set par(leading: 0.32em, first-line-indent: -0.8em, hanging-indent: 0.8em)
+  #set block(spacing: 0.1em)
   Historical present, 212, 2\.
 
 Hypothetical clauses, 216 (under yád, p. 363, and yádi, p. 364); 218\.
@@ -24445,25 +23685,18 @@ Locative, sing. in ī and ū (uncontractable), 25 b; inf., 167, 4 (p. 195); 211,
 Long vowels pronounced as two: p. 437 a 8\.
 
 Loss of sounds: of initial a, 21 a; 45, 2 b; 134 A 2 b; 156 a; of medial a (see Syncope); of
-
 ]
-]
-
 
 #pagebreak()
 
 // ========================================== PAGE 520 (Book p. 504) ==========================================
 
-#fit-page[
 #folio("504", "GENERAL INDEX", "")
 #columns(2, gutter: 3mm)[
-  #set text(size: 6.8pt)
-  #set par(leading: 0.22em, first-line-indent: -0.7em, hanging-indent: 0.7em)
-  #set block(spacing: 0.06em)
-  #block(spacing: 0.28em)[
-  #set par(first-line-indent: 0pt)
+  #set text(size: 7.0pt)
+  #set par(leading: 0.32em, first-line-indent: -0.8em, hanging-indent: 0.8em)
+  #set block(spacing: 0.1em)
   medial u, 134 C 1; 134 C 4, f. n. 2; of final n, 90 (N. s.); 94, 2 (N. s.); of radical nasal, 137, 2 d (pf.); 133 A 4 (pr. stem); 160, 2 (pp.); 165 a (gd.); of n in 3\. pl. ending, p. 125, f. n. 4; 156 (pt. act.); of Visarjanīya, 45; 48; of s (N. s.), 100, I b (p. 87).
-]
 
 Low grade vowels, 4 a; 5 b, c, d.
 
@@ -24538,21 +23771,17 @@ Palatalization of n, 63 c.
 Palatals, 3 b β; 29 a; two series of, 7; new, 7 b; old, 7 a; 81 a; before gutturals, 63; before s, 63 b; revert to gutturals, 139, 4; 140, 6, f. n. 2; 148, 1 h, f. n. 8; 157 b a; 157 a, f. n. 2; 160, 1; 160, 1 b; 171, 4; represent gutturals in reduplication, 129, 3; nominal stems in, 79\.
 
 Participles, 156-62; 122 b; act., 85; 156; 157; mid. and ps.,
-
 ]
-]
-
 
 #pagebreak()
 
 // ========================================== PAGE 521 (Book p. 505) ==========================================
 
-#fit-page[
 #folio("", "GENERAL INDEX", "505")
 #columns(2, gutter: 3mm)[
-  #set text(size: 6.8pt)
-  #set par(leading: 0.22em, first-line-indent: -0.7em, hanging-indent: 0.7em)
-  #set block(spacing: 0.06em)
+  #set text(size: 7.0pt)
+  #set par(leading: 0.32em, first-line-indent: -0.8em, hanging-indent: 0.8em)
+  #set block(spacing: 0.1em)
   158-62; pr., 85; 156; pr. mid., 158; pr. ps., 154 c; pf. act., 89; 140, 5; 157; pf. mid., 159; ao. act., 85; 156; a ao., 147, 6; ft. act., 85; 151 b 2; 156; ft. mid., 158; pp., 160; ft. ps. pt. (gdv.), 162; indec. (gd.), 163; fem. of pr. and ft., 95 a, b; synt. use of, 206-10; characteristics of, 206; durative sense of pr., 207 a; pr. \= finite verb, 207; w. gen. absolute, 205, 2; w. loc. absolute, 205, 1; pp. as finite verb, 208; pp. used periphrastically, 208 a, b; meaning and construction of ft. ps., 209; construction of indec., 210\.
 
 Partitive genitive, 202 B 2 b.
@@ -24608,21 +23837,17 @@ Protasis, 216 (w. yád, p. 363, and yádi, p. 364); 218, 1\.
 Purpose, expressed by dative, 200 B 2\.
 
 Radical vowel lengthened, 143, 1; 145, 1; 155; 171, 6; shortened, 149; 171, 6; 174\.
-
 ]
-]
-
 
 #pagebreak()
 
 // ========================================== PAGE 522 (Book p. 506) ==========================================
 
-#fit-page[
 #folio("506", "GENERAL INDEX", "")
 #columns(2, gutter: 3mm)[
-  #set text(size: 6.8pt)
-  #set par(leading: 0.22em, first-line-indent: -0.7em, hanging-indent: 0.7em)
-  #set block(spacing: 0.06em)
+  #set text(size: 7.0pt)
+  #set par(leading: 0.32em, first-line-indent: -0.8em, hanging-indent: 0.8em)
+  #set block(spacing: 0.1em)
   Reason, expressed by inst., 199 A 3; by abl., 201 B.
 
 Reduplicated root as nom. stem, 182, 1 a.
@@ -24686,21 +23911,17 @@ Stanzas, p. 437; simple, pp. 438-43; mixed, pp. 443-5; irr. mixed, p. 445, 10 b 
 Stem formation, nominal, 182\.
 
 Stems, classification of nominal, 74; ending in consonants, 74-96; unchangeable stems, 75-183; nouns with two, 85-8; nouns with three, 89-93; ending in vowels, 97-102; accentuation of nominal, p. 453, 9\.
-
 ]
-]
-
 
 #pagebreak()
 
 // ========================================== PAGE 523 (Book p. 507) ==========================================
 
-#fit-page[
 #folio("", "GENERAL INDEX", "507")
 #columns(2, gutter: 3mm)[
-  #set text(size: 6.8pt)
-  #set par(leading: 0.22em, first-line-indent: -0.7em, hanging-indent: 0.7em)
-  #set block(spacing: 0.06em)
+  #set text(size: 7.0pt)
+  #set par(leading: 0.32em, first-line-indent: -0.8em, hanging-indent: 0.8em)
+  #set block(spacing: 0.1em)
   Strong stem, in declension, 72; 73; 97, 2 a; in conjugation, 124; 126 (pr.); 134 (pr.); 136 (pf.); 143 (s ao.); 145 (is ao.); 148, 1 (rt. ao.); in weak forms, 134 B 3 a; 134 C 4 δ; 148, 5\.
 
 Strophe, p. 437\.
@@ -24776,104 +23997,27 @@ Vowel shortened before vowel, p. 437, a 4\.
 Vowel declension, 97-102; stems in a, ā, 97; in i, u, 98; irr. i, u stems, 99; in ī, ū, 100; in r, 101; in ai, o, au, 102\.
 
 Vowels, 3 a; 4 a; classification of, 17; changed to semivowels,
-
 ]
-]
-
 
 #pagebreak()
 
 // ========================================== PAGE 524 (Book p. 508) ==========================================
 
-#fit-page[
 #folio("508", "GENERAL INDEX", "")
 #columns(2, gutter: 3mm)[
-  #set text(size: 6.8pt)
-  #set par(leading: 0.22em, first-line-indent: -0.7em, hanging-indent: 0.7em)
-  #set block(spacing: 0.06em)
-  20; coalescence of, 18; 19;
+  #set text(size: 7.0pt)
+  #set par(leading: 0.32em, first-line-indent: -0.8em, hanging-indent: 0.8em)
+  #set block(spacing: 0.1em)
+  20; coalescence of, 18; 19; contraction avoided, 19 a, f. n. 2; 24; 25; 26; gradation of, 5; loss of, 15, 1 e; 127, 4 f. n. 3; 134 A 2 b; 134 C 1; 145 a; long by position before ch, 51; lengthened, 47; 69 c (cp. f. n. 4); 78, 1 a; 78, 2 a; 82 (i, u); 83, 2 (N. pl. n.); 83, 2 a (N. s. m. f.); 85 a (mahat); 86 (mat, vat stems); 87 (in stems); 90 (an stems); 92 (han); 94, 1 (N. s.); 96, 1\. 2; 131 (p. 125), f. n. 1; 133 B 3; 144, 3; 145, 1; 145, 5 a; 149; 151 c; 154, 2 (ps.); 155 (ps. ao.); 160, 2 c (pp.); 162, 1 c (gdv.); 169, 1 (ds.); 171, 1 (ds.); 173, 2 a (int.); 175 A 1 (den.); lengthened in com-
 
-contraction avoided, 19 a,
+pounds, 49 e; 50 d; shortened, 89 (pf. pt.); 94, 3 (voc.); 129, 6 (red.); 133 B 1 (pr.); 149 (red. ao.); 174 (int.); 187 aa (p. 273); shortened in compounds, 50 e; shortened before other vowels, 18 b; 18 b, f. n. 1; 19 a, f. n. 5; 20, f. n. 2; 26 b; 100, 1 a (p. 86) f. n. 2; nasalized, 15, 2 f; 19 a, f. n. 5; 19 b, f. n. 1; terminations beginning w., 76; stems in, 97-102\.
 
-f. n. 2; 24; 25; 26; gradation
-
-of, 5; loss of, 15, 1 e; 127, 4
-
-f. n. 3; 134 A 2 b; 134 C 1;
-
-145 a; long by position before
-
-ch, 51; lengthened, 47; 69 c
-
-(cp. f. n. 4); 78, 1 a; 78, 2 a;
-
-82 (i, u); 83, 2 (N. pl. n.);
-
-83, 2 a (N. s. m. f.); 85 a (mahat);
-
-86 (mat, vat stems); 87 (in
-
-stems); 90 (an stems); 92
-
-(han); 94, 1 (N. s.); 96, 1\. 2;
-
-131 (p. 125), f. n. 1; 133 B 3;
-
-144, 3; 145, 1; 145, 5 a; 149;
-
-151 c; 154, 2 (ps.); 155 (ps.
-
-ao.); 160, 2 c (pp.); 162, 1 c
-
-(gdv.); 169, 1 (ds.); 171, 1
-
-(ds.); 173, 2 a (int.); 175 A 1
-
-(den.); lengthened in com-
-
-pounds, 49 e; 50 d; shortened,
-
-89 (pf. pt.); 94, 3 (voc.); 129, 6
-
-(red.); 133 B 1 (pr.); 149 (red.
-
-ao.); 174 (int.); 187 aa (p. 273);
-
-shortened in compounds, 50 e;
-
-shortened before other vowels,
-
-18 b; 18 b, f. n. 1; 19 a, f. n. 5;
-
-20, f. n. 2; 26 b; 100, 1 a
-
-(p. 86) f. n. 2; nasalized, 15,
-
-2 f; 19 a, f. n. 5; 19 b, f. n. 1;
-
-terminations beginning w., 76;
-
-stems in, 97-102\.
-
-Weak stem, in dec., 72; 84; in
-
-conj., 134 A 2 (pr.); 137, 1 (pf.);
-
-160, 2 (pp.); in first member
-
-of compounds, 185 a.
+Weak stem, in dec., 72; 84; in conj., 134 A 2 (pr.); 137, 1 (pf.); 160, 2 (pp.); in first member of compounds, 185 a.
 
 Weakest stem, 72; 73 b.
 
 Weber, Prof. A., 2, f. n. 1\.
 
 Writing, introduction of, 2\.
-
-Printed in England at the Oxford University Press
-
-( 6 )
-
-221 \=
-
 ]
-]
+
