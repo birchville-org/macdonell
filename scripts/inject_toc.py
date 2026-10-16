@@ -197,6 +197,35 @@ def extract_toc_from_pdf(pdf_path: Path) -> Tuple[List[List[Any]], Dict[str, Any
     return toc, meta
 
 
+def normalize_toc_hierarchy(toc_entries: List[List[Any]]) -> List[List[Any]]:
+    """
+    Normalizes a list of [lvl, title, page] entries so that:
+    1. The first entry is level 1.
+    2. Levels never jump by more than +1 relative to the previous entry.
+    3. Minimum level is 1.
+    Prevents ValueError in doc.set_toc().
+    """
+    if not toc_entries:
+        return []
+    
+    normalized = []
+    prev_lvl = 0
+    for lvl, title, page in toc_entries:
+        try:
+            lvl_val = max(1, int(lvl))
+        except (ValueError, TypeError):
+            lvl_val = 1
+
+        if not normalized:
+            lvl_val = 1
+        else:
+            if lvl_val > prev_lvl + 1:
+                lvl_val = prev_lvl + 1
+        normalized.append([lvl_val, str(title).strip(), int(page)])
+        prev_lvl = lvl_val
+    return normalized
+
+
 def inject_toc(
     input_pdf: Path,
     output_pdf: Path,
@@ -208,7 +237,7 @@ def inject_toc(
     roman_end: Optional[int] = None,
     arabic_start: Optional[int] = None,
     export_toc_txt: Optional[Path] = None,
-) -> Path:
+) -> int:
     if not input_pdf.is_file():
         raise FileNotFoundError(f"Input PDF not found: {input_pdf}")
 
@@ -240,7 +269,7 @@ def inject_toc(
         doc.set_page_labels(labels)
         print(f"[inject_toc] Set page labels: Roman 1–{roman_end}, Arabic {arabic_start}–{total_pages}")
 
-    # 3. Validate and Set TOC
+    # 3. Validate, Normalize and Set TOC
     valid_toc = []
     for entry in toc_data:
         lvl, name, page_num = entry[0], entry[1], entry[2]
@@ -249,8 +278,13 @@ def inject_toc(
             continue
         valid_toc.append([lvl, name, page_num])
 
-    doc.set_toc(valid_toc)
-    print(f"[inject_toc] Injected {len(valid_toc)} hierarchical TOC entries.")
+    valid_toc = normalize_toc_hierarchy(valid_toc)
+
+    if valid_toc:
+        doc.set_toc(valid_toc)
+        print(f"[inject_toc] Injected {len(valid_toc)} hierarchical TOC entries.")
+    else:
+        print("[inject_toc] Warning: Injected 0 hierarchical TOC entries.")
 
     # 4. Save 1:1 preserving existing images and fonts
     output_pdf.parent.mkdir(parents=True, exist_ok=True)
@@ -285,7 +319,7 @@ def inject_toc(
         except Exception as e:
             print(f"[inject_toc] Warning: Could not export TOC artifact {export_toc_txt}: {e}", file=sys.stderr)
 
-    return output_pdf
+    return len(valid_toc)
 
 
 def extract_toc_from_book_json(book_json_path: Path) -> Tuple[List[List[Any]], Dict[str, Any]]:
@@ -338,6 +372,8 @@ def main() -> int:
     parser.add_argument("--keywords", help="Document Keywords metadata")
     parser.add_argument("--roman-end", type=int, help="Last page of Roman numerals (1-indexed)")
     parser.add_argument("--arabic-start", type=int, help="First page of Arabic numerals (1-indexed)")
+    parser.add_argument("--require-toc", action="store_true",
+                        help="Fail with exit code 1 if no TOC entries were injected")
 
     args = parser.parse_args()
 
@@ -409,7 +445,9 @@ def main() -> int:
         subject = subject or bj_meta.get("subject")
 
     if not toc_data and not title and not author and roman_end is None and arabic_start is None:
-        print("[inject_toc] No TOC or metadata specified or found; leaving PDF unchanged.")
+        print("[inject_toc] Warning: No TOC or metadata specified or found; leaving PDF unchanged.")
+        if args.require_toc:
+            return 1
         return 0
 
     out_path = args.output or args.input
@@ -422,7 +460,7 @@ def main() -> int:
         else:
             export_txt_path = out_path.with_suffix(".toc.txt")
 
-    inject_toc(
+    injected_count = inject_toc(
         input_pdf=args.input,
         output_pdf=out_path,
         toc_data=toc_data,
@@ -434,6 +472,9 @@ def main() -> int:
         arabic_start=arabic_start,
         export_toc_txt=export_txt_path,
     )
+    if args.require_toc and injected_count == 0:
+        print("[inject_toc] Error: --require-toc was set but 0 TOC entries were injected.", file=sys.stderr)
+        return 1
     return 0
 
 
