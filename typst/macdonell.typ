@@ -2,68 +2,69 @@
 // Oxford Clarendon Press 1916 Strict 1:1 Page-Accurate Typeset
 #set document(title: "A Vedic Grammar for Students", author: "Arthur Anthony Macdonell")
 
+// Crown Octavo (128mm x 190mm)
 #set page(
   width: 128mm,
   height: 190mm,
-  margin: (inside: 14mm, outside: 15mm, top: 11mm, bottom: 12mm),
+  margin: (inside: 16mm, outside: 18mm, top: 14mm, bottom: 15mm),
   header: none,
   footer: none
 )
 
 #set text(
   font: ("Libertinus Serif", "Times New Roman", "Devanagari MT", "Noto Sans Devanagari"),
-  size: 8.5pt,
+  size: 9.5pt,
   lang: "en",
   hyphenate: true
 )
 
 #set par(
   justify: true,
-  leading: 0.35em,
-  first-line-indent: 1.1em
+  leading: 0.48em,
+  first-line-indent: 1.2em
 )
 
-#set block(spacing: 0.22em)
+#set block(spacing: 0.42em)
 
 // Running header function per page
 #let folio(left-txt, center-txt, right-txt) = [
-  #block(width: 100%, inset: (bottom: 0.16cm))[
+  #block(width: 100%, inset: (bottom: 0.25cm))[
     #grid(
       columns: (1fr, auto, 1fr),
       align: (left, center, right),
-      [#text(size: 8pt)[#left-txt]],
-      [#text(size: 8pt)[#smallcaps[#center-txt]]],
-      [#text(size: 8pt)[#right-txt]]
+      [#text(size: 8pt, font: ("Libertinus Serif", "Times New Roman"))[#left-txt]],
+      [#text(size: 8pt, font: ("Libertinus Serif", "Times New Roman"))[#smallcaps[#center-txt]]],
+      [#text(size: 8pt, font: ("Libertinus Serif", "Times New Roman"))[#right-txt]]
     )
   ]
 ]
 
+// Original page anchor in outer margin
+#let orig-page(p, is_even: false) = {
+  let dx_val = if is_even { -1.35cm } else { 1.35cm }
+  let align_dir = if is_even { left } else { right }
+  place(align_dir, dx: dx_val)[
+    #text(size: 6.8pt, fill: rgb("#78716c"), weight: "regular")[#("[p. " + p + "]")]
+  ]
+}
+
 // Footnote block at bottom of page
 #let page-footnotes(fn-list) = [
-  #v(0.15em)
+  #v(1fr)
   #line(length: 3.5cm, stroke: 0.4pt + luma(120))
-  #v(1.0pt)
-  #block(spacing: 0.10em)[
-    #set text(size: 6.5pt)
-    #set par(leading: 0.26em, first-line-indent: 0pt, hanging-indent: 0.8em)
+  #v(2pt)
+  #block(spacing: 0.3em)[
+    #set text(size: 7.2pt)
+    #set par(leading: 0.42em, first-line-indent: 0pt, hanging-indent: 1.0em)
     #for fn in fn-list [
       #fn \
     ]
   ]
 ]
 
-// Auto-fit function ensuring strict 1:1 single physical page containment (clearance 162.0mm)
-#let fit-page(body) = context {
-  let m = measure(body)
-  if m.height > 162.0mm {
-    let factor = (160.5mm / m.height) * 100%
-    scale(x: factor, y: factor, origin: top + left, reflow: false)[#body]
-  } else {
-    body
-  }
-}
-
 // ========================================== PAGE 5 (Book p. i) ==========================================
+
+#v(0.4cm)
 
 #align(center)[
   #v(0.8cm)
@@ -109,6 +110,8 @@
 
 // ========================================== PAGE 6 (Book p. ii) ==========================================
 
+#v(0.4cm)
+
 #align(center + bottom)[
   #text(size: 8pt, fill: rgb("#334155"))[
     #smallcaps[Oxford University Press]\
@@ -127,125 +130,113 @@
 
 // ========================================== PAGE 7 (Book p. iii) ==========================================
 
-#fit-page[
-#v(0.25cm)
+#v(0.4cm)
 
-#v(0.35em)
-#align(center)[#text(size: 9.5pt, weight: "bold", tracking: 0.06em)[PREFACE]]
-#v(0.18em)
+#v(0.6cm)
+#align(center)[#text(size: 13pt, weight: "bold", tracking: 0.08em)[PREFACE]]
+#v(0.4cm)
+*A* #smallcaps[Practical] Vedic grammar has long been a desideratum. It is one of the chief aids to the study of the hymns of the Veda called for forty-three years ago in the preface to his edition of the Rigveda by Max Müller, who adds, 'I doubt not that the time will come when no one in India will call himself a Sanskrit scholar who cannot construe the hymns of the ancient Rishis of his country'. It is mainly due to the lack of such a work that the study of Vedic literature, despite its great linguistic and religious importance, has never taken its proper place by the side of the study of Classical Sanskrit either in England or India. Whitney's excellent Sanskrit Grammar, indeed, treats the earlier language in its historical connexion with the later, but for this very reason students are, as I have often been assured, unable to acquire from it a clear knowledge of either the one or the other, because beginners cannot keep the two dialects apart in the process of learning. Till the publication of my large Vedic Grammar in 1910, no single work comprehensively presented the early language by itself. That work is, however, too extensive and detailed for the needs of the student, being intended rather as a book of reference for the scholar. Hence I have often been urged to bring out a short practical grammar which would do for the Vedic language what my Sanskrit Grammar for Beginners does for the Classical language. In the second edition (1911) of the latter work I therefore pledged myself to
 
-A PRACTICAL Vedic grammar has long been a desideratum. It is one of the chief aids to the study of the hymns of the Veda called for forty-three years ago in the preface to his edition of the Rigveda by Max Müller, who adds, 'I doubt not that the time will come when no one in India will call himself a Sanskrit scholar who cannot construe the hymns of the ancient Rishis of his country'. It is mainly due to the lack of such a work that the study of Vedic literature, despite its great linguistic and religious importance, has never taken its proper place by the side of the study of Classical Sanskrit either in England or India. Whitney's excellent Sanskrit Grammar, indeed, treats the earlier language in its historical connexion with the later, but for this very reason students are, as I have often been assured, unable to acquire from it a clear knowledge of either the one or the other, because beginners cannot keep the two dialects apart in the process of learning. Till the publication of my large Vedic Grammar in 1910, no single work comprehensively presented the early language by itself. That work is, however, too extensive and detailed for the needs of the student, being intended rather as a book of reference for the scholar. Hence I have often been urged to bring out a short practical grammar which would do for the Vedic language what my Sanskrit Grammar for Beginners does for the Classical language. In the second edition (1911) of the latter work I therefore pledged myself to
 
-]
 
 
 #pagebreak()
 
 // ========================================== PAGE 8 (Book p. iv) ==========================================
 
-#fit-page[
 #folio("iv", "PREFACE", "")
-#block(spacing: 0.28em)[
+
+#block(spacing: 0.42em)[
   #set par(first-line-indent: 0pt)
-  iv
+  meet this demand as soon as I could. The present volume redeems that pledge.
 ]
-
-PREFACE
-
-meet this demand as soon as I could. The present volume redeems that pledge.
 
 When planning the book I resolved, after much reflection, to make it correspond paragraph by paragraph to the Sanskrit Grammar, this being the best way to enable students to compare and contrast every phenomenon of the earlier and the later language. To this extent the present book presupposes the other; but it can quite well be used independently. The experience of many years' teaching, however, leads me to dissuade beginners from starting the study of Sanskrit by means of the present grammar. Students should, in my opinion, always commence with classical Sanskrit, which is more regular and definite, as well as much more restricted in the number of its inflexional forms. A good working knowledge of the later language should therefore be acquired before taking up Vedic grammar, which can then be rapidly learned.
 
 In carrying out the parallelism of this grammar with the other I have experienced a good deal of difficulty in numbering the corresponding paragraphs satisfactorily, because certain groups of matter are found exclusively in the Vedic language, as the numerous subjunctive forms, or much more fully, as the dozen types of infinitive compared with only one in Sanskrit; while some Sanskrit formations, as the periphrastic future, are non-existent in the earlier language. Nevertheless, I have, I think, succeeded in arranging the figures in such a way that the corresponding paragraphs of the two grammars can always be easily compared. The only exception is the first chapter, consisting of fifteen paragraphs, which in the Sanskrit Grammar deals with the Nāgarī alphabet. As the present work throughout uses transliteration only, it seemed superfluous to repeat the description of the letters given in the earlier work. I have accordingly substituted a general phonetic
 
-]
+
 
 
 #pagebreak()
 
 // ========================================== PAGE 9 (Book p. v) ==========================================
 
-#fit-page[
 #folio("", "PREFACE", "v")
-PREFACE
 
-v
-
-survey of Vedic sounds as enabling the student to understand clearly the linguistic history of Sanskrit. The employment of transliteration has been necessary because by this means alone could analysis by hyphens and accentuation be adequately indicated. Duplication with Nāgarī characters, as in the Sanskrit Grammar, would have increased the size and the cost of the book without any compensating advantage. An account of the accent, as of vital importance in Vedic grammar, would naturally have found a place in the body of the book, but owing to the entire absence of this subject in the Sanskrit Grammar and to the fulness which its treatment requires, its introduction there was impossible. The accent is accordingly dealt with in Appendix III as a substitute for the 'Chief Peculiarities of Vedic Grammar' appearing at the end of the Sanskrit Grammar.
+#block(spacing: 0.42em)[
+  #set par(first-line-indent: 0pt)
+  survey of Vedic sounds as enabling the student to understand clearly the linguistic history of Sanskrit. The employment of transliteration has been necessary because by this means alone could analysis by hyphens and accentuation be adequately indicated. Duplication with Nāgarī characters, as in the Sanskrit Grammar, would have increased the size and the cost of the book without any compensating advantage. An account of the accent, as of vital importance in Vedic grammar, would naturally have found a place in the body of the book, but owing to the entire absence of this subject in the Sanskrit Grammar and to the fulness which its treatment requires, its introduction there was impossible. The accent is accordingly dealt with in Appendix III as a substitute for the 'Chief Peculiarities of Vedic Grammar' appearing at the end of the Sanskrit Grammar.
+]
 
 The term Vedic is here used to comprehend not only the metrical language of the hymns, but also the prose of the Brāhmaṇas and of the Brāhmaṇa-like portions of the Atharvaveda and of various recensions of the Yajurveda. The grammatical material from the later period is mainly given in small type, and is in any case regularly indicated by the addition of the letter B (for Brāhmaṇa). Otherwise the phase of the earlier language presented is that of the Rigveda, as being both the oldest and furnishing the most abundant material. But forms from the other Vedas are often also supplied without any distinguishing mark as long as they conform to the standard of the Rigveda. If, however, such forms are in any way abnormal, or if it seemed advisable to point out that they do not come from the Rigveda, this is indicated by an added abbreviation in brackets, as '(AV.)' for '(Atharvaveda).' On the other hand '(RV.)' is sometimes added in order to indicate, for some reason or other, that a form is restricted to the Rigveda. It is, of course, impossible to go much into detail thus in
 
-]
+
 
 
 #pagebreak()
 
 // ========================================== PAGE 10 (Book p. vi) ==========================================
 
-#fit-page[
 #folio("vi", "PREFACE", "")
-#block(spacing: 0.28em)[
+
+#block(spacing: 0.42em)[
   #set par(first-line-indent: 0pt)
-  vi
+  a practical work; but the exact source of any particular form can always be ascertained by reference to the large Vedic Grammar. The grammatical usage of the other Vedas, when it differs from that of the Rigveda, is regularly explained. The reference is given with precise figures when syntactical examples are taken from the Rigveda, but with abbreviations only (as TS. for Taittirīya Saṃhitā or ŚB. for Śatapatha Brāhmaṇa) when they come from elsewhere. Syntactical citations are not always metrically intact because words that are unnecessary to illustrate the usage in question are often omitted. The accent in verbal forms that happen to occur in Vedic texts without it, is nevertheless given if its position is undoubted, but when there is any uncertainty it is left out. In the list of verbs (Appendix I) the third person singular is often given as the typical form even when only other persons actually occur. Otherwise only forms that have been positively noted are enumerated.
 ]
-
-PREFACE
-
-a practical work; but the exact source of any particular form can always be ascertained by reference to the large Vedic Grammar. The grammatical usage of the other Vedas, when it differs from that of the Rigveda, is regularly explained. The reference is given with precise figures when syntactical examples are taken from the Rigveda, but with abbreviations only (as TS. for Taittirīya Saṃhitā or ŚB. for Śatapatha Brāhmaṇa) when they come from elsewhere. Syntactical citations are not always metrically intact because words that are unnecessary to illustrate the usage in question are often omitted. The accent in verbal forms that happen to occur in Vedic texts without it, is nevertheless given if its position is undoubted, but when there is any uncertainty it is left out. In the list of verbs (Appendix I) the third person singular is often given as the typical form even when only other persons actually occur. Otherwise only forms that have been positively noted are enumerated.
 
 I ought to mention that in inflected words final s, r, and d of endings are given in their historical form, not according to the law of allowable finals (§ 27); e.g. dūtās, not dūtāḥ; tásmād, not tásmāt; pitūr, not pitūḥ; but when used syntactically they appear in accordance with the rules of Sandhi; e.g. devānām dūtāḥ; vṛtrāsya vadhāt.
 
 The present book is to a great extent based on my large Vedic Grammar. It is, however, by no means simply an abridgement of that work. For besides being differently arranged, so as to agree with the scheme of the Sanskrit Grammar, it contains much matter excluded from the Vedic Grammar by the limitations imposed on the latter work as one of the volumes of Bühler's Encyclopaedia of Indo-Aryan Research. Thus it adds a full treatment of Vedic Syntax and an account of the Vedic metres. Appendix I, moreover, contains a list of Vedic verbs (similar to that in the Sanskrit Grammar), which though all their forms appear in their
 
-]
+
 
 
 #pagebreak()
 
 // ========================================== PAGE 11 (Book p. vii) ==========================================
 
-#fit-page[
 #folio("", "PREFACE", "vii")
-PREFACE
 
-vii
-
-appropriate place within the body of the Vedic Grammar, are not again presented there in the form of an alphabetical list, as is done here for the benefit of the learner. Having subjected all the verbal forms to a revision, I have classified some doubtful or ambiguous ones more satisfactorily, and added some others which were inadvertently omitted in the large work. Moreover, a full alphabetical list of conjunctive and adverbial particles embracing forty pages and describing the syntactical uses of these words has been added in order to correspond to § 180 of the Sanskrit Grammar. The present work therefore constitutes a supplement to, as well as an abridgement of, the Vedic Grammar, thus in reality setting forth the subject with more completeness as a whole, though in a comparatively brief form, than the larger work. I may add that this grammar is shortly to be followed by a Vedic Reader consisting of selected hymns of the Rigveda and supplying microscopic explanations of every point on which the elementary learner requires information. These two books will, I hope, enable him in a short time to become an independent student of the sacred literature of ancient India.
+#block(spacing: 0.42em)[
+  #set par(first-line-indent: 0pt)
+  appropriate place within the body of the Vedic Grammar, are not again presented there in the form of an alphabetical list, as is done here for the benefit of the learner. Having subjected all the verbal forms to a revision, I have classified some doubtful or ambiguous ones more satisfactorily, and added some others which were inadvertently omitted in the large work. Moreover, a full alphabetical list of conjunctive and adverbial particles embracing forty pages and describing the syntactical uses of these words has been added in order to correspond to § 180 of the Sanskrit Grammar. The present work therefore constitutes a supplement to, as well as an abridgement of, the Vedic Grammar, thus in reality setting forth the subject with more completeness as a whole, though in a comparatively brief form, than the larger work. I may add that this grammar is shortly to be followed by a Vedic Reader consisting of selected hymns of the Rigveda and supplying microscopic explanations of every point on which the elementary learner requires information. These two books will, I hope, enable him in a short time to become an independent student of the sacred literature of ancient India.
+]
 
 For the purposes of this book I have chiefly exploited my own Vedic Grammar (1910), but I have also utilized Delbrück's Altindische Syntax (1888) for syntactical material, and Whitney's Roots (1885) for the verbal forms of the Brāhmaṇa literature. In describing the metres (Appendix II) I have found Oldenberg's Die Hymnen des Rigveda (1888), and Arnold's Vedic Metre (1905) very useful.
 
 I am indebted to Dr. James Morison and to my former pupil, Professor A. B. Keith, for reading all the first proofs with great care, and thus saving me from many misprints that would have escaped my own notice. Professor Keith has also suggested important modifications of some of my grammatical statements. Lastly, I must congratulate
 
-]
+
 
 
 #pagebreak()
 
 // ========================================== PAGE 12 (Book p. viii) ==========================================
 
-#fit-page[
 #folio("viii", "PREFACE", "")
-#block(spacing: 0.28em)[
-  #set par(first-line-indent: 0pt)
-  viii
+
+Mr. J. C. Pembrey, Hon. M.A., Oriental Reader at the Clarendon Press, on having completed the task of reading the final proofs of this grammar, now all but seventy years after correcting Professor H. H. Wilson's #emph[Sanskrit Grammar] in 1847. This is a record in the history of Oriental, and most probably of any, professional proof reading for the press.
+
+
+#v(0.6cm)
+#align(right)[#text(size: 9.5pt, weight: "bold")[A. A. MACDONELL.]]
+#v(0.3cm)
+#block(inset: (left: 0.5cm))[
+  #text(size: 8pt)[
+    #smallcaps[6 Chadlington Road, Oxford.]\
+    #emph[March 30, 1916.]
+  ]
 ]
 
-PREFACE
 
-Mr. J. C. Pembrey, Hon. M.A., Oriental Reader at the Clarendon Press, on having completed the task of reading the final proofs of this grammar, now all but seventy years after correcting Professor H. H. Wilson's #emph[Sanskrit Grammar] in 1847\. This is a record in the history of Oriental, and most probably of any, professional proof reading for the press.
-
-A. A. MACDONELL.
-
-6 CHADLINGTON ROAD, OXFORD.
-
-March 30, 1916\.
-
-]
 
 
 #pagebreak()
 
 // ========================================== PAGE 13 (Book p. ix) ==========================================
+
+#v(0.4cm)
 
 #let leader-step = 1.8em
 #let pnum-width = 3.6em
@@ -319,15 +310,7 @@ March 30, 1916\.
 
 // ========================================== PAGE 14 (Book p. x) ==========================================
 
-#block(width: 100%, inset: (bottom: 0.22cm))[
-  #grid(
-    columns: (1fr, auto, 1fr),
-    align: (left, center, right),
-    [#text(size: 8pt)[x]],
-    [#text(size: 8pt)[#smallcaps[Contents]]],
-    []
-  )
-]
+#folio("x", "CONTENTS", "")
 
 #let leader-step = 1.8em
 #let pnum-width = 3.6em
@@ -409,6 +392,8 @@ March 30, 1916\.
 #pagebreak()
 
 // ========================================== PAGE 15 (Book p. xi) ==========================================
+
+#v(0.4cm)
 
 #align(center)[#text(size: 12pt, weight: "bold", tracking: 0.06em)[LIST OF ABBREVIATIONS]]
 #v(0.35cm)
@@ -513,6 +498,8 @@ March 30, 1916\.
 
 // ========================================== PAGE 16 (Book p. xii) ==========================================
 
+#folio("xii", "CORRECTIONS", "")
+
 #align(center)[#text(size: 12pt, weight: "bold", tracking: 0.06em)[CORRECTIONS]]
 #v(0.35cm)
 
@@ -562,6 +549,7 @@ March 30, 1916\.
 
   „ „ line 34, for (v. 69¹) read (vi. 59¹). \
 
+
 ]
 
 
@@ -569,45 +557,39 @@ March 30, 1916\.
 
 // ========================================== PAGE 17 (Book p. 1) ==========================================
 
-#fit-page[
-#v(0.30cm)
+#v(0.4cm)
+
+#v(0.6cm)
 #align(center)[
-  #text(size: 12.5pt, weight: "bold", tracking: 0.08em)[CHAPTER I]\
-  #v(0.15cm)
-  #text(size: 9.8pt, weight: "bold", tracking: 0.06em)[PHONETIC INTRODUCTION]
+  #text(size: 14pt, weight: "bold", tracking: 0.08em)[CHAPTER I]\
+  #v(0.25cm)
+  #text(size: 11pt, weight: "bold", tracking: 0.06em)[PHONETIC INTRODUCTION]
 ]
-#v(0.30cm)
+#v(0.5cm)
 
-
-#strong[1. Vedic,] or the language of the literature of the Vedas, is represented by two main linguistic strata, in each of which, again, earlier and later phases may be distinguished. The older period is that of the Mantras, the hymns and spells addressed to the gods, which are contained in the various Saṃhitās. Of these the Rigveda, which is the most important, represents the earliest stage. The later period is that of the prose theological treatises called Brāhmaṇas. Linguistically even the oldest of them are posterior to most of the latest parts of the Saṃhitās, approximating to the stage of Classical Sanskrit. But they still retain the use of the subjunctive and employ many different types of the infinitive, while Sanskrit has lost the former and preserves only one single type of the latter. The prose of these works, however, to some extent represents better than the language of the Mantras the normal features of Vedic syntax, which in the latter is somewhat interfered with by the exigences of metre.
+*1. Vedic,* or the language of the literature of the Vedas, is represented by two main linguistic strata, in each of which, again, earlier and later phases may be distinguished. The older period is that of the Mantras, the hymns and spells addressed to the gods, which are contained in the various Saṃhitās. Of these the Rigveda, which is the most important, represents the earliest stage. The later period is that of the prose theological treatises called Brāhmaṇas. Linguistically even the oldest of them are posterior to most of the latest parts of the Saṃhitās, approximating to the stage of Classical Sanskrit. But they still retain the use of the subjunctive and employ many different types of the infinitive, while Sanskrit has lost the former and preserves only one single type of the latter. The prose of these works, however, to some extent represents better than the language of the Mantras the normal features of Vedic syntax, which in the latter is somewhat interfered with by the exigences of metre.
 
 The language of the works forming appendices to the Brāhmaṇas, that is, of the Āraṇyakas and Upaniṣads, forms a transition to that of the Sūtras, which is practically identical with Classical Sanskrit.
 
 The linguistic material of the Rigveda, being more ancient, extensive, and authentic than that of the other Saṃhitās, all of which borrow largely from it, is taken as the basis of this grammar. It is, however, considerably supplemented from the other Saṃhitās. The grammatical forms of the Brāhmaṇas, where they differ from those of Classical Sanskrit, have been indicated in notes, while their syntax
-
-1819
-
-B
-
-]
 
 
 #pagebreak()
 
 // ========================================== PAGE 18 (Book p. 2) ==========================================
 
-#fit-page[
-#folio("2", "PHONETIC INTRODUCTION", "[1-3")
-#block(spacing: 0.28em)[
+#folio("2", "PHONETIC INTRODUCTION", "[1–3")
+
+#block(spacing: 0.42em)[
   #set par(first-line-indent: 0pt)
   is fully dealt with, because it illustrates the construction of sentences better than the metrical hymns of the Vedas.
 ]
 
 
-#strong[2. The] hymns of the Vedas were composed many centuries before the introduction of writing into India, which can hardly have taken place much earlier than 600 B.C. They were handed down till probably long after that event by oral tradition, which has lasted down to the present day. Apart from such tradition, the text of the Saṃhitās has been preserved in manuscripts, the earliest of which, owing to the adverse climatic conditions of India, are scarcely five centuries old. How soon they were first committed to writing, and whether the hymns of the Rigveda were edited in the form of the Saṃhitā and Pada texts with the aid of writing, there seems insufficient evidence to decide; but it is almost inconceivable that voluminous prose works such as the Brāhmaṇas, in particular the Śatapatha Brāhmaṇa, could have been composed and preserved without such aid.¹
+*2. The* hymns of the Vedas were composed many centuries before the introduction of writing into India, which can hardly have taken place much earlier than 600 B.C. They were handed down till probably long after that event by oral tradition, which has lasted down to the present day. Apart from such tradition, the text of the Saṃhitās has been preserved in manuscripts, the earliest of which, owing to the adverse climatic conditions of India, are scarcely five centuries old. How soon they were first committed to writing, and whether the hymns of the Rigveda were edited in the form of the Saṃhitā and Pada texts with the aid of writing, there seems insufficient evidence to decide; but it is almost inconceivable that voluminous prose works such as the Brāhmaṇas, in particular the Śatapatha Brāhmaṇa, could have been composed and preserved without such aid.¹
 
 
-#strong[3. The] sounds of the Vedic language. There are altogether fifty-two sounds, thirteen of which are vocalic and thirty-nine consonantal. They are the following:—
+*3. The* sounds of the Vedic language. There are altogether fifty-two sounds, thirteen of which are vocalic and thirty-nine consonantal. They are the following:—
 
 a. Nine simple vowels: a ā i ī u ū r̥ r̥l̥; four diphthongs: e o ai au.
 
@@ -617,20 +599,24 @@ b. Twenty-two mutes divided into five classes, each of which has its nasal, maki
 
 (β) five palatals: c ch j jh² ñ;
 
+
+
 #page-footnotes((
+
   [¹ The text of the Vedas, with the exception of Aufrecht's and Weber's transliterated editions of the RV. and the TS., is always printed in the Devanāgarī character. The latter having been fully described in my Sanskrit Grammar for Beginners (§§ 4-14), it is unnecessary to repeat what is there stated. It will suffice here to give a summary account of all the sounds of the Vedic language.],
+
   [² This sound is very rare, occurring only once in the RV. and not at all in the AV.],
+
 ))
-]
 
 
 #pagebreak()
 
 // ========================================== PAGE 19 (Book p. 3) ==========================================
 
-#fit-page[
-#folio("3-4]", "THE VOWELS", "3")
-#block(spacing: 0.28em)[
+#folio("3–4]", "THE VOWELS", "3")
+
+#block(spacing: 0.42em)[
   #set par(first-line-indent: 0pt)
   (γ) seven cerebrals¹: ṭ ṭh, ḍ and ḷ,² ḍh and ḷh,² ṇ;
 ]
@@ -650,9 +636,7 @@ f. One pure nasal: ṃ (ṃ) called Anusvāra (after-sound).
 g. Three voiceless spirants: ḥ (Visarjanīya), ḥ (Jihvā-mūlīya), ḥ (Upadhmānīya).
 
 
-#v(0.30em)
-#align(center)[#text(size: 9.0pt, weight: "bold")[4\. a. The simple vowels:]]
-#v(0.18em)
+*4.* _a._ *The simple vowels :*
 
 ă ordinarily represents an original short vowel (IE. ă ĕ ŏ); but it also often replaces an original sonant nasal, representing the reduced form of the unaccented syllables an and am, as sat-ă beside sánt-am being; ga-tá gone beside á-gam-at has gone.
 
@@ -660,50 +644,52 @@ g. Three voiceless spirants: ḥ (Visarjanīya), ḥ (Jihvā-mūlīya), ḥ (Upa
 
 i is ordinarily an original vowel; e. g. div-í (Gk. διϝί) in heaven. It is also frequently the low grade of e and ya; e. g. vid-má (ἴδμεν) we know beside véd-a (οἶδα) I know; náv-iṣṭha newest beside náv-yas newer. It also represents the low grade of radical ā; e. g. śiṣ-ṭá taught beside śās-ti teaches.
 
-ī is an original vowel; e. g. jīv-á living. But it also often represents the low grade of yā; e. g. aś-ī-máhi we would attain beside aś-yám I would attain; or a contraction; e. g. īṣúr they have sped (\= i-iṣ-úr 3\. pl. pf. of iṣ); matí by thought (\= matíā).
+ī is an original vowel; e. g. jīv-á living. But it also often represents the low grade of yā; e. g. aś-ī-máhi we would attain beside aś-yám I would attain; or a contraction; e. g. īṣúr they have sped (\= i-iṣ-úr 3. pl. pf. of iṣ); matí by thought (\= matíā).
 
-P 2
+
 
 #page-footnotes((
+
   [¹ This is much the rarest class of mutes, being scarcely half as common as even the palatals.],
+
   [² These two sounds take the place of ḍ ḍh respectively between vowels in the RV. texts; e. g. ḥe (but ḥya), mīḷhūṣe (but mīḍhván).],
+
 ))
-]
 
 
 #pagebreak()
 
 // ========================================== PAGE 20 (Book p. 4) ==========================================
 
-#fit-page[
 #folio("4", "PHONETIC INTRODUCTION", "[4")
-#block(spacing: 0.28em)[
+
+#block(spacing: 0.42em)[
   #set par(first-line-indent: 0pt)
   u is an original vowel; e. g. mádhu (Gk. μέθν) honey. It is also the low grade of o and va; e. g. yug-á n. yoke beside yóg-a m. yoking; sup-tá asleep beside sváp-na m. sleep.
 ]
 
-ū is an original vowel; e. g. bhrú (ὀ-φρύ-s) f. brow. It is also the low grade of au and vā; e. g. dhū-tá shaken beside dhau-tárī f. shaking; sūd sweeten beside svād enjoy; and often represents a contraction; e. g. ūc-úr \= u -uc-úr they have spoken (3\. pl. pf. of vac); bāhú the two arms \= bāhú-ā.
+ū is an original vowel; e. g. bhrú (ὀ-φρύ-s) f. brow. It is also the low grade of au and vā; e. g. dhū-tá shaken beside dhau-tárī f. shaking; sūd sweeten beside svād enjoy; and often represents a contraction; e. g. ūc-úr \= u -uc-úr they have spoken (3. pl. pf. of vac); bāhú the two arms \= bāhú-ā.
 
 r is a vocalic r, being the low grade of ar and ra; e. g. kr-tá done beside ca-kár-a I have done; grbh-ī-tá seized beside grábh-a m. seizure.
 
 r̄ occurs only in the acc. and gen. pl. m. and f. of ar stems (in which it is the lengthened low grade); e. g. pitṝn, mātṝḥ; pitṝṇām, svásṝṇām.
 
-l is a vocalic l, being the low grade of al, occurring only in a few forms or derivatives of the verb klp (kalp) be in order: cāklpré 3\. pl. pf.; cīklpāti 3\. s. aor. subj.; kípti (VS.) f. arrangement beside kalpasva 2\. s. impv. mid., kálp-a m. pious work.
+l is a vocalic l, being the low grade of al, occurring only in a few forms or derivatives of the verb klp (kalp) be in order: cāklpré 3. pl. pf.; cīklpāti 3. s. aor. subj.; kípti (VS.) f. arrangement beside kalpasva 2. s. impv. mid., kálp-a m. pious work.
 
 b. The diphthongs.
 
-ē and ō stand for the original genuine diphthongs āi āu. They represent (1) the high grade corresponding to the weak grade vowels i and u; e. g. séc-ati pours beside sik-tá poured; bhój-am beside bhúj-am aor. of bhuj enjoy; (2) the result of the coalescence of ā with ī and ū in external and internal Sandhi; e. g. éndra \= ā indra; ó cit \= ā u cit; padé \= padá ī du. n. two steps; bháveta \= bháva īta 3\. s. opt. might be; maghón (\= maghá un) weak stem of maghávan bountiful; (3) e \= az in a few words before d, dh, h; e. g. e-dhí be 2\. s. impv. of as beside ás-ti; o \= az before bh of case-endings, and before y and v of secondary suffixes; e. g. dvéṣo-bhis inst. pl. of dvéṣas n. hatred;
+ē and ō stand for the original genuine diphthongs āi āu. They represent (1) the high grade corresponding to the weak grade vowels i and u; e. g. séc-ati pours beside sik-tá poured; bhój-am beside bhúj-am aor. of bhuj enjoy; (2) the result of the coalescence of ā with ī and ū in external and internal Sandhi; e. g. éndra \= ā indra; ó cit \= ā u cit; padé \= padá ī du. n. two steps; bháveta \= bháva īta 3. s. opt. might be; maghón (\= maghá un) weak stem of maghávan bountiful; (3) e \= az in a few words before d, dh, h; e. g. e-dhí be 2. s. impv. of as beside ás-ti; o \= az before bh of case-endings, and before y and v of secondary suffixes; e. g. dvéṣo-bhis inst. pl. of dvéṣas n. hatred;
 
-]
+
 
 
 #pagebreak()
 
 // ========================================== PAGE 21 (Book p. 5) ==========================================
 
-#fit-page[
-#folio("4-5]", "VOWEL GRADATION", "5")
-#block(spacing: 0.28em)[
+#folio("4–5]", "VOWEL GRADATION", "5")
+
+#block(spacing: 0.42em)[
   #set par(first-line-indent: 0pt)
   duvo-yú wishing to give (beside duvas-yú); sáho-van mighty beside sáhas-vant.
 ]
@@ -711,7 +697,7 @@ b. The diphthongs.
 ai and au etymologically represent āi and āu, as is indicated by the fact that they become āy and āv in Sandhi; e. g. gáv-as cows beside gáu-s; and that the Sandhi of a with e (\= āi) and o (\= āu) is ai and au respectively.
 
 
-#strong[5. Vowel] gradation. Simple vowels are found to interchange in derivation as well as in verbal and nominal inflexion with fuller syllables, or if short also with long vowels. This change is dependent on shift of accent: the fuller or long syllable remains unchanged while it bears the accent, but is reduced to a simple or short vowel when left by the accent. This interchange is termed vowel gradation. Five different series of such gradation may be distinguished.
+*5. Vowel* gradation. Simple vowels are found to interchange in derivation as well as in verbal and nominal inflexion with fuller syllables, or if short also with long vowels. This change is dependent on shift of accent: the fuller or long syllable remains unchanged while it bears the accent, but is reduced to a simple or short vowel when left by the accent. This interchange is termed vowel gradation. Five different series of such gradation may be distinguished.
 
 a. The Guṇa series. Here the accented high grade syllables e, o, ar, al, constituting the fundamental stage and called Guṇa (cp. 17 a) by the native grammarians, interchange with the unaccented low grade syllables i, u, r, l respectively. Beside the Guṇa syllables appear, but much less frequently, the syllables ai, au, ār (āl does not occur), which are called Vṛddhi by the same authorities and may be regarded as a lengthened variety of the Guṇa syllables. Examples are: didés-a has pointed out: diṣ-ṭá pointed out; é-mi I go: i-más we go; āp-nó-mi I obtain: āp-nu-más we obtain; várdhāya to further: vṛdhāya, id.
 
@@ -719,16 +705,16 @@ a. The low grade of both Guṇa and Vṛddhi may be ī, ū, īr, ūr; as bibháy
 
 b. The Samprasāraṇa series. Here the accented high grade syllables ya, va, ra (corresponding to the Guṇa stage e, o, ar) interchange with the unaccented low grade vowels i, u, r; e. g. i-yáj-a I have sacrificed: iṣ-ṭá sacrificed; váṣ-ṭi desires: uś-mási we desire; ja-gráh-a I have seized: ja-gṛh-úr they have seized.
 
-]
+
 
 
 #pagebreak()
 
 // ========================================== PAGE 22 (Book p. 6) ==========================================
 
-#fit-page[
 #folio("6", "PHONETIC INTRODUCTION", "[5")
-#block(spacing: 0.28em)[
+
+#block(spacing: 0.42em)[
   #set par(first-line-indent: 0pt)
   a. Similarly the long syllables yā, vā, rā are reduced to ī, ū, īr; e. g. jyā f. might: jī-yá-te is overcome; brū-yá-t would say: bruv-ī-tá id.; svād-ú sweet: sūd-áya-ti sweetens; drāgh-īyas longer: dīrgh-á long.
 ]
@@ -736,13 +722,13 @@ b. The Samprasāraṇa series. Here the accented high grade syllables ya, va, ra
 c. The ā series.
 
 
-#strong[1. In] its low grade stage a would normally disappear, but as a rule it remains because its loss would in most cases lead to unpronounceable or obscure forms; e. g. ás-ti is: s-ánti they are; ja-gám-a I have gone: ja-gm-úr they have gone; pád-ya-te goes: pi-bd-aná standing firm; hán-ti slays: ghn-ánti they slay.
+*1. In* its low grade stage a would normally disappear, but as a rule it remains because its loss would in most cases lead to unpronounceable or obscure forms; e. g. ás-ti is: s-ánti they are; ja-gám-a I have gone: ja-gm-úr they have gone; pád-ya-te goes: pi-bd-aná standing firm; hán-ti slays: ghn-ánti they slay.
 
 
-#strong[2. The] low grade of the Vṛddhi vowel ā is either a or total loss; e. g. pád m. foot: pad-ā with the foot; dadhā-ti puts: dadh-mási we put; pu-nā-ti purifies: pu-n-ánti they purify; da-dā-ti gives: devá-t-ta given by the gods.
+*2. The* low grade of the Vṛddhi vowel ā is either a or total loss; e. g. pád m. foot: pad-ā with the foot; dadhā-ti puts: dadh-mási we put; pu-nā-ti purifies: pu-n-ánti they purify; da-dā-ti gives: devá-t-ta given by the gods.
 
 
-#strong[3. When] ā represents the Guṇa stage its low grade is normally i; e. g. sthā-s thou hast stood: sthi-tá stood.
+*3. When* ā represents the Guṇa stage its low grade is normally i; e. g. sthā-s thou hast stood: sthi-tá stood.
 
 a. Sometimes it is ī owing to analogy; e. g. pu-nā-ti purifies: pu-nī-hí purify. Sometimes, especially when the low grade syllable has a secondary accent, it is a; e. g. gāh-ate plunges: gāh-ana n. depth.
 
@@ -752,125 +738,128 @@ The low grade of ai (which appears as āy before vowels and ā before consonants
 
 The low grade of au (which is parallel to vā: 5 b a) is ū; e. g. dhāv-ati washes: dhū-tá washed; dhau-tárī f. shaking: dhū-ti m. shaker, dhū-má m. smoke.
 
-e. Secondary shortening of ī, ū, r̥. The low grade syllables ī, ū, īr and ūr (\= r̥) are further reduced to i, u, r, owing to shift of accent from its normal position in a word to its beginning, in compounds, reduplicated forms, and vocatives; e. g. ā-huti f. invocation: -hūti call; dīdi-vi shining: dī-páya kindle; cár-kṛ-ṣe thou commemoratest: kīr-tí f. praise (from root kṝ); pi-pṛ-tám 3\. du.: pūr-tá full (root pṝ); dévi voc.: deví nom. goddess; śvásru voc.: śva-śrú-s nom. mother-in-law.
+e. Secondary shortening of ī, ū, r̥. The low grade syllables ī, ū, īr and ūr (\= r̥) are further reduced to i, u, r, owing to shift of accent from its normal position in a word to its beginning, in compounds, reduplicated forms, and vocatives; e. g. ā-huti f. invocation: -hūti call; dīdi-vi shining: dī-páya kindle; cár-kṛ-ṣe thou commemoratest: kīr-tí f. praise (from root kṝ); pi-pṛ-tám 3. du.: pūr-tá full (root pṝ); dévi voc.: deví nom. goddess; śvásru voc.: śva-śrú-s nom. mother-in-law.
 
-]
+
 
 
 #pagebreak()
 
 // ========================================== PAGE 23 (Book p. 7) ==========================================
 
-#fit-page[
-#folio("6-7]", "THE CONSONANTS", "7")
-
-#v(0.30em)
-#align(center)[#text(size: 9.0pt, weight: "bold")[The Consonants.]]
-#v(0.18em)
+#folio("6–7]", "THE CONSONANTS", "7")
 
 
-#strong[6. The] guttural mutes represent the Indo-European velars (that is, q-sounds). In the combination k-ṣ the guttural is the regular phonetic modification of a palatal before s; e. g. drś see: aor. ádrk-ṣata; vac speak: fut. vak-ṣyáti.
+#v(0.2cm)
+#align(center)[#text(size: 10.5pt, weight: "bold")[The Consonants.]]
+#v(0.2cm)
+
+*6. The* guttural mutes represent the Indo-European velars (that is, q-sounds). In the combination k-ṣ the guttural is the regular phonetic modification of a palatal before s; e. g. drś see: aor. ádrk-ṣata; vac speak: fut. vak-ṣyáti.
 
 
-#strong[7. The] palatals form two series, the earlier and the later.
+*7. The* palatals form two series, the earlier and the later.
 
 a. Original palatals are represented by ch and ś, and to some extent by j and h.
 
 
-#strong[1. The] aspirate ch is derived from an IE. double sound, s+ aspirated palatal mute; e. g. chid cut off \= Gk. σχιδ. But in the inchoative suffix cha it seems to represent s+ unaspirated palatal mute; e. g. gáchā-mi \= Gk. βάσκω.
+*1. The* aspirate ch is derived from an IE. double sound, s+ aspirated palatal mute; e. g. chid cut off \= Gk. σχιδ. But in the inchoative suffix cha it seems to represent s+ unaspirated palatal mute; e. g. gáchā-mi \= Gk. βάσκω.
 
 
-#strong[2. The] sibilant ś represents an IE. palatal (which seems to have been pronounced dialectically either as a spirant or a mute); e. g. śatám 100 \= Lat. centum, Gk. ἐ-κατόν.
+*2. The* sibilant ś represents an IE. palatal (which seems to have been pronounced dialectically either as a spirant or a mute); e. g. śatám 100 \= Lat. centum, Gk. ἐ-κατόν.
 
 
-#strong[3. The] old palatal j (originally the media of ś \= I-Ir. ź, French j) is recognizable by appearing as a cerebral when final or before mutes; e. g. yáj-ati sacrifices beside aor. á-yāṭ has sacrificed, yás-ṭṛ sacrificer, iṣ-ṭá sacrificed.
+*3. The* old palatal j (originally the media of ś \= I-Ir. ź, French j) is recognizable by appearing as a cerebral when final or before mutes; e. g. yáj-ati sacrifices beside aor. á-yāṭ has sacrificed, yás-ṭṛ sacrificer, iṣ-ṭá sacrificed.
 
 
-#strong[4. The] breathing h represents the old palatal aspirate I-Ir. źh. It is recognizable as an old palatal when, either as final or before t, it is replaced by a cerebral; e. g. váh-ati carries beside á-vāṭ has carried.
+*4. The* breathing h represents the old palatal aspirate I-Ir. źh. It is recognizable as an old palatal when, either as final or before t, it is replaced by a cerebral; e. g. váh-ati carries beside á-vāṭ has carried.
 
 b. The new palatals are c and to some extent j and h. They are derived from gutturals (velars), being interchangeable, in most roots and formatives, with gutturals; e. g. śóc-ati shines beside śók-a m. flame, śúk-van flaming, śuk-rá brilliant; yuj-e I yoke beside yug-á n. yoke, yóg-a m. yoking, yuk-tá yoked, -yúg-van yoking; du-dróh-a has injured beside drógh-a injurious.
 
 a. The original gutturals were changed to palatals by the palatal sounds i, ī, y immediately following; e. g. cit-tá noticed beside két-a m. will from cit perceive; ój-īyas stronger beside ug-rá strong; druh-yú, a proper name, beside drógh-a injurious.
 
-]
+
 
 
 #pagebreak()
 
 // ========================================== PAGE 24 (Book p. 8) ==========================================
 
-#fit-page[
-#folio("8", "PHONETIC INTRODUCTION", "[8-10")
-
-#strong[8. The] cerebrals are entirely secondary, being a specifically Indian product and unknown in the Indo-Iranian period. They are probably due to aboriginal, especially Dravidian, influence. They are still rare in the RV., where they never occur initially, but only medially and finally. They have as a rule arisen from dentals immediately following the cerebral ṣ (\= original s, ś, j, h) or r-sounds (r, ṛ, ṝ); e. g. duṣ-ṭára (\= dus-tára) invincible; váṣ-ṭi (\= váś-ti) wishes; mṛṣ-ṭá (\= mrj-tá) cleansed; nīḍá (\= niẓḍá)¹ nest; dū-ḍhí (\= duẓ-ḍhí) ill-disposed; dṛḍhá² (\= dṛh-tá) firm; nṛ-ṇám (\= nṛ-nám) of men.
-
-Final cerebral mutes represent the old palatals j, ś, h; e. g. rāṭ (\= rāj) m. ruler nom. s.; vīpāṭ (\= vī-pāś) f. a river; ṣāṭ (\= sāh) overcoming; á-vāṭ (\= á-vāh-t) has conveyed (3\. s. aor. of vah).
+#folio("8", "PHONETIC INTRODUCTION", "[8–10")
 
 
-#strong[9. a. The] dentals are original sounds, representing the corresponding IE. dentals. The mutes t and d, however, sometimes take the place of original s before s and bh respectively; e. g. á-vāt-sīs (AV.) aor. of vas dwell; mād-bhís inst. pl. of mās month.
+*8. The* cerebrals are entirely secondary, being a specifically Indian product and unknown in the Indo-Iranian period. They are probably due to aboriginal, especially Dravidian, influence. They are still rare in the RV., where they never occur initially, but only medially and finally. They have as a rule arisen from dentals immediately following the cerebral ṣ (\= original s, ś, j, h) or r-sounds (r, ṛ, ṝ); e. g. duṣ-ṭára (\= dus-tára) invincible; váṣ-ṭi (\= váś-ti) wishes; mṛṣ-ṭá (\= mrj-tá) cleansed; nīḍá (\= niẓḍá)¹ nest; dū-ḍhí (\= duẓ-ḍhí) ill-disposed; dṛḍhá² (\= dṛh-tá) firm; nṛ-ṇám (\= nṛ-nám) of men.
+
+Final cerebral mutes represent the old palatals j, ś, h; e. g. rāṭ (\= rāj) m. ruler nom. s.; vīpāṭ (\= vī-pāś) f. a river; ṣāṭ (\= sāh) overcoming; á-vāṭ (\= á-vāh-t) has conveyed (3. s. aor. of vah).
+
+
+*9. a. The* dentals are original sounds, representing the corresponding IE. dentals. The mutes t and d, however, sometimes take the place of original s before s and bh respectively; e. g. á-vāt-sīs (AV.) aor. of vas dwell; mād-bhís inst. pl. of mās month.
 
 b. The labials as a rule represent the corresponding IE. sounds. But b is very rarely inherited; the number of words containing this sound has, however, been greatly increased in various ways. Thus it often replaces p or bh in Sandhi and bh in reduplication; e. g. pi-bd-aná firm beside pad-á n. place; rab-dhá taken beside rábhante they take; ba-bhūva has been from bhū bc. There are also many words containing b which seem to have a foreign origin.
 
 
-#strong[10. The] nasals. Of the five nasals belonging to the corresponding five classes of mutes, only the dental n and the labial m appear independently and in any part of a word,
+*10. The* nasals. Of the five nasals belonging to the corresponding five classes of mutes, only the dental n and the labial m appear independently and in any part of a word,
+
+
 
 #page-footnotes((
+
   [¹ ṣ (\= s or old palatal zh), the soft form of ṣ, has always disappeared after cerebralizing d or dh and lengthening the preceding vowel.],
+
   [² Though written as a short vowel the ṛ is prosodically long.],
+
 ))
-]
 
 
 #pagebreak()
 
 // ========================================== PAGE 25 (Book p. 9) ==========================================
 
-#fit-page[
 #folio("10]", "NASALS", "9")
-#block(spacing: 0.28em)[
+
+#block(spacing: 0.42em)[
   #set par(first-line-indent: 0pt)
   initially, medially, and finally; e. g. mātṛ f. mother, nāman n. name. The remaining three are always dependent on a contiguous sound. The guttural ṅ, the palatal ñ, and the cerebral ṇ are never initial, and the last two are never final. The guttural ṅ appears finally only when a following k or g has been dropped, as in stems ending in ñc or ñj and in those compounded with dṛś; e. g. pratyáṅ nom. s. of pratyáñc facing; kī-dṛṅ nom. s. of kī-dṛś of what kind?
 ]
 
-a. Medially ṅ appears regularly only before gutturals; e. g. aṅká m. hook; aṅkháya embrace; áṅga n. limb; jáṅghā f. leg. Before other consonants it appears only when k or g has been dropped; e. g. yuṅ-dhi for yuṅg-dhi (\= yuñj-dhi) 2\. s. impv. of yuj join.
+a. Medially ṅ appears regularly only before gutturals; e. g. aṅká m. hook; aṅkháya embrace; áṅga n. limb; jáṅghā f. leg. Before other consonants it appears only when k or g has been dropped; e. g. yuṅ-dhi for yuṅg-dhi (\= yuñj-dhi) 2. s. impv. of yuj join.
 
 b. The palatal nasal occurs only before or after c or j, and before ch; e. g. páñca five; yaj-ñá m. sacrifice; váñchantu let them desire.
 
 c. The cerebral ṇ appears within a word only, either before cerebral mutes or replacing dental n after r, r, or ṣ (either immediately preceding or separated from it by certain intervening letters); e. g. daṇḍá m. staff; nṛ-ṇām of men; várṇa m. colour; uṣṇá hot; krámaṇa n. step.
 
-d. The dental n is the commonest of the nasals; it is more frequent than m, and about three times as frequent as the other three taken together. As a rule it represents IE. n; but it also appears in place of the dental d or t, and of labial m before certain suffixes. It is substituted for d before the suffix -na; and for d or t before the m of secondary suffixes; e. g. án-na n. food (from ad eat); vidyún-mant gleaming (vidyút f. lightning); mṛ́n-maya carthen (mṛ́d f. earth). It is substituted for m before t; before suffixal m or v; and before suffixal s or t that have been dropped as final; e. g. yan-trá n. rein (yam restrain); á-gan-ma, gán-vahi (aor. of gam go); á-gan (\= á-gam-s, á-gam-t) 2\. 3\. s. aor. of gam go; á-yān (\= á-yam-s-t) 3\. s. aor. of yam restrain; dán gen. of dám house (\= dam-s).
+d. The dental n is the commonest of the nasals; it is more frequent than m, and about three times as frequent as the other three taken together. As a rule it represents IE. n; but it also appears in place of the dental d or t, and of labial m before certain suffixes. It is substituted for d before the suffix -na; and for d or t before the m of secondary suffixes; e. g. án-na n. food (from ad eat); vidyún-mant gleaming (vidyút f. lightning); mṛ́n-maya carthen (mṛ́d f. earth). It is substituted for m before t; before suffixal m or v; and before suffixal s or t that have been dropped as final; e. g. yan-trá n. rein (yam restrain); á-gan-ma, gán-vahi (aor. of gam go); á-gan (\= á-gam-s, á-gam-t) 2. 3. s. aor. of gam go; á-yān (\= á-yam-s-t) 3. s. aor. of yam restrain; dán gen. of dám house (\= dam-s).
 
-]
+
 
 
 #pagebreak()
 
 // ========================================== PAGE 26 (Book p. 10) ==========================================
 
-#fit-page[
-#folio("10", "PHONETIC INTRODUCTION", "[10-11")
-#block(spacing: 0.28em)[
+#folio("10", "PHONETIC INTRODUCTION", "[10–11")
+
+#block(spacing: 0.42em)[
   #set par(first-line-indent: 0pt)
   e. The labial m as a rule represents IE. m; e. g. nāman, Lat. nomen. It is by far the commonest labial sound, being more frequent than the four labial mutes taken together.
 ]
 
-f. The pure nasal. Distinct from the five class nasals is the pure nasal, variously called Anusvāra and Anunāsika, which always follows a vowel and is formed by the breath passing through the nose unmodified by the influence of any consonant. The former is usually written with a dot before consonants, the latter as ʷ before vowels. The proper use of Anusvāra is not before mutes, but before sibilants and h (which have no class nasal). When final, Anusvāra usually represents m, sometimes n (66 A 2). Medially Anusvāra regularly appears before sibilants and h; e. g. vaṃśá m. reed; haviṃṣi offerings; māṃśá n. flesh; siṃhá m. lion. It usually appears before s, where it always represents m or n; e. g. māṃsate 3\. s. subj. aor. of man think; piṃṣanti beside pináṣṭi from piṣ crush; kraṃsyáte fut. of kram stride. When Anusvāra appears before ś or h (\= IE. guttural or palatal) it represents the corresponding class nasal.
+f. The pure nasal. Distinct from the five class nasals is the pure nasal, variously called Anusvāra and Anunāsika, which always follows a vowel and is formed by the breath passing through the nose unmodified by the influence of any consonant. The former is usually written with a dot before consonants, the latter as ʷ before vowels. The proper use of Anusvāra is not before mutes, but before sibilants and h (which have no class nasal). When final, Anusvāra usually represents m, sometimes n (66 A 2). Medially Anusvāra regularly appears before sibilants and h; e. g. vaṃśá m. reed; haviṃṣi offerings; māṃśá n. flesh; siṃhá m. lion. It usually appears before s, where it always represents m or n; e. g. māṃsate 3. s. subj. aor. of man think; piṃṣanti beside pináṣṭi from piṣ crush; kraṃsyáte fut. of kram stride. When Anusvāra appears before ś or h (\= IE. guttural or palatal) it represents the corresponding class nasal.
 
 
-#strong[11. The] semivowels. The semivowels y, r, l, v are peculiar in having each a vowel corresponding to it, viz. i, ṛ, ḷ, u respectively. They are called anta(ḥ)sthā in the Prātiśākhyas, or 'intermediate', as standing midway between vowels and consonants.
+*11. The* semivowels. The semivowels y, r, l, v are peculiar in having each a vowel corresponding to it, viz. i, ṛ, ḷ, u respectively. They are called anta(ḥ)sthā in the Prātiśākhyas, or 'intermediate', as standing midway between vowels and consonants.
 
-a. The semivowel y is constantly written for i before other vowels within the Veda itself. It also sometimes appears without etymological justification, especially after roots in -ā, before vowel suffixes; e. g. dā-y-i 3\. s. aor. pass. of dā give. Otherwise it is based either on IE. i (\= Gk. spiritus asper) or voiced palatal spirant y (\= Gk. ζ); e. g. yá-s who (Gk. ō-s), yaj sacrifice (Gk. āγ-ros); but yas boil (Gk. ζέω), yuj yoke (Gk. ζυγ-). It is probably due to this difference of origin that yas boil and yam restrain reduplicate with ya in the perfect, but yaj sacrifice with i.
+a. The semivowel y is constantly written for i before other vowels within the Veda itself. It also sometimes appears without etymological justification, especially after roots in -ā, before vowel suffixes; e. g. dā-y-i 3. s. aor. pass. of dā give. Otherwise it is based either on IE. i (\= Gk. spiritus asper) or voiced palatal spirant y (\= Gk. ζ); e. g. yá-s who (Gk. ō-s), yaj sacrifice (Gk. āγ-ros); but yas boil (Gk. ζέω), yuj yoke (Gk. ζυγ-). It is probably due to this difference of origin that yas boil and yam restrain reduplicate with ya in the perfect, but yaj sacrifice with i.
 
-]
+
 
 
 #pagebreak()
 
 // ========================================== PAGE 27 (Book p. 11) ==========================================
 
-#fit-page[
 #folio("11]", "SEMIVOWELS", "11")
-#block(spacing: 0.28em)[
+
+#block(spacing: 0.42em)[
   #set par(first-line-indent: 0pt)
   b. The semivowel v is constantly written for u before other vowels within the Veda itself. Otherwise it seems always to be based on IE. u, that is, on a v interchangeable with u, but never on an IE. spirant v not interchangeable with u.
 ]
@@ -883,16 +872,16 @@ a. Metathesis of r takes place when ār would be followed by ṣ or h + consonan
 
 d. The semivowel l represents IE. l and in a few instances IE. r. It is rarer than in any cognate language except Old Iranian, in which it does not occur at all. It is much rarer than r, which is seven times as frequent. A gradual increase of l is apparent in the RV.; thus in the tenth book are found the verbs mluc and labh, and the nouns lóman, lohitá, which in the earlier books appear as mruc sink, rabh seize, róman n. hair, rohitá red. This letter occurs eight times as often in the latest parts of the RV. as in the oldest; and it is seven times as common in the AV. as in the RV. It seems likely that the recorded Vedic dialect
 
-]
+
 
 
 #pagebreak()
 
 // ========================================== PAGE 28 (Book p. 12) ==========================================
 
-#fit-page[
-#folio("12", "PHONETIC INTRODUCTION", "[11-12")
-#block(spacing: 0.28em)[
+#folio("12", "PHONETIC INTRODUCTION", "[11–12")
+
+#block(spacing: 0.42em)[
   #set par(first-line-indent: 0pt)
   was descended from an Indo-Iranian one in which rhotacism had removed every 1; but that there must have been another Vedic dialect in which IE. r and l were kept distinct, and a third in which IE. r became l throughout; from the latter two l must have found its way into the literary language to an increasing extent. In the oldest parts of the RV. there are no verbal forms preserving IE. l, and only a few nouns: (u)loká m. free space, śloka m. call, and -miśla mixed.
 ]
@@ -900,65 +889,65 @@ d. The semivowel l represents IE. l and in a few instances IE. r. It is rarer th
 a. In the later Saṃhitās l occasionally occurs both medially and finally for ḍ; e. g. íle (VS. Kaṇva) \= íḍe (RV. íḷe); bál iti (AV.), cf. RV. bál itthá. In a good many words l is probably of foreign origin.
 
 
-#strong[12. The] sibilants are all voiceless, but there are various traces of the earlier existence of voiced sibilants (cp. 7 a 3; 8; 15, 2 k). There is a considerable interchange between the sibilants, chiefly as a result of assimilation.
+*12. The* sibilants are all voiceless, but there are various traces of the earlier existence of voiced sibilants (cp. 7 a 3; 8; 15, 2 k). There is a considerable interchange between the sibilants, chiefly as a result of assimilation.
 
-a. The palatal sibilant ś represents an IE. palatal (mute or spirant). Besides being the regular substitute for dental s in external Sandhi before voiceless palatals (e. g. índraś ca), it occasionally represents that sibilant within words by assimilation; e. g. śváśura (Lat. socer) father-in-law; śaśá (IE. kasó) m. hare. Sometimes this substitution takes place, without assimilation, under the influence of allied words, as in kéśa m. hair beside késara (Lat. caesarics). It is also to some extent confused with the other two sibilants in the Saṃhitās, but here it interchanges much oftener with s than with ṣ. Before s the palatal ś becomes k, regularly when medial, sometimes when final; e. g. dṛk-ṣ-a-se 2\. s. aor. subj. mid., and -dṛk\[s\] nom. s. from drś sce.
+a. The palatal sibilant ś represents an IE. palatal (mute or spirant). Besides being the regular substitute for dental s in external Sandhi before voiceless palatals (e. g. índraś ca), it occasionally represents that sibilant within words by assimilation; e. g. śváśura (Lat. socer) father-in-law; śaśá (IE. kasó) m. hare. Sometimes this substitution takes place, without assimilation, under the influence of allied words, as in kéśa m. hair beside késara (Lat. caesarics). It is also to some extent confused with the other two sibilants in the Saṃhitās, but here it interchanges much oftener with s than with ṣ. Before s the palatal ś becomes k, regularly when medial, sometimes when final; e. g. dṛk-ṣ-a-se 2. s. aor. subj. mid., and -dṛk\[s\] nom. s. from drś sce.
 
-b. The cerebral ṣ is, like the cerebral mutes, altogether secondary, always representing either an original palatal or an original dental sibilant. Medially it represents the palatals ś (\= I-Ir. ś) and j (\= I-Ir. ź) and the combination kṣ before the cerebral tenues ṭ ṭh (themselves produced from dental tenues by this ṣ); e. g. naṣ-ṭá from naś be lost; mṛṣ-ṭa 3\. s. impf., from mrj wipe; taṣ-ṭá from takṣ hew.
+b. The cerebral ṣ is, like the cerebral mutes, altogether secondary, always representing either an original palatal or an original dental sibilant. Medially it represents the palatals ś (\= I-Ir. ś) and j (\= I-Ir. ź) and the combination kṣ before the cerebral tenues ṭ ṭh (themselves produced from dental tenues by this ṣ); e. g. naṣ-ṭá from naś be lost; mṛṣ-ṭa 3. s. impf., from mrj wipe; taṣ-ṭá from takṣ hew.
 
-]
+
 
 
 #pagebreak()
 
 // ========================================== PAGE 29 (Book p. 13) ==========================================
 
-#fit-page[
-#folio("12-14]", "BREATHING H—SPIRANTS", "13")
-Medially it is regularly, and initially very frequently, substituted for dental s after vowels other than ă and after the consonants k, r, ş; e. g. tişthati from sthā stand; su-şup-ur 3\. pl. pf. from svap sleep; rşabhá m. bull; ukşán m. ox; varşá n. rain; haviş-şu in oblations; ánu ştuvanti they praise; go-şáni winning cattle; diví şán being in heaven.
+#folio("12–14]", "BREATHING H—SPIRANTS", "13")
+
+Medially it is regularly, and initially very frequently, substituted for dental s after vowels other than ă and after the consonants k, r, ş; e. g. tişthati from sthā stand; su-şup-ur 3. pl. pf. from svap sleep; rşabhá m. bull; ukşán m. ox; varşá n. rain; haviş-şu in oblations; ánu ştuvanti they praise; go-şáni winning cattle; diví şán being in heaven.
 
 Occasionally ş represents dental s as a result of assimilation; e. g. şás six (Lat. sex); şat victorious nom. s. from sáh overcoming.
 
 c. The dental s as a rule represents IE. s; e. g. áśva-s horse, Lat. equo-s; ás-ti, Gk. śσ-τι. In Sandhi it is often replaced by the palatal ś and still oftener by the cerebral ş.
 
 
-#strong[13. The] breathing h is a secondary sound representing as a rule the second half of an original guttural or palatal aspirate, but occasionally of the dental dh and the labial bh. It usually stands for palatalized gh, this origin being recognizable by the appearance of the guttural in cognate forms; e. g. hán-ti strikes beside ghn-ánti, jaghána; dudróha has injured beside drógha injurious. It sometimes represents an old palatal aspirate (\= I-Ir. źh), as is recognizable by its being replaced as final or before t by a cerebral; e. g. váh-ati carries beside á-vāṭ has carried, ūḍhá (\= uz-ḍhá) for vah-tá. It stands for dh e. g. in gāh-ate plunges beside gādhá n. ford; hi-tá placed beside dhi-tá from dhā put. It represents bh in the verb grah seize beside grabh. The various origins of h led to a certain amount of confusion in the groups of forms from roots containing that sound. Thus beside mugdhá, the phonetic past participle of muh be confused, appears mūḍhá (AV.) bewildered.
+*13. The* breathing h is a secondary sound representing as a rule the second half of an original guttural or palatal aspirate, but occasionally of the dental dh and the labial bh. It usually stands for palatalized gh, this origin being recognizable by the appearance of the guttural in cognate forms; e. g. hán-ti strikes beside ghn-ánti, jaghána; dudróha has injured beside drógha injurious. It sometimes represents an old palatal aspirate (\= I-Ir. źh), as is recognizable by its being replaced as final or before t by a cerebral; e. g. váh-ati carries beside á-vāṭ has carried, ūḍhá (\= uz-ḍhá) for vah-tá. It stands for dh e. g. in gāh-ate plunges beside gādhá n. ford; hi-tá placed beside dhi-tá from dhā put. It represents bh in the verb grah seize beside grabh. The various origins of h led to a certain amount of confusion in the groups of forms from roots containing that sound. Thus beside mugdhá, the phonetic past participle of muh be confused, appears mūḍhá (AV.) bewildered.
 
 
-#strong[14. Voiceless] spirants. There are three such representing original final s or r. Visarjanīya has its proper place in pausā. Jihvāmūlīya (formed at the root of the tongue) is the guttural spirant and is appropriate before initial voiceless
+*14. Voiceless* spirants. There are three such representing original final s or r. Visarjanīya has its proper place in pausā. Jihvāmūlīya (formed at the root of the tongue) is the guttural spirant and is appropriate before initial voiceless
 
-]
+
 
 
 #pagebreak()
 
 // ========================================== PAGE 30 (Book p. 14) ==========================================
 
-#fit-page[
-#folio("14", "PHONETIC INTRODUCTION", "[14-15")
-#block(spacing: 0.28em)[
+#folio("14", "PHONETIC INTRODUCTION", "[14–15")
+
+#block(spacing: 0.42em)[
   #set par(first-line-indent: 0pt)
   gutturals (k, kh). Upadhmānīya (on-breathing) is the bi-labial spirant f and appears before voiceless labials (p, ph). Visarjanīya may take the place of the latter two, and always does so in the printed texts of the Saṃhitās.
 ]
 
 
-#strong[15. Ancient] pronunciation. As regards the pronunciation prevailing about 500 B.C. we have a sufficiently exact knowledge derived from the transcription of Sanskrit words in foreign languages, especially Greek; from the information contained in the old grammarians, Pāṇini and his school; and especially from the detailed statements of the Prātiśākhyas, the ancient phonetic works dealing with the Saṃhitās. The internal evidence supplied by the phonetic changes occurring in the language of the texts themselves and the external evidence of comparative philology justify us in concluding that the pronunciation in the period of the Saṃhitās was practically the same as in Pāṇini's time. The only possible exceptions are a very few doubtful points. The following few remarks will therefore suffice on the subject of pronunciation:
+*15. Ancient* pronunciation. As regards the pronunciation prevailing about 500 B.C. we have a sufficiently exact knowledge derived from the transcription of Sanskrit words in foreign languages, especially Greek; from the information contained in the old grammarians, Pāṇini and his school; and especially from the detailed statements of the Prātiśākhyas, the ancient phonetic works dealing with the Saṃhitās. The internal evidence supplied by the phonetic changes occurring in the language of the texts themselves and the external evidence of comparative philology justify us in concluding that the pronunciation in the period of the Saṃhitās was practically the same as in Pāṇini's time. The only possible exceptions are a very few doubtful points. The following few remarks will therefore suffice on the subject of pronunciation:
 
 
-#strong[1. a. The] vowels. The simple vowels ĩ, ū and ā were pronounced as in Italian. But ă in the time of the Prātiśākhyas was already sounded as a very short close neutral vowel like the u in English but. It is, however, probable from the fact that the metre hardly ever admits of ă being elided after e and o in the RV., though the written text drops it in about 75 per cent. of the occurrences, that at the time when the hymns were composed the pronunciation of ă was still open, but that, at the time when the Saṃhitā text was constituted, the close pronunciation was already becoming general.
+*1. a. The* vowels. The simple vowels ĩ, ū and ā were pronounced as in Italian. But ă in the time of the Prātiśākhyas was already sounded as a very short close neutral vowel like the u in English but. It is, however, probable from the fact that the metre hardly ever admits of ă being elided after e and o in the RV., though the written text drops it in about 75 per cent. of the occurrences, that at the time when the hymns were composed the pronunciation of ă was still open, but that, at the time when the Saṃhitā text was constituted, the close pronunciation was already becoming general.
 
 The vowel ṙ, now usually sounded as rī (an early pronunciation as shown by the confusion of ṙ and rī in ancient inscriptions and MSS.), was in the Saṃhitās pronounced as a vocalic r, somewhat like the sound in the final syllable of the French chambre. It is described in the RV. Prātiśākhya
 
-]
+
 
 
 #pagebreak()
 
 // ========================================== PAGE 31 (Book p. 15) ==========================================
 
-#fit-page[
 #folio("15]", "PRONUNCIATION", "15")
-#block(spacing: 0.28em)[
+
+#block(spacing: 0.42em)[
   #set par(first-line-indent: 0pt)
   as containing an r in the middle. This agrees with ərə, the equivalent of r in Old Iranian.
 ]
@@ -973,20 +962,24 @@ c. Lengthened vowels. The vowels i and u were often pronounced long before suffi
 
 d. Svarabhakti.¹ When a consonant is in conjunction with r or a nasal, the metre shows that a very short vowel² must often be pronounced between them; e. g. índra \= índara; yajñá \= yajⁿná sacrifice; gnā \= gⁿná woman.
 
+
+
 #page-footnotes((
+
   [¹ A term used in the Prātiśākhyas and meaning 'vowel-part'.],
+
   [² Described by the Prātiśākhyas as equal to 1/6, 1/4, or 1/2 mora in length and generally as equivalent to a in sound.],
+
 ))
-]
 
 
 #pagebreak()
 
 // ========================================== PAGE 32 (Book p. 16) ==========================================
 
-#fit-page[
 #folio("16", "PHONETIC INTRODUCTION", "[15")
-#block(spacing: 0.28em)[
+
+#block(spacing: 0.42em)[
   #set par(first-line-indent: 0pt)
   e. Loss of vowels. With very few exceptions the only vowel lost is initial a which, in one per cent. of its occurrences in the RV. and about 20 per cent. in the AV. and the metrical portions of the YV., is dropped in Sandhi after e and o. In a few words the disappearance of initial a is prehistoric; e. g. ví bird (Lat. avi-s); sánti they are (Lat. sunt).
 ]
@@ -996,7 +989,7 @@ f. Hiatus. In the written text of the Saṃhitās hiatus, though as a rule toler
 Though not written, hiatus is common elsewhere also in the Saṃhitās: y and v must often be pronounced as i and u, and a long vowel or diphthong as two vowels, the original vowels of contractions having often to be restored both within a word and in Sandhi; e. g. jyéṣṭha mightiest as jyá-iṣṭha (\= jyā-iṣṭha from jyā be mighty).
 
 
-#strong[2. Consonants.] a. The aspirates were double sounds, consisting of mutes followed by a breathing; thus k-h is pronounced as in 'ink-horn'; t-h as in 'pot-house'; p-h as in 'top-heavy'; g-h as in 'log-house'; d-h as in 'mad-house'; b-h as in 'Hob-house'.
+*2. Consonants.* a. The aspirates were double sounds, consisting of mutes followed by a breathing; thus k-h is pronounced as in 'ink-horn'; t-h as in 'pot-house'; p-h as in 'top-heavy'; g-h as in 'log-house'; d-h as in 'mad-house'; b-h as in 'Hob-house'.
 
 b. The gutturals were no doubt velars or sounds produced by the back of the tongue against the soft palate. They are described by the Prātiśākhyas as formed at the 'root of the tongue' and at the 'root of the jaw'.
 
@@ -1004,15 +997,15 @@ c. The palatals c, j, ch are pronounced like ch in 'church', j in 'join', and ch
 
 d. The cerebrals were pronounced somewhat like the so-called dentals t, d, n in English, but with the tip of the tongue turned farther back against the roof of the mouth. They include the cerebral ḷ and ḷh which in Rigvedic texts take the place of ḍ and ḍh between vowels. The latter occurs medially only; the former finally also.
 
-]
+
 
 
 #pagebreak()
 
 // ========================================== PAGE 33 (Book p. 17) ==========================================
 
-#fit-page[
 #folio("15]", "PRONUNCIATION", "17")
+
 Examples are: #emph[iḷā refreshment]; #emph[turā-ṣāḷ abhi-bhūtyójāḥ];
 
 #emph[á-ṣāḷha invincible].
@@ -1027,20 +1020,16 @@ The semivowel #emph[l] is described in the Prātiśākhyas as pronounced in the 
 
 #emph[h.] The sibilants are all voiceless. The dental #emph[s] sounds like #emph[s] in 'sin'; the cerebral #emph[ṣ] like #emph[sh] in 'shun' (but with the tip of the tongue farther back); while the palatal is produced midway between the two, being the sibilant pronounced in the same place as the spirant in the German #emph[ich]. Though the voiced sibilants #emph[z], #emph[ź] (palatal \= French #emph[j]),
 
-1819
 
-C
-
-]
 
 
 #pagebreak()
 
 // ========================================== PAGE 34 (Book p. 18) ==========================================
 
-#fit-page[
 #folio("18", "PHONETIC INTRODUCTION", "[15")
-#block(spacing: 0.28em)[
+
+#block(spacing: 0.42em)[
   #set par(first-line-indent: 0pt)
   ẓ, ẓh (cerebral) have entirely disappeared, they have generally left traces of their former existence in the phonetic changes they have produced.
 ]
@@ -1049,32 +1038,45 @@ i. The sound h was undoubtedly pronounced as a voiced breathing in the Saṃhit�
 
 j. There are three voiceless spirants appearing only as finals. The usual one, called Visarjanīya in the Prātiśākhyas, is according to the Taittirīya Prātiśākhya articulated in the same place as the end of the preceding vowels. Its place may be taken by Jihvāmūlīya before the voiceless initial gutturals k, kh; and by Upadhmānīya before the voiceless initial labials p, ph. These two are regarded by the RV. Prātiśākhya as forming the second half of the voiceless aspirates kh and ph respectively (just as h forms the second half of gh, bh, &c.). They are therefore the guttural spirant (Greek) χ and the bilabial spirant f respectively.
 
-k. Loss of consonants. This is almost entirely confined to groups of consonants. When the group is final, all but the first element, as a rule, is dropped in pausā and in Sandhi (28). In initial consonant groups a sibilant is often lost before a mute; e. g. candrá shining beside ścandrá; stanayitnú m. beside tanayitnú thunder; tāyú m. beside stāyú thief; tŕ beside stŕ m. star; páśyati sees beside spáś m. spy, -spaṣ-ṭa seen. In a medial group the sibilants s and ṣ regularly disappear between mutes; e. g. á-bhak-ta, 3\. s. aor. for á-bhak-ṣ-ṭa beside á-bhak-ṣ-i. A mute may disappear between a nasal and a mute; e. g. yuṅ-dhí for yuṅg-dhí.
+k. Loss of consonants. This is almost entirely confined to groups of consonants. When the group is final, all but the first element, as a rule, is dropped in pausā and in Sandhi (28). In initial consonant groups a sibilant is often lost before a mute; e. g. candrá shining beside ścandrá; stanayitnú m. beside tanayitnú thunder; tāyú m. beside stāyú thief; tŕ beside stŕ m. star; páśyati sees beside spáś m. spy, -spaṣ-ṭa seen. In a medial group the sibilants s and ṣ regularly disappear between mutes; e. g. á-bhak-ta, 3. s. aor. for á-bhak-ṣ-ṭa beside á-bhak-ṣ-i. A mute may disappear between a nasal and a mute; e. g. yuṅ-dhí for yuṅg-dhí.
 
 a. Medially, voiced sibilants, the dental z, the cerebral ẓ, and the palatal ź, have disappeared before the voiced dentals d, dh, and h, but nearly always leaving a trace of their former existence. Only in the two roots containing ā,
 
-]
+
 
 
 #pagebreak()
 
 // ========================================== PAGE 35 (Book p. 19) ==========================================
 
-#fit-page[
 #folio("15]", "PRONUNCIATION", "19")
-#block(spacing: 0.28em)[
+
+#block(spacing: 0.42em)[
   #set par(first-line-indent: 0pt)
-  ās sit, śās order, the sibilant has disappeared without a trace: á-dhvam, śa-śā-dhi. But when a preceded the z the loss of the sibilant is indicated by e taking the place of az; e. g. e-dhí (for az-dhí) from as be; sed, perfect stem of sad sit for sazd; similarly in de-hí give (for daz-dhí) beside dad-dhí. When other vowels than ā preceded, the z was cerebralized and disappeared after cerebralizing the following dental and lengthening the preceding vowel; thus á-sto-ḍhvam (\= á-stoẓ-ḍhvam for á-sto-s-dhvam) 2\. pl. aor. beside á-sto-ṣ-ṭa; similarly mīḍhá n. reward (Gk. μυσθό-ς). Similarly the old voiced palatal ź disappeared after cerebralizing a following d or dh and lengthening the preceding vowel; e. g. tā-ḍhi for taẓ-ḍhi (\= taḱ-ṣ-dhi) from takṣ fashion; ṣo-ḍhá for ṣaṣ-dhá (\= saḱ-ṣ-dhá) beside ṣaṣ-ṭhá sixth. Still commoner is the loss of the old aspirated palatal źh represented by h, which was dropped after cerebralizing and aspirating a following t and lengthening the preceding vowel; e. g. sā-ḍhṛ for sāh-tṛ conqueror from sah; gūḍhá concealed for guh-tá (from guẓh-tá).
+  ās sit, śās order, the sibilant has disappeared without a trace: á-dhvam, śa-śā-dhi. But when a preceded the z the loss of the sibilant is indicated by e taking the place of az; e. g. e-dhí (for az-dhí) from as be; sed, perfect stem of sad sit for sazd; similarly in de-hí give (for daz-dhí) beside dad-dhí. When other vowels than ā preceded, the z was cerebralized and disappeared after cerebralizing the following dental and lengthening the preceding vowel; thus á-sto-ḍhvam (\= á-stoẓ-ḍhvam for á-sto-s-dhvam) 2. pl. aor. beside á-sto-ṣ-ṭa; similarly mīḍhá n. reward (Gk. μυσθό-ς). Similarly the old voiced palatal ź disappeared after cerebralizing a following d or dh and lengthening the preceding vowel; e. g. tā-ḍhi for taẓ-ḍhi (\= taḱ-ṣ-dhi) from takṣ fashion; ṣo-ḍhá for ṣaṣ-dhá (\= saḱ-ṣ-dhá) beside ṣaṣ-ṭhá sixth. Still commoner is the loss of the old aspirated palatal źh represented by h, which was dropped after cerebralizing and aspirating a following t and lengthening the preceding vowel; e. g. sā-ḍhṛ for sāh-tṛ conqueror from sah; gūḍhá concealed for guh-tá (from guẓh-tá).
 ]
 
 l. Haplology. When two identical or similar syllables are in juxtaposition, one of them is sometimes dropped; e. g. tuvī-rá\[va\]-vān roaring mightily beside tuvī-ráva; ir\[adh\]ádhyai inf. of iradh seek to win; ma-dúgha m. a plant yielding honey, beside madhu-dúgha shedding sweetness; śīrṣa-\[sa\]ktí f. headache.
 
-o 2
-
-]
+#let fit-page(body) = context {
+  let m = measure(body)
+  if m.height > 162.0mm {
+    let factor = (160.5mm / m.height) * 100%
+    scale(x: factor, y: factor, origin: top + left, reflow: false)[#body]
+  } else {
+    body
+  }
+}
 
 
 #pagebreak()
+
+#set page(
+  margin: (inside: 14mm, outside: 15mm, top: 11mm, bottom: 12mm),
+)
+#set text(size: 8.5pt)
+#set par(leading: 0.35em, first-line-indent: 1.1em)
+#set block(spacing: 0.22em)
 
 // ========================================== PAGE 36 (Book p. 20) ==========================================
 
@@ -1086,9 +1088,6 @@ o 2
   #text(size: 9.8pt, weight: "bold", tracking: 0.06em)[EUPHONIC COMBINATION]
 ]
 #v(0.30cm)
-
-20
-
 
 #v(0.35em)
 #align(center)[#text(size: 9.5pt, weight: "bold", tracking: 0.06em)[RULES OF SANDHI OR EUPHONIC COMBINATION OF SOUNDS]]
