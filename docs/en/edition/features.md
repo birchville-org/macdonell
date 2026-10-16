@@ -42,10 +42,10 @@ The table of contents (pp. `ix`–`xii`) employs a rigid grid of tabular leader 
 True small capitals are used throughout for headings, grammatical voices (*ACTIVE*, *MIDDLE*, *PASSIVE*), and proper nouns to maintain an even typographic color across each page.
 
 ### 4. Two-Column Register Typesetting
-The concluding indexes:
+The concluding indexes are set in a two-column layout with center rules, indentation, and alphabetical section headers:
+
 - **Vedic Index** (pp. 471–498)
 - **General Index** (pp. 499–508)
-are set in a two-column layout with center rules, indentation, and alphabetical section headers.
 
 ---
 
@@ -55,13 +55,15 @@ Vedic Sanskrit features archaic phonological stages that demand meticulous typog
 
 ### IAST Standard
 All Sanskrit vowels and consonants conform strictly to the International Alphabet of Sanskrit Transliteration:
-- Sonant liquids: `ṛ`, `ṝ`, `ḷ`, `ḹ`
-- Retroflexes: `ṭ`, `ṭh`, `ḍ`, `ḍh`, `ṇ`, `ṣ`
-- Palatals & Velars: `c`, `ch`, `j`, `jh`, `ñ`, `ś`, `ṅ`
-- Nasals & Breathings: `ṃ` (Anusvāra), `ḥ` (Visarga)
+
+- **Sonant liquids**: `ṛ`, `ṝ`, `ḷ`, `ḹ`
+- **Retroflexes**: `ṭ`, `ṭh`, `ḍ`, `ḍh`, `ṇ`, `ṣ`
+- **Palatals & Velars**: `c`, `ch`, `j`, `jh`, `ñ`, `ś`, `ṅ`
+- **Nasals & Breathings**: `ṃ` (Anusvāra), `ḥ` (Visarga)
 
 ### Vedic Accentuation System
 Unlike Classical Sanskrit, Vedic was a musical pitch-accent language. This edition reproduces all accent notations:
+
 - **Udātta** (high pitch): Represented by acute or high vertical stroke.
 - **Anudātta** (low pitch): Represented by a horizontal underline beneath the syllable.
 - **Svarita** (falling pitch glide): Represented by circumflex or upper vertical accent.
@@ -74,7 +76,7 @@ The PDF file is optimized for scholarly workflows in modern PDF readers (Acrobat
 
 - **Hierarchical Bookmark Outline**: 81 chapters, sections, and indexes are directly navigatable in the PDF sidebar.
 - **Native Page Labels**:
-  - `i` through `xii` for Front Matter.
-  - `1` through `508` for the main body.
-  Entering `150` in the reader jumps directly to book page 150.
+    - `i` through `xii` for Front Matter.
+    - `1` through `508` for the main body (entering `150` in the reader jumps directly to book page 150).
 - **Vector Rendering**: Infinite scalability, sharp rendering on high-DPI Retina screens, and clean print reproduction.
+

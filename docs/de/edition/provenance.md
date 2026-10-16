@@ -23,7 +23,9 @@ Die Neusatz-Edition von Macdonells *A Vedic Grammar for Students* verbindet ein 
 Die digitale Erfassung, Bereinigung, TEI-P5-Strukturierung und der typografische Vektorneusatz wurden im Rahmen der **AlexandriaSandwich-Pipeline** für die **Birchville Foundation** realisiert.
 
 ### Beteiligte Komponenten
+
 1. **Typst-Neusatzsystem**: Hochpräziser Satzspiegel mit automatisierter Register- und Kolumnentitelführung.
+
 2. **TEI-P5-XML**: Standardisiertes Langzeitarchivformat mit vollständiger semantischer Markierung von grammatischen Kategorien, Wurzeln und Belegstellen.
 3. **EPUB 3**: Reflowfähiges E-Book für mobile Lesegeräte.
 4. **PyMuPDF Outline-Pipeline**: Skriptgestützte Injektion des hierarchischen Lesezeichenbaums und der römisch/arabischen Page-Labels.

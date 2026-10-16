@@ -43,9 +43,11 @@ Oder direkt über das Shell-Skript:
    python3 scripts/inject_toc.py
    ```
    Liest [`data/macdonell_1916.toc.txt`](https://github.com/birchville-org/macdonell/blob/main/data/macdonell_1916.toc.txt), parsed die 81 hierarchischen Gliederungspunkte und injiziert:
+
    - Die PDF-Lesezeichen (Outline).
    - Die nativen PDF-Page-Labels (`i`–`xii` für die ersten 12 Seiten, `1`–`508` für das Hauptwerk).
    - Die konsolidierte Export-TOC-Datei `dist/Macdonell_1916_Vedic_Grammar_Digital_Edition.toc.txt`.
+
 
 ---
 

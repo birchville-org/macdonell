@@ -42,10 +42,10 @@ Im Inhaltsverzeichnis (S. `ix`–`xii`) werden keine unregelmäßigen Punktfolge
 Für Überschriften, grammatische Kategorien (z. B. *ACTIVE*, *MIDDLE*, *PASSIVE*) und Eigennamen werden echte typografische Kapitälchen verwendet, um einen harmonischen Grauwert der Buchseite zu gewährleisten.
 
 ### 4. Zweispaltiger Registersatz
-Die abschließenden Verzeichnisse:
+Die abschließenden Verzeichnisse sind als präzise zweispaltige Register mit Zwischensteg und alphabetischen Initialen gesetzt:
+
 - **Vedic Index** (S. 471–498)
 - **General Index** (S. 499–508)
-sind als präzise zweispaltige Register mit Zwischensteg und alphabetischen Initialen gesetzt.
 
 ---
 
@@ -55,13 +55,15 @@ Die vedische Grammatik erfordert eine nuancierte Wiedergabe historischer Sprachs
 
 ### IAST-Standard
 Sämtliche Vokale und Konsonanten des Sanskrit sind nach dem International Alphabet of Sanskrit Transliteration (IAST) ausgezeichnet:
-- Sonantische Liquide: `ṛ`, `ṝ`, `ḷ`, `ḹ`
-- Zerebrale / Retroflexe: `ṭ`, `ṭh`, `ḍ`, `ḍh`, `ṇ`, `ṣ`
-- Palatale & Velare: `c`, `ch`, `j`, `jh`, `ñ`, `ś`, `ṅ`
-- Nasale & Aspirationen: `ṃ` (Anusvāra), `ḥ` (Visarga)
+
+- **Sonantische Liquide**: `ṛ`, `ṝ`, `ḷ`, `ḹ`
+- **Zerebrale / Retroflexe**: `ṭ`, `ṭh`, `ḍ`, `ḍh`, `ṇ`, `ṣ`
+- **Palatale & Velare**: `c`, `ch`, `j`, `jh`, `ñ`, `ś`, `ṅ`
+- **Nasale & Aspirationen**: `ṃ` (Anusvāra), `ḥ` (Visarga)
 
 ### Vedische Tonakzente
 Im Gegensatz zum klassischen Sanskrit war das Vedische eine Tonsprache mit melodischem Akzent. Die Neusatz-Ausgabe gibt alle Akzentstufen wieder:
+
 - **Udātta** (Hochton): Gekennzeichnet durch Akut oder vertikalen Oberstrich.
 - **Anudātta** (Tiefton): Gekennzeichnet durch horizontalen Unterstrich unter der betreffenden Silbe.
 - **Svarita** (Gleit- bzw. Sturzton): Gekennzeichnet durch Zirkumflex oder vertikalen Oberstrich.
@@ -74,7 +76,7 @@ Die PDF-Datei wurde für wissenschaftliches Arbeiten in modernen PDF-Readern (Ac
 
 - **Hierarchischer Lesezeichenbaum (Outline)**: 81 Hauptkapitel, Unterabschnitte und Register sind direkt im PDF-Navigationsbaum verlinkt.
 - **Native Page-Labels**:
-  - `i` bis `xii` für die Titelei.
-  - `1` bis `508` für das gesamte Hauptwerk.
-  Eine Eingabe von `150` im PDF-Viewer springt direkt auf Buchseite 150 und nicht auf Seite 162.
+    - `i` bis `xii` für die Titelei.
+    - `1` bis `508` für das gesamte Hauptwerk (eine Eingabe von `150` im PDF-Viewer springt direkt auf Buchseite 150 und nicht auf Seite 162).
 - **Reiner Vektorsatz**: Unbegrenzte Skalierbarkeit, gestochen scharfe Darstellung auf hochauflösenden Retina-Displays und optimierte Druckausgabe.
+

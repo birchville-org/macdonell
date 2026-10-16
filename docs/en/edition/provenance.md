@@ -23,7 +23,9 @@ The digital typeset edition of Macdonell's *A Vedic Grammar for Students* combin
 Digitization, optical reconstruction, TEI-P5 structuring, and typographic vector typesetting were executed through the **AlexandriaSandwich Pipeline** for the **Birchville Foundation**.
 
 ### Core Components
+
 1. **Typst Typesetting Engine**: High-precision type area with automated running headers and register pagination.
+
 2. **TEI-P5 XML**: Standardized archival master format marking roots, citations, and structural morphology.
 3. **EPUB 3**: Reflowable e-book format for reading on handheld devices.
 4. **PyMuPDF Outline Pipeline**: Script-driven injection of the 81-step outline tree and Roman/Arabic page labels.

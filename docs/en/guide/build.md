@@ -43,9 +43,11 @@ Or invoke the build script directly:
    python3 scripts/inject_toc.py
    ```
    Reads [`data/macdonell_1916.toc.txt`](https://github.com/birchville-org/macdonell/blob/main/data/macdonell_1916.toc.txt), parses the 81-step hierarchical outline, and injects:
+
    - The PDF outline tree.
    - Native PDF page labels (`i`–`xii` for front matter, `1`–`508` for the main text).
    - Consolidated TOC export `dist/Macdonell_1916_Vedic_Grammar_Digital_Edition.toc.txt`.
+
 
 ---
 
