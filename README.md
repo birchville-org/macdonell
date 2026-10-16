@@ -1,8 +1,15 @@
 # Arthur Anthony Macdonell: A Vedic Grammar for Students (1916)
 
+[![Documentation](https://img.shields.io/badge/docs-GitHub%20Pages-b45309?style=flat-square)](https://birchville-org.github.io/macdonell/)
+[![Release](https://img.shields.io/github/v/release/birchville-org/macdonell?style=flat-square)](https://github.com/birchville-org/macdonell/releases/latest)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
+
 **Digitale Vektor-Neusatz-Edition mit strenger 1:1 Seitenkongruenz**
 
 Dieses Projekt enthält die digitale Neusatz-Ausgabe des Standardwerks *A Vedic Grammar for Students* von Arthur Anthony Macdonell (Boden Professor of Sanskrit at Oxford), erschienen 1916 bei der Oxford Clarendon Press.
+
+Die offizielle Online-Dokumentation mit Editionsmerkmalen und Systematik ist verfügbar unter:  
+👉 **[https://birchville-org.github.io/macdonell/](https://birchville-org.github.io/macdonell/)**
 
 ---
 
@@ -25,6 +32,11 @@ Dieses Projekt enthält die digitale Neusatz-Ausgabe des Standardwerks *A Vedic 
 
 ```text
 macdonell/
+├── docs/                         # Material for MkDocs Dokumentationsportal
+│   ├── assets/birchville_logo.png
+│   ├── stylesheets/birchville.css
+│   ├── edition/                  # Editionsmerkmale & Gliederung
+│   └── index.md                  # Startseite
 ├── typst/
 │   └── macdonell.typ             # Vollständiger Typst-Neusatz-Quellcode
 ├── data/
@@ -38,7 +50,11 @@ macdonell/
 ├── scripts/
 │   ├── build.sh                  # Shell-Build-Skript
 │   └── inject_toc.py             # Outline- & Page-Label-Injektor (PyMuPDF)
-├── Makefile                      # 'make build'
+├── .github/workflows/
+│   └── deploy.yml                # GitHub Pages Deployment Workflow
+├── mkdocs.yml                    # MkDocs-Konfiguration (Scholarly Synthesis)
+├── Makefile                      # 'make build', 'make docs-serve', 'make docs-build'
+├── LICENSE                       # MIT License
 └── README.md
 ```
 
@@ -62,6 +78,15 @@ oder direkt:
 
 ### Inhaltsverzeichnis (TOC) anpassen
 Titel oder Seitenbezüge können direkt in [`data/macdonell_1916.toc.txt`](data/macdonell_1916.toc.txt) editiert werden. Ein anschließendes `make build` spielt die Änderungen sofort in das PDF ein.
+
+### Dokumentation lokal testen & bauen
+```bash
+# Entwicklungsserver mit Hot-Reload
+make docs-serve
+
+# Statische Dokumentation für GitHub Pages bauen
+make docs-build
+```
 
 ---
 

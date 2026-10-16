@@ -1,0 +1,59 @@
+site_name: "Macdonell (1916): A Vedic Grammar for Students"
+site_url: "https://birchville-org.github.io/macdonell/"
+site_author: "Marco Demarmels / Birchville Foundation"
+site_description: "Digitale Vektor-Neusatz-Edition des Standardwerks von Arthur Anthony Macdonell (1916) mit strenger 1:1 Seitenkongruenz."
+repo_url: "https://github.com/birchville-org/macdonell"
+repo_name: "birchville-org/macdonell"
+
+theme:
+  name: material
+  language: de
+  logo: assets/birchville_logo.png
+  favicon: assets/birchville_logo.png
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Zu dunklem Design wechseln
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Zu hellem Design wechseln
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+extra_css:
+  - stylesheets/birchville.css
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - tables
+  - attr_list
+
+nav:
+  - Startseite: index.md
+  - Edition:
+    - Editionsmerkmale: edition/features.md
+    - Systematische Gliederung: edition/structure.md
+    - Urheberrecht & Provenienz: edition/provenance.md
+  - Pipeline & Build:
+    - Bauanleitung: guide/build.md
