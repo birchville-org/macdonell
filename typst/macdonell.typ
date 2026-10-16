@@ -405,85 +405,85 @@ Mr. J. C. Pembrey, Hon. M.A., Oriental Reader at the Clarendon Press, on having 
     columns: (1.2cm, 0.3cm, 1fr),
     row-gutter: 2.2pt,
 
-    [#strong[A.]], [=], [accusative case.],
+    [*A.*], [=], [accusative case.],
 
-    [#strong[Ā.]], [=], [Ātmanepada, middle voice.],
+    [*Ā.*], [=], [Ātmanepada, middle voice.],
 
-    [#strong[AA.]], [=], [Aitareya Āraṇyaka.],
+    [*AA.*], [=], [Aitareya Āraṇyaka.],
 
-    [#strong[AB.]], [=], [Aitareya Brāhmaṇa.],
+    [*AB.*], [=], [Aitareya Brāhmaṇa.],
 
-    [#strong[Ab.]], [=], [ablative case.],
+    [*Ab.*], [=], [ablative case.],
 
-    [#strong[act.]], [=], [active voice.],
+    [*act.*], [=], [active voice.],
 
-    [#strong[AV.]], [=], [Atharvaveda.],
+    [*AV.*], [=], [Atharvaveda.],
 
-    [#strong[Av.]], [=], [Avesta.],
+    [*Av.*], [=], [Avesta.],
 
-    [#strong[B.]], [=], [Brāhmaṇa.],
+    [*B.*], [=], [Brāhmaṇa.],
 
-    [#strong[C.]], [=], [Classical Sanskrit.],
+    [*C.*], [=], [Classical Sanskrit.],
 
-    [#strong[D.]], [=], [dative case.],
+    [*D.*], [=], [dative case.],
 
-    [#strong[du.]], [=], [dual number.],
+    [*du.*], [=], [dual number.],
 
-    [#strong[f.]], [=], [feminine.],
+    [*f.*], [=], [feminine.],
 
-    [#strong[G.]], [=], [genitive case.],
+    [*G.*], [=], [genitive case.],
 
-    [#strong[Gk.]], [=], [Greek.],
+    [*Gk.*], [=], [Greek.],
 
-    [#strong[I.]], [=], [instrumental case.],
+    [*I.*], [=], [instrumental case.],
 
-    [#strong[IE.]], [=], [Indo-European.],
+    [*IE.*], [=], [Indo-European.],
 
-    [#strong[I-Ir.]], [=], [Indo-Iranian.],
+    [*I-Ir.*], [=], [Indo-Iranian.],
 
-    [#strong[ind.]], [=], [indicative mood.],
+    [*ind.*], [=], [indicative mood.],
 
-    [#strong[K.]], [=], [Kāṭhaka Saṃhitā.],
+    [*K.*], [=], [Kāṭhaka Saṃhitā.],
 
-    [#strong[KB.]], [=], [Kauṣītaki Brāhmaṇa.],
+    [*KB.*], [=], [Kauṣītaki Brāhmaṇa.],
 
-    [#strong[L.]], [=], [locative case.],
+    [*L.*], [=], [locative case.],
 
-    [#strong[Lat.]], [=], [Latin.],
+    [*Lat.*], [=], [Latin.],
 
-    [#strong[m.]], [=], [masculine.],
+    [*m.*], [=], [masculine.],
 
-    [#strong[mid.]], [=], [middle voice.],
+    [*mid.*], [=], [middle voice.],
 
-    [#strong[MS.]], [=], [Maitrāyaṇī Saṃhitā.],
+    [*MS.*], [=], [Maitrāyaṇī Saṃhitā.],
 
-    [#strong[N.]], [=], [nominative case.],
+    [*N.*], [=], [nominative case.],
 
-    [#strong[P.]], [=], [Parasmaipada, active voice.],
+    [*P.*], [=], [Parasmaipada, active voice.],
 
-    [#strong[PB.]], [=], [Pañcaviṃśa (\= Tāṇḍya) Brāhmaṇa.],
+    [*PB.*], [=], [Pañcaviṃśa (\= Tāṇḍya) Brāhmaṇa.],
 
-    [#strong[pl.]], [=], [plural number.],
+    [*pl.*], [=], [plural number.],
 
-    [#strong[RV.]], [=], [Rigveda.],
+    [*RV.*], [=], [Rigveda.],
 
-    [#strong[ŚB.]], [=], [Śatapatha Brāhmaṇa.],
+    [*ŚB.*], [=], [Śatapatha Brāhmaṇa.],
 
-    [#strong[s.]], [=], [singular number.],
+    [*s.*], [=], [singular number.],
 
-    [#strong[SV.]], [=], [Sāmaveda.],
+    [*SV.*], [=], [Sāmaveda.],
 
-    [#strong[TA.]], [=], [Taittirīya Āraṇyaka.],
+    [*TA.*], [=], [Taittirīya Āraṇyaka.],
 
-    [#strong[TB.]], [=], [Taittirīya Brāhmaṇa.],
+    [*TB.*], [=], [Taittirīya Brāhmaṇa.],
 
-    [#strong[TS.]], [=], [Taittirīya Saṃhitā.],
+    [*TS.*], [=], [Taittirīya Saṃhitā.],
 
-    [#strong[V.]], [=], [Vedic (in the narrow sense as opposed to B. \= Brāhmaṇa).],
+    [*V.*], [=], [Vedic (in the narrow sense as opposed to B. \= Brāhmaṇa).],
 
-    [#strong[VS.]], [=], [Vājasaneyi Saṃhitā.],
+    [*VS.*], [=], [Vājasaneyi Saṃhitā.],
 
-    [#strong[YV.]], [=], [Yajurveda.],
+    [*YV.*], [=], [Yajurveda.],
 
   )
 ]
@@ -1074,9 +1074,9 @@ l. Haplology. When two identical or similar syllables are in juxtaposition, one 
 #set page(
   margin: (inside: 14mm, outside: 15mm, top: 11mm, bottom: 12mm),
 )
-#set text(size: 8.5pt)
-#set par(leading: 0.35em, first-line-indent: 1.1em)
-#set block(spacing: 0.22em)
+#set text(size: 9.0pt)
+#set par(leading: 0.44em, first-line-indent: 1.2em)
+#set block(spacing: 0.34em)
 
 // ========================================== PAGE 36 (Book p. 20) ==========================================
 
@@ -1094,7 +1094,7 @@ l. Haplology. When two identical or similar syllables are in juxtaposition, one 
 #v(0.18em)
 
 
-#strong[16. Though] the sentence is naturally the unit of speech, which forms an unbroken chain of syllables euphonically combined, it is strictly so only in the prose portions of the AV. and the YV. But as the great bulk of the Vedas is metrical, the editors of the Saṃhitā text treat the hemistich (generally consisting of two Pādas or verses) as the euphonic unit, being specially strict in applying the rules of Sandhi between the verses forming the hemistich. But the evidence of metre supported by that of accent shows that the Pāda is the true euphonic unit. The form which the final of a word shows varies according as it appears in pausā at the end of a Pāda, or in combination with a following word within the Pāda. With the former is concerned the law of finals in pausā, with the latter the rules of Sandhi. Avoidance of hiatus and assimilation are the leading principles on which the rules of Sandhi are based.
+*16. Though* the sentence is naturally the unit of speech, which forms an unbroken chain of syllables euphonically combined, it is strictly so only in the prose portions of the AV. and the YV. But as the great bulk of the Vedas is metrical, the editors of the Saṃhitā text treat the hemistich (generally consisting of two Pādas or verses) as the euphonic unit, being specially strict in applying the rules of Sandhi between the verses forming the hemistich. But the evidence of metre supported by that of accent shows that the Pāda is the true euphonic unit. The form which the final of a word shows varies according as it appears in pausā at the end of a Pāda, or in combination with a following word within the Pāda. With the former is concerned the law of finals in pausā, with the latter the rules of Sandhi. Avoidance of hiatus and assimilation are the leading principles on which the rules of Sandhi are based.
 
 Though both are in general founded on the same phonetic laws, it is necessary, owing to certain differences, to distinguish external Sandhi, which determines the changes of final and initial letters of words, from internal Sandhi, which applies to the final letters of verbal roots and nominal stems when followed by certain suffixes and terminations.
 
@@ -1127,17 +1127,17 @@ a. The rules of external Sandhi apply with few exceptions (which are survivals f
 A. 1\. Simple vowels: a ā; i ī; u ū; r̄ r̄; l̄.
 
 
-#strong[2. Guṇa] vowels: a ā; e o ar al.
+*2. Guṇa* vowels: a ā; e o ar al.
 
 
-#strong[3. Vṛddhi] vowels: ā; ai; au; ār.¹
+*3. Vṛddhi* vowels: ā; ai; au; ār.¹
 
 a. Guṇa (secondary quality) has the appearance of being the simple vowel strengthened by combination with a preceding a according to the rule (19a) of external Sandhi (except that a itself remains unchanged); Vṛddhi (increase), of being the Guṇa vowel strengthened by combination with another a.²
 
 B. 1\. Vowels liable to be changed into semivowels: i, ī; u, ū; r̄³ and the diphthongs e, ai, o, au (the latter half of which is i or u): consonantal vowels.
 
 
-#strong[2. Vowels] not liable to be changed into semivowels (and only capable of coalescence): a, ā: unconsonantal vowels.
+*2. Vowels* not liable to be changed into semivowels (and only capable of coalescence): a, ā: unconsonantal vowels.
 
 
 #v(0.30em)
@@ -1145,7 +1145,7 @@ B. 1\. Vowels liable to be changed into semivowels: i, ī; u, ū; r̄³ and the 
 #v(0.18em)
 
 
-#strong[18. If] the same simple vowel (short or long) occurs at the end of one word and the beginning of the next, contraction resulting in the long vowel⁴ is the rule in the written text of the Saṃhitās. Thus ihā́sti \= ihá asti; índrā́ \= índra ā́; tvāgne \= tvā agne; vīdám \= ví idám; sūktám \= su uktám.
+*18. If* the same simple vowel (short or long) occurs at the end of one word and the beginning of the next, contraction resulting in the long vowel⁴ is the rule in the written text of the Saṃhitās. Thus ihā́sti \= ihá asti; índrā́ \= índra ā́; tvāgne \= tvā agne; vīdám \= ví idám; sūktám \= su uktám.
 
 #page-footnotes((
   [¹ The Vṛddhi form of l̄ (which would be āl) does not occur.],
@@ -1204,12 +1204,12 @@ c. are absorbed by Vṛddhi vowels; e. g. sómasyauśijáḥ
 \= sómasya auśijáḥ.
 
 
-#strong[20. The] simple consonantal vowels ī and ū before dissimilar vowels or before diphthongs are regularly changed to the semivowels y and v respectively in the written text of the Saṃhitās; e. g. práty āyam \= práti āyam; jánitry ajījanat \= jánitrī ajījanat; ā tv étā \= ā tú étā. But the evidence of the metre shows that this y or v nearly always has the syllabic value of ī or ū.² Thus vy uṣāḥ must be read as ví uṣāḥ; vidátheṣv añján as vidátheṣu añján.
+*20. The* simple consonantal vowels ī and ū before dissimilar vowels or before diphthongs are regularly changed to the semivowels y and v respectively in the written text of the Saṃhitās; e. g. práty āyam \= práti āyam; jánitry ajījanat \= jánitrī ajījanat; ā tv étā \= ā tú étā. But the evidence of the metre shows that this y or v nearly always has the syllabic value of ī or ū.² Thus vy uṣāḥ must be read as ví uṣāḥ; vidátheṣv añján as vidátheṣu añján.
 
 a. Final r (which does not occur in the RV.) becomes r before a dissimilar vowel; an example is vijñātr ĕtát \= vijñātṛ etát (ŚB.).
 
 
-#strong[21. The] Guṇa vowels e and o
+*21. The* Guṇa vowels e and o
 
 a. remain unchanged before a,³ which is generally⁴ elided in the written text of the Saṃhitās, but according to the evidence of the metre, must almost invariably in the RV., and generally in the AV. and YV., be pronounced,⁵ whether written or not.⁶ In deváso aptúraḥ (i. 3ᵃ) the a is both
 
@@ -1238,7 +1238,7 @@ a. remain unchanged before a,³ which is generally⁴ elided in the written text
 b. before every other vowel (or diphthong) would naturally¹ become ay and av (the form they assume within a word), but the former drops the semivowel throughout, while the latter does so only before ū; e. g. agna ihá (for agnay); váya ukthébhiḥ (for váyav); but váyav á yāhi.
 
 
-#strong[22. The] Vṛddhi vowels ai and au are treated before every vowel (including a) or diphthong exactly in the same way as e and o before vowels other than a. Thus ai becomes ā (through āy) throughout, but au only before ū² (through āv); e. g. tásmā akṣī (for tásmāy), tásmā indrāya; sujihvā́ úpa (for sujihvāv), but tāv á, tāv indrāgnī.
+*22. The* Vṛddhi vowels ai and au are treated before every vowel (including a) or diphthong exactly in the same way as e and o before vowels other than a. Thus ai becomes ā (through āy) throughout, but au only before ū² (through āv); e. g. tásmā akṣī (for tásmāy), tásmā indrāya; sujihvā́ úpa (for sujihvāv), but tāv á, tāv indrāgnī.
 
 a. The (secondary) hiatus caused by the dropping of y and v in the above cases (21 b and 22) as a rule remains. But further contraction is sometimes actually written in the Saṃhitās; e. g. sártavājáu for sártavā́ ājáu (through sártavā́y for sártavái); vāsáu for vā́ asáu (through vā́y for vái). Sometimes, again, the contraction, though not written, is required by the metre. Thus ta indra must be pronounced as tendra, and goṣṭhá úpa (AV.) for goṣṭhé úpa (through goṣṭháy) as goṣṭhópa.
 
@@ -1248,7 +1248,7 @@ a. The (secondary) hiatus caused by the dropping of y and v in the above cases (
 #v(0.18em)
 
 
-#strong[23. Vṛddhi] instead of Guṇa results from the contraction of a. the preposition á (in the AV. and VS.) with initial ṛ in árti \= á ṛti and in árchatu \= á ṛchatu. In the case of the latter verb, the TS. extends this contraction to prepositions ending in a: úpārchati \= úpa ṛchati and avārcháti \= ava ṛcháti.
+*23. Vṛddhi* instead of Guṇa results from the contraction of a. the preposition á (in the AV. and VS.) with initial ṛ in árti \= á ṛti and in árchatu \= á ṛchatu. In the case of the latter verb, the TS. extends this contraction to prepositions ending in a: úpārchati \= úpa ṛchati and avārcháti \= ava ṛcháti.
 
 #page-footnotes((
   [¹ Because e and o were originally \= āi and āu.],
@@ -1276,10 +1276,10 @@ c. The augment a with the initial vowels i, u, r; e. g. áichas 2\. s. impf. of 
 #v(0.18em)
 
 
-#strong[24. The] particle u is unchangeable in pronunciation before vowels, though as a rule written as v after a consonant; e.g. bhá u amśáve, but ávéd v indra. When it combines with the final ā of a particle to o, in o \= ā u, átho \= átha u, utó \= utá u, mó \= ma u, it remains unchanged even in the written text; e.g. átho indrāya.
+*24. The* particle u is unchangeable in pronunciation before vowels, though as a rule written as v after a consonant; e.g. bhá u amśáve, but ávéd v indra. When it combines with the final ā of a particle to o, in o \= ā u, átho \= átha u, utó \= utá u, mó \= ma u, it remains unchanged even in the written text; e.g. átho indrāya.
 
 
-#strong[25. a. The] i and u of the dual (nom. acc.) never change to y and v. This dual i is never to be pronounced short, but the u sometimes is; e.g. hári ( \\cup - ) rtásya, but sādhú (- \\cup ) asmaí. This i may remain before i, as in hári iva, but in several instances the contraction is written, as in ródasimé \= ródasi imé, while in several others, though not written, it must be pronounced.
+*25. a. The* i and u of the dual (nom. acc.) never change to y and v. This dual i is never to be pronounced short, but the u sometimes is; e.g. hári ( \\cup - ) rtásya, but sādhú (- \\cup ) asmaí. This i may remain before i, as in hári iva, but in several instances the contraction is written, as in ródasimé \= ródasi imé, while in several others, though not written, it must be pronounced.
 
 b. The rare locatives singular in ī and ū are also regularly written unchanged in the RV., but they seem always to be treated as prosodically short.
 
@@ -1306,7 +1306,7 @@ c. The ī of the nom. plur. m. (of the pronoun asáu) ami is always given as unc
 ]
 
 
-#strong[26. The] diphthong e is unchangeable in various nominal and verbal forms.
+*26. The* diphthong e is unchangeable in various nominal and verbal forms.
 
 a. The e of the nom. acc. dual (\= a + i), fem. and neut. of a stems, is not liable to Sandhi; e.g. ródasi ubhé rghayamānam.
 
@@ -1320,7 +1320,7 @@ c. The e of the locative of the pronominal forms tvé in thee, asmé in us, yusm
 #v(0.18em)
 
 
-#strong[27. The] external Sandhi of consonants is primarily and almost exclusively concerned with the assimilation of a final to a following initial sound. Since the Sandhi of final consonants generally speaking starts from the form they assume in pausā,⁶ it is necessary to state the law of allowable finals at the outset. That law may be formulated as follows: only unaspirated hard mutes, nasals, and Visarjanīya are tolerated, and palatals are excluded, as finals. By this law the thirty-nine consonants classified in § 3 are reduced to
+*27. The* external Sandhi of consonants is primarily and almost exclusively concerned with the assimilation of a final to a following initial sound. Since the Sandhi of final consonants generally speaking starts from the form they assume in pausā,⁶ it is necessary to state the law of allowable finals at the outset. That law may be formulated as follows: only unaspirated hard mutes, nasals, and Visarjanīya are tolerated, and palatals are excluded, as finals. By this law the thirty-nine consonants classified in § 3 are reduced to
 
 #page-footnotes((
   [¹ The unchangeableness of the vowel here being only occasional is not indicated with iti in the Pada text.],
@@ -1351,7 +1351,7 @@ The aspirate and soft mutes (3 b) are eliminated, leaving only hard unaspirated 
 The nasal ṇ (3 b γ) and the three semivowels y, l, v (3 c) do not occur.
 
 
-#strong[28. The] rule is that only a single consonant may be final. Hence all but the first of a group of consonants must be dropped; e. g. ábhavan 3\. pl. impf. were (for ábhavant); tān acc. pl. those (for tāns); tudán striking (for tudánts); prāṅ forward (through prāṅk for prāñc-s); áchān 3\. s. aor. has pleased (for áchantst).
+*28. The* rule is that only a single consonant may be final. Hence all but the first of a group of consonants must be dropped; e. g. ábhavan 3\. pl. impf. were (for ábhavant); tān acc. pl. those (for tāns); tudán striking (for tudánts); prāṅ forward (through prāṅk for prāñc-s); áchān 3\. s. aor. has pleased (for áchantst).
 
 a. k, ṭ, or t, when they follow an r and belong to the root, are allowed to remain;¹ e. g. várk 3\. s. aor. of vrj bend (for várk-t); ūrk nom. s. of ūrj strength; á-mārṭ 3\. s. impf. of mrj wipe; á-vart 3\. s. aor. of vṛt turn; su-hārt nom. s. of suhārd friend.
 
@@ -1377,7 +1377,7 @@ a. There are seven instances in the Saṃhitās in which a suffixal s or t is re
 #v(0.18em)
 
 
-#strong[29. The] assimilation, of which the application of the rules of consonant Sandhi consists, is of two kinds. It is concerned either with a shift of the phonetic position in which a consonant is articulated, or with a change of the quality of the consonant. Hence it is necessary to understand fully the classification of consonants from these two aspects. In § 3 b c d (cp. 15, 2 b-h) an arrangement according to the place of articulation is given of all the consonants except four, the breathing h and the three voiceless spirants, which are phonetically described in § 15, 2 ij.
+*29. The* assimilation, of which the application of the rules of consonant Sandhi consists, is of two kinds. It is concerned either with a shift of the phonetic position in which a consonant is articulated, or with a change of the quality of the consonant. Hence it is necessary to understand fully the classification of consonants from these two aspects. In § 3 b c d (cp. 15, 2 b-h) an arrangement according to the place of articulation is given of all the consonants except four, the breathing h and the three voiceless spirants, which are phonetically described in § 15, 2 ij.
 
 a. Contact of the tongue with the throat produces the gutturals, with the palate the palatals, with the roof of the mouth the cerebrals, with the teeth the dentals, while contact between the lips produces the labials.
 
@@ -1411,19 +1411,19 @@ tendency to normalize the terminations so as to have s in the 2\. s. and t in th
 Consonants are
 
 
-#strong[1. either] hard (surd, voiceless): k kh, c ch, ṭ ṭh, t th, p ph; ś ṣ s; ḥ ḥ ḥ (3);
+*1. either* hard (surd, voiceless): k kh, c ch, ṭ ṭh, t th, p ph; ś ṣ s; ḥ ḥ ḥ (3);
 
 or soft (sonant, voiced): all the rest (3) (besides all the vowels and diphthongs).
 
 
-#strong[2. either] aspirated: kh gh, ch jh, ṭh ḍh ḥh, th dh, ph bh, h ḥ ḥ ḥ, ś ṣ s;
+*2. either* aspirated: kh gh, ch jh, ṭh ḍh ḥh, th dh, ph bh, h ḥ ḥ ḥ, ś ṣ s;
 
 or unaspirated: all the rest.
 
 Hence the change of c to k is a change of the position of articulation (palatal to guttural), and that of c to j is a change of quality (hard to soft); while the change of c to g (hard palatal to soft guttural) or of t to j (hard dental to soft palatal) is one of both position and quality.
 
 
-#strong[31. It] is essential to remember that consonant Sandhi cannot be applied till finals have been reduced to one of the eight allowable sounds (27). The latter are then modified without reference to their etymological value (except partially in the case of n and Visarjanīya). Only six of these allowable finals occur at all frequently, viz. k, t, n, p, m, and Visarjanīya, while the cerebral ṭ and the guttural ṅ are rare.
+*31. It* is essential to remember that consonant Sandhi cannot be applied till finals have been reduced to one of the eight allowable sounds (27). The latter are then modified without reference to their etymological value (except partially in the case of n and Visarjanīya). Only six of these allowable finals occur at all frequently, viz. k, t, n, p, m, and Visarjanīya, while the cerebral ṭ and the guttural ṅ are rare.
 
 
 #v(0.30em)
@@ -1431,7 +1431,7 @@ Hence the change of c to k is a change of the position of articulation (palatal 
 #v(0.18em)
 
 
-#strong[32. A] final consonant (that is, a mute or Visarjanīya) is assimilated in quality to the following initial, becoming soft before soft initials, and remaining hard before hard initials (consonants).
+*32. A* final consonant (that is, a mute or Visarjanīya) is assimilated in quality to the following initial, becoming soft before soft initials, and remaining hard before hard initials (consonants).
 
 Hence final k, ṭ, t, p before vowels and soft consonants become g, ḍ, d, b respectively; e.g. arvāg rāḍhaḥ (through arvāk for arvāc); havyavāḍ juhvāsyaḥ (through -vāṭ for -vāh); ṣāḷ urvīḥ (through ṣāṭ for ṣāṣ: cp. 3 b γ); gámad
 
@@ -1450,16 +1450,16 @@ Hence final k, ṭ, t, p before vowels and soft consonants become g, ḍ, d, b r
 ]
 
 
-#strong[33. Final] k, ṭ, t, p before n or m may, and in practice regularly do, become the nasal of their own class; e. g. práṇaṅ mártyasya (through práṇag for práṇak); virāṇ mitráváruṇayoḥ (through viráḍ for viráṭ); ṣáṇ-ṇavati (TS.) (through ṣáṭ-) for ṣáṣ-navati; āsīn nó (through āsīd for āsīt); tán mitrásya (for tád); trikakúm nivártat (through trikakúb for trikakúp from trikakúbh).
+*33. Final* k, ṭ, t, p before n or m may, and in practice regularly do, become the nasal of their own class; e. g. práṇaṅ mártyasya (through práṇag for práṇak); virāṇ mitráváruṇayoḥ (through viráḍ for viráṭ); ṣáṇ-ṇavati (TS.) (through ṣáṭ-) for ṣáṣ-navati; āsīn nó (through āsīd for āsīt); tán mitrásya (for tád); trikakúm nivártat (through trikakúb for trikakúp from trikakúbh).
 
 
-#strong[34. Final] t becomes l through d; e. g. áṅgāl lómnaḥ (for áṅgāt).
+*34. Final* t becomes l through d; e. g. áṅgāl lómnaḥ (for áṅgāt).
 
 
-#strong[35. Since] the nasals have no corresponding hard sounds, they remain unchanged in quality before initial hard sounds. The guttural ṅ,¹ which is rare, remains otherwise unmodified also (cp. 52); but it may before sibilants insert a transitional k, e. g. pratyáṅk sá beside pratyáṅ sá. Final m is liable to change of position before all consonants (42). Final dental n is liable to change before vowels (42, 52), palatals, dentals, the semivowel l, and sometimes p (40).
+*35. Since* the nasals have no corresponding hard sounds, they remain unchanged in quality before initial hard sounds. The guttural ṅ,¹ which is rare, remains otherwise unmodified also (cp. 52); but it may before sibilants insert a transitional k, e. g. pratyáṅk sá beside pratyáṅ sá. Final m is liable to change of position before all consonants (42). Final dental n is liable to change before vowels (42, 52), palatals, dentals, the semivowel l, and sometimes p (40).
 
 
-#strong[36. The] dental nasal n remains unchanged before (1) the gutturals k, kh, g, gh; (2) the labials p,² ph, b, bh, m; (3) the soft dentals d, dh, n; generally also before t (40, 2); (4) the semivowels y, r, v, and the breathing h; (5) the cerebral and the dental sibilants ṣ and s.
+*36. The* dental nasal n remains unchanged before (1) the gutturals k, kh, g, gh; (2) the labials p,² ph, b, bh, m; (3) the soft dentals d, dh, n; generally also before t (40, 2); (4) the semivowels y, r, v, and the breathing h; (5) the cerebral and the dental sibilants ṣ and s.
 
 a. Before ṣ and s a transitional t may be inserted, e. g. áhan-t sáhasā; tán-t sám.
 
@@ -1469,7 +1469,7 @@ a. Before ṣ and s a transitional t may be inserted, e. g. áhan-t sáhasā; t�
 #v(0.18em)
 
 
-#strong[37. The] only four final consonants (27) liable to change of position are the dental t and n, the labial m, and Visarjanīya.
+*37. The* only four final consonants (27) liable to change of position are the dental t and n, the labial m, and Visarjanīya.
 
 #page-footnotes((
   [¹ The palatal and cerebral nasals, as has already been stated, do not occur as finals.],
@@ -1497,7 +1497,7 @@ b. Visarjanīya and m adapt themselves to the phonetic position of the following
 #v(0.18em)
 
 
-#strong[38. Final] t before palatals (c, j, ch, ś) is changed to a palatal (c or j); e.g. tác cákṣuḥ for tát cákṣuḥ; yātayáj-jana for yātayát-jana; rohíc chyāvá for rohít śyāvá.²
+*38. Final* t before palatals (c, j, ch, ś) is changed to a palatal (c or j); e.g. tác cákṣuḥ for tát cákṣuḥ; yātayáj-jana for yātayát-jana; rohíc chyāvá for rohít śyāvá.²
 
 
 #v(0.30em)
@@ -1505,7 +1505,7 @@ b. Visarjanīya and m adapt themselves to the phonetic position of the following
 #v(0.18em)
 
 
-#strong[39. Final] n before vowels is changed, after a long vowel, to Anusvāra: if the preceding vowel is ā, to m, if it is ī, ū, r̄, to ṃr;³ e.g. sárgām iva for sárgān; vidvām agne for vidvān; paridhīmr áti for paridhīn; abhīśūmr iva for abhīśūn; n̄r̄ṃr⁴ abhí for n̄r̄n.
+*39. Final* n before vowels is changed, after a long vowel, to Anusvāra: if the preceding vowel is ā, to m, if it is ī, ū, r̄, to ṃr;³ e.g. sárgām iva for sárgān; vidvām agne for vidvān; paridhīmr áti for paridhīn; abhīśūmr iva for abhīśūn; n̄r̄ṃr⁴ abhí for n̄r̄n.
 
 40\. 1\. Final n before all palatals that occur becomes palatal n̄; e.g. ūrdhvān caráthāya for ūrdhvān; tān juṣethām for tān; vajrīn śnathihi for vajrīn; but since before ś a transitional t may be inserted, vajr̄nt śnathihi may (through vajrīnc⁵ śnathihi) become vajr̄n chnathihi.⁶
 
@@ -1535,16 +1535,16 @@ a. Before c the palatal sibilant is sometimes inserted⁷ in the RV., the preced
 ]
 
 
-#strong[2. Final] n usually remains unchanged before dental t, e.g. tvávan tmanā; but the dental sibilant is sometimes inserted in the RV., the preceding n then becoming Anusvara. This insertion takes place, only when the sibilant is historically justified; e.g. āvádaṃs tvám (for āvádan). In the later Samhitās the inserted sibilant becomes commoner, occurring even where not etymologically justified.
+*2. Final* n usually remains unchanged before dental t, e.g. tvávan tmanā; but the dental sibilant is sometimes inserted in the RV., the preceding n then becoming Anusvara. This insertion takes place, only when the sibilant is historically justified; e.g. āvádaṃs tvám (for āvádan). In the later Samhitās the inserted sibilant becomes commoner, occurring even where not etymologically justified.
 
 
-#strong[3. Final] n before initial 1 always becomes nazalized I e.g. jigival laksam.
+*3. Final* n before initial 1 always becomes nazalized I e.g. jigival laksam.
 
 
-#strong[4. Though] final n generally remains unchanged before y, r, v, h (36, 4), ān,īn,ūn sometimes become ām,īm,ūr as before vowels (39); e.g. devān havāmahe; but svāvām yātu (for svāvān); dadvām vā (for dadvān); pivo-annām rayivṛdhaḥ (for annān); paṇimr hatam (for paṇin); dās-yūmr yónau (for dāsyun).
+*4. Though* final n generally remains unchanged before y, r, v, h (36, 4), ān,īn,ūn sometimes become ām,īm,ūr as before vowels (39); e.g. devān havāmahe; but svāvām yātu (for svāvān); dadvām vā (for dadvān); pivo-annām rayivṛdhaḥ (for annān); paṇimr hatam (for paṇin); dās-yūmr yónau (for dāsyun).
 
 
-#strong[5. Final] n when etymologically representing ns sometimes becomes mh before p (36, 2); thus nrmh pahi (for nfn); nrmh patram; svatavamh payuh (for svatavan).
+*5. Final* n when etymologically representing ns sometimes becomes mh before p (36, 2); thus nrmh pahi (for nfn); nrmh patram; svatavamh payuh (for svatavan).
 
 
 #v(0.30em)
@@ -1552,7 +1552,7 @@ a. Before c the palatal sibilant is sometimes inserted⁷ in the RV., the preced
 #v(0.18em)
 
 
-#strong[41. Final] m remains unchanged before vowels; e. g. agním īle I praise Agni.
+*41. Final* m remains unchanged before vowels; e. g. agním īle I praise Agni.
 
 #page-footnotes((
   [¹ That is, in the nom. s. and acc. pl. m., which originally ended in ns.],
@@ -1575,16 +1575,16 @@ a. Before c the palatal sibilant is sometimes inserted⁷ in the RV., the preced
 ]
 
 
-#strong[42. Final] m before consonants is changed
+*42. Final* m before consonants is changed
 
 
-#strong[1. before] the semivowel r, the three sibilants \\mathfrak{s},\\mathfrak{s},\\mathfrak{s} and the breathing h to Anusvara; e.g. hotaram ratnadhataamam (for hotaram); vardhamanaam své (for vardhamanaam); mitram huve (for mitram).¹
+*1. before* the semivowel r, the three sibilants \\mathfrak{s},\\mathfrak{s},\\mathfrak{s} and the breathing h to Anusvara; e.g. hotaram ratnadhataamam (for hotaram); vardhamanaam své (for vardhamanaam); mitram huve (for mitram).¹
 
 
-#strong[2. before] y, l, v it becomes nasalized \\check{y}, \\check{l}, \\check{v}; but the printed texts regularly use Anusvara instead; e.g. samyudhi; yajnam vasṭu.
+*2. before* y, l, v it becomes nasalized \\check{y}, \\check{l}, \\check{v}; but the printed texts regularly use Anusvara instead; e.g. samyudhi; yajnam vasṭu.
 
 
-#strong[3. before] mutes it becomes the class nasal, and n before n; e.g. bhadrān kariṣyasi; tyan camasam; návan tvastuh; bhadrān nah. Most MSS. and the printed texts, however, represent this assimilated m by Anusvara; e.g. bhadrān kariṣyasi; tyan camasam; návan tvastuh; bhadrān nah.
+*3. before* mutes it becomes the class nasal, and n before n; e.g. bhadrān kariṣyasi; tyan camasam; návan tvastuh; bhadrān nah. Most MSS. and the printed texts, however, represent this assimilated m by Anusvara; e.g. bhadrān kariṣyasi; tyan camasam; návan tvastuh; bhadrān nah.
 
 a. This Sandhi is identical with that of n before the palatals c, j, ch (40) and the soft dentals d, dh, n (36, 3), and of t before n (33).
 
@@ -1615,20 +1615,20 @@ D
 #v(0.18em)
 
 
-#strong[43. Visarjanīya] is the spirant to which the hard s and the corresponding soft r are reduced in pausā. If followed by a hard sound,
+*43. Visarjanīya* is the spirant to which the hard s and the corresponding soft r are reduced in pausā. If followed by a hard sound,
 
 
-#strong[1. a] palatal (c, ch) or a dental (t) mute, it becomes the corresponding sibilant; e. g. devāś cakṛmā (through devāḥ for devās); pūś ca (through pūḥ ca for pūr ca);¹ yás te (for yāḥ); āṇvībhis tānā (for -bhiḥ).
+*1. a* palatal (c, ch) or a dental (t) mute, it becomes the corresponding sibilant; e. g. devāś cakṛmā (through devāḥ for devās); pūś ca (through pūḥ ca for pūr ca);¹ yás te (for yāḥ); āṇvībhis tānā (for -bhiḥ).
 
 a. Visarjanīya, if preceded by ī and ū, before dental t often becomes cerebral s, which cerebralizes the following initial t to ṭ. In the RV, this occurs chiefly, and in the later Vedas only, before pronouns; e. g. agnīṣ ṭe; krātus ṭām; also nākiṣ ṭanūṣu. In compounds this change takes place in all the Saṃhitās; e. g. dūṣ-ṭara hard to pass.²
 
 
-#strong[2. a] guttural (k, kh) or labial (p, ph) mute, it either remains or becomes Jihvāmūlīya (ḥ) before the gutturals and Upadhmānīya (ḥ) before the labials; e. g. viṣṇoḥ kármāṇi (for viṣṇos); índraḥ pāñca (for índras); púnaḥ-punaḥ (for púnar); dyáuḥ pṛthivī.
+*2. a* guttural (k, kh) or labial (p, ph) mute, it either remains or becomes Jihvāmūlīya (ḥ) before the gutturals and Upadhmānīya (ḥ) before the labials; e. g. viṣṇoḥ kármāṇi (for viṣṇos); índraḥ pāñca (for índras); púnaḥ-punaḥ (for púnar); dyáuḥ pṛthivī.
 
 a. After ā it often, in the RV., becomes s, and s after ī, ū, r̥;³ e. g. divās pāri; pátnīvatas kṛdhi; dyáuṣ pitā. In compounds this change takes place regularly in all the Saṃhitās; e. g. paras-pā far-protecting; haviṣ-pā drinking the offering; duṣ-kṛt evil-doing, duṣ-pād evil-footed.
 
 
-#strong[3. a] simple sibilant, it either remains or is assimilated; e. g. vaḥ śivātamaḥ or vaś śivātamaḥ; dévīḥ ṣaṭ or déviṣ ṣaṭ; naḥ sapātnāḥ or nas sapātnāḥ; púnaḥ sám or púnas sám.⁴ Assimilation is undoubtedly the original Sandhi;
+*3. a* simple sibilant, it either remains or is assimilated; e. g. vaḥ śivātamaḥ or vaś śivātamaḥ; dévīḥ ṣaṭ or déviṣ ṣaṭ; naḥ sapātnāḥ or nas sapātnāḥ; púnaḥ sám or púnas sám.⁴ Assimilation is undoubtedly the original Sandhi;
 
 #page-footnotes((
   [¹ This combination (in which Visarjanīya represents original r) is contrary to etymology, but is universal in sentence Sandhi and is subject to only two exceptions in compounds: svār-cakṣas and svār-canas.],
@@ -1655,19 +1655,19 @@ a. Before a sibilant immediately followed by a hard mute, a final Visarjanīya i
 b. Before a sibilant immediately followed by a nasal or semivowel, a final Visarjanīya is optionally dropped; e. g. kṛta śrávaḥ (for kṛtaḥ); ni-svarám (through niḥ- for nis-).
 
 
-#strong[44. Visarjanīya] (except after a or ā) before a soft sound (vowel or consonant) is changed to r; e. g. ṛṣibhir iḍyaḥ (through ṛṣibhiḥ for ṛṣibhis); agnīr hótā (through agniḥ for agnis); paribhūr ási (through -bhūḥ for -bhūs).
+*44. Visarjanīya* (except after a or ā) before a soft sound (vowel or consonant) is changed to r; e. g. ṛṣibhir iḍyaḥ (through ṛṣibhiḥ for ṛṣibhis); agnīr hótā (through agniḥ for agnis); paribhūr ási (through -bhūḥ for -bhūs).
 
 45\. 1\. The final syllable āḥ (\= ās) drops its Visarjanīya before vowels or soft consonants; e. g. sutā imé (through sutāḥ for sutās); víśvā ví (through víśvāḥ for víśvās).
 
 
-#strong[2. The] final syllable aḥ (\= as)
+*2. The* final syllable aḥ (\= as)
 
 a. drops its Visarjanīya before vowels except a; e. g. khya ā (through khyaḥ for khyas).
 
 b. before soft consonants and before a, is changed to o, after which a may be elided (21 a); e. g. índavo vām (through índavaḥ for índavas); no áti (through naḥ for nas) or nó 'ti.
 
 
-#strong[46. The] final syllables aḥ (\= ar) and āḥ (\= ār), in the comparatively few instances¹ in which the Visarjanīya represents an etymological r, do not form an exception (45) to the general rule (44); e. g. prātár agniḥ; púnar naḥ; svār druháḥ; vār avāyatí.
+*46. The* final syllables aḥ (\= ar) and āḥ (\= ār), in the comparatively few instances¹ in which the Visarjanīya represents an etymological r, do not form an exception (45) to the general rule (44); e. g. prātár agniḥ; púnar naḥ; svār druháḥ; vār avāyatí.
 
 in compounds the original r frequently remains; e. g. vanar-ṣád, dhūr-ṣád, &c. This survival shows that r originally remained before sibilants in sentence Sandhi.
 
@@ -1686,10 +1686,10 @@ D 2
 #fit-page[
 #folio("36", "EXTERNAL CONSONANT SANDHI", "[47-49")
 
-#strong[47. r] followed by r is always dropped, a preceding short vowel being lengthened; e. g. púnā rūpāṇi for púnar.¹
+*47. r* followed by r is always dropped, a preceding short vowel being lengthened; e. g. púnā rūpāṇi for púnar.¹
 
 
-#strong[48. The] three pronouns (nom. m. s.) sáḥ that, syáḥ that, eṣáḥ this, drop the Visarjanīya before all consonants;² e. g. sá vánāni, syá dūtáḥ, eṣá tām. The Visarjanīya is here otherwise treated regularly;³ at the end of a Pāda, e. g. padīṣṭá sáḥ | cakra eṣáḥ |, and before vowels, e. g. só apáḥ, eṣó asura, eṣó 'mandan (for amandan); sá óṣadhīḥ, eṣá índraḥ.
+*48. The* three pronouns (nom. m. s.) sáḥ that, syáḥ that, eṣáḥ this, drop the Visarjanīya before all consonants;² e. g. sá vánāni, syá dūtáḥ, eṣá tām. The Visarjanīya is here otherwise treated regularly;³ at the end of a Pāda, e. g. padīṣṭá sáḥ | cakra eṣáḥ |, and before vowels, e. g. só apáḥ, eṣó asura, eṣó 'mandan (for amandan); sá óṣadhīḥ, eṣá índraḥ.
 
 a. sá, however, generally combines in the RV. with a following vowel; e. g. sásmai for sá asmai; séd for sá íd; sáuṣadhīḥ for sá óṣadhīḥ.
 
@@ -1699,7 +1699,7 @@ a. sá, however, generally combines in the RV. with a following vowel; e. g. sá
 #v(0.18em)
 
 
-#strong[49. The] euphonic combination at the junction of the members of compounds is on the whole subject to the rules prevailing in external Sandhi. Thus the evidence of metre shows that contracted vowels are often to be pronounced with hiatus when the initial vowel of the second member is prosodically long (cp. 18 b); e. g. yuktá-aśva (for yuktāśva) having yoked horses, devá-iddha kindled by the gods (for devéddha), ácha-ukti (for áchokti) invitation.
+*49. The* euphonic combination at the junction of the members of compounds is on the whole subject to the rules prevailing in external Sandhi. Thus the evidence of metre shows that contracted vowels are often to be pronounced with hiatus when the initial vowel of the second member is prosodically long (cp. 18 b); e. g. yuktá-aśva (for yuktāśva) having yoked horses, devá-iddha kindled by the gods (for devéddha), ácha-ukti (for áchokti) invitation.
 
 Compounds have, however, preserved many archaisms of Sandhi which have disappeared from Sandhi in the sentence.
 
@@ -1732,7 +1732,7 @@ d. Final (etymological) r in the first member is preserved in the RV. before har
 e. Radical stems in ir, ur mostly lengthen their vowel before consonants (as they do within the simple word);2 e.g. dhūr-sád being on the yoke, pūr-yána leading to the fort.4
 
 
-#strong[50. Compounds] further often contain archaisms which though still existing in external Sandhi are obsolescent and disappear entirely in later periods of the language.
+*50. Compounds* further often contain archaisms which though still existing in external Sandhi are obsolescent and disappear entirely in later periods of the language.
 
 a. In six compounds scandra bright retains its old initial sibilant in the second member; e.g. áśva-ścandra brilliant with horses, puru-ścandra very brilliant. As an independent word it is, excepting three occurrences in the RV., invariably candra.5
 
@@ -1776,7 +1776,7 @@ e. Final ā or ī of the first member is often shortened before a group of conso
 #v(0.18em)
 
 
-#strong[51. The] palatal ch etymologically represents a double sound and metrically lengthens a preceding short vowel. For the latter reason the RV. Prātiśākhya prescribes the doubling of ch (in the form of cch) after a short vowel, and, as regards long vowels, after ā only, when a vowel follows.¹ This rule is followed by Max Müller in his editions of the RV.; e. g. utá cchadíḥ, ā-cchád-vidhāna, but me chantsat.
+*51. The* palatal ch etymologically represents a double sound and metrically lengthens a preceding short vowel. For the latter reason the RV. Prātiśākhya prescribes the doubling of ch (in the form of cch) after a short vowel, and, as regards long vowels, after ā only, when a vowel follows.¹ This rule is followed by Max Müller in his editions of the RV.; e. g. utá cchadíḥ, ā-cchád-vidhāna, but me chantsat.
 
 #page-footnotes((
   [¹ The Vedic MSS. almost invariably write the simple ch, and this practice is followed by Aufrecht in his edition of the Rigveda and L. v. Schroeder in his edition of the MS. It is also followed in the present work.],
@@ -1791,7 +1791,7 @@ e. Final ā or ī of the first member is often shortened before a group of conso
 #fit-page[
 #folio("52-56]", "EXTERNAL CONSONANT SANDHI", "39")
 
-#strong[52. Before] vowels final ṅ and n, if preceded by a short vowel, are doubled; e. g. kīdṛṇṇ indraḥ; āhann indraḥ. Though the nasal is always written double, the metre shows that this rule is only partially applied as regards pronunciation in the RV.
+*52. Before* vowels final ṅ and n, if preceded by a short vowel, are doubled; e. g. kīdṛṇṇ indraḥ; āhann indraḥ. Though the nasal is always written double, the metre shows that this rule is only partially applied as regards pronunciation in the RV.
 
 a. The compound vṛṣaṇ-aśvá with stallions as steeds (ṇ \= n) is an exception.
 
@@ -1801,15 +1801,15 @@ a. The compound vṛṣaṇ-aśvá with stallions as steeds (ṇ \= n) is an exc
 #v(0.18em)
 
 
-#strong[53. After] a final c, initial ś regularly becomes ch; e. g. yác chaknávāma for yád śaknávāma.
+*53. After* a final c, initial ś regularly becomes ch; e. g. yác chaknávāma for yád śaknávāma.
 
 a. The same change occasionally takes place after ṭ; thus vīpāṭ chutudrī (for śutudrī); turāṣāṭ chuṣmī (for śuṣmī).
 
 
-#strong[54. Initial] h, after softening a preceding k, ṭ, t, p, is changed to the soft aspirate of that mute; e. g. sadhryāg ghitā for hitā; ávāḍ ḍhavyāni for ávāṭ havyāni; sīdad dhótā for sīdat hótā.
+*54. Initial* h, after softening a preceding k, ṭ, t, p, is changed to the soft aspirate of that mute; e. g. sadhryāg ghitā for hitā; ávāḍ ḍhavyāni for ávāṭ havyāni; sīdad dhótā for sīdat hótā.
 
 
-#strong[55. If] gh, dh, bh, or h are at the end of a (radical) syllable beginning with g, d, or b, and lose their aspiration as final or otherwise, the initial consonants are aspirated by way of compensation;¹ e. g. from dagh reach the 3\. s. injunctive is dhak (for dagh-t); -búdh waking becomes -bhút; dúh milking becomes dhúk.
+*55. If* gh, dh, bh, or h are at the end of a (radical) syllable beginning with g, d, or b, and lose their aspiration as final or otherwise, the initial consonants are aspirated by way of compensation;¹ e. g. from dagh reach the 3\. s. injunctive is dhak (for dagh-t); -búdh waking becomes -bhút; dúh milking becomes dhúk.
 
 
 #v(0.30em)
@@ -1817,7 +1817,7 @@ a. The same change occasionally takes place after ṭ; thus vīpāṭ chutudrī 
 #v(0.18em)
 
 
-#strong[56. The] rules of internal Sandhi apply to the finals of roots and nominal and verbal stems before all endings of declension (except those beginning with consonants of the middle stem: 73 a) and conjugation, before primary suffixes (182, 1) and before secondary suffixes (182, 2) beginning with a vowel or y. Many of these rules agree with those of external Sandhi. The most important of those which differ from external Sandhi are the following:
+*56. The* rules of internal Sandhi apply to the finals of roots and nominal and verbal stems before all endings of declension (except those beginning with consonants of the middle stem: 73 a) and conjugation, before primary suffixes (182, 1) and before secondary suffixes (182, 2) beginning with a vowel or y. Many of these rules agree with those of external Sandhi. The most important of those which differ from external Sandhi are the following:
 
 #page-footnotes((
   [¹ This is not really compensation but the survival of the original initial aspiration of such roots, which was lost owing to the avoidance of an aspirate at the beginning and end of the same syllable. Hence when the final aspirate disappeared, the initial returned.],
@@ -1837,13 +1837,13 @@ a. The same change occasionally takes place after ṭ; thus vīpāṭ chutudrī 
 #v(0.18em)
 
 
-#strong[57. In] many cases before a vowel i is changed to iy; u and u to uv; e.g. dhī + e \= dhiy-é dat. s. for thought; bhū + i \= bhuv-í on earth; yu-yuv-é has joined (√yu).
+*57. In* many cases before a vowel i is changed to iy; u and u to uv; e.g. dhī + e \= dhiy-é dat. s. for thought; bhū + i \= bhuv-í on earth; yu-yuv-é has joined (√yu).
 
 
-#strong[58. Final] r before y becomes ri (154, 3); e.g. kr make: kri-yate 3\. s. pres. pass. is done. Final \\overline{r} before consonant terminations is changed to ir, after labials to ur; e.g. g\\overline{r} swallow: gir-yate is swallowed, gir-na swallowed; pr fill: pur-yate is filled, pur-na filled.
+*58. Final* r before y becomes ri (154, 3); e.g. kr make: kri-yate 3\. s. pres. pass. is done. Final \\overline{r} before consonant terminations is changed to ir, after labials to ur; e.g. g\\overline{r} swallow: gir-yate is swallowed, gir-na swallowed; pr fill: pur-yate is filled, pur-na filled.
 
 
-#strong[59. e,] ai, o, au are changed before suffixes beginning with vowels or y to ay, āy, av, āv respectively; e.g. \\acute{s}e + u \= \\acute{s}ay - \\acute{u} lying; rai + e \= rāy-é for wealth; go + e \= gáv-e for a cow; nau + i \= nāv-í in a boat; go + ya \= gáv-ya relating to cows.
+*59. e,* ai, o, au are changed before suffixes beginning with vowels or y to ay, āy, av, āv respectively; e.g. \\acute{s}e + u \= \\acute{s}ay - \\acute{u} lying; rai + e \= rāy-é for wealth; go + e \= gáv-e for a cow; nau + i \= nāv-í in a boat; go + ya \= gáv-ya relating to cows.
 
 
 #v(0.30em)
@@ -1851,12 +1851,12 @@ a. The same change occasionally takes place after ṭ; thus vīpāṭ chutudrī 
 #v(0.18em)
 
 
-#strong[60. The] most notable divergence from external Sandhi is the unchangeableness of the final consonants (cp. 32) of roots and verbal or nominal stems before suffixes and terminations beginning with vowels, semivowels and nasals (while before other letters they usually follow the rules of external Sandhi); e. g. vác-ya to be spoken, duras-yú worshipping, yásas-vat glorious; vác-mi I speak (but vákti speaks); voc-am I will speak, papṛc-yāt would mix; práñc-aḥ nom. pl. forward.
+*60. The* most notable divergence from external Sandhi is the unchangeableness of the final consonants (cp. 32) of roots and verbal or nominal stems before suffixes and terminations beginning with vowels, semivowels and nasals (while before other letters they usually follow the rules of external Sandhi); e. g. vác-ya to be spoken, duras-yú worshipping, yásas-vat glorious; vác-mi I speak (but vákti speaks); voc-am I will speak, papṛc-yāt would mix; práñc-aḥ nom. pl. forward.
 
 a. Before the primary suffix na, d is assimilated; e.g. an-na n. food (for ad-na), chin-na cut off (for chid-na); and before the secondary suffixes mant and maya, t and d; e.g. vidyun-mant accompanied by lightning (vidyut) and mn-maya consisting of clay (mfd). In the nominal case-form san-nam (for sat-nam) of six (sas) the final t is assimilated.
 
 
-#strong[61. Nominal] or verbal stems ending in consonants and followed by terminations consisting of a single consonant, drop the termination altogether, two consonants not being tolerated at the end of a word (28). The final consonant that remains is then treated according to the rules of external
+*61. Nominal* or verbal stems ending in consonants and followed by terminations consisting of a single consonant, drop the termination altogether, two consonants not being tolerated at the end of a word (28). The final consonant that remains is then treated according to the rules of external
 
 ]
 
@@ -1870,14 +1870,14 @@ a. Before the primary suffix na, d is assimilated; e.g. an-na n. food (for ad-na
 Sandhi. Thus prāñc + s nom. s. forward becomes prāñ (the s being first dropped, the palatals being changed to gutturals by 27, and the k being then dropped by 28); similarly a-doh + t \= á-dhok he milked (55).
 
 
-#strong[62. Aspirates] followed by any sounds except vowels, semivowels or nasals (60) lose their aspiration; e. g. randh + dhí \= rand-dhí¹ 2\. s. aor. impv. subject; labh + sya-te \= lap-syate (B.) 3\. s. fut. will take; but yudh-í in battle; ā-rábh-ya seizing.
+*62. Aspirates* followed by any sounds except vowels, semivowels or nasals (60) lose their aspiration; e. g. randh + dhí \= rand-dhí¹ 2\. s. aor. impv. subject; labh + sya-te \= lap-syate (B.) 3\. s. fut. will take; but yudh-í in battle; ā-rábh-ya seizing.
 
 a. A lost soft aspirate is, if possible, thrown back before dhv, bh, s (55); e. g. ind-dhvam 2\. pl. impv. of indh kindle; bhud-bhís inst. pl., bhut-sú loc. pl. But before s this rule applies only partially; thus from dabh harm: des. díp-sa-ti desires to injure, dip-sú intending to hurt; bhas chew: báps-a-ti chews; guh hide: des. ju-guk-ṣa-tas beside aghukṣat; dah burn: part. dákṣat beside dhákṣant; duh milk: aor. á-dukṣat beside á-dhukṣat.
 
 b. But it is thrown forward on a following t and th,² which are softened; e. g. rabh + ta \= rab-dhá seized; ruṇádh + ti \= ruṇád-dhi; rundh + tām \= rund-dhām 3\. s. impv. let him obstruct.
 
 
-#strong[63. Palatals.] a. While c regularly becomes guttural before consonants (cf. 61; 27; 7 b), j in some cases (the majority) becomes guttural (k, g),³ in others cerebral (ṭ, ḍ, ṣ);
+*63. Palatals.* a. While c regularly becomes guttural before consonants (cf. 61; 27; 7 b), j in some cases (the majority) becomes guttural (k, g),³ in others cerebral (ṭ, ḍ, ṣ);
 
 #page-footnotes((
   [¹ For the Vedic language tolerates two aspirates neither at the beginning and the end of the same syllable, nor at the end of one and the beginning of the next. On the other hand, there is no loss of aspiration in the root if an aspirate (after a vowel) which belongs to a suffix or a second member of a compound follows; e. g. vibhú-bhis with the Vibhus; garbha-dhí m. breeding-place. (The two imperatives bo-dhí be for bho-dhí, and ja-hí strike for jha-hí, follow the general rule.)],
@@ -1905,12 +1905,12 @@ c. c and j (not ś) palatalize a following n; e. g. yaj + na \= yaj-ñá sacrifi
 d. The ch of the root prach ask is treated like ś: á-prāk-ṣīt 3\. s. siṣ-aor., á-prāṭ 3\. s. s-aor. (\= á-prach-s-t); pr̥ṣ-ṭá asked, práṣ-ṭum inf. to ask.
 
 
-#strong[64. Cerebrals] change following dentals to cerebrals (39); e. g. iṣ + tá \= iṣ-ṭá; av-iṣ + dhi \= aviḍ-ḍhí 2\. s. impv. iṣ-aor. of av; ṣaṇ + nām (for ṣaṭ-nām) \= ṣaṇ-ṇām (cp. 33, 60 a).
+*64. Cerebrals* change following dentals to cerebrals (39); e. g. iṣ + tá \= iṣ-ṭá; av-iṣ + dhi \= aviḍ-ḍhí 2\. s. impv. iṣ-aor. of av; ṣaṇ + nām (for ṣaṭ-nām) \= ṣaṇ-ṇām (cp. 33, 60 a).
 
 a. While the cerebral sibilant ṣ seems always³ to become a cerebral mute (ṭ or ḍ) in declension and becomes ḍ in conjugation, it regularly becomes k before s in conjugation (cp. 63 b and 67); e. g. dviṣ + s \= dvíṭ nom. s. hating, vi-prúṣ + s \= vi-prúṭ drop, vi-prúḍ-bhis inst. pl.; av-iṣ + dhi \= aviḍ-ḍhí 2\. s. impv. iṣ-aor. of av favour; dviṣ + sa-t \= dvik-ṣat 3\. s. inj. sa- aor. of dviṣ hate.
 
 
-#strong[65. Change] of dental n to cerebral ṇ.
+*65. Change* of dental n to cerebral ṇ.
 
 A preceding cerebral ṛ, ṝ, r, ṣ (even though vowels, guttural or labial mutes or nasals, y, v, or h intervene) changes a dental n (followed by a vowel or n, m, y, v) to cerebral ṇ; e. g. nṛ + nām \= nṛṇām of men; pitṝ + nām \= pitṝṇām of fathers; var + na \= várṇa m. colour; uṣ + na \= uṣṇá hot;
 
@@ -1990,10 +1990,10 @@ Table showing when n changes to η.
 #v(0.18em)
 
 
-#strong[1. remains] unchanged before y and v; e.g. han-yáte is slain; tan-v-āná stretching, índhan-van possessed of fuel (indhana), āsan-vánt having a mouth.
+*1. remains* unchanged before y and v; e.g. han-yáte is slain; tan-v-āná stretching, índhan-van possessed of fuel (indhana), āsan-vánt having a mouth.
 
 
-#strong[2. as] final of a root becomes Anusvāra before s; e.g. jí-ghāṃ-sa-ti wishes to kill (√han); also when it is inserted before final s or ṣ in the neuter plural (71c; 83); e.g. énāṃs-i n. pl. of énas sin; havíṃs-i n. pl. of havís oblation (83).
+*2. as* final of a root becomes Anusvāra before s; e.g. jí-ghāṃ-sa-ti wishes to kill (√han); also when it is inserted before final s or ṣ in the neuter plural (71c; 83); e.g. énāṃs-i n. pl. of énas sin; havíṃs-i n. pl. of havís oblation (83).
 
 
 #v(0.30em)
@@ -2001,7 +2001,7 @@ Table showing when n changes to η.
 #v(0.18em)
 
 
-#strong[1. becomes] dental t as the final of roots or nominal stems
+*1. becomes* dental t as the final of roots or nominal stems
 
 a. before the s of verbal suffixes (future, aorist, desiderative) in the three verbs vas dwell, vas shine, and ghas eat; thus a-vāt-sīs thou hast dwelt; vát-syati will shine; ji-ghat-sati wishes to eat (171, 5) and jighat-sú hungry.¹
 
@@ -2087,10 +2087,10 @@ Table showing when s changes to ṣ.
 ]
 
 
-#strong[68. The] labial m remains unchanged before y, r, l (cp. 60 and 42 B 1); e. g. yam-yámāna being guided, vam-rá m. ant, ápa-mlukta concealed. But before suffixes beginning with v it becomes n; e. g. jagan-ván having gone (from gam go).
+*68. The* labial m remains unchanged before y, r, l (cp. 60 and 42 B 1); e. g. yam-yámāna being guided, vam-rá m. ant, ápa-mlukta concealed. But before suffixes beginning with v it becomes n; e. g. jagan-ván having gone (from gam go).
 
 
-#strong[69. a. The] breathing h becomes k in all roots before s; e. g. dhák-ṣi 2\. s. pres. from dah burn; sak-ṣi 2\. s. pres. from sah prevail.
+*69. a. The* breathing h becomes k in all roots before s; e. g. dhák-ṣi 2\. s. pres. from dah burn; sak-ṣi 2\. s. pres. from sah prevail.
 
 b. In roots beginning with d it is treated like gh before t, th, dh; e. g. dah + tá \= dag-dhá burnt (62 b), duh + tām \= dug-dhām 3\. du. pres. Similarly treated is the oldest form of the perf. pass. participle of the root muh: mug-dhá bewildered.
 
@@ -2138,7 +2138,7 @@ a short vowel).⁴
 #v(0.18em)
 
 
-#strong[70. Declension,] or the inflexion of nominal stems by
+*70. Declension,* or the inflexion of nominal stems by
 
 means of endings that express the various syntactical rela-
 
@@ -2189,7 +2189,7 @@ be grouped together.
 #fit-page[
 #folio("48", "DECLENSION", "[71-72")
 
-#strong[71. The] normal case-endings added to the stem are the following:—
+*71. The* normal case-endings added to the stem are the following:—
 
 
 #align(center)[#block[
@@ -2280,7 +2280,7 @@ b. The nom. acc. sing. has the bare stem excepting the words in -a, which add m.
 c. The nom. voc. acc. plur. neut. before the ending i insert n after a vowel stem and before a single final mute or sibilant of a consonant stem (modifying the n according to the character of the consonant: cp. 66 A 2).
 
 
-#strong[72. An] important distinction in declension is that between the strong and the weak stem. It is fully developed only in derivative consonant stems formed with the suffixes -añc, -an, -man, -van; -ant, -mant, -vant; -tar; -yāms, -vāms. In the first four and in the last the weak stem is further reduced before vowel endings. The stem here has three forms, which may be distinguished as strong, middle, and weakest.
+*72. An* important distinction in declension is that between the strong and the weak stem. It is fully developed only in derivative consonant stems formed with the suffixes -añc, -an, -man, -van; -ant, -mant, -vant; -tar; -yāms, -vāms. In the first four and in the last the weak stem is further reduced before vowel endings. The stem here has three forms, which may be distinguished as strong, middle, and weakest.
 
 a. Shift of accent was the cause of the distinction. The stem, having been accented in the strong cases, here naturally preserved its full form; but it was shortened in the weak cases by the accent falling on the endings. For a similar reason the last vowel of the strong stem, if long, is regularly
 
@@ -2299,7 +2299,7 @@ a. Shift of accent was the cause of the distinction. The stem, having been accen
 ]
 
 
-#strong[73. The] strong stem appears in the following cases:
+*73. The* strong stem appears in the following cases:
 
 Nom. voc. acc. sing.
 
@@ -2321,7 +2321,7 @@ b. In neuters with three stems, the nom. voc. acc. sing. are middle, the nom. vo
 #v(0.18em)
 
 
-#strong[74. Nominal] stems are, owing to divergences of inflexion, best classified under the main divisions of consonant and vowel declension.
+*74. Nominal* stems are, owing to divergences of inflexion, best classified under the main divisions of consonant and vowel declension.
 
 I. Stems ending in consonants³ may be subdivided into A. unchangeable; B. changeable.
 
@@ -2351,10 +2351,10 @@ E
 #v(0.18em)
 
 
-#strong[75. These] stems are for the most part primary or radical, but also include some secondary or derivative words. They end in consonants of all classes except gutturals (these having always become palatals, which however revert to the original sound in certain cases). They are liable to such changes only as are required by the rules of Sandhi before the consonant terminations (cp. 16 a). Masculines and feminines ending in the same consonant are inflected exactly alike; and the neuters differ only in the acc. s. and nom. voc. acc. du. and pl.
+*75. These* stems are for the most part primary or radical, but also include some secondary or derivative words. They end in consonants of all classes except gutturals (these having always become palatals, which however revert to the original sound in certain cases). They are liable to such changes only as are required by the rules of Sandhi before the consonant terminations (cp. 16 a). Masculines and feminines ending in the same consonant are inflected exactly alike; and the neuters differ only in the acc. s. and nom. voc. acc. du. and pl.
 
 
-#strong[76. The] final consonants of the stem retain their original sound before vowel terminations (71); but when there is no ending (i.e. in the nom. sing., in which the s of the m. and f. is dropped), and before the ending su of the loc. pl., they must be reduced to one of the letters k, t, t, p or Visarjanīya (27) which respectively become g, d, d, b or r before the terminations beginning with bh.
+*76. The* final consonants of the stem retain their original sound before vowel terminations (71); but when there is no ending (i.e. in the nom. sing., in which the s of the m. and f. is dropped), and before the ending su of the loc. pl., they must be reduced to one of the letters k, t, t, p or Visarjanīya (27) which respectively become g, d, d, b or r before the terminations beginning with bh.
 
 a. The voc. sing. m. f. is the same as the nom. except in stems in (derivative) as (83).
 
@@ -2366,7 +2366,7 @@ b. Forms of the nom. voc. acc. pl. n. seem not to occur in the Samhitās¹ excep
 #v(0.18em)
 
 
-#strong[77. Paradigm] tri-vṛt m. f. n. threefold.
+*77. Paradigm* tri-vṛt m. f. n. threefold.
 
 
 #align(center)[#block[
@@ -2447,13 +2447,13 @@ b. Forms of the nom. voc. acc. pl. n. seem not to occur in the Samhitās¹ excep
 #fit-page[
 #folio("77]", "STEMS IN DENTALS", "51")
 
-#strong[1. Of] the stems in t most are radical, nearly thirty of them being formed with a determinative t added to roots ending in the short vowels i, u, r; e.g. jí-t conquering, śrú-t hearing, kŕ-t making. Nearly all of them, however, appear as the last member of compounds, except cít f. thought; dyú-t f. brilliance; nŕt f. dancing; vŕ-t f. host. From sarva-hu-t offering completely occurs in N. pl. n. the form sarva-hunti in the AB. There are also a few derivative stems formed with the suffixes -vat, -tāt, -it, -ut, and secondary -t; e.g. pra-vát f. height, devá-tāt f. divine service; sar-ít f. stream; mar-út m. storm-god; yákṛ-t n. liver, śákṛ-t n. excrement.
+*1. Of* the stems in t most are radical, nearly thirty of them being formed with a determinative t added to roots ending in the short vowels i, u, r; e.g. jí-t conquering, śrú-t hearing, kŕ-t making. Nearly all of them, however, appear as the last member of compounds, except cít f. thought; dyú-t f. brilliance; nŕt f. dancing; vŕ-t f. host. From sarva-hu-t offering completely occurs in N. pl. n. the form sarva-hunti in the AB. There are also a few derivative stems formed with the suffixes -vat, -tāt, -it, -ut, and secondary -t; e.g. pra-vát f. height, devá-tāt f. divine service; sar-ít f. stream; mar-út m. storm-god; yákṛ-t n. liver, śákṛ-t n. excrement.
 
 
-#strong[2. There] are only three stems in th: kápṛth, n. penis, páth m. path, abhi-śnáth adj. piercing.
+*2. There* are only three stems in th: kápṛth, n. penis, páth m. path, abhi-śnáth adj. piercing.
 
 
-#strong[3. a. About] 100 stems end in radical d, all but a few being roots used as the final member of compounds; e. g. nom. adri-bhíd mountain-cleaving. Only eight occur as monosyllabic substantives: níd f. contempt, bhíd f. destroyer, vid f. knowledge, úd f. wave, múd f. joy, mŕd f. clay, hŕd n. heart (used in weak cases only); and pád m. foot. The latter lengthens its vowel in the strong cases:
+*3. a. About* 100 stems end in radical d, all but a few being roots used as the final member of compounds; e. g. nom. adri-bhíd mountain-cleaving. Only eight occur as monosyllabic substantives: níd f. contempt, bhíd f. destroyer, vid f. knowledge, úd f. wave, múd f. joy, mŕd f. clay, hŕd n. heart (used in weak cases only); and pád m. foot. The latter lengthens its vowel in the strong cases:
 
 Sing. N. pát. A. pád-am. I. pad-á. D. pad-é. Ab.G. pad-ás. L. pad-í.
 
@@ -2464,7 +2464,7 @@ Pl. N. pád-as. A. pad-ás. I. pad-bhís. D. pad-bhyás. G. pad-ám. L. pat-sú.
 b. There are also six stems formed with derivative d (suffixal -ad -ud), seemingly all feminine: drṣ-ád and dhrṣ-ád nether millstone, bhas-ád hind quarters, van-ád longing, śar-ád autumn, kak-úd summit, kāk-úd palate.
 
 
-#strong[4. There] are about fifty radical stems in dh, simple or compound. They are almost restricted to m. and f., no distinctively n. forms (N. A. du. pl.) occurring and only four forms being used as n. in the G. L. s. Seven stems appear
+*4. There* are about fifty radical stems in dh, simple or compound. They are almost restricted to m. and f., no distinctively n. forms (N. A. du. pl.) occurring and only four forms being used as n. in the G. L. s. Seven stems appear
 
 E 2
 
@@ -2483,7 +2483,7 @@ E 2
 ]
 
 
-#strong[5. Radical] stems in n are formed from half a dozen roots. Four of these are monosyllabic substantives: tán f. succession; rán m. joy; ván m. wood; sván adj. sounding.¹ There are also the compound adjectives tuvi-ṣván roaring aloud and go-ṣán winning cows. Han slaying occurs as the final member of at least thirty-five compounds, but as it follows for the most part the analogy of the an stems, it will be treated under these (92).
+*5. Radical* stems in n are formed from half a dozen roots. Four of these are monosyllabic substantives: tán f. succession; rán m. joy; ván m. wood; sván adj. sounding.¹ There are also the compound adjectives tuvi-ṣván roaring aloud and go-ṣán winning cows. Han slaying occurs as the final member of at least thirty-five compounds, but as it follows for the most part the analogy of the an stems, it will be treated under these (92).
 
 
 #v(0.30em)
@@ -2491,15 +2491,15 @@ E 2
 #v(0.18em)
 
 
-#strong[78. These] stems, which end in p, bh, and m only, are not numerous. No neuters occur in the first two and only one or two in the last.
+*78. These* stems, which end in p, bh, and m only, are not numerous. No neuters occur in the first two and only one or two in the last.
 
 
-#strong[1. All] the monosyllabic stems in p are fem. substantives. They are: áp water, kṛ́p beauty, kṣáp night, kṣíp finger, ríp deceit, rúp earth, víp rod. There are also about a dozen compounds, all adjectives except vi-ṣṭáp f. summit. Three of the adjectives occur as f., the rest as m.; e. g. paśu-tṛ́p m. delighting in cattle.
+*1. All* the monosyllabic stems in p are fem. substantives. They are: áp water, kṛ́p beauty, kṣáp night, kṣíp finger, ríp deceit, rúp earth, víp rod. There are also about a dozen compounds, all adjectives except vi-ṣṭáp f. summit. Three of the adjectives occur as f., the rest as m.; e. g. paśu-tṛ́p m. delighting in cattle.
 
 a. áp lengthens the stem in the N.V. pl. áp-as, a form sometimes used for the A. also. The forms occurring are: Sing. I. ap-á. Ab.G. ap-ás. Du.N. áp-ā. Pl.N.V. áp-as. A. ap-ás. I. ad-bhís. D.Ab. ad-bhyás. G. ap-ám. L. ap-sú.
 
 
-#strong[2. The] six uncompounded stems in bh are all f. substantives: kṣúbh push, gṛ́bh seizing, nábh destroyer, śubh splendour, stúbh praise (also adj. praising), and kakúbh peak. There are also more than a dozen compounds: the substantives are all f., the rest being m. or f. adjectives; there are
+*2. The* six uncompounded stems in bh are all f. substantives: kṣúbh push, gṛ́bh seizing, nábh destroyer, śubh splendour, stúbh praise (also adj. praising), and kakúbh peak. There are also more than a dozen compounds: the substantives are all f., the rest being m. or f. adjectives; there are
 
 #page-footnotes((
   [¹ The accent of these stems is irregular in remaining on the radical syllable (App. III. 11, 1), except taná (beside tánā) and vanám.],
@@ -2521,7 +2521,7 @@ a. áp lengthens the stem in the N.V. pl. áp-as, a form sometimes used for the 
 a. nābh lengthens its vowel in the N. pl. nābh-as. A. nābh-as.
 
 
-#strong[3. There] are five or six monosyllabic stems in m, and one compound: śām n. happiness, dām n. (?) house, kṣām, gām, jām f. earth, hím m. (?) cold; saṃ-nām f. favour.
+*3. There* are five or six monosyllabic stems in m, and one compound: śām n. happiness, dām n. (?) house, kṣām, gām, jām f. earth, hím m. (?) cold; saṃ-nām f. favour.
 
 a. Gām and jām syncopate in the s. I. Ab. G.: gm-ā, jm-ā; gm-ās, jm-ās; kṣām syncopates in the Ab. G. s. and lengthens its vowel in N. du. pl.: kṣm-ās; kṣām-ā; kṣām-as. Dām has the G. s. dān (for dām-s) in the expressions pātir dān and pātī dān \= dām-patis and dām-patī lord of the house and lord and lady of the house.
 
@@ -2531,10 +2531,10 @@ a. Gām and jām syncopate in the s. I. Ab. G.: gm-ā, jm-ā; gm-ās, jm-ās; k�
 #v(0.18em)
 
 
-#strong[79. The] palatals (c, j, ś) undergo a change of organ when final and before consonant terminations (cp. 63). c always becomes guttural (k or g), j and ś nearly always become guttural, but sometimes cerebral (ṭ or ḍ).
+*79. The* palatals (c, j, ś) undergo a change of organ when final and before consonant terminations (cp. 63). c always becomes guttural (k or g), j and ś nearly always become guttural, but sometimes cerebral (ṭ or ḍ).
 
 
-#strong[1. The] unchangeable stems in c¹ when uncompounded are monosyllabic and almost exclusively f. substantives. Tvāc skin, however, twice occurs as a m., and krūñc curlew is m. Compounds, as adjectives, are often m., but only one form occurs as a n., in the adv. ā-pṛk in a mixed manner. Vāc speech would be declined as follows:
+*1. The* unchangeable stems in c¹ when uncompounded are monosyllabic and almost exclusively f. substantives. Tvāc skin, however, twice occurs as a m., and krūñc curlew is m. Compounds, as adjectives, are often m., but only one form occurs as a n., in the adv. ā-pṛk in a mixed manner. Vāc speech would be declined as follows:
 
 Sing. N.V. vāk. A. vāc-am (Lat. voc-em). I. vāc-ā. D. vāc-é. Ab.G. vāc-ās. L. vāc-í.
 
@@ -2557,10 +2557,10 @@ Plur. N.V. vāc-as. A. vāc-as (rarely vāc-ās). I. vāg-bhīs. D.Ab. vāg-bhy�
 Similarly declined are :—tvác skin¹; síc hem; rúc lustre, śúc flame, srúc ladle; ſc stanza, mſc injury; ni-mrúc sunset and other compounds. Krúñc forms its N. s. krúñ, du. krúñcau.
 
 
-#strong[2. There] is only one stem in ch, formed from the root prch ask: N. du. m. bandhu-prch-ā asking after kinsmen; also the D. and A. infinitive forms prch-é to ask, sam-prch-e to greet; vi-prch-am and sam-prch-am to ask.
+*2. There* is only one stem in ch, formed from the root prch ask: N. du. m. bandhu-prch-ā asking after kinsmen; also the D. and A. infinitive forms prch-é to ask, sam-prch-e to greet; vi-prch-am and sam-prch-am to ask.
 
 
-#strong[3. a. Uncompounded] radical stems in j are mostly f. substantives; but áj driver, vij stake at play are m., and yúj,² ráj, bhráj are m. as well as f. Neut. forms occur in compound adjectives, but never the distinctively n. endings of the N.A.V. du. and pl.³
+*3. a. Uncompounded* radical stems in j are mostly f. substantives; but áj driver, vij stake at play are m., and yúj,² ráj, bhráj are m. as well as f. Neut. forms occur in compound adjectives, but never the distinctively n. endings of the N.A.V. du. and pl.³
 
 When the j is derived from a guttural, it becomes a guttural in the N. s. and before consonant endings; when derived from an old palatal, it becomes a cerebral in the N. s.⁴ and before consonants, but k before the su of the L. pl.
 
@@ -2599,7 +2599,7 @@ Du.N. uśíj-ā. G.L. uśíj-os.
 Pl.N. uśíj-as. A. uśíj-as. I. uśíg-bhis. D. uśíg-bhyas. G. uśíj-ām.
 
 
-#strong[4. There] are about sixty monosyllabic and compound stems in ś formed from about a dozen roots. Nine monosyllabic stems are f.: dāś worship, dís direction, drś look, náś night, páś sight, píś ornament, práś dispute, víś settlement, vríś finger. Two are m.: íś lord and spáś spy. All the rest are compounds (about twenty of them formed from -drś). Some half-dozen cases of the latter are used as neuter, but no distinctively n. forms (N.A. du. pl.) occur.
+*4. There* are about sixty monosyllabic and compound stems in ś formed from about a dozen roots. Nine monosyllabic stems are f.: dāś worship, dís direction, drś look, náś night, páś sight, píś ornament, práś dispute, víś settlement, vríś finger. Two are m.: íś lord and spáś spy. All the rest are compounds (about twenty of them formed from -drś). Some half-dozen cases of the latter are used as neuter, but no distinctively n. forms (N.A. du. pl.) occur.
 
 The ś, as it represents an old palatal, normally becomes cerebral ḍ before bh, but in dís and drś a guttural. Before the su of the L. pl. it phonetically and regularly becomes k. It usually also becomes k in the N. s. (which originally ended in s), as dík, nák; but cerebral ṭ in spáś and vi-spáś spy, víś and ví-páś a river.
 
@@ -2633,7 +2633,7 @@ The N. s irregularly represents the final palatal (28 a) in puroḍás m. sacrif
 #v(0.18em)
 
 
-#strong[80. The] only cerebral stems that occur end in ḍ and ṣ. Of the former there are only two: iḍ f. praise (only found in s. I. iḍ-ā) and iḍ f. refreshment (only in s. I. iḍ-ā and G. iḍ-ās).
+*80. The* only cerebral stems that occur end in ḍ and ṣ. Of the former there are only two: iḍ f. praise (only found in s. I. iḍ-ā) and iḍ f. refreshment (only in s. I. iḍ-ā and G. iḍ-ās).
 
 There are a number of stems from about a dozen roots ending in ṣ preceded by i, u, r, or k. Seven of these are uncompounded: iṣ f. refreshment, tvīṣ f. excitement, dvīṣ f. hatred, rīṣ f. injury; uṣ f. dawn; pṛkṣ f. satiation; dadhṛṣ bold. The rest are compounds of the above or of miṣ wink, sriṣ lean, ukṣ sprinkle, muṣ steal, pruṣ drip, dhṛṣ dare, vṛṣ rain; ákṣ eye. The ṣ becomes ṭ in the N., and ḍ before bh, but is of course dropped when k precedes; e.g. N. dvíṭ, vi-prúṭ f. drop, an-ák eyeless, blind; I. pl. vi-prúḍ-bhis.
 
@@ -2645,7 +2645,7 @@ a. The final becomes k in the adverbial neuter form dadhṛk boldly.
 #v(0.18em)
 
 
-#strong[81. There] are some eighty stems formed from about a dozen roots. All three genders are found in their inflexion, but the neuter is rare, occurring in two stems only, and never in the plural. Of monosyllabic stems nīh destroyer, mīh mist, gūh hiding-place, rūh sprout are f., drūh fiend is m. or f., sāh conqueror is m., māh great, m. and n. All the rest are compounds, more than fifty being formed from the three roots druh hate, vah carry, sah overcome; over thirty of them from the last.¹ The two stems uṣṇīh f. a metre, and sarāh bee are obscure in origin.
+*81. There* are some eighty stems formed from about a dozen roots. All three genders are found in their inflexion, but the neuter is rare, occurring in two stems only, and never in the plural. Of monosyllabic stems nīh destroyer, mīh mist, gūh hiding-place, rūh sprout are f., drūh fiend is m. or f., sāh conqueror is m., māh great, m. and n. All the rest are compounds, more than fifty being formed from the three roots druh hate, vah carry, sah overcome; over thirty of them from the last.¹ The two stems uṣṇīh f. a metre, and sarāh bee are obscure in origin.
 
 a. As h represents both the old guttural gh and the old palatal jh it should phonetically become g or ḍ before bh, but the cerebral represents both in the only two forms that occur with a bh ending. In the only L. pl. that occurs,
 
@@ -2682,7 +2682,7 @@ Pl. N.A.V. m. f. sāh-as. A. m. sāh-as and sah-ás; f. sāh-as. D. ṣaḍ-bhy�
 #v(0.18em)
 
 
-#strong[82. There] are over fifty stems in radical r.⁴ The preceding vowel is nearly always i or u, only two stems containing ā and three a. Twelve stems are monosyllabic (seven f.,⁵ three m.,⁶ two n.⁷), the rest being compounds. The r remains before the su of the L. pl., and the radical vowel
+*82. There* are over fifty stems in radical r.⁴ The preceding vowel is nearly always i or u, only two stems containing ā and three a. Twelve stems are monosyllabic (seven f.,⁵ three m.,⁶ two n.⁷), the rest being compounds. The r remains before the su of the L. pl., and the radical vowel
 
 #page-footnotes((
   [¹ anaḍ-váh being a changeable stem with three forms is treated under the irregular changeable stems (96).],
@@ -2747,7 +2747,7 @@ a. Before bh the s becomes d in the two forms I. mad-bhis and D. mad-bhyas, and 
 b. The A. pl. has the accentuation of weak cases in mas-as and jnas-as.
 
 
-#strong[2. The] derivative stems in s are formed with the suffixes -as, -is, -us, and are, with few exceptions, neuter substantives. All of them lengthen their final vowel in the N.V.A. pl. n., e.g. manamsi, jyotimsi, caksumsi. The m. and f. are mostly compounds with these stems as their final member.
+*2. The* derivative stems in s are formed with the suffixes -as, -is, -us, and are, with few exceptions, neuter substantives. All of them lengthen their final vowel in the N.V.A. pl. n., e.g. manamsi, jyotimsi, caksumsi. The m. and f. are mostly compounds with these stems as their final member.
 
 a. The as stems consist almost entirely of neuters, which
 
@@ -2847,7 +2847,7 @@ D. cákṣur-bhyas. G. cákṣuṣ-ām.
 #v(0.18em)
 
 
-#strong[84. Regular] changeable stems are found only among derivative nouns formed with suffixes ending in the dentals t, n, s, or the palatal c. Those in t are formed with the suffixes -ant, -mant, -vant; those in n with -an, -man, -van, and -in, -min, -vin; those in s with -yāṃs and -vāṃs; those in c with -añc (properly a root meaning to bend). The stems in -ant (85-86), -in (87), -yāṃs (88) have two forms, strong and weak; those in -an (90-92), -vāṃs (89), and -añc (93) have three, strong, middle, and weakest (73).
+*84. Regular* changeable stems are found only among derivative nouns formed with suffixes ending in the dentals t, n, s, or the palatal c. Those in t are formed with the suffixes -ant, -mant, -vant; those in n with -an, -man, -van, and -in, -min, -vin; those in s with -yāṃs and -vāṃs; those in c with -añc (properly a root meaning to bend). The stems in -ant (85-86), -in (87), -yāṃs (88) have two forms, strong and weak; those in -an (90-92), -vāṃs (89), and -añc (93) have three, strong, middle, and weakest (73).
 
 
 #v(0.30em)
@@ -2855,7 +2855,7 @@ D. cákṣur-bhyas. G. cákṣuṣ-ām.
 #v(0.18em)
 
 
-#strong[85. Stems] in -ant comprise present,¹ future, and aorist participles (156) active (m. and n.).² The strong stem is in -ant, the weak in -at³; e. g. ad-ánt and ad-at eating from ad eat. These participles are inflected in the m. and n. only, the f. having a special stem in ī.² The n. inflexion differs from the m. in the N.V.A. s. du. pl. only. The accent, if resting on the suffix, shifts in weak cases to the endings that begin with vowels.
+*85. Stems* in -ant comprise present,¹ future, and aorist participles (156) active (m. and n.).² The strong stem is in -ant, the weak in -at³; e. g. ad-ánt and ad-at eating from ad eat. These participles are inflected in the m. and n. only, the f. having a special stem in ī.² The n. inflexion differs from the m. in the N.V.A. s. du. pl. only. The accent, if resting on the suffix, shifts in weak cases to the endings that begin with vowels.
 
 #page-footnotes((
   [¹ Excepting those of the reduplicating verbs and a few others that follow their analogy (85 b).],
@@ -2948,7 +2948,7 @@ Sing. N. m. n. dádat. A. m. dádat-am. I. dádat-ā. D. dádat-e. G. dádat-as.
 Plur. N.A. dádat-as. I. dádad-bhis. G. dádat-ām.
 
 
-#strong[86. The] adjective stems formed with the suffixes -mant and -vant, which both mean possessing, are inflected exactly alike and differ from the stems in -ant solely in lengthening the vowel of the suffix in the N. s. m.⁷ The V. of these stems
+*86. The* adjective stems formed with the suffixes -mant and -vant, which both mean possessing, are inflected exactly alike and differ from the stems in -ant solely in lengthening the vowel of the suffix in the N. s. m.⁷ The V. of these stems
 
 #page-footnotes((
   [¹ Which has been weakened because here the accent is regularly on the reduplicative syllable.],
@@ -2979,7 +2979,7 @@ Sing. N. m. gómān; n. gómat. A. m. gómant-am. L. gó-mat-i. V. m. gómas.
 Pl. N. m. gómant-as; n. gómānt-i.³ A. m. gómat-as. L. gómat-su.
 
 
-#strong[87. Adjective] stems are formed with the suffixes -in, -min, -vin, which mean possessing. Those in -in are very common, those in -vin number nearly twenty, but there is only one in -min: rg-mín praising. They are declined in the m. and n. only;⁴ but the n. forms are very rare, occurring in the s. N. I. G. only. These stems sometimes come to be used as m. substantives; e.g. gāth-ín singer. As in all derivative stems ending in n, the vowel of the suffix is lengthened in the N. s. m., and the n disappears in that case (in the n. also) and before consonant endings.
+*87. Adjective* stems are formed with the suffixes -in, -min, -vin, which mean possessing. Those in -in are very common, those in -vin number nearly twenty, but there is only one in -min: rg-mín praising. They are declined in the m. and n. only;⁴ but the n. forms are very rare, occurring in the s. N. I. G. only. These stems sometimes come to be used as m. substantives; e.g. gāth-ín singer. As in all derivative stems ending in n, the vowel of the suffix is lengthened in the N. s. m., and the n disappears in that case (in the n. also) and before consonant endings.
 
 The forms actually occurring, if made from hast-ín having hands, would be as follows:
 
@@ -3157,7 +3157,7 @@ In the strong cases the a of the suffix is usually lengthened, e. g. ádhvān-am
 As in all other n stems, the nasal is dropped in the N. s., e. g. m. ádhvā, n. kárma. But there are two peculiarities of inflexion which, being common to these three groups, do not appear elsewhere in the consonant declension. The ending of the L. s. is in the RV. dropped more often than not; e. g. mūrdhán beside mūrdhán-i on the head. In the N.A. pl. n. both the final n of the stem and the termination i are, in the RV., dropped in nineteen stems, e. g. kárma;⁴ while they are retained in eighteen, e. g. kármāṇi.
 
 
-#strong[1. The] an stems, which are both m. and n.,⁵ besides the
+*1. The* an stems, which are both m. and n.,⁵ besides the
 
 F 2
 
@@ -3225,7 +3225,7 @@ The normal forms, if made from rājan king, would be:
 The n. differs in the N.A. only. No example of the s. N.A. occurs (p. 70, n. 1). But the du. of áhan day is áhan-ī, pl. áhān-i.
 
 
-#strong[2. The] stems in man are about equally divided between m. and n., the former being mostly agent nouns, the latter verbal abstracts. About a dozen forms from these stems as final members of compounds are used as feminines.⁶ In
+*2. The* stems in man are about equally divided between m. and n., the former being mostly agent nouns, the latter verbal abstracts. About a dozen forms from these stems as final members of compounds are used as feminines.⁶ In
 
 #page-footnotes((
   [¹ See below, 91\. 3, 4\.],
@@ -3262,7 +3262,7 @@ The n. differs in the N.A. only. These cases from kárman act are:
 Sing. kárma. Du. kármaṇ-ī. Pl. kármāṇ-i, kármā, kárma.
 
 
-#strong[3. The] stems in van are chiefly verbal adjectives and are almost exclusively declined in the m. Hardly a dozen of them make n. forms, and only five or six forms are used as f.² In the strong cases there is only one example of the a remaining short: anarváṇ-am. In the weak cases, when the suffix is preceded by a vowel, the a is always syncopated in the Samhitā text except in the forms dā-ván-e, vasu-ván-e, and rtā-van-i. The V. is usually formed in van, but there are four in vas: rtā-vas, eva-yā-vas, prātar-it-vas, vi-bhā-vas.³
+*3. The* stems in van are chiefly verbal adjectives and are almost exclusively declined in the m. Hardly a dozen of them make n. forms, and only five or six forms are used as f.² In the strong cases there is only one example of the a remaining short: anarváṇ-am. In the weak cases, when the suffix is preceded by a vowel, the a is always syncopated in the Samhitā text except in the forms dā-ván-e, vasu-ván-e, and rtā-van-i. The V. is usually formed in van, but there are four in vas: rtā-vas, eva-yā-vas, prātar-it-vas, vi-bhā-vas.³
 
 #page-footnotes((
   [¹ When the suffix is preceded by a vowel, the a is generally syncopated, as mahi-mn-ā, also mahi-n-ā, &c.],
@@ -3402,10 +3402,10 @@ maghón-os
 maghón-ām
 
 
-#strong[6. udhan] n. udder supplements the N. s. with udhar and udhas; before consonant endings, the latter stem also occurs: pl. L. udhas-su.
+*6. udhan* n. udder supplements the N. s. with udhar and udhas; before consonant endings, the latter stem also occurs: pl. L. udhas-su.
 
 
-#strong[92. The] root han, which forms the final member of thirty-five compounds in the RV., follows, for the most part, the analogy of derivative stems in an. The strong stem is
+*92. The* root han, which forms the final member of thirty-five compounds in the RV., follows, for the most part, the analogy of derivative stems in an. The strong stem is
 
 #page-footnotes((
   [¹ Cp. Lat. juven-is and jūn-ior.],
@@ -3457,7 +3457,7 @@ I. vṛtra-há-bhis
 #v(0.18em)
 
 
-#strong[93. These] words, the suffix² of which generally expresses the meaning of -ward, form the strong stem in añc, the middle in īc or ūc³ (according as ac is preceded by y or v). About fourteen stems have a weakest form in īc, and about six in ūc, which, if they are the contractions of accented syllables, shift the accent to the endings.⁴ They are inflected in the m. and n. only, the f. being formed with ī from the weakest stem. The only cases occurring in the pl. are the N.A. and in the du. N.A.L.
+*93. These* words, the suffix² of which generally expresses the meaning of -ward, form the strong stem in añc, the middle in īc or ūc³ (according as ac is preceded by y or v). About fourteen stems have a weakest form in īc, and about six in ūc, which, if they are the contractions of accented syllables, shift the accent to the endings.⁴ They are inflected in the m. and n. only, the f. being formed with ī from the weakest stem. The only cases occurring in the pl. are the N.A. and in the du. N.A.L.
 
 The forms actually found, if made from praty-áñc turned towards, would be :
 
@@ -3585,23 +3585,23 @@ Pl. N. ápāñc-as. A. ápāc-as.
 The only distinctively n. form is N.A. s. prāk.¹ The f. is formed from the weak stem with ī: prāc-ī.
 
 
-#strong[94. The] points to be noted about changeable stems are:
+*94. The* points to be noted about changeable stems are:
 
 
-#strong[1. The] vowel of the suffix is lengthened in the N. s. m. except in ant and anc stems: go-mān, agni-van; kániyān; cakr-van; rajā; ásmā, grávā, yuv-ā; hasti, rg-mi, taras-vi; but ad-an, pratyán.
+*1. The* vowel of the suffix is lengthened in the N. s. m. except in ant and anc stems: go-mān, agni-van; kániyān; cakr-van; rajā; ásmā, grávā, yuv-ā; hasti, rg-mi, taras-vi; but ad-an, pratyán.
 
 
-#strong[2. The] N. sing. ends in a nasal in all changeable stems except those in n, which drop it.
+*2. The* N. sing. ends in a nasal in all changeable stems except those in n, which drop it.
 
 
-#strong[3. All] changeable stems that lengthen the vowel in the N. s. m. shorten it in the V. Those that drop the n in the N., retain it in the V., while those that have n (after a) in the N. drop it in the V., and add s:
+*3. All* changeable stems that lengthen the vowel in the N. s. m. shorten it in the V. Those that drop the n in the N., retain it in the V., while those that have n (after a) in the N. drop it in the V., and add s:
 
 thus rājan (N. rājā),² áśman (N. áśmā), grāvan (N. grāvā), yúvan (N. yuvā);³ hástin (N. hasti); háviṣmas (N. haviṣmān), márutvas⁴ (N. marútvān); kánīyas (N. kánīyān); cákrvas (N. cákrvān).
 
 a. The only changeable stems in which the V. does not differ in form (though it does in accent) from the N. are the ant and anc stems: ádan (N. adán); prátyán (N. pratyán).
 
 
-#strong[95. The] feminines of nouns with changeable stems are
+*95. The* feminines of nouns with changeable stems are
 
 #page-footnotes((
   [¹ In B. some half-dozen N.A. plur. n. forms occur: prāñci, praty-ánci, arvāñci, samyánci, sadhryánci, anvañci.],
@@ -3714,7 +3714,7 @@ L. puṃ-sú
 #v(0.18em)
 
 
-#strong[97. A.] 1\. The stems in derivative a (m. n.)³ and ā (f.)⁴ constitute the most important declensions because the former embraces more than one half of all nominal stems, and the latter includes more feminines than any other declension.
+*97. A.* 1\. The stems in derivative a (m. n.)³ and ā (f.)⁴ constitute the most important declensions because the former embraces more than one half of all nominal stems, and the latter includes more feminines than any other declension.
 
 #page-footnotes((
   [¹ Probably an old compound, with the second part of which the Lat. mās 'male' may be allied.],
@@ -3813,7 +3813,7 @@ G.L. m.f.n. priyá-y-os.
 a. In the Brāhmaṇas and Sūtras the D. s. f. ending ai is used instead of the Ab.G. ending ās both in this declension and elsewhere (98.3 a); e. g. jīrṇāyai tvacah of dead skin.
 
 
-#strong[2. Radical] ā stems, m. and f.,¹⁶ are common in the RV., being formed from about thirty roots. Most of them appear only as the final member of compounds, but four are used as monosyllables in the m.: jā child, trā protector, dā giver, sthā standing; and seven in the f.: kṣā abode, khā well, gnā divine woman, jā child, jyā bowstring, mā measure, vrā troop.¹⁷ The forms occurring in the oblique cases are so
+*2. Radical* ā stems, m. and f.,¹⁶ are common in the RV., being formed from about thirty roots. Most of them appear only as the final member of compounds, but four are used as monosyllables in the m.: jā child, trā protector, dā giver, sthā standing; and seven in the f.: kṣā abode, khā well, gnā divine woman, jā child, jyā bowstring, mā measure, vrā troop.¹⁷ The forms occurring in the oblique cases are so
 
 #page-footnotes((
   [⁶ The form amba, occurring thrice in the RV., may have a V. meaning, O mother! The VS. and TS. have the V. ámbe as from a stem ámbā mother.],
@@ -3858,10 +3858,10 @@ From the adverb táthā thus is formed the sing. N. á-tathā-s not saying 'yes'
 uśánā m., a seer, has a N. like a f.: uśánā. A. uśánā-m. D. uśán-e. mánthā churning stick and mahá great form the A. mánthā-m and mahá-m.
 
 
-#strong[3. Radical] a stems, m. n., numbering about twenty, consist almost entirely of stems in radical ā that has been shortened to a. Excepting kha n. aperture they appear as final members of compounds only; e. g. prathama-já first-born. -ha slaying is a reduced form of han; e. g. śatru-há slaying enemies.
+*3. Radical* a stems, m. n., numbering about twenty, consist almost entirely of stems in radical ā that has been shortened to a. Excepting kha n. aperture they appear as final members of compounds only; e. g. prathama-já first-born. -ha slaying is a reduced form of han; e. g. śatru-há slaying enemies.
 
 
-#strong[98. B.] Stems in i and u (m.f.n.).
+*98. B.* Stems in i and u (m.f.n.).
 
 Both declensions embrace a large number of nouns of all genders. But the i declension contains comparatively few n. stems, and, excepting the N.A. s. and pl., n. forms are
 
@@ -4295,7 +4295,7 @@ a. The VS. has also the N. s. arí-s, beside the regular arí-s of the RV.
 ávy-as. ví m. bird has in the RV. the N. s. vé-s beside ví-s.
 
 
-#strong[4. The] neuters áksi eye, ásthi bone, dádhi curls, sákthi
+*4. The* neuters áksi eye, ásthi bone, dádhi curls, sákthi
 
 thigh, form their weakest cases from stems in án; e.g.
 
@@ -4339,7 +4339,7 @@ dyàu-s² (Zεv).
 Pl.N. dív-as.¹ A. m. dyún,³ f. dív-as. I. dyú-bhis.³
 
 
-#strong[100. C.] Stems in ī and ū are mostly f. when substan-
+*100. C.* Stems in ī and ū are mostly f. when substan-
 
 tives, but a great many as final members of compounds are
 
@@ -4445,10 +4445,10 @@ a. RADICAL STEMS.
 b. DERIVATIVE STEMS.
 
 
-#strong[1. dhī] f. thought.
+*1. dhī* f. thought.
 
 
-#strong[2. rathī] m. f.
+*2. rathī* m. f.
 
 charioteer.
 
@@ -4673,10 +4673,10 @@ D. tanú-bhyas
 G. tanú-n-ām
 
 
-#strong[101. D.] Stems in r (m. and f.), which in origin are consonant stems in derivative ar or tar, closely resemble an stems (90) in their declension. Derivative stems in r consist of two groups, the one formed with the original suffix ar, the other with tar. The former is a small group of only eight stems, the latter a very large one of more than 150\. Both groups agree in distinguishing strong and weak cases. The strong stem ends in ar or ār, which in the weak forms is reduced to r before vowels and r before consonants. Both groups further agree in dropping the final of the stem in the N. s. m. f., which case always ends in ā. They resemble the vowel declension in adding the ending n in the A. pl. m. and s in the A. pl. f.,¹ and in inserting n before the ām of the G. pl.² They have the peculiar ending ur in the G. s.³
+*101. D.* Stems in r (m. and f.), which in origin are consonant stems in derivative ar or tar, closely resemble an stems (90) in their declension. Derivative stems in r consist of two groups, the one formed with the original suffix ar, the other with tar. The former is a small group of only eight stems, the latter a very large one of more than 150\. Both groups agree in distinguishing strong and weak cases. The strong stem ends in ar or ār, which in the weak forms is reduced to r before vowels and r before consonants. Both groups further agree in dropping the final of the stem in the N. s. m. f., which case always ends in ā. They resemble the vowel declension in adding the ending n in the A. pl. m. and s in the A. pl. f.,¹ and in inserting n before the ām of the G. pl.² They have the peculiar ending ur in the G. s.³
 
 
-#strong[1. The] stems in ar are: m. dev-r̥ husband's brother, nr̥⁴ man; f. us-r̥ dawn, nánāndr̥ husband's sister, svásr̥⁵ sister; n. áh-ar day, údh-ar udder, vádh-ar weapon, which
+*1. The* stems in ar are: m. dev-r̥ husband's brother, nr̥⁴ man; f. us-r̥ dawn, nánāndr̥ husband's sister, svásr̥⁵ sister; n. áh-ar day, údh-ar udder, vádh-ar weapon, which
 
 #page-footnotes((
   [¹ Except usr-ás.],
@@ -4710,7 +4710,7 @@ d. Sing. G. nánāndur. L. nánāndari.
 e. Sing. N. svásā. A. svásār-am. I. svásr-ā. D. svásr-e. Ab.G. svás-ur. Du. svásār-ā, -au. L. svásr-os. Pl. N. svásār-as. A. svásṛ́-s. I. svásṛ-bhis. G. svásr-ām⁴ and svásṛ́-ṇ-ām.
 
 
-#strong[2. This] group includes two subdivisions, the one forming its strong stem in tar, the other in tār (Gk. -τηρ, -τωρ, Lat. -tor). The former consists of a small class of five names of relationship: three m., pi-tár father, bhrā-tar brother, náp-tar grandson, and two f., duh-i-tár daughter and mā-tár mother, together with the m. and f. compounds formed from them. The second division consists of more than 150 stems (including compounds) which are either agent nouns accented chiefly on the suffix, or participles accented chiefly on the root. These stems are never f., and only four are n.
+*2. This* group includes two subdivisions, the one forming its strong stem in tar, the other in tār (Gk. -τηρ, -τωρ, Lat. -tor). The former consists of a small class of five names of relationship: three m., pi-tár father, bhrā-tar brother, náp-tar grandson, and two f., duh-i-tár daughter and mā-tár mother, together with the m. and f. compounds formed from them. The second division consists of more than 150 stems (including compounds) which are either agent nouns accented chiefly on the suffix, or participles accented chiefly on the root. These stems are never f., and only four are n.
 
 In the tr declension three stems are to be distinguished: the strong, tar or tār; the middle, tr; and the weakest, tr. The names of relationship take the Guṇa form,⁵ agent nouns the Vṛddhi form of the
 
@@ -4799,12 +4799,12 @@ b. The only n. stems occurring are dhar-tf prop, dhmā-tf smithy, sthā-tf stati
 c. The f. of agent nouns in tr is formed with i from the weak stem of the m., e.g. janitr-i mother (inflected like devf).
 
 
-#strong[102. E.] Stems in ai, o, au. The only stems in diphthongs are: rái m. and (rarely) f. wealth, gó m. bull, f. cow, dyó m. f. sky, náu f. ship, gláu m. f. lump. They form a transition from the consonant to the vowel declension; for while they take the normal endings like the ordinary consonant declension, they add s in the N. s. m. f. and have a vowel before the endings with initial consonant. There are no neuter forms.
+*102. E.* Stems in ai, o, au. The only stems in diphthongs are: rái m. and (rarely) f. wealth, gó m. bull, f. cow, dyó m. f. sky, náu f. ship, gláu m. f. lump. They form a transition from the consonant to the vowel declension; for while they take the normal endings like the ordinary consonant declension, they add s in the N. s. m. f. and have a vowel before the endings with initial consonant. There are no neuter forms.
 
 1\. rái appears as rāy before vowels and rā before consonants. The forms occurring are: Sing. A. rā́-m (Lat. re-m). I. rāy-ā́. D. rāy-é (Lat. rē-ī). Ab.G. rāy-ás.—Pl. N. rā́y-as. A. rāy-ás.¹ G. rāy-ām.
 
 
-#strong[2. go] has as its strong form gau which appears as gā in the A. s. and pl. The Ab.G. are irregular in adding s only instead of as.² The forms occurring are: Sing. N. gáu-s (βoṽ-ṣ). A. gá́-m (βṓ-ν). I. gáv-ā. D. gáv-e. Ab.G. gó-s. L. gáv-i.—Du. gáv-ā, -au.—Pl. N. gáv-as. A. gā́-s. I. gó-bhis. D. gó-bhyas. G. gáv-ām and gó-n-ām.³ L. gó-ṣu. V. gáv-as.
+*2. go* has as its strong form gau which appears as gā in the A. s. and pl. The Ab.G. are irregular in adding s only instead of as.² The forms occurring are: Sing. N. gáu-s (βoṽ-ṣ). A. gá́-m (βṓ-ν). I. gáv-ā. D. gáv-e. Ab.G. gó-s. L. gáv-i.—Du. gáv-ā, -au.—Pl. N. gáv-as. A. gā́-s. I. gó-bhis. D. gó-bhyas. G. gáv-ām and gó-n-ām.³ L. gó-ṣu. V. gáv-as.
 
 #page-footnotes((
   [¹ Rarely rā́y-as; once rā́-s (SV.).],
@@ -4862,7 +4862,7 @@ d. They also form a comparative and superlative from the preposition úd up: út
 e. These suffixes² form their f. in ā; e.g. mātf-tamā most motherly.
 
 
-#strong[2. The] primary suffix of the comparative īyāṃs (Gk. -ιων, Lat. -ior) and that of the superlative iṣṭha (Gk. -ιστο) are added directly to the root, which is regularly accented³ and gunates ī and ū, but leaves a unchanged apart from nasalization in a few instances. Final radical ā combines with the initial of the suffix to e, which is, however, usually to be read as two syllables. Examples are: téj-īyāṃs sharper, téj-iṣṭha very sharp (tij be sharp); jáv-īyāṃs quieker, jáv-iṣṭha quickest (jū be swift); yáj-īyāṃs sacrificing better, yáj-iṣṭha sacrificing best; máṃh-iṣṭha most liberal (mah bestow abundantly); jyéṣṭha greatest and jyeṣṭhá eldest (jyā overcome).
+*2. The* primary suffix of the comparative īyāṃs (Gk. -ιων, Lat. -ior) and that of the superlative iṣṭha (Gk. -ιστο) are added directly to the root, which is regularly accented³ and gunates ī and ū, but leaves a unchanged apart from nasalization in a few instances. Final radical ā combines with the initial of the suffix to e, which is, however, usually to be read as two syllables. Examples are: téj-īyāṃs sharper, téj-iṣṭha very sharp (tij be sharp); jáv-īyāṃs quieker, jáv-iṣṭha quickest (jū be swift); yáj-īyāṃs sacrificing better, yáj-iṣṭha sacrificing best; máṃh-iṣṭha most liberal (mah bestow abundantly); jyéṣṭha greatest and jyeṣṭhá eldest (jyā overcome).
 
 a. In many instances these superlatives attach themselves in meaning to derivative adjectives, being formed from the root which the latter contain; e.g. án-īyāṃs smaller, án-iṣṭha smallest beside án-u minute; dáv-īyāṃs farther beside dū-rá far; drágh-īyāṃs longer, drágh-iṣṭha longest beside dīrgh-á long; lágh-īyāṃs lighter beside lagh-ú light; vár-īyāṃs wider, vár-iṣṭha widest beside ur-ú wide; śás-īyāṃs more frequent beside śás-vant constant; óṣ-iṣṭha very quick beside óṣ-am quickly; bárh-iṣṭha very lofty beside bṛh-ánt great; yáv-iṣṭha youngest beside yúv-an youth; vár-iṣṭha most excellent beside vár-a choice; sádh-iṣṭha straightest beside sādh-ú straight.
 
@@ -4918,18 +4918,18 @@ b. Some comparatives and superlatives belong to their positives in sense only; e
 1\. é-ka.
 
 
-#strong[2. dva] (δv0, Lat. duo).
+*2. dva* (δv0, Lat. duo).
 
 
-#strong[3. tri] (rpl, Lat. tri).
+*3. tri* (rpl, Lat. tri).
 
 
-#strong[4. catur] (Lat. quatuor).
+*4. catur* (Lat. quatuor).
 
 5\. pánca (πέντε).
 
 
-#strong[6. sas] (εξ, Lat. sex).
+*6. sas* (εξ, Lat. sex).
 
 7\. saptá (επτá).
 
@@ -4974,7 +4974,7 @@ b. Some comparatives and superlatives belong to their positives in sense only; e
 90\. nava-ti.
 
 
-#strong[100. satam] (ε-κατόν, Lat. centum).
+*100. satam* (ε-κατόν, Lat. centum).
 
 1,000\. sahásra n.
 
@@ -5042,7 +5042,7 @@ a. Multiples of numbers below 100 are sometimes formed in these two ways; e. g. 
 #v(0.18em)
 
 
-#strong[105. Only] the first four cardinals, like other adjectives, distinguish the genders. éka one, while inflected chiefly in the s., forms a pl.¹ also in the sense of some; dvá two is of course inflected in the dual only.
+*105. Only* the first four cardinals, like other adjectives, distinguish the genders. éka one, while inflected chiefly in the s., forms a pl.¹ also in the sense of some; dvá two is of course inflected in the dual only.
 
 1\. éka is declined like the pronominal adjectives víśva
 
@@ -5115,7 +5115,7 @@ f. N. A. cátasr-as. I. catasṛ-bhis. D. catasṛ-bhyas. G. catasṛṇám.
 n. N.A. catvár-i.
 
 
-#strong[106. The] cardinals from five to nineteen, though used adjectivally, do not distinguish gender and take no ending in the N.A.³ They also have in common the peculiarity of accenting a before the consonant terminations⁴ and the final syllable in the G.
+*106. The* cardinals from five to nineteen, though used adjectivally, do not distinguish gender and take no ending in the N.A.³ They also have in common the peculiarity of accenting a before the consonant terminations⁴ and the final syllable in the G.
 
 a. The forms of ṣáṣ six occurring in the Saṃhitās are:
 
@@ -5166,7 +5166,7 @@ a. In the group five to nineteen the bare stem may be used in the oblique cases 
 #v(0.18em)
 
 
-#strong[107. The] ordinals, being all adjectives ending in a, are declined in the m. and n. like priyá. The f. is formed with ī (declined like devī) except in the first four, which take ā.
+*107. The* ordinals, being all adjectives ending in a, are declined in the m. and n. like priyá. The f. is formed with ī (declined like devī) except in the first four, which take ā.
 
 The ordinals from first to tenth are formed with various suffixes, viz. (t)īya, tha, thama, ma. The formation
 
@@ -5256,7 +5256,7 @@ sapta-má (Lat. septi-mu-s).
 #v(0.18em)
 
 
-#strong[108. A] number of derivatives, chiefly adverbs, are formed from the cardinals.
+*108. A* number of derivatives, chiefly adverbs, are formed from the cardinals.
 
 a. Multiplicative adverbs: sa-krt once (lit. one making); dvi-s twice (Gk. \\delta i-s, Lat. bi-s); tri-s thrice (Gk. \\tau \\rho i-s, Lat. tri-s); catus four times (for catur-s). Others are expressed by the cardinal and the form krtv-as times (probably makings A. pl. of krtu) which is used as a separate word except in asta-krtvas (AV.) eight times; e.g. dasa krtvas (AV.) ten times, bhuri krtvas many times.
 
@@ -5270,7 +5270,7 @@ c. A few multiplicative adjectives derived with the suffixes a, taya, vaya meani
 #v(0.18em)
 
 
-#strong[109. Pronouns] differ from nouns both in origin and declension. They are derived from a small class of roots with a demonstrative sense, and they have several distinct peculiarities of inflexion. These peculiarities have in varying degrees been extended to several groups of adjectives.
+*109. Pronouns* differ from nouns both in origin and declension. They are derived from a small class of roots with a demonstrative sense, and they have several distinct peculiarities of inflexion. These peculiarities have in varying degrees been extended to several groups of adjectives.
 
 ]
 
@@ -5350,10 +5350,10 @@ b. The usual stems of these pronouns used in derivation or as first member of co
 #v(0.18em)
 
 
-#strong[110. The] inflexion of these pronouns, as compared with the nominal a declension, has the following peculiarities:
+*110. The* inflexion of these pronouns, as compared with the nominal a declension, has the following peculiarities:
 
 
-#strong[1. in] the sing. d is added instead of m in the N.A. n.; the element sma appears between the root and the ending in the D.Ab.L. m. n., and syā in the D.Ab.G.L. f.; in (instead of i) is the ending in the L. m. n. 2\. in the pl. the N. m. ends in e instead of ās; the G. has s instead of n before the ending ām.
+*1. in* the sing. d is added instead of m in the N.A. n.; the element sma appears between the root and the ending in the D.Ab.L. m. n., and syā in the D.Ab.G.L. f.; in (instead of i) is the ending in the L. m. n. 2\. in the pl. the N. m. ends in e instead of ās; the G. has s instead of n before the ending ām.
 
 The stem tá that (also he, she, it) may be taken as the type for the inflexion of adjectival pronouns:
 
@@ -5494,12 +5494,12 @@ f. Sing. N. syá. A. tyám. I. tyá. G. tyásyās.—Du. N. tyé.—Pl. N. tyás
 n. Sing. tyád. Pl. tyá, tyáni.
 
 
-#strong[3. A] very rare derivative is ta-ká this little, which occurs only twice in the RV. in the two A. sing. forms m. taká-m, n. taká-d.
+*3. A* very rare derivative is ta-ká this little, which occurs only twice in the RV. in the two A. sing. forms m. taká-m, n. taká-d.
 
 a. simá seems to have the sense of an emphatic demonstrative.³ The forms occurring are: Sing. N. simás. V. síma. D. simásmai (n.). Ab. simásmād. Pl. simé.
 
 
-#strong[111. In] the inflexion of the demonstrative which in the N. s. m. appears as ayám this here the two pronominal
+*111. In* the inflexion of the demonstrative which in the N. s. m. appears as ayám this here the two pronominal
 
 #page-footnotes((
   [¹ It is also found a few times in B.],
@@ -5613,7 +5613,7 @@ N.A. m. im-á, -áu. f. im-é. n. im-é. m. D.Ab. ā-bhyám. m. G.L. a-y-ós.
 #fit-page[
 #folio("112]", "DEMONSTRATIVE PRONOUNS", "109")
 
-#strong[112. The] demonstrative corresponding to ayám employed to express remoteness in the sense of that there, you, and having in the N. s. the curious forms m. f. a-s-áu, n. a-d-ás, uses throughout its inflexion the root a, but always in an extended form. The fundamental stem used in every case (except the N. s.) is a-m A. m. of a. This is extended by the addition of the particle u to amu,¹ which appears throughout the sing. (with ū in A. f.) except the N. In the pl. amú is the f. and amí the m. stem (except the A.).
+*112. The* demonstrative corresponding to ayám employed to express remoteness in the sense of that there, you, and having in the N. s. the curious forms m. f. a-s-áu, n. a-d-ás, uses throughout its inflexion the root a, but always in an extended form. The fundamental stem used in every case (except the N. s.) is a-m A. m. of a. This is extended by the addition of the particle u to amu,¹ which appears throughout the sing. (with ū in A. f.) except the N. In the pl. amú is the f. and amí the m. stem (except the A.).
 
 The forms occurring are:
 
@@ -5665,7 +5665,7 @@ Sing. N. m. tvas, f. tvā, n. tvad. A. m. tvam. I. m. tvena. D. m. tvasmai, f. t
 #v(0.18em)
 
 
-#strong[113. The] interrogative ká who? which? what? used as both substantive and adjective, is inflected exactly like tá, excepting the alternative neuter form kí-m,² which instead of the pronominal d has the nominal m (never elsewhere attached to a stem in i). The forms occurring are:
+*113. The* interrogative ká who? which? what? used as both substantive and adjective, is inflected exactly like tá, excepting the alternative neuter form kí-m,² which instead of the pronominal d has the nominal m (never elsewhere attached to a stem in i). The forms occurring are:
 
 m. Sing. ká-s. A. ká-m. I. kéna. D. ká-smai. Ab. ká-smād. G. ká-sya. L. ká-smin.—Du. N. káu.—Pl. ké. I. ké-bhis. L. ké-ṣu.
 
@@ -5699,7 +5699,7 @@ b. ká-ya, an extended form of ká, occurring in the G. only, is found in combin
 #v(0.18em)
 
 
-#strong[114. The] relative pronoun yá who, which, what is declined exactly like tá. The forms occurring are:
+*114. The* relative pronoun yá who, which, what is declined exactly like tá. The forms occurring are:
 
 m. Sing. N. yá-s. A. yá-m. I. yénā¹ and yéna. D. yá-smai. Ab. yá-smād.² G. yá-sya. L. yá-smin.
 
@@ -5725,7 +5725,7 @@ b. A form of the relative extended with the diminutive suffix ka, ya-ká who, oc
 #v(0.18em)
 
 
-#strong[115. a. The] reflexive indeclinable substantive sva-y-ám⁴ self is properly used as a N. referring to all three persons. Sometimes, however, its N. nature being forgotten, it is
+*115. a. The* reflexive indeclinable substantive sva-y-ám⁴ self is properly used as a N. referring to all three persons. Sometimes, however, its N. nature being forgotten, it is
 
 #page-footnotes((
   [¹ yénā is twice as common in the RV. as yéna, but the Pada text always reads yéna.],
@@ -5771,7 +5771,7 @@ a. As first member of compounds svá several times appears in the substantive (a
 #v(0.18em)
 
 
-#strong[116. Possessive] pronouns are rare because the G. of the personal pronoun is generally used to express the sense which they convey.
+*116. Possessive* pronouns are rare because the G. of the personal pronoun is generally used to express the sense which they convey.
 
 ]
 
@@ -5803,7 +5803,7 @@ c. Besides being used reflexively svá is fairly often employed as a simple poss
 #v(0.18em)
 
 
-#strong[117. With] -drś⁴ in the RV. and other Saṃhitās, and with -drkṣa in the VS. are formed the following pronominal compounds: ī-drś, tā-drś, etā-drś such, kī-drś⁵ what like? yā-drś⁶ what like; ī-drkṣa, etā-drkṣa such.
+*117. With* -drś⁴ in the RV. and other Saṃhitās, and with -drkṣa in the VS. are formed the following pronominal compounds: ī-drś, tā-drś, etā-drś such, kī-drś⁵ what like? yā-drś⁶ what like; ī-drkṣa, etā-drkṣa such.
 
 1819
 
@@ -5834,7 +5834,7 @@ I
 b. With the comparative suffix -tara derivatives are formed from i, ká, yá, and with the superlative suffix -tama from the latter two (cp. 120): í-tara other, ka-tará which of two? ya-tará who or which of two; ka-tamá who or which of many? ya-tamá who or which of many.
 
 
-#strong[118. a. With] ti derivatives with a numerical sense are formed from ká, tá, and yá: ká-ti how many? (Lat. quot); tá-ti so many (Lat. toti-dem); yá-ti as many. No inflected forms of these words occur. They appear in the sense of the N.A. pl. only.
+*118. a. With* ti derivatives with a numerical sense are formed from ká, tá, and yá: ká-ti how many? (Lat. quot); tá-ti so many (Lat. toti-dem); yá-ti as many. No inflected forms of these words occur. They appear in the sense of the N.A. pl. only.
 
 b. With yant expressing the quantitative meaning of much derivatives are formed from i and ki: í-yant so much: n. s. N. íyat, pl. íyānti; f. s. D. íyatyai; kí-yant how much?: sing. N. n. kíyat; f. kíyatī. D. m. kíyate. L. kíyāti (for kíyati).
 
@@ -5846,7 +5846,7 @@ c. With vant are formed derivatives from personal pronouns with the sense of lik
 #v(0.18em)
 
 
-#strong[119. a. The] only simple pronoun which has an undoubtedly indefinite sense is sama (unaccented) any, every. The six forms that occur are: m. s. A. samam. D. samasmai. Ab. samasmād. G. samasya. L. samasmin. Pl. N. same.
+*119. a. The* only simple pronoun which has an undoubtedly indefinite sense is sama (unaccented) any, every. The six forms that occur are: m. s. A. samam. D. samasmai. Ab. samasmād. G. samasya. L. samasmin. Pl. N. same.
 
 ]
 
@@ -5868,7 +5868,7 @@ c. With vant are formed derivatives from personal pronouns with the sense of lik
 #v(0.18em)
 
 
-#strong[120. Several] adjectives derived from or allied in meaning to pronouns, follow the pronominal declension (110) altogether or in part.
+*120. Several* adjectives derived from or allied in meaning to pronouns, follow the pronominal declension (110) altogether or in part.
 
 a. The adjectives that strictly adhere to the pronominal type of inflexion are anyá other and the derivatives formed with tara and tama from ká and yá. The specifically pronominal cases of the latter that have been met with are: Sing. N. n. katará-d, yatará-d; katamá-d, yatamá-d. D. katamá-smai. G. f. katamá-syās. L. f. yatamá-syām. Pl. N. m. katamé, yatamé, yataré (K.). From itara occur in the Kāṭhaka Saṃhitā m. D. s. itarasmai and N. pl. itare. The forms of anyá that occur are:
 
@@ -5905,7 +5905,7 @@ Sing. G. f. ékasyās. L. m. ékasmin.¹ Pl. N. m. éke; but sing. N. n. ékam.
 c. More than a dozen other adjectives, having pronominal affinities in form or meaning, occasionally have pronominal case-forms (but always m instead of d in the N.A. s. n.):
 
 
-#strong[1. Eight] adjectives formed with the comparative suffixes -tara and -ra, and the superlative suffix -ma: út-tara higher, later:
+*1. Eight* adjectives formed with the comparative suffixes -tara and -ra, and the superlative suffix -ma: út-tara higher, later:
 
 Sing. Ab. L. úttarasmād and úttarasmin beside úttarād and úttare. L. f. úttarasyām. Pl. N. úttare. G. úttareṣām (K.).
 
@@ -5920,7 +5920,7 @@ para-má farthest: sing. f. G. paramásyās. L. paramásyām. Pl. m. N. paramé 
 madhya-má middlemost: sing. f. L. madhyamásyām.
 
 
-#strong[2. Five] other adjectives with a comparative or pronominal sense:
+*2. Five* other adjectives with a comparative or pronominal sense:
 
 pára ulterior: sing. D. m. párasmai. Ab. m. párasmād. L. m. párasmin beside páre. G. f. párasyās. Pl. m. N. páre beside párāsas. G. páreṣām.
 
@@ -5948,7 +5948,7 @@ svá own (116c), otherwise following the nominal declension, has once sing. G. f
 samāná similar, common has once sing. Ab. n. samānásmād beside samānād.
 
 
-#strong[3. Four] adjectives, numerical in form or meaning, have occasional pronominal endings: prathamá first has the sing. G. f. prathamásyās;² tṛtiya third has sing. L. f. tṛtiyasyām;² úbhaya of both kinds has pl. m. G. úbhayesām and N. úbhaye beside úbhayāsas and úbhayās;³ kévala exclusive has once pl. N. m. kévale.
+*3. Four* adjectives, numerical in form or meaning, have occasional pronominal endings: prathamá first has the sing. G. f. prathamásyās;² tṛtiya third has sing. L. f. tṛtiyasyām;² úbhaya of both kinds has pl. m. G. úbhayesām and N. úbhaye beside úbhayāsas and úbhayās;³ kévala exclusive has once pl. N. m. kévale.
 
 
 #v(0.55em)
@@ -5961,7 +5961,7 @@ samāná similar, common has once sing. Ab. n. samānásmād beside samānād.
 #v(0.18em)
 
 
-#strong[121. Vedic] verbs are inflected in two voices, active and middle. The middle forms may be employed in a passive sense, except in the present system, which has a special passive stem inflected with the middle endings. Some verbs are conjugated in both active and middle, e. g. kṛṇó-ti and kṛṇu-té makes; others in one voice only, e. g. ás-ti is; others partly in one, partly in the other; e. g. várta-te turns, but perfect va-várt-a has turned.
+*121. Vedic* verbs are inflected in two voices, active and middle. The middle forms may be employed in a passive sense, except in the present system, which has a special passive stem inflected with the middle endings. Some verbs are conjugated in both active and middle, e. g. kṛṇó-ti and kṛṇu-té makes; others in one voice only, e. g. ás-ti is; others partly in one, partly in the other; e. g. várta-te turns, but perfect va-várt-a has turned.
 
 a. The Vedic verb has in each tense and mood three numbers, Singular, Dual, and Plural, all in regular use,
 
@@ -5985,7 +5985,7 @@ a. The Vedic verb has in each tense and mood three numbers, Singular, Dual, and 
 ]
 
 
-#strong[122. There] are five tenses in ordinary use, the present, the imperfect, the perfect, the aorist, and the future. The terms imperfect, perfect, aorist are here used in a purely formal sense, that is, as corresponding in formation to the Greek tenses bearing those names. No Vedic tense has an imperfect meaning, while the perfect sense is generally expressed by the aorist.
+*122. There* are five tenses in ordinary use, the present, the imperfect, the perfect, the aorist, and the future. The terms imperfect, perfect, aorist are here used in a purely formal sense, that is, as corresponding in formation to the Greek tenses bearing those names. No Vedic tense has an imperfect meaning, while the perfect sense is generally expressed by the aorist.
 
 a. Besides the indicative there are four moods, the subjunctive, the injunctive, the optative, and the imperative, all of which are formed from the stems of the present, the perfect, and the aorist. The imperfect has no moods; and the only modal form occurring in the future is the unique subjunctive kariṣyās from kṛ make.
 
@@ -6025,7 +6025,7 @@ d. There are about a dozen differently formed types of infinitives, which are ca
 #v(0.18em)
 
 
-#strong[123. While] the perfect, aorist, and future tenses add the endings directly (or after inserting a sibilant) to the root, the present group (that is, the present with its moods and participles, and the imperfect) forms a special stem, which is made in eight different ways by primary verbs.
+*123. While* the perfect, aorist, and future tenses add the endings directly (or after inserting a sibilant) to the root, the present group (that is, the present with its moods and participles, and the imperfect) forms a special stem, which is made in eight different ways by primary verbs.
 
 
 #v(0.30em)
@@ -6033,7 +6033,7 @@ d. There are about a dozen differently formed types of infinitives, which are ca
 #v(0.18em)
 
 
-#strong[124. These] eight classes are divided into two conjugations. In the first, which comprises the first, fourth, and sixth classes, the present stem ends in a and remains unchanged throughout (like the a declension). The secondary conjugations in a (desideratives, intensives, causatives, denominatives) as well as the future follow this conjugation in their inflexion. The second or graded conjugation is characterized by shift of accent between stem and ending, accompanied by vowel gradation. It comprises the remaining five classes, in which the terminations are added directly to the final of the root or to the (graded) suffixes no or nā, and the stem is changeable, being either strong or weak.
+*124. These* eight classes are divided into two conjugations. In the first, which comprises the first, fourth, and sixth classes, the present stem ends in a and remains unchanged throughout (like the a declension). The secondary conjugations in a (desideratives, intensives, causatives, denominatives) as well as the future follow this conjugation in their inflexion. The second or graded conjugation is characterized by shift of accent between stem and ending, accompanied by vowel gradation. It comprises the remaining five classes, in which the terminations are added directly to the final of the root or to the (graded) suffixes no or nā, and the stem is changeable, being either strong or weak.
 
 ]
 
@@ -6052,10 +6052,10 @@ d. There are about a dozen differently formed types of infinitives, which are ca
 125\. 1\. The first or Bhū class adds a to the last letter of the root, which being accented takes Guṇa of a final vowel (short or long) and of a short medial vowel followed by one consonant; e. g. ji conquer: jáy-a; bhū be: bháv-a; budh awake: bódh-a.
 
 
-#strong[2. The] sixth or Tud class adds an accented á to the root, which being unaccented has no Guṇa. Before this a final ʧ is changed to ir.
+*2. The* sixth or Tud class adds an accented á to the root, which being unaccented has no Guṇa. Before this a final ʧ is changed to ir.
 
 
-#strong[3. The] fourth or Div class adds ya to the last letter of the root, which is accented;¹ e. g. nah bind: náh-ya; div play: div-ya (cp. 15, 1 c).
+*3. The* fourth or Div class adds ya to the last letter of the root, which is accented;¹ e. g. nah bind: náh-ya; div play: div-ya (cp. 15, 1 c).
 
 
 #v(0.30em)
@@ -6063,16 +6063,16 @@ d. There are about a dozen differently formed types of infinitives, which are ca
 #v(0.18em)
 
 
-#strong[126. The] strong forms are:
+*126. The* strong forms are:
 
 
-#strong[1. The] singular present and imperfect active;
+*1. The* singular present and imperfect active;
 
 
-#strong[2. The] whole subjunctive;
+*2. The* whole subjunctive;
 
 
-#strong[3. The] third person singular imperative active.
+*3. The* third person singular imperative active.
 
 In these forms the vowel of the root or of the affix, being accented, is strengthened; while in the weak forms it is reduced because the terminations are accented.
 
@@ -6099,18 +6099,18 @@ a. In the ninth class the accented form of the affix is ná, the unaccented nī 
 ]
 
 
-#strong[2. The] third or reduplicating class adds the terminations directly to the reduplicated root, which in the strong forms takes Guṇa if possible. Contrary to analogy, the accent is not, in the majority of verbs belonging to this class, on the root in the strong forms, but on the reduplicative syllable (which is also accented in the 3\. pl. act. and mid.).¹ Thus hu sacrifice: Sing. 1\. ju-hó-mi, pl. 1\. ju-hu-más; bhṛ bear: Sing. 1\. bí-bhar-mi, pl. 1\. bibhṛ-más, 3\. bí-bhr-ati.²
+*2. The* third or reduplicating class adds the terminations directly to the reduplicated root, which in the strong forms takes Guṇa if possible. Contrary to analogy, the accent is not, in the majority of verbs belonging to this class, on the root in the strong forms, but on the reduplicative syllable (which is also accented in the 3\. pl. act. and mid.).¹ Thus hu sacrifice: Sing. 1\. ju-hó-mi, pl. 1\. ju-hu-más; bhṛ bear: Sing. 1\. bí-bhar-mi, pl. 1\. bibhṛ-más, 3\. bí-bhr-ati.²
 
 
-#strong[3. The] seventh or infixing nasal class adds the terminations directly to the final consonant, before which ná is inserted in the strong and n in the weak forms; e. g. yuj join: yu-ná-j-mi, yuñj-más.
+*3. The* seventh or infixing nasal class adds the terminations directly to the final consonant, before which ná is inserted in the strong and n in the weak forms; e. g. yuj join: yu-ná-j-mi, yuñj-más.
 
 
-#strong[4. The] fifth or nu class adds in the strong forms the accented syllable nó, which in the weak forms is reduced to nu; e. g. kṛ make: kṛ-ṇó-mi, kṛṇ-más.³
+*4. The* fifth or nu class adds in the strong forms the accented syllable nó, which in the weak forms is reduced to nu; e. g. kṛ make: kṛ-ṇó-mi, kṛṇ-más.³
 
 a. Four roots ending in n have the appearance of being formed with a suffix u, but this is probably due to the an of the root being reduced to the sonant nasal; thus from tan stretch ta-nu (for tṇ-nu). In the tenth Maṇḍala of the RV, the anomalous weak stem kur-u appears three times (beside the normal kṛ-ṇu) and the strong stem karo in the AV. These stems gave rise to the eighth or u class of Sanskrit grammar.
 
 
-#strong[5. The] ninth or nā class adds to the root in the strong forms the accented syllable nā, which in the weak forms is reduced to nī before consonants and n before vowels. The root shows a tendency to be weakened. Thus grabh seize: gṛbh-ṇā-mi, pl. 1\. gṛbh-ṇī-mási and gṛbh-ṇī-más, 3\. gṛbh-ṇ-ánti.
+*5. The* ninth or nā class adds to the root in the strong forms the accented syllable nā, which in the weak forms is reduced to nī before consonants and n before vowels. The root shows a tendency to be weakened. Thus grabh seize: gṛbh-ṇā-mi, pl. 1\. gṛbh-ṇī-mási and gṛbh-ṇī-más, 3\. gṛbh-ṇ-ánti.
 
 #page-footnotes((
   [¹ It is doubtless as a result of this accentuation that these verbs lose the n of the endings in these two forms: bíbhr-ati, bíbhr-ate.],
@@ -6132,7 +6132,7 @@ a. Four roots ending in n have the appearance of being formed with a suffix u, b
 #v(0.18em)
 
 
-#strong[128. The] imperfect, pluperfect, aorist, and conditional generally prefix to the stem the accented syllable a which gives to those forms the sense of past time.
+*128. The* imperfect, pluperfect, aorist, and conditional generally prefix to the stem the accented syllable a which gives to those forms the sense of past time.
 
 a. This augment sometimes appears lengthened before the n, y, r, v of seven or eight roots: aor. á-naṭ (naś attain); impf. á-yunak, aor. á-yukta, á-yukṣātām (yuj join); impf. á-riṇak and aor. á-raik (ric leave); aor. á-var (vṛ cover); impf. á-vṛṇi (vṛ choose); impf. á-vṛṇak (vṛj turn), impf. á-vidhyat (vyadh wound).
 
@@ -6146,7 +6146,7 @@ c. The augment is very often dropped: this is doubtless a survival from the time
 #v(0.18em)
 
 
-#strong[129. Five] verbal formations take reduplication: the present stem of the third conjugational class, the perfect (with the pluperfect), one kind of aorist, the desiderative, and the intensive. Each of these has certain peculiarities, which must be treated separately under the special rules of reduplication (130, 135, 149, 170, 173). Common to all are the following:
+*129. Five* verbal formations take reduplication: the present stem of the third conjugational class, the perfect (with the pluperfect), one kind of aorist, the desiderative, and the intensive. Each of these has certain peculiarities, which must be treated separately under the special rules of reduplication (130, 135, 149, 170, 173). Common to all are the following:
 
 ]
 
@@ -6163,22 +6163,22 @@ c. The augment is very often dropped: this is doubtless a survival from the time
 #v(0.18em)
 
 
-#strong[1. The] first syllable of a root (i. e. that portion of it which ends with a vowel)¹ is reduplicated; e. g. budh perceive: bu-budh.
+*1. The* first syllable of a root (i. e. that portion of it which ends with a vowel)¹ is reduplicated; e. g. budh perceive: bu-budh.
 
 
-#strong[2. Aspirated] letters are represented by the corresponding unaspirated;² e. g. bhī fear: bi-bhī; dhā put: da-dhā.
+*2. Aspirated* letters are represented by the corresponding unaspirated;² e. g. bhī fear: bi-bhī; dhā put: da-dhā.
 
 
-#strong[3. Gutturals] are represented by the corresponding palatals,² h by j; e. g. gam go: ja-gam; khan dig: ca-khan; han smite: ja-ghan.
+*3. Gutturals* are represented by the corresponding palatals,² h by j; e. g. gam go: ja-gam; khan dig: ca-khan; han smite: ja-ghan.
 
 
-#strong[4. If] the root begins with more than one consonant, the first only is reduplicated; e. g. kram stride: ca-kram.
+*4. If* the root begins with more than one consonant, the first only is reduplicated; e. g. kram stride: ca-kram.
 
 
-#strong[5. If] a root begins with a sibilant followed by a hard consonant, the latter is reduplicated; e. g. sthā stand: ta-sthā; skand leap: ca-skand. But svaj embrace: sa-svaj (v is soft); smi smile: si-ṣmi (m is soft).
+*5. If* a root begins with a sibilant followed by a hard consonant, the latter is reduplicated; e. g. sthā stand: ta-sthā; skand leap: ca-skand. But svaj embrace: sa-svaj (v is soft); smi smile: si-ṣmi (m is soft).
 
 
-#strong[6. If] the radical vowel, whether final or medial, is long, it is shortened in the reduplicative syllable;³ e. g. dā give: da-dā; rādh succeed: ra-rādh.
+*6. If* the radical vowel, whether final or medial, is long, it is shortened in the reduplicative syllable;³ e. g. dā give: da-dā; rādh succeed: ra-rādh.
 
 
 #v(0.30em)
@@ -6186,7 +6186,7 @@ c. The augment is very often dropped: this is doubtless a survival from the time
 #v(0.18em)
 
 
-#strong[130. ṛ] and ṝ are represented in reduplication by i; e. g. bhṛ bear: bí-bhar-ti; pṝ fill: pí-par-ti. The root vṛt turn is the only exception: va-vart(t)-i.
+*130. ṛ* and ṝ are represented in reduplication by i; e. g. bhṛ bear: bí-bhar-ti; pṝ fill: pí-par-ti. The root vṛt turn is the only exception: va-vart(t)-i.
 
 a. Thirteen roots also reduplicate ā with i,⁴ while nine do so with a.
 
@@ -6211,7 +6211,7 @@ a. Thirteen roots also reduplicate ā with i,⁴ while nine do so with a.
 #v(0.18em)
 
 
-#strong[131. The] following table gives the terminations, which are on the whole the same for all verbs, of the present system. The chief difference is in the optative which is characterized by e¹ in the first, and yá and ī² in the second conjugation. The present indicative has the primary (mi, si, ti, &c.), and the imperfect, the optative, and (with some modifications) the imperative have the secondary terminations (m, s, t, &c.), while the subjunctive fluctuates between the two. Of the other tenses the future takes the primary, and the pluperfect and the aorist, with the benedictive and the conditional, take the secondary terminations; while the perfect has in the active (with many variations) the secondary, and in the middle the primary endings.
+*131. The* following table gives the terminations, which are on the whole the same for all verbs, of the present system. The chief difference is in the optative which is characterized by e¹ in the first, and yá and ī² in the second conjugation. The present indicative has the primary (mi, si, ti, &c.), and the imperfect, the optative, and (with some modifications) the imperative have the secondary terminations (m, s, t, &c.), while the subjunctive fluctuates between the two. Of the other tenses the future takes the primary, and the pluperfect and the aorist, with the benedictive and the conditional, take the secondary terminations; while the perfect has in the active (with many variations) the secondary, and in the middle the primary endings.
 
 The following distinctions between the two conjugations should be noted. In the first or a conjugation (as in the a declension) the accent is never on the terminations, but always on the same syllable of the stem (the root in the first and fourth, the affix in the sixth class), which therefore remains unchanged. On the other hand, in the second conjugation (as in the declension of changeable stems) the accent falls on the strong stem, which is reduced in the weak forms by the shifting of the accent to the endings. In the second conjugation therefore the endings are accented except in the strong forms (126). The same applies to the unaugmented imperfect (128).
 
@@ -6428,7 +6428,7 @@ The following distinctions between the two conjugations should be noted. In the 
 #v(0.18em)
 
 
-#strong[132. Since] the three classes of the first conjugation, as well as all the secondary verbs the stems of which end in a, are inflected exactly alike,¹ one paradigm will suffice for all of them. The injunctive is not given here because its forms are identical with the unaugmented imperfect. Forms of which no examples are found in the Saṃhitās are added in square brackets.
+*132. Since* the three classes of the first conjugation, as well as all the secondary verbs the stems of which end in a, are inflected exactly alike,¹ one paradigm will suffice for all of them. The injunctive is not given here because its forms are identical with the unaugmented imperfect. Forms of which no examples are found in the Saṃhitās are added in square brackets.
 
 #page-footnotes((
   [¹ All other conjugational stems ending in a, the passive (154), the s future (151), the a (141 a), the sa (147), and the reduplicated (149) aor. are similarly inflected.],
@@ -7994,21 +7994,21 @@ Present.
 #v(0.18em)
 
 
-#strong[133. A.] First or Bhū Class. 1\. The radical vowel is lengthened in guh hide and in kram stride (in the act. only): gūha,¹ kráma-ti (but mid. kráma-te); ūh consider takes Guṇa: óh-a;² kr̥p lament does not take Guṇa: kr̥p-a.³
+*133. A.* First or Bhū Class. 1\. The radical vowel is lengthened in guh hide and in kram stride (in the act. only): gūha,¹ kráma-ti (but mid. kráma-te); ūh consider takes Guṇa: óh-a;² kr̥p lament does not take Guṇa: kr̥p-a.³
 
 
-#strong[2. gam] go, yam restrain, yu separate form their present stems with cha (Gk. σκ): gá-cha (Gk. βά-σκω), yá-cha, yú-cha.
+*2. gam* go, yam restrain, yu separate form their present stems with cha (Gk. σκ): gá-cha (Gk. βά-σκω), yá-cha, yú-cha.
 
 
-#strong[3. a. The] four roots pā drink, sthā stand, sac accompany, sad sit form present stems that originally belonged to the reduplicating class: pība (Lat. bibo); tīṣṭha (ἴστη-μι, Lat. sisto); sāśca⁴ (for sā-s(a)c-a); sīda (for sī-s(a)d-a; Lat. sīdo).
+*3. a. The* four roots pā drink, sthā stand, sac accompany, sad sit form present stems that originally belonged to the reduplicating class: pība (Lat. bibo); tīṣṭha (ἴστη-μι, Lat. sisto); sāśca⁴ (for sā-s(a)c-a); sīda (for sī-s(a)d-a; Lat. sīdo).
 
 b. Four stems are transfers from the fifth or nu class, being either used beside or having entirely superseded the simpler original stems: ī-nv-a-ti (from i send) beside ī-nó-ti; jī-nv-a-ti (from ji quicken) beside jī-nó-ṣi; hī-nv-a-ti (from hi impel) beside hī-nó-ti; pī-nv-a fatten, doubtless originally pī-nu (√pī).
 
 
-#strong[4. damś] bite and sañj hang lose their nasal: dāś-a, sāj-a.
+*4. damś* bite and sañj hang lose their nasal: dāś-a, sāj-a.
 
 
-#strong[5. The] ending tāt (besides being regularly used in the 2\. s. impv. by twelve verbs) is exceptionally used for the 3\. s. in gācha-tāt and smára-tāt. Only one example occurs, in this class, of the 2\. pl. impv. act. ending tana: bhája-tana; and one of dhva (for dhvam) in the 2\. pl. mid.: yája-dhva.
+*5. The* ending tāt (besides being regularly used in the 2\. s. impv. by twelve verbs) is exceptionally used for the 3\. s. in gācha-tāt and smára-tāt. Only one example occurs, in this class, of the 2\. pl. impv. act. ending tana: bhája-tana; and one of dhva (for dhvam) in the 2\. pl. mid.: yája-dhva.
 
 #page-footnotes((
   [¹ Instead of taking Guṇa.],
@@ -8030,18 +8030,18 @@ b. Four stems are transfers from the fifth or nu class, being either used beside
 B. Fourth or Ya Class. 1\. The radical syllable is reduced in seven verbs: spas sec loses its initial: pás-ya; vyadh pierce takes Samprasāraṇa: vidh-ya; ā is shortened in dhā suck: dhá-ya; mā exchange: má-ya; vā weave: vá-ya; vyā envelope: vyá-ya; hvā call: hvá-ya.
 
 
-#strong[2. Final] \\vec{r} sometimes becomes both ir and ur: jwaste away: jur-ya and jir-ya (AV.); tcr cross: tur-ya and tir-ya; pffill becomes pur-ya only (because of its initial labial).
+*2. Final* \\vec{r} sometimes becomes both ir and ur: jwaste away: jur-ya and jir-ya (AV.); tcr cross: tur-ya and tir-ya; pffill becomes pur-ya only (because of its initial labial).
 
 
-#strong[3. Gram] be weary lengthens its vowel: gram-ya; in B. tam faint and mad be exhilarated do the same: tam-ya, mad-ya.
+*3. Gram* be weary lengthens its vowel: gram-ya; in B. tam faint and mad be exhilarated do the same: tam-ya, mad-ya.
 
 C. Sixth Class. 1\. The radical vowel is nasalized in eight verbs: krt cut: krnt-á; trp be pleased: trmp-á; piś adorn: pims-á; muc release: munc-á; lip smear: limp-á; lup break: lump-á; vid find: vind-á; sic sprinkle: sinc-á. Three other roots, tud thrust, drh make firm, subh shine have occasional nasalized forms.
 
 
-#strong[2. Four] roots form their present stem with the suffix cha (cp. A 2): i\\s wish: i-chá; r go: r-chá; pras ask: pr-chá; vas shine: u-chá. The root vraśc cut, which seems to be formed with c,^{2} takes Samprasāraṇa: vrsc-á.
+*2. Four* roots form their present stem with the suffix cha (cp. A 2): i\\s wish: i-chá; r go: r-chá; pras ask: pr-chá; vas shine: u-chá. The root vraśc cut, which seems to be formed with c,^{2} takes Samprasāraṇa: vrsc-á.
 
 
-#strong[3. Three] roots in \\vec{r}, k\\vec{r} scatter, g\\vec{r} swallow, t\\vec{r} cross, form the present stems kir-á, gir-á, tir-á (beside tár-a).
+*3. Three* roots in \\vec{r}, k\\vec{r} scatter, g\\vec{r} swallow, t\\vec{r} cross, form the present stems kir-á, gir-á, tir-á (beside tár-a).
 
 a. Beside the normal use of the imperative suffix tāt for the 2\. s. in mrdá-tāt, visá-tāt, vrhá-tāt, suva-tāt, it also appears for the 3\. s. in visá-tāt.
 
@@ -8051,7 +8051,7 @@ a. Beside the normal use of the imperative suffix tāt for the 2\. s. in mrdá-t
 #v(0.18em)
 
 
-#strong[1. The] root is irregularly strengthened in the following verbs:
+*1. The* root is irregularly strengthened in the following verbs:
 
 a. kṣnu whet, yu unite, nu and stu praise take Vṛddhi instead of Guṇa in the strong forms before terminations
 
@@ -8080,7 +8080,7 @@ c. śī lie mid. takes Guṇa and accents the radical syllable throughout its we
 a. i go, brū speak, stu praise, han slay before the ending of the 2\. pl. impv. act. have the alternative forms é-ta and é-tana, brávī-tana, stó-ta, hán-tana. Brū has the same irregularity in the 2\. pl. impf. ábravī-ta and ábravī-tana.
 
 
-#strong[2. The] root is irregularly weakened in the following verbs:
+*2. The* root is irregularly weakened in the following verbs:
 
 a. vaś desire takes Samprasāraṇa in the weak forms: 1\. pl. uś-mási, part. uś-āná, but 1\. s. váś-mi.
 
@@ -8101,7 +8101,7 @@ c. han slay in weak forms loses its n before terminations beginning with consona
 #fit-page[
 #folio("134]", "IRREGULARITIES OF THE SECOND STEM", "143")
 
-#strong[3. A] vowel or semivowel is irregularly inserted in the following verbs:
+*3. A* vowel or semivowel is irregularly inserted in the following verbs:
 
 a. The roots an breathe, rud weep, vam vomit, śvas blow, svap sleep insert i before all terminations beginning with a consonant, except in the 2\. 3\. s. impf., where they insert ī; e. g. án-i-ti, án-ī-t; a-vam-ī-t; śvas-i-ti.
 
@@ -8110,7 +8110,7 @@ b. The roots īḍ praise and īś rule add i in some forms of the 2\. s. and pl
 c. The root brū speak inserts ī in the strong forms before terminations beginning with consonants: bráv-ī-mi, á-brav-ī-t; am injure inserts ī before consonants; thus am-ī-ti, am-ī-ṣva, ām-ī-t (TS.).
 
 
-#strong[4. With] regard to the endings:
+*4. With* regard to the endings:
 
 a. The root śās order loses the n in the 3\. pl. act. and mid., and in the part.: śās-ate, śās-atu, śās-at.
 
@@ -8140,17 +8140,17 @@ a. The verbs īś rule, duh milk, vid find, śī lie frequently, and cit observe
 B. Third or Reduplicating Class.
 
 
-#strong[1. Roots] ending in ā drop the radical vowel before terminations beginning with vowels; e. g. mā measure: 1\. s. mím-e, 3\. pl. mím-ate.
+*1. Roots* ending in ā drop the radical vowel before terminations beginning with vowels; e. g. mā measure: 1\. s. mím-e, 3\. pl. mím-ate.
 
 a. The ā of mā measure, mā bellow, rā give, śā sharpen, hā go away is in weak forms usually changed to ī before consonants (cp. 5 c): mímī-te; rarī-thās;¹ śiśi-mási; jíhī-te.
 
 b. dā give, dhā place, the two commonest verbs in this class, use dad and dadh as their stems in all weak forms: dád-mahe, dadh-mási. When the aspiration of dadh is lost before t, th, s it is thrown back on the initial: dhat-té, dhat-thá, dhat-svá. The 2\. s. impv. act. is de-hí (for daz-dhí) beside dad-dhí and dat-tát; and dhe-hí (for dhaz-dhí) beside dhat-tát.
 
 
-#strong[2. The] root vyac takes Samprasāraṇa, e. g. 3\. du. pr. vivik-tás; hvar be crooked makes some forms with Samprasāraṇa and then reduplicates with u: e. g. ju-hūr-thās, 2\. s. inj. mid.
+*2. The* root vyac takes Samprasāraṇa, e. g. 3\. du. pr. vivik-tás; hvar be crooked makes some forms with Samprasāraṇa and then reduplicates with u: e. g. ju-hūr-thās, 2\. s. inj. mid.
 
 
-#strong[3. bhas] chew, sac accompany, has laugh syncopate the radical vowel in weak forms; thus bá-ps-ati 3 pl. ind. pr. (but ba-bhas-a-t 3\. s. subj.); sá-śc-ati 3\. pl. ind. pr., sá-śc-ata 3\. pl. inj.; já-kṣ-at (for ja-gh(a)s-at) pr. part.
+*3. bhas* chew, sac accompany, has laugh syncopate the radical vowel in weak forms; thus bá-ps-ati 3 pl. ind. pr. (but ba-bhas-a-t 3\. s. subj.); sá-śc-ati 3\. pl. ind. pr., sá-śc-ata 3\. pl. inj.; já-kṣ-at (for ja-gh(a)s-at) pr. part.
 
 a. The roots r go, dā give, dhā put, pr cross, yu separate, śā sharpen, hu sacrifice have several forms with a strong vowel in the 2\. impv. act. s. yu-yo-dhí, śi-śā-dhí (beside śi-śi-hí); du. yu-yó-tam (beside yu-yu-tám); pl. í-y-ar-ta, dá-dā-ta and dá-dā-tana, dá-dhā-ta and dá-dhā-tana, pí-par-tana, yu-yó-ta and yu-yó-tana, ju-hó-ta and ju-hó-tana, dā, dhā, hā leave, have similar strong forms in the 2\. pl. impf.: á-da-dā-ta, á-dadhā-ta, á-jahā-tana.
 
@@ -8176,13 +8176,13 @@ a. The roots r go, dā give, dhā put, pr cross, yu separate, śā sharpen, hu s
 C. Fifth or Nu Class. 1\. The u of the suffix is dropped before the m of the 1\. pl. ind. act. and mid., as kr̥n-más, kr̥n-máhe.
 
 
-#strong[2. When] nu is preceded by a consonant its u becomes uv before vowel endings; e. g. 3\. pl. pr. aś-nuv-ánti (but su-nv-ánti).
+*2. When* nu is preceded by a consonant its u becomes uv before vowel endings; e. g. 3\. pl. pr. aś-nuv-ánti (but su-nv-ánti).
 
 
-#strong[3. śru] hear forms (by dissimilation) the stem śr-ṇu, and vr̥ cover (with interchange of vowel and semivowel) ūr-ṇu beside the regular vr̥-ṇu.
+*3. śru* hear forms (by dissimilation) the stem śr-ṇu, and vr̥ cover (with interchange of vowel and semivowel) ūr-ṇu beside the regular vr̥-ṇu.
 
 
-#strong[4. Beside] the regular and very frequent present stem kr̥-ṇu¹ (from kr̥ make) there begins to appear in the tenth Maṇḍala of the RV. the very anomalous kuru.² The strong form of this stem, karó, which has the further anomaly of Guṇa in the root, first appears in the AV.³
+*4. Beside* the regular and very frequent present stem kr̥-ṇu¹ (from kr̥ make) there begins to appear in the tenth Maṇḍala of the RV. the very anomalous kuru.² The strong form of this stem, karó, which has the further anomaly of Guṇa in the root, first appears in the AV.³
 
 α. The four roots ending in n, tan stretch, man think, van win, san gain, have the appearance of forming their stem with the suffix u, as tan-u. These (with three later roots) form a separate (eighth) class according to the Hindu grammarians. But the a of these present stems in reality probably represents the sonant nasal, \= tṇ-nu. This group was joined by kur-u, the late and anomalous present stem of kr̥ make (cp. C 4).
 
@@ -8210,23 +8210,23 @@ L
 #fit-page[
 #folio("146", "CONJUGATION", "[134-135]")
 
-#strong[5. In] the impv. the 2\. s. act. has the ending hi, as śṛṇu-hí, three times as often in the RV. as the form without ending, as śṛṇu; in the AV. it occurs only about one-sixth as often as the latter; in B. it has almost disappeared. In the RV. the ending dhi also occurs in śṛṇu-dhí. The ending tāt occurs in kṛṇu-tāt, hinu-tat, kuru-tāt. In the 2\. du. are found the strong forms kṛṇo-tam, hino-tam; and in the 2\. pl. kṛṇó-ta and kṛṇó-tana, śṛṇó-ta and śṛṇó-tana, sunó-ta and sunó-tana, hinó-ta and hinó-tana; tanó-ti and karó-ta.
+*5. In* the impv. the 2\. s. act. has the ending hi, as śṛṇu-hí, three times as often in the RV. as the form without ending, as śṛṇu; in the AV. it occurs only about one-sixth as often as the latter; in B. it has almost disappeared. In the RV. the ending dhi also occurs in śṛṇu-dhí. The ending tāt occurs in kṛṇu-tāt, hinu-tat, kuru-tāt. In the 2\. du. are found the strong forms kṛṇo-tam, hino-tam; and in the 2\. pl. kṛṇó-ta and kṛṇó-tana, śṛṇó-ta and śṛṇó-tana, sunó-ta and sunó-tana, hinó-ta and hinó-tana; tanó-ti and karó-ta.
 
 D. Infixing Nasal Class. 1\. añj anoint, bhañj break, hiṃs injure drop their nasal before inserting na: as a-ná-k-ti, bha-ná-k-ti, hi-ná-s-ti.
 
 
-#strong[2. tṛh] crush infixes né in the strong forms; e. g. tṛ-ṇé-ḍhi (69 c).
+*2. tṛh* crush infixes né in the strong forms; e. g. tṛ-ṇé-ḍhi (69 c).
 
 E. Ninth or Nā Class. 1\. The three roots jī overpower, jū hasten, pū purify shorten their vowel before the affix: ji-nā́-mi, ju-nā́-si, pu-nā́-ti.
 
 
-#strong[2. grabh] seize and its later form grah take Samprasāraṇa: gṛbh-ṇā́-mi, gṛh-ṇā́-mi (AV.).
+*2. grabh* seize and its later form grah take Samprasāraṇa: gṛbh-ṇā́-mi, gṛh-ṇā́-mi (AV.).
 
 
-#strong[3. jñā] know and the four roots which in forms outside the present system appear with a nasal, bandh bind, manth shake, skambh make firm, stambh prop, drop their nasal: jā-nā́-ti, badh-nā́-ti, math-nā́-ti, skabh-nā́-ti, stabh-nā́-ti.
+*3. jñā* know and the four roots which in forms outside the present system appear with a nasal, bandh bind, manth shake, skambh make firm, stambh prop, drop their nasal: jā-nā́-ti, badh-nā́-ti, math-nā́-ti, skabh-nā́-ti, stabh-nā́-ti.
 
 
-#strong[4. Four] roots ending in consonants, aś eat, grah seize, bandh bind, stambh prop, have the peculiar ending āna in the 2\. s. impv. act.: aś-āná, gṛh-āṇá, badh-āná, stabh-āná.
+*4. Four* roots ending in consonants, aś eat, grah seize, bandh bind, stambh prop, have the peculiar ending āna in the 2\. s. impv. act.: aś-āná, gṛh-āṇá, badh-āná, stabh-āná.
 
 a. pṛ fill and mṛ crush make, beside the regular stems pṛṇá and mṛṇá, the transfer stems, according to the a conjugation, pṛṇá and mṛṇá, from which several forms occur.
 
@@ -8236,7 +8236,7 @@ a. pṛ fill and mṛ crush make, beside the regular stems pṛṇá and mṛṇ
 #v(0.18em)
 
 
-#strong[135. This] tense is formed by reduplication. Like the present, it has, besides an indicative, the subjunctive, injunctive, optative, and imperative moods, as well as participles, and an augmented form, the pluperfect. It is very common, being formed by nearly 300 verbs in the Saṃhitās.
+*135. This* tense is formed by reduplication. Like the present, it has, besides an indicative, the subjunctive, injunctive, optative, and imperative moods, as well as participles, and an augmented form, the pluperfect. It is very common, being formed by nearly 300 verbs in the Saṃhitās.
 
 ]
 
@@ -8255,16 +8255,16 @@ a. pṛ fill and mṛ crush make, beside the regular stems pṛṇá and mṛṇ
 1\. r̄ and r̄ (\= ar) and l̄ (\= al) always reduplicate with ā (cp. 139, 9); e. g. kr̄ do: ca-kr̄; tr̄ cross: ta-tr̄; kl̄p be adapted: cā-kl̄p; r̄ go: ār (\= a-ar).
 
 
-#strong[2. Initial] a or ā becomes ā; e. g. an breathe: ān; āp obtain: āp. The long vowels ī and ū remain unchanged (\= i-ī and u-ū); e. g. īs move: 1\. s. īs-é; ūh consider: 3\. s. ūh-é.
+*2. Initial* a or ā becomes ā; e. g. an breathe: ān; āp obtain: āp. The long vowels ī and ū remain unchanged (\= i-ī and u-ū); e. g. īs move: 1\. s. īs-é; ūh consider: 3\. s. ūh-é.
 
 
-#strong[3. Roots] beginning with i and u contract i+i to ī and u+u to ū except in the sing. act., where the reduplicative syllable is separated from the strong radical syllable by its own semivowel: e. g. i go: 2\. s. i-y-é-tha; uc be pleased: 2\. s. mid. ūc-i-ṣé, but 3\. s. act. u-v-óc-a.
+*3. Roots* beginning with i and u contract i+i to ī and u+u to ū except in the sing. act., where the reduplicative syllable is separated from the strong radical syllable by its own semivowel: e. g. i go: 2\. s. i-y-é-tha; uc be pleased: 2\. s. mid. ūc-i-ṣé, but 3\. s. act. u-v-óc-a.
 
 
-#strong[4. Roots] containing ya or va and liable to Samprasāraṇa in other forms (such as the past part. pass.) reduplicate with i and u respectively. There are four such with ya: tyaj forsake, yaj sacrifice, vyac extend, syand move on: ti-tyaj, i-yaj, vi-vyac, si-ṣyand; and five with va: vac¹ speak, vad speak, vap strew, vah carry, svap sleep: u-vac, u-vad, u-vap, u-vah, su-ṣvap. On the other hand the three roots yam stretch, van win, vas wear have the full reduplication ya or va throughout: ya-yam, va-van, va-vas.
+*4. Roots* containing ya or va and liable to Samprasāraṇa in other forms (such as the past part. pass.) reduplicate with i and u respectively. There are four such with ya: tyaj forsake, yaj sacrifice, vyac extend, syand move on: ti-tyaj, i-yaj, vi-vyac, si-ṣyand; and five with va: vac¹ speak, vad speak, vap strew, vah carry, svap sleep: u-vac, u-vad, u-vap, u-vah, su-ṣvap. On the other hand the three roots yam stretch, van win, vas wear have the full reduplication ya or va throughout: ya-yam, va-van, va-vas.
 
 
-#strong[136. The] singular perfect active is strong (like the sing. pr. and impf. act.), the root being accented; the remaining forms are weak, the terminations being accented. The endings are the following:
+*136. The* singular perfect active is strong (like the sing. pr. and impf. act.), the root being accented; the remaining forms are weak, the terminations being accented. The endings are the following:
 
 
 #align(center)[#block[
@@ -8335,13 +8335,13 @@ L 2
 b. Before terminations beginning with vowels (cp. 137, 1a)
 
 
-#strong[1. i] preceded by one consonant become y, if preceded by more than one, iy; e.g. bhi fear: bibhy-átur; sri resort: sisriy-é.
+*1. i* preceded by one consonant become y, if preceded by more than one, iy; e.g. bhi fear: bibhy-átur; sri resort: sisriy-é.
 
 
-#strong[2. u] ordinarily become uv; e.g. yu join: yuyuv-é; sru hear: susruv-é; su swell: susuv-é.
+*2. u* ordinarily become uv; e.g. yu join: yuyuv-é; sru hear: susruv-é; su swell: susuv-é.
 
 
-#strong[3. r] becomes r, r becomes ir; e.g. kr make: cakr-é, cakr-á; tr cross: titir-ur; str strew: tistir-é.
+*3. r* becomes r, r becomes ir; e.g. kr make: cakr-é, cakr-á; tr cross: titir-ur; str strew: tistir-é.
 
 
 #v(0.30em)
@@ -8349,7 +8349,7 @@ b. Before terminations beginning with vowels (cp. 137, 1a)
 #v(0.18em)
 
 
-#strong[1. Short] vowels followed by a single consonant take Guṇa throughout the singular active; e. g. diś point: di-déś-a; uc be wont: uv-óc-a; kṛt cut: ca-kárt-a; but jinv quicken: ji-jinv-áthur.
+*1. Short* vowels followed by a single consonant take Guṇa throughout the singular active; e. g. diś point: di-déś-a; uc be wont: uv-óc-a; kṛt cut: ca-kárt-a; but jinv quicken: ji-jinv-áthur.
 
 #page-footnotes((
   [¹ Roots in ṛ always add re with connecting i.],
@@ -8367,13 +8367,13 @@ b. Before terminations beginning with vowels (cp. 137, 1a)
 #fit-page[
 #folio("136-137]", "THE STRONG STEM", "149")
 
-#strong[2. Final] vowels take Vṛddhi in the 3\. s.;¹ e.g. nī lead: ni-nāy-a; śru hear: śu-śrāv-a; kṛ make: ca-kār-a.
+*2. Final* vowels take Vṛddhi in the 3\. s.;¹ e.g. nī lead: ni-nāy-a; śru hear: śu-śrāv-a; kṛ make: ca-kār-a.
 
 
-#strong[3. Medial] a followed by a single consonant takes Vṛddhi in the 3\. s.;¹ e.g. han strike: ja-ghān-a, but takṣ fashion ta-tákṣ-a.
+*3. Medial* a followed by a single consonant takes Vṛddhi in the 3\. s.;¹ e.g. han strike: ja-ghān-a, but takṣ fashion ta-tákṣ-a.
 
 
-#strong[4. Roots] ending in ā take the anomalous ending au in the 1\. and 3\. s. act.; e.g. dhā put: da-dháu. The only exception is the root prā fill, which once forms the 3\. s. pa-prā beside the regular pa-práu.
+*4. Roots* ending in ā take the anomalous ending au in the 1\. and 3\. s. act.; e.g. dhā put: da-dháu. The only exception is the root prā fill, which once forms the 3\. s. pa-prā beside the regular pa-práu.
 
 
 #v(0.30em)
@@ -8385,7 +8385,7 @@ b. Before terminations beginning with vowels (cp. 137, 1a)
 a. Before terminations beginning with vowels, ī and ṛ, if preceded by one consonant become y and r, if by more than one, iy and ar; while ū and ṛ regularly become uv and ir; e.g. ji conquer: ji-gy-úr; bhī fear: bi-bhy-úr; kṛ make: cakr-úr; śri resort: śi-śriy-é; yu join: yu-yuv-é; śru hear: śu-śruv-é; śū swell: śū-śuv-é; tṛ cross: ti-tir-úr; stṛ strew: ti-stir-é.
 
 
-#strong[2. In] roots containing a medial a or final ā the radical syllable is weakened.
+*2. In* roots containing a medial a or final ā the radical syllable is weakened.
 
 a. About a dozen roots in which a is preceded and followed by a single consonant (e.g. pat) and which reduplicate the initial consonant unchanged (this excludes roots beginning with aspirates, gutturals, and for the most part v) contract the two syllables to one containing the diphthong e (cp. Lat. fac-io, fec-i).² They are the following:
 
@@ -8485,7 +8485,7 @@ tu-tud-mahe
 tu-tud-re
 
 
-#strong[2. kr] do: strong stem ca-kár, ca-kár; weak cakr, cakr.
+*2. kr* do: strong stem ca-kár, ca-kár; weak cakr, cakr.
 
 ACTIVE.
 
@@ -8528,7 +8528,7 @@ ca-kr-dhve
 ca-kr-i-re
 
 
-#strong[3. dhā] place: strong stem da-dhā; weak da-dh, da-dhi.
+*3. dhā* place: strong stem da-dhā; weak da-dh, da-dhi.
 
 ACTIVE.
 
@@ -8584,7 +8584,7 @@ da-dhi-re
 #fit-page[
 #folio("152", "CONJUGATION", "[138")
 
-#strong[4. nī] lead: strong stem ni-né, ni-nái; weak ni-nī.
+*4. nī* lead: strong stem ni-né, ni-nái; weak ni-nī.
 
 ACTIVE.
 
@@ -8633,7 +8633,7 @@ ni-ny-áte
 ni-nī-ré
 
 
-#strong[5. stu] praise: strong stem tu-ṣṭó, tu-ṣṭáu; weak tu-ṣṭu.
+*5. stu* praise: strong stem tu-ṣṭó, tu-ṣṭáu; weak tu-ṣṭu.
 
 ACTIVE.
 
@@ -8676,7 +8676,7 @@ tu-ṣṭuv-áte
 tu-ṣṭuv-i-ré
 
 
-#strong[6. tap] heat: strong stem ta-táp, ta-táp; weak tep.
+*6. tap* heat: strong stem ta-táp, ta-táp; weak tep.
 
 ACTIVE.
 
@@ -8728,7 +8728,7 @@ tep-i-ré
 #fit-page[
 #folio("138-139]", "PARADIGMS OF THE PERFECT", "153")
 
-#strong[7. gam] go: strong stem ja-gám, ja-gám; weak ja-gm.
+*7. gam* go: strong stem ja-gám, ja-gám; weak ja-gm.
 
 ACTIVE.
 
@@ -8777,7 +8777,7 @@ ACTIVE.
 ]
 
 
-#strong[8. vac] speak: strong stem u-vác, u-vác; weak ũc.
+*8. vac* speak: strong stem u-vác, u-vác; weak ũc.
 
 ACTIVE.
 
@@ -8839,7 +8839,7 @@ MIDDLE.
 139\. 1\. bhaj share, though beginning with an aspirate, follows the analogy of the contracting perfects with e (137, 2 a); e. g. ba-bháj-a: bhej-é. bandh bind, after dropping its nasal, does the same; e. g. ba-bándh-a: bedh-úr (AV.).
 
 
-#strong[2. yam] guide, van win, vas wear have the full reduplication throughout (135, 4); yam takes Samprasāraṇa of the radical syllable: ya-yáma: yem-é (\= ya-im-e); van syncopates its a: va-ván-a, va-vn-é; vas retains its radical syllable unweakened throughout: vā-vas-e (cp. 139, 9).
+*2. yam* guide, van win, vas wear have the full reduplication throughout (135, 4); yam takes Samprasāraṇa of the radical syllable: ya-yáma: yem-é (\= ya-im-e); van syncopates its a: va-ván-a, va-vn-é; vas retains its radical syllable unweakened throughout: vā-vas-e (cp. 139, 9).
 
 ]
 
@@ -8851,21 +8851,21 @@ MIDDLE.
 #fit-page[
 #folio("154", "CONJUGATION", "[139")
 
-#strong[3. vid] know forms an unreduplicated perfect with present meaning: 1\. véd-a I know (οἶδα, German weiss), 2\. vét-tha (οἶσ-θα; weiss-t), 3\. véd-a (οἶδε; weiss); pl. 1\. vid-má (ἴδ-μεν; wissen), 2\. vid-á, 3\. vid-úr.
+*3. vid* know forms an unreduplicated perfect with present meaning: 1\. véd-a I know (οἶδα, German weiss), 2\. vét-tha (οἶσ-θα; weiss-t), 3\. véd-a (οἶδε; weiss); pl. 1\. vid-má (ἴδ-μεν; wissen), 2\. vid-á, 3\. vid-úr.
 
 a. A few isolated unreduplicated forms from about six other roots occur: takṣ-áthur; skambh-áthur and skambh-úr; cet-átur; yam-átur and yam-úr; nind-i-má: arh-i-ré.
 
 
-#strong[4. The] initial of ci gather, ci observe, cit perceive, ji conquer, han kill reverts to the original guttural in the radical syllable: 3\. s. act. ci-kāy-a, ci-két-a, ji-gāy-a, ja-ghān-a. bhr bear almost invariably reduplicates with j in the RV.: ja-bhár-tha, ja-bhára, ja-bhr-úr; ja-bhr-é, ja-bhr-i-ṣé, ja-bhr-i-ré; but only once with b: ba-bhr-é.
+*4. The* initial of ci gather, ci observe, cit perceive, ji conquer, han kill reverts to the original guttural in the radical syllable: 3\. s. act. ci-kāy-a, ci-két-a, ji-gāy-a, ja-ghān-a. bhr bear almost invariably reduplicates with j in the RV.: ja-bhár-tha, ja-bhára, ja-bhr-úr; ja-bhr-é, ja-bhr-i-ṣé, ja-bhr-i-ré; but only once with b: ba-bhr-é.
 
 
-#strong[5. ah] say is defective, forming only the 3\. s. and pl.: āh-a and āh-úr. The two additional forms 2\. s. āt-tha, 3\. du. āh-átur occur in the Brāhmaṇas.
+*5. ah* say is defective, forming only the 3\. s. and pl.: āh-a and āh-úr. The two additional forms 2\. s. āt-tha, 3\. du. āh-átur occur in the Brāhmaṇas.
 
 
-#strong[6. Five] roots beginning with a prosodically long a reduplicate with ān: amś attain, añj anoint, ardh thrive, arc praise, arh deserve. Only the first two make several forms. Here the radical nasal is repeated with the initial vowel: s. 3\. ān-ámś-a (Gk. ἦν-εγκ-α); pl. 1\. ān-ás-má, 2\. ān-aś-á, 3\. ān-aś-úr; mid. s. 3\. ān-aś-é;¹ s. 3\. ān-áñja, mid. s. 1\. ān-aj-é, pl. 3\. ān-aj-ré. The analogy spread from these to the roots which have no nasal: pl. 3\. ān-ṛc-úr, ān-ṛdh-úr, ān-ṛh-úr; mid. s. 3\. ān-ṛc-é, ān-ṛdh-é.
+*6. Five* roots beginning with a prosodically long a reduplicate with ān: amś attain, añj anoint, ardh thrive, arc praise, arh deserve. Only the first two make several forms. Here the radical nasal is repeated with the initial vowel: s. 3\. ān-ámś-a (Gk. ἦν-εγκ-α); pl. 1\. ān-ás-má, 2\. ān-aś-á, 3\. ān-aś-úr; mid. s. 3\. ān-aś-é;¹ s. 3\. ān-áñja, mid. s. 1\. ān-aj-é, pl. 3\. ān-aj-ré. The analogy spread from these to the roots which have no nasal: pl. 3\. ān-ṛc-úr, ān-ṛdh-úr, ān-ṛh-úr; mid. s. 3\. ān-ṛc-é, ān-ṛdh-é.
 
 
-#strong[7. bhū] be has the double irregularity of reduplicating with a and retaining its ū throughout (cp. Gk. πε-φύ-ᾱσι): sing. 1\. ba-bhū-v-a (Gk. πέ-φυ-κα). 2\. ba-bhū-tha and ba-bhū-v-i-tha. 3\. ba-bhū-v-a. Du. 2\. ba-bhū-v-áthur. 3\. ba-bhū-v-átur. Pl. 1\. ba-bhū-v-i-má. 2\. ba-bhū-v-á. 3\. ba-bhū-v-úr.
+*7. bhū* be has the double irregularity of reduplicating with a and retaining its ū throughout (cp. Gk. πε-φύ-ᾱσι): sing. 1\. ba-bhū-v-a (Gk. πέ-φυ-κα). 2\. ba-bhū-tha and ba-bhū-v-i-tha. 3\. ba-bhū-v-a. Du. 2\. ba-bhū-v-áthur. 3\. ba-bhū-v-átur. Pl. 1\. ba-bhū-v-i-má. 2\. ba-bhū-v-á. 3\. ba-bhū-v-úr.
 
 #page-footnotes((
   [¹ In a Sūtra occurs the 2\. pl. mid. ān-aś-a-dhve.],
@@ -8885,10 +8885,10 @@ a. A few isolated unreduplicated forms from about six other roots occur: takṣ-
 ]
 
 
-#strong[8. cyu] stir reduplicates ci-cyu (beside cu-cyu) and dyut shine similarly di-dyut. This was due to the vocalic pronunciation of the y: cịu, dịut.
+*8. cyu* stir reduplicates ci-cyu (beside cu-cyu) and dyut shine similarly di-dyut. This was due to the vocalic pronunciation of the y: cịu, dịut.
 
 
-#strong[9. The] reduplicative vowel is lengthened in more than thirty perfect stems; e.g. kan be pleased: cā-kan; gr wake: jā-gr; kịp be adapted: cā-kịp; dhī think: dī-dhī; tu be strong: tū-tu; śū swell: śū-śu.²
+*9. The* reduplicative vowel is lengthened in more than thirty perfect stems; e.g. kan be pleased: cā-kan; gr wake: jā-gr; kịp be adapted: cā-kịp; dhī think: dī-dhī; tu be strong: tū-tu; śū swell: śū-śu.²
 
 a. In the Mantra portion of the Saṃhitās there once occurs a periphrastic perfect form with the reduplicated perfect of kr make governing the acc. of a fem. substantive in ā derived from a secondary (causative) verbal stem. This form is gamayāṃ cakāra (AV.) he caused to go (lit. made a causing to go). In the Brāhmaṇa parts of the later Saṃhitās (TS., MS., K.) such periphrastic forms are occasionally met with, and they become more frequent in the regular Brāhmaṇas.
 
@@ -8898,10 +8898,10 @@ a. In the Mantra portion of the Saṃhitās there once occurs a periphrastic per
 #v(0.18em)
 
 
-#strong[140. Modal] forms of the perfect are of rare occurrence in the Saṃhitās except the RV.
+*140. Modal* forms of the perfect are of rare occurrence in the Saṃhitās except the RV.
 
 
-#strong[1. The] subjunctive is normally formed by adding a to the strong perfect stem accented on the radical syllable. In the active the secondary endings are the more usual; when the primary endings are used the reduplicative syllable is in several forms accented.³ In about a dozen forms the weak stem is used. Middle forms, of which only seven or
+*1. The* subjunctive is normally formed by adding a to the strong perfect stem accented on the radical syllable. In the active the secondary endings are the more usual; when the primary endings are used the reduplicative syllable is in several forms accented.³ In about a dozen forms the weak stem is used. Middle forms, of which only seven or
 
 #page-footnotes((
   [¹ The root śī lie also reduplicates with a in the part. śa-śay-ānā. These three, bhū, sū, śī, are the only roots with an i or u vowel that reduplicate with a.],
@@ -8929,10 +8929,10 @@ Du. 2\. ci-ket-a-thas, jú-joṣ-a-thas. Pl. 1\. ta-tán-ā-ma. 2\. ju-joṣ-a-t
 Mid. s. 3\. ta-táp-a-te, jú-joṣ-a-te. Pl. 1\. an-áś-ā-mahai.¹
 
 
-#strong[2. The] injunctive² occurs in hardly a dozen forms, a few in the sing. act., the rest in the 3\. pl. mid.; e.g. s. 2\. sa-sas (\= sa-sas-s: sas order). 3\. du-dho-t (dhu shake), su-sro-t (sru flow); mid. pl. 3\. ta-tan-a-nta (cp. 140, 6).
+*2. The* injunctive² occurs in hardly a dozen forms, a few in the sing. act., the rest in the 3\. pl. mid.; e.g. s. 2\. sa-sas (\= sa-sas-s: sas order). 3\. du-dho-t (dhu shake), su-sro-t (sru flow); mid. pl. 3\. ta-tan-a-nta (cp. 140, 6).
 
 
-#strong[3. The] optative is formed by adding the accented modal suffix combined with the endings to the weak perfect stem. The active forms are much commoner than the middle. Examples are:
+*3. The* optative is formed by adding the accented modal suffix combined with the endings to the weak perfect stem. The active forms are much commoner than the middle. Examples are:
 
 Act. s. 1\. ān-aś-yám,³ ja-gam-yám, ri-ric-yám, va-vṛt-yám. 2\. ba-bhū-yás, va-vṛt-yás. 3\. an-aj-yát,¹ ja-gam-yát, va-vṛt-yát, ba-bhū-yát.
 
@@ -8957,7 +8957,7 @@ a. There also occurs one mid. precative form sā-sah-ī-ṣ-thás (sah overcome)
 #fit-page[
 #folio("140]", "PERFECT OPTATIVE", "157")
 
-#strong[4. The] imperative perfect is formed like that of the present reduplicating class, the radical syllable being weak except in the 3\. s. act., where it is strong. Nearly all the forms occurring, which number about twenty, are active. Examples are:
+*4. The* imperative perfect is formed like that of the present reduplicating class, the radical syllable being weak except in the 3\. s. act., where it is strong. Nearly all the forms occurring, which number about twenty, are active. Examples are:
 
 Act. s. 2\. ci-kid-dhí (✓cit), di-diḍ-ḍhí (✓diś), mu-mug-dhí (✓muc), śa-śā-dhí (✓śās).¹ 3\. ba-bhū-tu,² mu-mók-tu.
 
@@ -8971,7 +8971,7 @@ Mid. s. 2\. va-vṛt-svá. Pl. 2\. va-vṛd-dhvám.
 #v(0.18em)
 
 
-#strong[5. Both] active and middle forms of the perfect participle are common. It is formed from the weak perfect stem, with the accent on the suffix, as cakṛ-váṃs, cakr-āṇá. If, in the active form, the stem is reduced to a monosyllable, the suffix is nearly always added with the connecting vowel i, but not when the stem is unreduplicated; e. g. papt-i-váṃs (Gk. πεπτ-ώς), but vid-váṃs (Gk. εἰδ-ώς). Examples are:
+*5. Both* active and middle forms of the perfect participle are common. It is formed from the weak perfect stem, with the accent on the suffix, as cakṛ-váṃs, cakr-āṇá. If, in the active form, the stem is reduced to a monosyllable, the suffix is nearly always added with the connecting vowel i, but not when the stem is unreduplicated; e. g. papt-i-váṃs (Gk. πεπτ-ώς), but vid-váṃs (Gk. εἰδ-ώς). Examples are:
 
 Act. ja-gan-váṃs (✓gam), ja-gṛbh-váṃs (✓grabh), ji-gī-váṃs (✓ji), jū-ju-váṃs³ (✓jū), ta-sthi-váṃs (✓sthā), ba-bhū-váṃs (Gk. πε-φυ-ώς), ri-rik-váṃs (✓ric), va-vṛt-váṃs, vā-vṛdh-váṃs,³ sā-sah-váṃs,³ su-ṣup-váṃs (✓svap); īy-i-váṃs (✓i), ūṣ-i-váṃs (vas dwell); dāś-váṃs (dāś worship), sāh-váṃs (✓sah).
 
@@ -9002,7 +9002,7 @@ Mid. ān-aj-āná (✓añj), ān-aś-āná (✓aṃś), īj-āná (✓yaj), ūc-
 #v(0.18em)
 
 
-#strong[6. Corresponding] to the imperfect there is an augmented form of the perfect called the pluperfect. The strong stem is used in the singular active, the weak elsewhere. The secondary endings only are used; in the 3\. pl. ur always appears in the active and iran¹ in the middle. The s and t of the 2\. and 3\. s. are in some forms preserved by an interposed ī. There are also several forms made with thematic a in this tense. The augment is often dropped, as in other past tenses. The total number of pluperfect forms occurring is about sixty. Examples are:
+*6. Corresponding* to the imperfect there is an augmented form of the perfect called the pluperfect. The strong stem is used in the singular active, the weak elsewhere. The secondary endings only are used; in the 3\. pl. ur always appears in the active and iran¹ in the middle. The s and t of the 2\. and 3\. s. are in some forms preserved by an interposed ī. There are also several forms made with thematic a in this tense. The augment is often dropped, as in other past tenses. The total number of pluperfect forms occurring is about sixty. Examples are:
 
 Act. s. 1\. á-cacakṣ-am, á-jagrabh-am, á-tuṣṭav-am; cakar-am, ciket-am (√cit). 2\. ā-jagan (\= á-jagam-s); na-nam-a-s; á-viveś-ī-s (√viś). 3\. á-jagan (\= á-jagam-t), a-ciket (√cit); rā-ran (\= rāran-t: ran rejoice); á-jagrabh-ī-t; á-cikit-a-t and á-ciket-a-t; tastambh-a-t.
 
@@ -9018,7 +9018,7 @@ Mid. s. 1\. á-śuśrav-i. 3\. didiṣ-ṭa (√diś). Pl. 3\. á-cakr-iran, á-
 #v(0.18em)
 
 
-#strong[141. This] tense is of very common occurrence in the Vedas, being formed from more that 450 roots. It is an
+*141. This* tense is of very common occurrence in the Vedas, being formed from more that 450 roots. It is an
 
 #page-footnotes((
   [¹ Two forms take ran only instead of iran. There are also several transfer forms in anta.],
@@ -9075,7 +9075,7 @@ Act. du. 2\. mr̥kṣátam (√mr̥j). 3\. yakṣátām.
 Mid. s. 2\. dhukṣásva.
 
 
-#strong[142. The] other three forms of the First Aorist are made by adding to the augmented root the suffixes s, iṣ, s-iṣ respectively. They are inflected like imperfects of the second or graded conjugation. The siṣ form is used in the act. only (excepting three optative forms) and is taken by not more than six roots. The other two are very common, being formed from nearly 300 roots in V. and B. taken together.
+*142. The* other three forms of the First Aorist are made by adding to the augmented root the suffixes s, iṣ, s-iṣ respectively. They are inflected like imperfects of the second or graded conjugation. The siṣ form is used in the act. only (excepting three optative forms) and is taken by not more than six roots. The other two are very common, being formed from nearly 300 roots in V. and B. taken together.
 
 
 #v(0.30em)
@@ -9083,7 +9083,7 @@ Mid. s. 2\. dhukṣásva.
 #v(0.18em)
 
 
-#strong[143. This] form of the aorist is taken by at least 135 roots in V. and B. In addition to the indicative it forms all the moods and a participle.
+*143. This* form of the aorist is taken by at least 135 roots in V. and B. In addition to the indicative it forms all the moods and a participle.
 
 
 #v(0.30em)
@@ -9091,7 +9091,7 @@ Mid. s. 2\. dhukṣásva.
 #v(0.18em)
 
 
-#strong[1. The] radical vowel as a rule takes Vṛddhi (a being lengthened) in the active. In the middle, excepting final ī and u (which take Guṇa) the radical vowel remains un-
+*1. The* radical vowel as a rule takes Vṛddhi (a being lengthened) in the active. In the middle, excepting final ī and u (which take Guṇa) the radical vowel remains un-
 
 #page-footnotes((
   [¹ On these forms without initial aspiration cp. 62 a.],
@@ -9183,17 +9183,17 @@ M
 #fit-page[
 #folio("162", "CONJUGATION", "[143")
 
-#strong[2. The] subjunctive is common in the RV.¹ in active forms, but not in the middle. The root regularly takes Guṇa throughout (active and middle). The primary endings are frequent. The forms occurring, if made from stu praise, would be:
+*2. The* subjunctive is common in the RV.¹ in active forms, but not in the middle. The root regularly takes Guṇa throughout (active and middle). The primary endings are frequent. The forms occurring, if made from stu praise, would be:
 
 Act. sing. 1\. stó-ṣ-āṇi. 2\. stó-ṣ-a-si, stó-ṣ-a-s. 3\. stó-ṣ-a-ti, stó-ṣ-a-t. Du. 2\. stó-ṣ-a-thas. 3\. stó-ṣ-a-tas. Pl. 1\. stó-ṣ-ā-ma. 2\. stó-ṣ-a-tha. 3\. stó-ṣ-a-n.
 
 Mid. sing. 1\. stó-ṣ-ai. 2\. stó-ṣ-a-se. 3\. stó-ṣ-a-te. Du. 2\. stó-ṣ-āthe (for stó-ṣ-aithe). Pl. 3\. stó-ṣ-a-nte.
 
 
-#strong[3. Injunctive] forms are fairly common. When normal they are of course identical with the unaugmented indicative. But the sing. 1\. act. is irregular in never taking Vṛddhi: all the forms of it that occur either have Guṇa, as sto-ṣ-am, je-ṣ-am (√ji); or lengthen the radical vowel, as yū-ṣ-am (yu separate); or substitute e for ā in roots ending in ā, as ye-ṣ-am (yā go), ge-ṣ-am (gā go), sthe-ṣ-am (sthā stand). The latter irregularity also appears in pl. 1: je-ṣ-ma, ge-ṣ-ma, de-ṣ-ma (dā give), beside the normal yau-ṣ-ma (yu separate).
+*3. Injunctive* forms are fairly common. When normal they are of course identical with the unaugmented indicative. But the sing. 1\. act. is irregular in never taking Vṛddhi: all the forms of it that occur either have Guṇa, as sto-ṣ-am, je-ṣ-am (√ji); or lengthen the radical vowel, as yū-ṣ-am (yu separate); or substitute e for ā in roots ending in ā, as ye-ṣ-am (yā go), ge-ṣ-am (gā go), sthe-ṣ-am (sthā stand). The latter irregularity also appears in pl. 1: je-ṣ-ma, ge-ṣ-ma, de-ṣ-ma (dā give), beside the normal yau-ṣ-ma (yu separate).
 
 
-#strong[4. The] optative occurs in the middle only, the 2\. 3\. s. always having the precative s (with one exception). The forms actually occurring are:
+*4. The* optative occurs in the middle only, the 2\. 3\. s. always having the precative s (with one exception). The forms actually occurring are:
 
 Sing. 1\. di-ṣ-īyá² (dā cut), bhak-ṣ-īyá (bhaj divide), ma-s-īyá³ (man think), muk-ṣ-īyá (muc release), rā-s-īyá (rā give), sāk-ṣ-īyá⁴ (AV.), str-ṣ-īyá (stṛ strew). 2\. maṃ-s-ī-ṣ-ṭhās⁵ (man think). 3\. dar-ṣ-ī-ṣ-ṭa (dr tear), bhak-ṣ-īta⁶ (SV.), maṃ-s-ī-ṣ-ṭa, mṛk-ṣ-ī-ṣ-ṭa (mṛc injure). Du. 2\.
 
@@ -9220,10 +9220,10 @@ Sing. 1\. di-ṣ-īyá² (dā cut), bhak-ṣ-īyá (bhaj divide), ma-s-īyá³ (
 ]
 
 
-#strong[5. Only] six imperative forms occur, and four of these are transfers (with thematic a). They are: Act. s. 2\. ne-ṣ-a (nī lead) and par-ṣ-a (pr take across). Mid. s. 2\. sák-ṣva (√sah). 3\. rā-s-a-tām. Du. 2\. rā-s-āthām. Pl. 3\. rā-s-a-ntām.
+*5. Only* six imperative forms occur, and four of these are transfers (with thematic a). They are: Act. s. 2\. ne-ṣ-a (nī lead) and par-ṣ-a (pr take across). Mid. s. 2\. sák-ṣva (√sah). 3\. rā-s-a-tām. Du. 2\. rā-s-āthām. Pl. 3\. rā-s-a-ntām.
 
 
-#strong[6. Only] two or three forms of the active participle occur: dák-ṣ-at⁴ and dhák-ṣ-at (dah burn), sák-ṣ-at (√sah).
+*6. Only* two or three forms of the active participle occur: dák-ṣ-at⁴ and dhák-ṣ-at (dah burn), sák-ṣ-at (√sah).
 
 About a dozen stems, irregularly formed by adding s to the root with an intermediate a and taking the regular ending āna, may be accounted middle s aorist participles; e. g. mand-a-s-āná rejoicing, yam-a-s-āná being driven.
 
@@ -9235,7 +9235,7 @@ About a dozen stems, irregularly formed by adding s to the root with an intermed
 144\. 1\. Before the suffix s, (a) final radical n (as well as m) becomes Anusvāra (66 A 2), as á-maṃ-s-ata (√man), vaṃ-s-ī-máhi (√van); (b) s becomes t in the verb vas dwell and possibly also in vas shine: á-vāt-s-ī-s⁵ (AV.) thou hast dwelt and á-vāt (\= á-vas-s-t) has shone (AV.).
 
 
-#strong[2. The] RV. has one example of an incipient tendency to preserve the s and t of the 2\. 3\. s. in 2\. s. á-yā-s (\=a-yaj-s-s) beside the phonetically regular form of the 3\. s. á-yāṭ (\=á-yaj-s-t). The AV. has three or four examples of this: s. 2\. srā-s (\=sraj-s-s: √srj); 3\. á-śrai-t (\=á-śrai-s-t:
+*2. The* RV. has one example of an incipient tendency to preserve the s and t of the 2\. 3\. s. in 2\. s. á-yā-s (\=a-yaj-s-s) beside the phonetically regular form of the 3\. s. á-yāṭ (\=á-yaj-s-t). The AV. has three or four examples of this: s. 2\. srā-s (\=sraj-s-s: √srj); 3\. á-śrai-t (\=á-śrai-s-t:
 
 M 2
 
@@ -9260,16 +9260,16 @@ M 2
 a. The ending dhvam (before which the s of the aor. is lost) becomes dhvam when the s would have been cerebralized (66 B 2): a-sto-dhvam (\= a-sto-z-dhvam) is the only example.
 
 
-#strong[3. The] roots dā give and dā cut reduce the radical vowel to i in á-di-ṣ-i, di-ṣ-īyá; gam, man, van lose their nasal in á-ga-smahi, ma-s-īyá, va-s-ī-mahi (beside vam-s-ī-mahi); while sah lengthens its vowel in á-sāk-ṣ-i, sāk-ṣ-i; sāk-ṣ-āma; sāk-ṣ-īya; sāk-ṣva.
+*3. The* roots dā give and dā cut reduce the radical vowel to i in á-di-ṣ-i, di-ṣ-īyá; gam, man, van lose their nasal in á-ga-smahi, ma-s-īyá, va-s-ī-mahi (beside vam-s-ī-mahi); while sah lengthens its vowel in á-sāk-ṣ-i, sāk-ṣ-i; sāk-ṣ-āma; sāk-ṣ-īya; sāk-ṣva.
 
 
-#strong[4. The] roots srj emit and prc mix take metathesis in the act.: s. 2\. sra-s (\= srak). 3\. a-srak; a-prak. Du. 2\. a-sras-tam.
+*4. The* roots srj emit and prc mix take metathesis in the act.: s. 2\. sra-s (\= srak). 3\. a-srak; a-prak. Du. 2\. a-sras-tam.
 
 
-#strong[5. The] following are the forms occurring in the 3\. s. ind. act. in which (a) the ending t is lost: á-jai-s (√ji), á-prā-s, á-hā-s; (b) both the tense-sign s and the ending t are lost:² á-krān (krand cry out), á-kṣār (kṣar flow), á-cait (cit perceive), á-chān (chand seem), á-tān (tan stretch), á-tsār (tsar approach stealthily), á-dyaut (dyut shine), á-dhāk (dah burn), á-prāk (prc mix), á-prāṭ (prach ask), á-bhār (bhr), á-yāṭ (yaj sacrifice), á-yān (yam guide), á-raut (rudh obstruct), á-vāṭ (vah convey), á-vāt¹ (vas shine), á-śvait (śvit be bright), á-syān (syand move on), á-srak (srj emit), á-svār (svar sound), á-hār (hr take), ā-raik (ric leave).
+*5. The* following are the forms occurring in the 3\. s. ind. act. in which (a) the ending t is lost: á-jai-s (√ji), á-prā-s, á-hā-s; (b) both the tense-sign s and the ending t are lost:² á-krān (krand cry out), á-kṣār (kṣar flow), á-cait (cit perceive), á-chān (chand seem), á-tān (tan stretch), á-tsār (tsar approach stealthily), á-dyaut (dyut shine), á-dhāk (dah burn), á-prāk (prc mix), á-prāṭ (prach ask), á-bhār (bhr), á-yāṭ (yaj sacrifice), á-yān (yam guide), á-raut (rudh obstruct), á-vāṭ (vah convey), á-vāt¹ (vas shine), á-śvait (śvit be bright), á-syān (syand move on), á-srak (srj emit), á-svār (svar sound), á-hār (hr take), ā-raik (ric leave).
 
 
-#strong[6. After] a consonant other than n, m, r the tense sign s is dropped before t, th, and dh; e.g. á-bhak-ta (beside á-bhak-s-i); á-muk-thas (beside á-muk-s-i).
+*6. After* a consonant other than n, m, r the tense sign s is dropped before t, th, and dh; e.g. á-bhak-ta (beside á-bhak-s-i); á-muk-thas (beside á-muk-s-i).
 
 #page-footnotes((
   [¹ But the t may in this instance represent the changed final radical s: 144, 1 (b). There are a few additional examples in B.: ajait (beside ajais and ajaiṣīt: √ji); acait (√ci); nait (√nī).],
@@ -9290,7 +9290,7 @@ a. The ending dhvam (before which the s of the aor. is lost) becomes dhvam when 
 #v(0.18em)
 
 
-#strong[145. About] 145 roots take this aorist in V. and B. It differs from the s aorist merely in adding the s with the connecting vowel i, which changes it to ş (67).
+*145. About* 145 roots take this aorist in V. and B. It differs from the s aorist merely in adding the s with the connecting vowel i, which changes it to ş (67).
 
 
 #v(0.30em)
@@ -9298,7 +9298,7 @@ a. The ending dhvam (before which the s of the aor. is lost) becomes dhvam when 
 #v(0.18em)
 
 
-#strong[1. The] radical vowel as a rule takes Guṇa throughout; but in the active a final vowel takes Vṛddhi and a medial vowel is sometimes lengthened. The endings are the same as those of the s aorist except that the 2\. 3\. s. end in īs (\= iṣ-s) and īt (\= iṣ-t). This aorist has all the moods, but no participle. Middle forms are not common and very few occur except in the 2\. 3\. sing.
+*1. The* radical vowel as a rule takes Guṇa throughout; but in the active a final vowel takes Vṛddhi and a medial vowel is sometimes lengthened. The endings are the same as those of the s aorist except that the 2\. 3\. s. end in īs (\= iṣ-s) and īt (\= iṣ-t). This aorist has all the moods, but no participle. Middle forms are not common and very few occur except in the 2\. 3\. sing.
 
 The normal forms occurring, if made from kram stride, would be:
 
@@ -9307,14 +9307,14 @@ Act. sing. 1\. á-kram-iṣ-am. 2\. á-kram-īs. 3\. á-kram-īt. Du. 3\. á-kra
 Mid. sing. 1\. á-kram-iṣ-i. 2\. á-kram-iṣ-ṭhās. 3\. á-kram-iṣ-ṭa. Du. 3\. á-kram-iṣ-ātām. Pl. 3\. á-kram-iṣ-ata.
 
 
-#strong[2. Subjunctive] forms are rare except in the 2\. 3\. s. act. Examples are:
+*2. Subjunctive* forms are rare except in the 2\. 3\. s. act. Examples are:
 
 Act. sing. 1\. dáv-iṣ-āṇi. 2\. áv-iṣ-a-s, kán-iṣ-a-s. 3\. kár-iṣ-a-t, bódh-iṣ-a-t. Pl. 3\. sán-iṣ-a-n.
 
 Mid. pl. 1\. yác-iṣ-ā-mahe. 3\. sán-iṣ-a-nta.
 
 
-#strong[3. Injunctive] are commoner than subjunctive forms. They occur most frequently in the 2\. 3\. s. and plur. Examples are:
+*3. Injunctive* are commoner than subjunctive forms. They occur most frequently in the 2\. 3\. s. and plur. Examples are:
 
 Act. sing. 1\. śáṃs-iṣ-am (śaṃs praise). 2\. áv-īs (av favour), tár-īs (tṝ cross), yódh-īs (yudh fight), sáv-īs (sū generate). 3\. áś-īt (aś eat), tár-īt. Du. 2\. táriṣ-ṭam, márdh-iṣ-ṭam (mṛdh neglect). Pl. 1\. śrám-iṣ-ma. 2\. vádh-iṣ-ṭa and vádh-iṣ-ṭana. 3\. jár-iṣ-ur (jṝ waste away).
 
@@ -9335,12 +9335,12 @@ Mid. sing. 1\. rádh-iṣ-i (rādh succeed). 2\. márṣ-iṣ-ṭhās
 ]
 
 
-#strong[4. Optative] forms are rare, occurring in the middle only. The 2\. 3\. s. take the precative s. Examples are:
+*4. Optative* forms are rare, occurring in the middle only. The 2\. 3\. s. take the precative s. Examples are:
 
 Sing. 1\. edh-iṣ-īyá (edh thrive). 2\. mod-iṣ-ī-ṣ-ṭhās (mud rejoice). 3\. jan-iṣ-ī-ṣ-ṭá. Du. 1\. sah-iṣ-ī-váhi. Pl. tār-iṣ-ī-máhi.
 
 
-#strong[5. Imperative] forms are rare, occurring in the active only. Sing. 2\. av-iḍ-ḍhí. 3\. av-iṣ-ṭu. Du. 2\. av-iṣ-ṭám. 3\. av-iṣ-ṭám. Pl. 2\. av-iṣ-ṭána.
+*5. Imperative* forms are rare, occurring in the active only. Sing. 2\. av-iḍ-ḍhí. 3\. av-iṣ-ṭu. Du. 2\. av-iṣ-ṭám. 3\. av-iṣ-ṭám. Pl. 2\. av-iṣ-ṭána.
 
 a. The radical medial a is lengthened in kan enjoy, car move, das waste, mad exhilarate, stan thunder, svan sound, and optionally in vad speak, ran rejoice, san gain, sah prevail; while the radical syllable appears in a reduced or unstrengthened form in the opt. s. 1\. mid. of gam and ruc shine: gm-iṣ-īyá and ruc-iṣ-īyá.
 
@@ -9354,13 +9354,13 @@ c. In s. 1\. ind. act. the ending īm appears instead of iṣ-am in the three fo
 #v(0.18em)
 
 
-#strong[146. This] form differs from the preceding one simply in prefixing an additional s to the suffix. Only seven verbs ending in ā, n, or m, gā sing, jñā know,¹ pyā fill up, yā go, hā leave, van win, ram rejoice, take this aorist. The total number of forms occurring is under twenty; and middle forms are found in the optative only. The forms occurring are:
+*146. This* form differs from the preceding one simply in prefixing an additional s to the suffix. Only seven verbs ending in ā, n, or m, gā sing, jñā know,¹ pyā fill up, yā go, hā leave, van win, ram rejoice, take this aorist. The total number of forms occurring is under twenty; and middle forms are found in the optative only. The forms occurring are:
 
 
-#strong[1. Indicative.] Sing. 1\. á-yā-sis-am. Du. 3\. á-yā-sis-tam. Pl. 2\. á-yā-sis-ta. 3\. á-gā-sis-ur, á-yā-sis-ur.
+*1. Indicative.* Sing. 1\. á-yā-sis-am. Du. 3\. á-yā-sis-tam. Pl. 2\. á-yā-sis-ta. 3\. á-gā-sis-ur, á-yā-sis-ur.
 
 
-#strong[2. Subjunctive.] Sing. 3\. gā-sis-a-t, yā-sis-a-t.
+*2. Subjunctive.* Sing. 3\. gā-sis-a-t, yā-sis-a-t.
 
 #page-footnotes((
   [¹ In B. also occurs dhyā think, besides forms in s-īt from drā sleep, vā blow, hvā call.],
@@ -9375,13 +9375,13 @@ c. In s. 1\. ind. act. the ending īm appears instead of iṣ-am in the three fo
 #fit-page[
 #folio("146-147]", "SIŞ FORM OF THE FIRST AORIST", "167")
 
-#strong[3. Optative.] Sing. 1\. vam-sis-iyá. 2\. yā-sis-i-s-thas, Pl. 1\. pyā-sis-i-mahi.
+*3. Optative.* Sing. 1\. vam-sis-iyá. 2\. yā-sis-i-s-thas, Pl. 1\. pyā-sis-i-mahi.
 
 
-#strong[4. Injunctive.] Sing. 1\. ram-sis-am. Du. 2\. ha-sis-tam. 3\. ha-sis-tam. Pl. 2\. ha-sis-ta. 3\. ha-sis-ur.
+*4. Injunctive.* Sing. 1\. ram-sis-am. Du. 2\. ha-sis-tam. 3\. ha-sis-tam. Pl. 2\. ha-sis-ta. 3\. ha-sis-ur.
 
 
-#strong[5. Imperative.] Du. 2\. yā-sis-tam. Pl. 2\. yā-sis-ta.
+*5. Imperative.* Du. 2\. yā-sis-tam. Pl. 2\. yā-sis-ta.
 
 
 #v(0.30em)
@@ -9389,33 +9389,33 @@ c. In s. 1\. ind. act. the ending īm appears instead of iṣ-am in the three fo
 #v(0.18em)
 
 
-#strong[147. This] aorist resembles an imperfect formed directly from the root, the terminations being added with or without the connecting vowel a.
+*147. This* aorist resembles an imperfect formed directly from the root, the terminations being added with or without the connecting vowel a.
 
 The first form is like an imperfect of the accented á class (125, 2), the stem being formed by adding a to the unmodified root.³ It corresponds to the second aorist of the first conjugation in Greek. It is taken, in V. and B. together, by nearly eighty roots, chiefly with a medial vowel. Middle forms are rare.
 
 
-#strong[1. Indicative.] The forms actually occurring would, if made from vid find, be as follows:
+*1. Indicative.* The forms actually occurring would, if made from vid find, be as follows:
 
 Act. sing. 1\. ávidam. 2\. ávidas. 3\. ávidat. Du. 1\. ávidáva. Pl. 1\. ávidáma. 2\. ávidata. 3\. ávidan.
 
 Mid. sing. 1\. ávide. 2\. ávidathás. 3\. ávidata. Du. 1\. ávidávahi. 3\. ávidetám. Pl. 1\. ávidámahi. 3\. ávidanta.
 
 
-#strong[2. The] subjunctive forms from the same root would be:
+*2. The* subjunctive forms from the same root would be:
 
 Act. sing. 2\. vidási, vidás. 3\. vidáti, vidát. Du. 1\. vidáva. 2\. vidáthas. 3\. vidátas. Pl. 1\. vidáma. 2\. vidátha, vidáthana.
 
 Mid. sing. 3\. vidáte. Pl. 1\. vidámahe.
 
 
-#strong[3. The] injunctive forms from vid would be:
+*3. The* injunctive forms from vid would be:
 
 Act. sing. 1\. vidám. 2\. vidás. 3\. vidát. Pl. 3\. vidán.
 
 Mid. sing. 3\. vidáta. Pl. 1\. vidámahi. 3\. vidánta.
 
 
-#strong[4. The] optative is rare in V., but not infrequent in B.
+*4. The* optative is rare in V., but not infrequent in B.
 
 #page-footnotes((
   [¹ With precative s.],
@@ -9438,14 +9438,14 @@ Act. sing. 1\. vidéyam. 2\. vidés. 3\. vidét. Pl. 1\. vidéma.
 Mid. sing. 1\. vidéya. Pl. 1\. vidémahi. There also occurs one precative form, s. 3\. vidéṣṭa (AV.).
 
 
-#strong[5. Imperative] forms are rare and almost restricted to the active. Those made by sad sit are:
+*5. Imperative* forms are rare and almost restricted to the active. Those made by sad sit are:
 
 Sing. 2\. sadá. 3\. sadátu. Du. 2\. sadátam. 3\. sadátām. Pl. 2\. sadáta, sadátana. 3\. sadántu.
 
 Mid. pl. 2\. sadadhvam. 3\. sadantām.
 
 
-#strong[6. Rather] more than a dozen examples of the participle, taking active and middle together, occur: e. g. trp-ánt, śucánt; guhámāna, śucámāna.
+*6. Rather* more than a dozen examples of the participle, taking active and middle together, occur: e. g. trp-ánt, śucánt; guhámāna, śucámāna.
 
 
 #v(0.30em)
@@ -9455,10 +9455,10 @@ Mid. pl. 2\. sadadhvam. 3\. sadantām.
 a. Several roots form transfer stems according to this instead of the root form, chiefly by reducing the radical syllable.
 
 
-#strong[1. khya] see, vya envelope, hva call shorten their a to a: a-khya-t, a-vya-t, a-hva-t; da give, dha put, stha stand occasionally do the same, in the forms a-da-t; a-dha-t (SV.) and dha-t; a-stha-t (AV.); sas order shortens a to i; e.g. 3\. s. inj. siat, part. siant.
+*1. khya* see, vya envelope, hva call shorten their a to a: a-khya-t, a-vya-t, a-hva-t; da give, dha put, stha stand occasionally do the same, in the forms a-da-t; a-dha-t (SV.) and dha-t; a-stha-t (AV.); sas order shortens a to i; e.g. 3\. s. inj. siat, part. siant.
 
 
-#strong[2. kr] make and gam go form a few transfers from the root class in the AV., retaining the strong radical vowel: a-kar-a-t, a-gam-a-t, a-gam-a-n.
+*2. kr* make and gam go form a few transfers from the root class in the AV., retaining the strong radical vowel: a-kar-a-t, a-gam-a-t, a-gam-a-n.
 
 b. The root is reduced by the loss of its nasal in krand cry out, tams shake, dhvams scatter, bhrams fall, randh make subject, srams fall; e.g. 3\. sing. atasat; pl. dhvasan; subj. pl. 1\. radhama; inj. sing. 1\. radham; 2\. kradas; 3\. bhrasat.
 
@@ -9470,7 +9470,7 @@ c. The root takes Guna in r go, drs see, sr flow; e.g. ar-anta (unaugmented 3\. 
 #v(0.18em)
 
 
-#strong[148. This] form of the simple aorist is taken by about 100 roots in V., and about 25 others in B., the commonest being those with medial a (about 30). It corresponds to
+*148. This* form of the simple aorist is taken by about 100 roots in V., and about 25 others in B., the commonest being those with medial a (about 30). It corresponds to
 
 ]
 
@@ -9492,7 +9492,7 @@ c. The root takes Guna in r go, drs see, sr flow; e.g. ar-anta (unaugmented 3\. 
 #v(0.18em)
 
 
-#strong[1. The] root is strong in the sing. act., but weak elsewhere. Roots ending in vowels, however, tend to retain the strong vowel throughout the active except the 3\. pl. Those ending in ā regularly retain that vowel throughout the ind. act. except in 3\. pl. where it is dropped before ur, which is always the ending in these verbs. In the 3\. pl. mid. the ending ran is more than twice as common as ata; ram as well as ran is taken by three roots.
+*1. The* root is strong in the sing. act., but weak elsewhere. Roots ending in vowels, however, tend to retain the strong vowel throughout the active except the 3\. pl. Those ending in ā regularly retain that vowel throughout the ind. act. except in 3\. pl. where it is dropped before ur, which is always the ending in these verbs. In the 3\. pl. mid. the ending ran is more than twice as common as ata; ram as well as ran is taken by three roots.
 
 a. The forms occurring from roots ending in ā, if made from sthā, would be:
 
@@ -9555,21 +9555,21 @@ h. The forms taking ran in 3\. pl. mid. are: á-kṛp-ran, á-gṛbh-ran, á-jus
 #fit-page[
 #folio("148]", "MOODS OF THE ROOT AORIST", "171")
 
-#strong[2. The] subjunctive is common, nearly 100 forms being met with. The forms occurring, if made from kr, would be:
+*2. The* subjunctive is common, nearly 100 forms being met with. The forms occurring, if made from kr, would be:
 
 Act. sing. 1\. kárā and kár-āṇi. 2\. kár-a-si and kár-a-s. 3\. kár-a-ti and kár-a-t.¹ Du. 2\. kár-a-thas. 3\. kár-a-tas. Pl. 1\. kár-ā-ma. 3\. kár-anti, kár-a-n.
 
 Mid. sing. 2\. kár-a-se. 3\. kár-a-te.² Pl. 1\. kár-ā-mahe and kár-ā-mahai. 3\. kár-anta.
 
 
-#strong[3. The] injunctive is fairly frequent, nearly sixty forms of it being met with. Examples are:
+*3. The* injunctive is fairly frequent, nearly sixty forms of it being met with. Examples are:
 
 Act. sing. 1\. kar-am, darś-am,³ bhuv-am, bhoj-am. 2\. je-s, bhū-s, bhé-s (bhī fear), dhak⁴ (dagh reach), bhet (bhid split), rok (ruj break). 3\. bhū-t, śre-t (√śri), nak and naṭ (naś attain). Pl. 1\. dagh-ma, bhū-ma; ched-ma,⁵ ho-ma⁵ (hū call). 3\. bhūv-an, vr-an (vṛ cover); kram-ur, dur (dā give), dh-úr (dhā put).
 
 Mid. sing. 1\. namś-i (namś \= nas attain). 2\. nut-thas (nud push), mr-thas (mr die), mrs-thas (mrs neglect), rik-thas (ric leave). 3\. ar-ta (r go), as-ta (as attain), vik-ta (vij tremble), vr-ta (vr choose). Pl. 1\. dhi-mahi (dha put).
 
 
-#strong[4. More] than forty optative forms are met with. Examples are:
+*4. More* than forty optative forms are met with. Examples are:
 
 Act. sing. 1\. aś-yām (aś obtain), vṛj-yām, de-yām (dā give). 2\. aś-yās, ṛdh-yās, gam-yās, jñe-yās, bhū-yās. 3\. bhū-yāt⁶ (AV.). Pl. 1\. aś-yāma, ṛdh-yāma, kri-yāma, bhū-yāma, sthe-yāma. 3\. aś-yúr (aś attain), dhe-yúr.
 
@@ -9602,7 +9602,7 @@ Act. sing. 1\. bhū-yāsam. 3\. aś-yās (\= aś-yās-t), gam-yās, dagh-yās, p
 Mid. s. 3\. pad-ī-ṣ-ṭa, muc-ī-ṣ-ṭa.
 
 
-#strong[5. Over] ninety forms of the imperative occur, all but about twelve being active. Several forms in the 2\. persons act. have a strong root, which is then usually accented. Examples are:
+*5. Over* ninety forms of the imperative occur, all but about twelve being active. Several forms in the 2\. persons act. have a strong root, which is then usually accented. Examples are:
 
 Act. s. 2\. kr̥-dhí, ga-dhí (gam), pūr-dhí (pī̄ fill), bo-dhí,¹ yó-dhi² (yudh fight), śag-dhí (śak be able); ga-hí (gam go), mā-hi (mā measure), sā-hi (sā bind). 3\. gán-tu (gam go), dhā-tu, bhū-tu, śró-tu.
 
@@ -9611,7 +9611,7 @@ Du. 2\. kr̥-tám and kar-tam (AV.), ga-tám and gan-tám, dā-tam, dhak-tam (da
 Mid. s. 2\. kr̥-ṣvá, dhi-ṣvá (dhā put), yuk-ṣvá (yuj join); accented on the root: mát-sva, yák-ṣva (yaj sacrifice), rā-sva, vám-sva (van win), sák-ṣva (sac follow). Pl. 2\. kr̥-dhvam, vo-dhvam.
 
 
-#strong[6. Of] the participle only seven or eight examples occur in the active, but nearly forty in the middle. Examples are:
+*6. Of* the participle only seven or eight examples occur in the active, but nearly forty in the middle. Examples are:
 
 Act. ṛdh-ánt, kr-ánt, gm-ánt, sthánt.
 
@@ -9636,7 +9636,7 @@ Mid. ar-āṇá, idh-āná, kr-āṇá, dr̥ś-āna and dr̥ś-āná, budh-āná
 #v(0.18em)
 
 
-#strong[149. This] aorist is formed from nearly ninety verbs in the Saṃhitās and from nearly thirty more in the Brāhmaṇas. Though (with a few slight exceptions) unconnected in form with the causative, it has come to be connected with the causative in sense, having a causative meaning when the corresponding verb in aya has that meaning. The characteristic feature of this aorist is the almost invariable quantitative sequence of a long reduplicative and a short radical vowel (- ∪). In order to bring about this rhythm, the reduplicative vowel (unless it becomes long by position) is lengthened, if the radical vowel is (or is made) prosodically short. With this view the radical vowel is shortened in vāś bellow, sādh succeed, hīḍ be hostile and, by dropping the nasal, in krand cry out, jambh crush, randh subject, syand flow, sraṃs fall. The stem of the great majority of forms is made with a thematic a. But about a dozen roots ending in vowels (ā, i, ū, ṛ) and svap sleep make occasional forms from stems without thematic a, the inflexion then being like that of an imperfect of the reduplicating class (127, 2). A medial radical vowel remains unchanged or is weakened, but a final vowel takes Guṇa. All the moods occur, but no participle.
+*149. This* aorist is formed from nearly ninety verbs in the Saṃhitās and from nearly thirty more in the Brāhmaṇas. Though (with a few slight exceptions) unconnected in form with the causative, it has come to be connected with the causative in sense, having a causative meaning when the corresponding verb in aya has that meaning. The characteristic feature of this aorist is the almost invariable quantitative sequence of a long reduplicative and a short radical vowel (- ∪). In order to bring about this rhythm, the reduplicative vowel (unless it becomes long by position) is lengthened, if the radical vowel is (or is made) prosodically short. With this view the radical vowel is shortened in vāś bellow, sādh succeed, hīḍ be hostile and, by dropping the nasal, in krand cry out, jambh crush, randh subject, syand flow, sraṃs fall. The stem of the great majority of forms is made with a thematic a. But about a dozen roots ending in vowels (ā, i, ū, ṛ) and svap sleep make occasional forms from stems without thematic a, the inflexion then being like that of an imperfect of the reduplicating class (127, 2). A medial radical vowel remains unchanged or is weakened, but a final vowel takes Guṇa. All the moods occur, but no participle.
 
 
 #v(0.30em)
@@ -9648,7 +9648,7 @@ a. The vowels ā, ṛ, ṭ are represented in the reduplicative syllable by i.
 b. The vowel of the reduplicative syllable, unless already long by position, is lengthened.
 
 
-#strong[1. The] forms of the indicative actually occurring would, if made from jan beget, be as follows:
+*1. The* forms of the indicative actually occurring would, if made from jan beget, be as follows:
 
 Act. s. 1\. ájījanam. 2\. ájījanas. 3\. ájījanat. Du. 2\. ájījanatam. Pl. 1\. ájījanāma. 2\. ájījanata. 3\. ájījanan.
 
@@ -9670,19 +9670,19 @@ Act. s. 1\. ánīnaśam (naś be lost), ácikṛṣam (kṛṣ drag), ápiplavam
 Mid. s. 3\. ávīvarata (vṛ cover). Pl. 2\. ávīvṛdhadhvam. 3\. ábībhayanta, ávīvaśanta (√vāś), ásiṣyadanta.
 
 
-#strong[2. The] subjunctive is rare, only about a dozen forms occurring, all active except one. Examples are:
+*2. The* subjunctive is rare, only about a dozen forms occurring, all active except one. Examples are:
 
 Act. s. 1\. rāradhā. 2\. tītapāsi. 3\. cīkḷpāti, pispṛśati,¹ siṣadhāti (√sādh). Pl. 1\. rīramāma, siṣadhāma.
 
 
-#strong[3. Injunctive] forms are fairly common, more than fifty occurring in the active, but only five in the middle. Examples are:
+*3. Injunctive* forms are fairly common, more than fifty occurring in the active, but only five in the middle. Examples are:
 
 Act. s. 1\. cukrudham, dīdharam (dhṛ hold). 2\. cikṣipas, pispṛśas, rīradhas, siṣadhas. 3\. cucyavat, dīdharat, mīmayat (mā bellow), siṣvadat (svad sweeten).
 
 Du. 2\. jihvaratam. Pl. 2\. rīradhata. 3\. rīraman, śūśucan (śuc shine). 3\. siṣapanta (sap serve).
 
 
-#strong[4. The] optative forms number hardly a dozen, being made from only three roots, mostly from vac speak, the rest from cyu stir and riṣ hurt. They are:
+*4. The* optative forms number hardly a dozen, being made from only three roots, mostly from vac speak, the rest from cyu stir and riṣ hurt. They are:
 
 Act. s. 1\. vocéyam. 2\. rīriṣes, vocés. 3\. vocét.
 
@@ -9705,7 +9705,7 @@ Mid. s. 1\. vocêya. Pl. 1\. cucyuv-i-mahi,¹ vocémahi. 3\. cucyav-i-rata.¹ Th
 149-150\] MOODS OF THE REDUPLICATED AORIST 175
 
 
-#strong[5. Hardly] more than a dozen imperative forms occur, all of them active. These are:
+*5. Hardly* more than a dozen imperative forms occur, all of them active. These are:
 
 Sing. 2\. vocatāt. 3\. vocatu.
 
@@ -9719,10 +9719,10 @@ Du. 2\. jigṛtám¹ (gṛ waken), didhṛtám,¹ vocatam. Pl. 2\. jigṛ-tá,¹
 a. 1\. The reduplicative syllable of dyut shine has i²: á-didyutat; that of am injure repeats the whole root³: ám-am-at (\= á-am-am-at); while it is left short in jigṛtám, jigṛtá (beside á-jīgar), didhṛtám, didhṛtá (beside á-dīdharat), and in the isolated inj. didīpas for didīpas (dīp shine).
 
 
-#strong[2. The] radical syllable suffers contraction or syncopation (as in the weak forms of the perfect) in the three verbs naś be lost, vac speak, and pat fall; thus á-neś-at (\= á-nanaś-at), á-voc-at (\= á-va-uc-at: cp. Gk. ἔ-ε(π-ο-ν)) and á-papt-at. Having all had the reduplicative vowel of the perfect (while the regular aorist reduplicative ī appears in the alternative forms á-nīnaś-at and á-pīpat-at), they were probably pluperfects in origin. But they have come to be aorists as is shown by their meaning and by the occurrence of modal forms (as vocatu, &c., and paptata).
+*2. The* radical syllable suffers contraction or syncopation (as in the weak forms of the perfect) in the three verbs naś be lost, vac speak, and pat fall; thus á-neś-at (\= á-nanaś-at), á-voc-at (\= á-va-uc-at: cp. Gk. ἔ-ε(π-ο-ν)) and á-papt-at. Having all had the reduplicative vowel of the perfect (while the regular aorist reduplicative ī appears in the alternative forms á-nīnaś-at and á-pīpat-at), they were probably pluperfects in origin. But they have come to be aorists as is shown by their meaning and by the occurrence of modal forms (as vocatu, &c., and paptata).
 
 
-#strong[3. The] initial of the suffix is retained from the causative stems jñā-paya, sthā-paya, hā-paya, bhī-ṣaya, ar-paya, jā-paya (√ji). The radical vowel is reduced to i in the first four, while the reduplicative vowel comes after instead of before the radical vowel in the fifth: thus á-ji-jñip-at; á-ti-ṣṭhip-at; jī-hip-as; bī-bhiṣ-as, bī-bhiṣ-athās; arp-ip-am⁴; á-jī-jap-a-ta⁵ (VS.).
+*3. The* initial of the suffix is retained from the causative stems jñā-paya, sthā-paya, hā-paya, bhī-ṣaya, ar-paya, jā-paya (√ji). The radical vowel is reduced to i in the first four, while the reduplicative vowel comes after instead of before the radical vowel in the fifth: thus á-ji-jñip-at; á-ti-ṣṭhip-at; jī-hip-as; bī-bhiṣ-as, bī-bhiṣ-athās; arp-ip-am⁴; á-jī-jap-a-ta⁵ (VS.).
 
 
 #v(0.30em)
@@ -9730,7 +9730,7 @@ a. 1\. The reduplicative syllable of dyut shine has i²: á-didyutat; that of am
 #v(0.18em)
 
 
-#strong[150. This] is a form of the optative which adds an s after the modal suffix and which is made almost exclusively from aorist stems. In the RV. it occurs in the 1\. 3\. s. and
+*150. This* is a form of the optative which adds an s after the modal suffix and which is made almost exclusively from aorist stems. In the RV. it occurs in the 1\. 3\. s. and
 
 #page-footnotes((
   [¹ Without thematic a.],
@@ -9749,7 +9749,7 @@ a. 1\. The reduplicative syllable of dyut shine has i²: á-didyutat; that of am
 #fit-page[
 #folio("176", "CONJUGATION", "[150-151")
 
-#strong[1. pl.] active, and in the 2\. 3\. s. mid. The endings together with the modal suffix are:
+*1. pl.* active, and in the 2\. 3\. s. mid. The endings together with the modal suffix are:
 
 Act. s. 1\. yā-s-am. 3\. yā-s (\= yās-s); pl. 1\. yā-s-ma.
 
@@ -9765,7 +9765,7 @@ b. Of the root aorist nearly thirty precatives are met with in the Saṃhitās. 
 #v(0.18em)
 
 
-#strong[151. The] stem is formed by adding the suffix syá or (rather less frequently with connecting i) i-ṣyá to the root. As the future sense is often expressed by the subjunctive and sometimes also by the indicative, the future tense is not common in the RV., being formed from only sixteen roots, while the AV. makes it from about thirty-two others, and the TS. forms it from over sixty roots. In V. and B. taken together over one hundred form the future in sya and over eighty that in iṣya. The only derivative verbs that form the future (always with iṣya) are causatives, of which four stems appear, two in the RV. and two in the AV. Roots ending in r always take iṣya, whereas those ending in other vowels generally take sya.
+*151. The* stem is formed by adding the suffix syá or (rather less frequently with connecting i) i-ṣyá to the root. As the future sense is often expressed by the subjunctive and sometimes also by the indicative, the future tense is not common in the RV., being formed from only sixteen roots, while the AV. makes it from about thirty-two others, and the TS. forms it from over sixty roots. In V. and B. taken together over one hundred form the future in sya and over eighty that in iṣya. The only derivative verbs that form the future (always with iṣya) are causatives, of which four stems appear, two in the RV. and two in the AV. Roots ending in r always take iṣya, whereas those ending in other vowels generally take sya.
 
 a. Final vowels and prosodically short medial vowels take Guṇa, final ā and medial a remaining unchanged; e. g. ji conquer: je-ṣyá; nī lead: ne-ṣyá; dā give: dā-syá; mih shed water: mek-ṣyá; yuj join: yok-ṣyá; kṛt cut: kart-syá; dah burn: dhak-ṣyá; bandh bind: bhant-syá; bhū be: bhav-iṣyá; sṛ flow: sar-iṣyá; vṛt turn: vart-iṣyá.
 
@@ -9792,10 +9792,10 @@ Du. 2\. kar-iṣyáthas. 3\. kar-iṣyátas. Pl. 1\. kar-iṣyā-mas, -masi. 2\.
 Mid. s. 1\. kar-iṣyé. 2\. kar-iṣyáse. 3\. kar-iṣyáte.
 
 
-#strong[1. Only] one subjunctive, the 2\. s. act. kar-isyas, has been met with in V., and one other, 1\. du. mid., not-syavahai (nud push) in B.
+*1. Only* one subjunctive, the 2\. s. act. kar-isyas, has been met with in V., and one other, 1\. du. mid., not-syavahai (nud push) in B.
 
 
-#strong[2. More] than twenty participles occur, of which only four are mid. Examples are:
+*2. More* than twenty participles occur, of which only four are mid. Examples are:
 
 Act. kar-iṣy-ánt, dhak-ṣy-ánt (√dah); mid. yak-ṣyá-māṇa (√yaj), staviṣyá-māṇa (√stu).
 
@@ -9812,7 +9812,7 @@ c. In sū bring forth the future stem is formed with unchanged final vowel, whic
 #v(0.18em)
 
 
-#strong[152. There] is no certain example of this form of the future in the Saṃhitās. But such a phrase as anv-āgantā yajñāpatir vo átra (TS., VS.) the sacrificer is following after you here may be an example of its incipient use.¹
+*152. There* is no certain example of this form of the future in the Saṃhitās. But such a phrase as anv-āgantā yajñāpatir vo átra (TS., VS.) the sacrificer is following after you here may be an example of its incipient use.¹
 
 In B. this future is taken by nearly thirty roots. It is made by using the N. s. of an agent noun in tr (180), to which the present of the verb as be is added in the 1\. 2\. persons, while in the 3\. persons du, and pl. the N. du. and pl. appear. The use of this tense-form is
 
@@ -9843,7 +9843,7 @@ N
 #v(0.18em)
 
 
-#strong[153. This] is a past tense of the future meaning would have. Only one example occurs in the Saṃhitās: á-bhar-iṣya-t (RV. ii. 30²) was going to bear off. This form is very rare in B. also, except in the ŚB. where it is found more than fifty times.
+*153. This* is a past tense of the future meaning would have. Only one example occurs in the Saṃhitās: á-bhar-iṣya-t (RV. ii. 30²) was going to bear off. This form is very rare in B. also, except in the ŚB. where it is found more than fifty times.
 
 
 #v(0.30em)
@@ -9851,24 +9851,24 @@ N
 #v(0.18em)
 
 
-#strong[154. The] passive, which takes the terminations of the middle, differs from the latter only in the forms made from the present stem and in the 3\. s. aor. From the middle of verbs of the fourth class it differs in accent only: náh-ya-te binds: nah-yá-te is bound.
+*154. The* passive, which takes the terminations of the middle, differs from the latter only in the forms made from the present stem and in the 3\. s. aor. From the middle of verbs of the fourth class it differs in accent only: náh-ya-te binds: nah-yá-te is bound.
 
 The stem is formed by adding accented yá to the root, which appears in its weak form.
 
 
-#strong[1. Final] ā mostly becomes ī; e. g. dā give: dī-yá; but it also remains; e. g. jñā know: jñā-yá.
+*1. Final* ā mostly becomes ī; e. g. dā give: dī-yá; but it also remains; e. g. jñā know: jñā-yá.
 
 
-#strong[2. Final] i and u are lengthened; e. g. ji conquer: jī-yá-te; śru hear: śrū-yá-te.
+*2. Final* i and u are lengthened; e. g. ji conquer: jī-yá-te; śru hear: śrū-yá-te.
 
 
-#strong[3. Final] r becomes ri; e. g. kr make: kri-yá-te.¹
+*3. Final* r becomes ri; e. g. kr make: kri-yá-te.¹
 
 
-#strong[4. Final] r̥ becomes īr; e. g. śr̥ crush: śīr-yá-te.²
+*4. Final* r̥ becomes īr; e. g. śr̥ crush: śīr-yá-te.²
 
 
-#strong[5. Roots] ending in a consonant preceded by a nasal, lose the nasal; e. g. añj anoint: aj-yá-te; bandh bind: badh-yá-te; bhañj break: bhaj-yá-te; vañc move crookedly: vac-yá-te; śaṃs praise: śas-yá-te.
+*5. Roots* ending in a consonant preceded by a nasal, lose the nasal; e. g. añj anoint: aj-yá-te; bandh bind: badh-yá-te; bhañj break: bhaj-yá-te; vañc move crookedly: vac-yá-te; śaṃs praise: śas-yá-te.
 
 #page-footnotes((
   [¹ The only two roots in which r̥ is preceded by two consonants and which form a passive are str̥ strew and smr̥ remember. Their passives do not occur in the Saṃhitās, but in B are found stri-yá-te and smar-yá-te.],
@@ -9884,7 +9884,7 @@ The stem is formed by adding accented yá to the root, which appears in its weak
 #fit-page[
 #folio("154-155]", "PASSIVE", "179")
 
-#strong[6. Roots] liable to Samprasāraṇa (17 note 1) take it; e. g. vac speak: uc-yá-te; vad speak: ud-yá-te; vah carry: uh-yá-te; grah seize: grh-yá-te.
+*6. Roots* liable to Samprasāraṇa (17 note 1) take it; e. g. vac speak: uc-yá-te; vad speak: ud-yá-te; vah carry: uh-yá-te; grah seize: grh-yá-te.
 
 a. Derivative verbs in aya (causatives) drop the suffix while retaining the strong radical vowel. Only one such stem has been noted in the Saṃhitās: bhāj-yá-te is caused to share (from bhāj-áya causative of bhaj share).
 
@@ -9909,7 +9909,7 @@ d. tan stretch forms its passive from tā: tā-yá-te². Similarly jan beget bec
 #v(0.18em)
 
 
-#strong[155. Outside] the present system the passive has no special finite form except in the 3\. sing. aor. This is a peculiar middle form (made from about forty-five roots in
+*155. Outside* the present system the passive has no special finite form except in the 3\. sing. aor. This is a peculiar middle form (made from about forty-five roots in
 
 N 2
 
@@ -9941,7 +9941,7 @@ More than twenty unaugmented forms are also used injunctively; e. g. śrāv-i le
 a. 1\. The medial a is not lengthened in á-jan-i, the unaugmented ján-i (beside ján-i), and á-vah-i.
 
 
-#strong[2. From] the denominative stem jāraya play the lover the unique form jārayá-y-i let him be embraced is formed.
+*2. From* the denominative stem jāraya play the lover the unique form jārayá-y-i let him be embraced is formed.
 
 
 #v(0.35em)
@@ -9954,7 +9954,7 @@ a. 1\. The medial a is not lengthened in á-jan-i, the unaugmented ján-i (besid
 #v(0.18em)
 
 
-#strong[156. The] stem of the present (except the reduplicating class), the future, and the aorist active participle is formed with the suffix ant.² The strong stem may be obtained by dropping the i of the 3\. pl. ind. act.; e. g. bhāv-ant, kṣip-ánt, ás-yant; duh-ánt, kr̥ṇv-ánt, bhind-ánt, prī-ṇánt.
+*156. The* stem of the present (except the reduplicating class), the future, and the aorist active participle is formed with the suffix ant.² The strong stem may be obtained by dropping the i of the 3\. pl. ind. act.; e. g. bhāv-ant, kṣip-ánt, ás-yant; duh-ánt, kr̥ṇv-ánt, bhind-ánt, prī-ṇánt.
 
 #page-footnotes((
   [¹ About a dozen more are found in B.],
@@ -9978,7 +9978,7 @@ The active participle is formed by the root aorist, the a aorist, and the s aori
 a. Irregularities.—In the pres. part. the initial a of as be and the medial a of han slay are lost: sánt (3\. pl. sánti), ghn-ánt (3\. pl. ghn-ánti); while the n of the suffix is lost in dás-at worshipping and sás-at¹ (3\. pl. sás-ati). The n is also lost in the s aor. part. of dah burn: dákṣ-at and dhákṣ-at. Whether it was also lost in sákṣ-at, the part. of the same aor. from sah prevail, is uncertain because it is only met with in a weak case.
 
 
-#strong[157. The] reduplicated perfect participle is formed from the weak (but uncontracted or unsyncopated) stem to which the suffix vāṃs is directly added. There are more than fifty such stems. Examples are: cakṛ-vāṃs, jagan-vāṃs (gam go), tastabh-vāṃs (stambh prop), tasthi-vāṃs (sthā stand), dadṛś-vāṃs, dad-vāṃs (dā give), ba-bhū-vāṃs, vavṛt-vāṃs, sasa-vāṃs (san gain), suṣup-vāṃs (svap sleep).
+*157. The* reduplicated perfect participle is formed from the weak (but uncontracted or unsyncopated) stem to which the suffix vāṃs is directly added. There are more than fifty such stems. Examples are: cakṛ-vāṃs, jagan-vāṃs (gam go), tastabh-vāṃs (stambh prop), tasthi-vāṃs (sthā stand), dadṛś-vāṃs, dad-vāṃs (dā give), ba-bhū-vāṃs, vavṛt-vāṃs, sasa-vāṃs (san gain), suṣup-vāṃs (svap sleep).
 
 a. Some half-dozen of these participles are formed by adding the suffix with connecting i to the reduplicated stem contracted to a single syllable: ī-y-i-vāṃs (i go); ūṣ-i-vāṃs (vas dwell); ok-i-vāṃs² (uc be pleased); papt-i-vāṃs (pat fall); saśc-i-vāṃs (sac follow); in the later Saṃhitās also
 
@@ -10010,7 +10010,7 @@ a. Irregularities.—In seven stems the palatal reverts to the original guttural
 #v(0.18em)
 
 
-#strong[158. The] participles of the future middle, of the present passive, and the present middle of the a conjugation are formed by adding the suffix māna to the stem (which always ends in a); e. g. fut. mid. yakṣyá-māṇa (√yaj); pres. pass. kriyá-māṇa (√kr); pres. mid. yája-māna.
+*158. The* participles of the future middle, of the present passive, and the present middle of the a conjugation are formed by adding the suffix māna to the stem (which always ends in a); e. g. fut. mid. yakṣyá-māṇa (√yaj); pres. pass. kriyá-māṇa (√kr); pres. mid. yája-māna.
 
 a. Verbs of the second conjugation add the suffix āna to the weak stem in the pres. mid.; e. g. bruv-āṇá (√brū), júhv-āna (√hu), rundh-āná (√rudh), kṛṇv-āná (√kr), pun-āná (√pū).
 
@@ -10037,12 +10037,12 @@ a. There are several irregularities in the formation of the middle participles o
 ]
 
 
-#strong[159. The] Perfect Middle Participle is formed by adding the suffix -āná to the weak form of the stem as it appears before the ending of the 3\. pl. mid. re (ire, rire). It is common, more than eighty examples occurring. The following are some of them: ānaj-āná (√añj), ānaś-āná (√aṃś), ār-āṇá (√ṛ), īj-āná (√yaj), ūc-āná (√vac), cakr-āṇá (√kṛ), cikit-āná (√cit), jagm-āná (√gam), tasth-āná (√sthā), tistir-āṇá (√stṝ), tep-āná (√tap), pap-āná (pā drink), paspaś-āná (√spaś), bhej-āná (√bhaj), yem-āná (√yam), lebh-āná (√labh), vāvas-āná (vas wear and dwell), śiśriy-āṇá (√śri), siṣmiy-āṇá (√smi), suṣup-āṇá (√svap).
+*159. The* Perfect Middle Participle is formed by adding the suffix -āná to the weak form of the stem as it appears before the ending of the 3\. pl. mid. re (ire, rire). It is common, more than eighty examples occurring. The following are some of them: ānaj-āná (√añj), ānaś-āná (√aṃś), ār-āṇá (√ṛ), īj-āná (√yaj), ūc-āná (√vac), cakr-āṇá (√kṛ), cikit-āná (√cit), jagm-āná (√gam), tasth-āná (√sthā), tistir-āṇá (√stṝ), tep-āná (√tap), pap-āná (pā drink), paspaś-āná (√spaś), bhej-āná (√bhaj), yem-āná (√yam), lebh-āná (√labh), vāvas-āná (vas wear and dwell), śiśriy-āṇá (√śri), siṣmiy-āṇá (√smi), suṣup-āṇá (√svap).
 
 a. Irregularities.—1\. This participle of śī lie has the double anomaly of reduplicating with a and of strengthening the radical syllable:¹ śaśay-āná. 2\. The root sah prevail adds the suffix to a reduplicated as well as to a contracted stem: sāsah-āná and seh-āná. 3\. The radical vowel of kam love and śam labour is not syncopated: cakam-āná and śaśam-āná. 4\. Four of these participles have the intensive accent on the reduplicative syllable: tūtuj-āna², śúśuj-āna, śúśuv-āna (√śū), and śáśad-āna³ (śad prevail).⁴
 
 
-#strong[160. The] Perfect Passive Participle is formed by adding, in the great majority of instances, the suffix tá (with or without connecting i) or, far less commonly, the suffix ná (directly) to the root.
+*160. The* Perfect Passive Participle is formed by adding, in the great majority of instances, the suffix tá (with or without connecting i) or, far less commonly, the suffix ná (directly) to the root.
 
 #page-footnotes((
   [¹ Cp. a similar irregularity of śī in 134, 1b.],
@@ -10066,7 +10066,7 @@ a. Several roots take alternative forms in ta: nun-ná and nut-tá (√nud); vin
 b. The final palatal of pȳ mix, vraśc cut up and ruj break reverts to the guttural (cp. 160, 1).
 
 
-#strong[2. When] tá is added direct the root tends to appear in its weak form: verbs liable to Samprasāraṇa take it; a medial or final nasal is lost; ā is often reduced to ī or i; yā sometimes to ī. Examples are: yā-tá, ji-tá, bhī-tá, stu-tá, hū-tá, kȳ-tá; naṣ-ṭá (√naś be lost), sik-tá (√sic), yuk-tá (√yuj), gū-ḍhá (√guh),¹ dug-dhá (√duh), sȳṣ-ṭá (√sȳj); iṣ-ṭá (√yaj), vid-dhá (√vyadh), uk-tá (√vac), ū-ḍhá (√vah),² sup-tá (√svap), pȳṣ-ṭá (√prach); ak-tá (√añj), ta-tá (√tan), ga-tá (√gam); pī-tá (pā drink), sthi-tá (√sthā); vī-tá (√vyā).
+*2. When* tá is added direct the root tends to appear in its weak form: verbs liable to Samprasāraṇa take it; a medial or final nasal is lost; ā is often reduced to ī or i; yā sometimes to ī. Examples are: yā-tá, ji-tá, bhī-tá, stu-tá, hū-tá, kȳ-tá; naṣ-ṭá (√naś be lost), sik-tá (√sic), yuk-tá (√yuj), gū-ḍhá (√guh),¹ dug-dhá (√duh), sȳṣ-ṭá (√sȳj); iṣ-ṭá (√yaj), vid-dhá (√vyadh), uk-tá (√vac), ū-ḍhá (√vah),² sup-tá (√svap), pȳṣ-ṭá (√prach); ak-tá (√añj), ta-tá (√tan), ga-tá (√gam); pī-tá (pā drink), sthi-tá (√sthā); vī-tá (√vyā).
 
 a. The root dhā put is doubly weakened in hi-tá beside -dhi-ta. Medial ā is reduced to i in śiṣ-ṭá (śās order). Syncopation and loss of s appear in -g-dha eaten (√ghas).³
 
@@ -10101,7 +10101,7 @@ Examples are : nind-itá, rakṣ-itá ; grath-itá, īl-itá, car-itá, jīv-it�
 a. The roots taking Samprasāraṇa are : grabh and grah seize : grbh-ī-tá and grh-ī-tá (AV.);⁵ vakṣ increase : ukṣ-itá ; vad speak : ud-itá ; śrath slacken : śr̥th-itá.
 
 
-#strong[161. There] is once found in the AV. a perfect passive participle extended with the possessive suffix vant, which gives it the sense of a perfect participle active : aśitā-vant having eaten.⁶
+*161. There* is once found in the AV. a perfect passive participle extended with the possessive suffix vant, which gives it the sense of a perfect participle active : aśitā-vant having eaten.⁶
 
 #page-footnotes((
   [¹ Representing the long sonant nasal.],
@@ -10121,10 +10121,10 @@ a. The roots taking Samprasāraṇa are : grabh and grah seize : grbh-ī-tá and
 #fit-page[
 #folio("186", "CONJUGATION", "[162")
 
-#strong[162. The] Future Passive Participle is in the RV. formed with four suffixes: one with the primary suffix ya, which is common, the rest with the secondary suffixes áy-ya, én-ya, and tv-a, each of which occurs about a dozen times. In the AV. there begin to be used two other gerundives, formed with tavyà and aníya, each occurring twice. All these participles correspond in sense to the Lat. gerundive in -ndus.
+*162. The* Future Passive Participle is in the RV. formed with four suffixes: one with the primary suffix ya, which is common, the rest with the secondary suffixes áy-ya, én-ya, and tv-a, each of which occurs about a dozen times. In the AV. there begin to be used two other gerundives, formed with tavyà and aníya, each occurring twice. All these participles correspond in sense to the Lat. gerundive in -ndus.
 
 
-#strong[1. In] the RV. about forty examples of the gerundive in ya occur, and about twenty more in the AV. The suffix is nearly always to be read as ia, which accounts for the treatment before it of final radical vowels. The root, being accented, appears in a strong form excepting a few examples which have the short radical vowel i, u, or r.
+*1. In* the RV. about forty examples of the gerundive in ya occur, and about twenty more in the AV. The suffix is nearly always to be read as ia, which accounts for the treatment before it of final radical vowels. The root, being accented, appears in a strong form excepting a few examples which have the short radical vowel i, u, or r.
 
 a. Final ā coalesces with the initial of ia to e, between which and the following a a phonetic y is interposed: dā give: déya (\= dă-i-y-a) to be given.
 
@@ -10135,7 +10135,7 @@ c. Medial i, u, r, if followed by a single consonant, may take Guṇa and a may 
 d. A final short vowel sometimes remains unchanged, a t being then interposed: í-t-ya to be gone; śrú-t-ya to be heard; -kṛ-t-ya to be made; carkṛ-t-ya to be praised.
 
 
-#strong[2. The] suffix áyya, nearly always to be read áyia, is almost restricted to the RV.; e. g. pan-áyya to be admired; vid-áyya to be found; śrav-áyya glorious. It is sometimes attached to secondary stems; to a causative: panay-áyya admirable, spṛhay-áyya desirable; to a desiderative: di-dhi-ṣ-áyya to be conciliated (√dhā); to an intensive: vi-tan-tas-áyya to be hastened.
+*2. The* suffix áyya, nearly always to be read áyia, is almost restricted to the RV.; e. g. pan-áyya to be admired; vid-áyya to be found; śrav-áyya glorious. It is sometimes attached to secondary stems; to a causative: panay-áyya admirable, spṛhay-áyya desirable; to a desiderative: di-dhi-ṣ-áyya to be conciliated (√dhā); to an intensive: vi-tan-tas-áyya to be hastened.
 
 3\. énya (generally to be read énia) is attached to the root,
 
@@ -10156,10 +10156,10 @@ d. A final short vowel sometimes remains unchanged, a t being then interposed: �
 4\. tv-a, almost restricted to the RV. and generally to be read tua, is added to the strong form of the root, which is accented. Thus kár-tva to be made, hé-tva to be driven on (√hi), só-tva to be pressed (√su), vák-tva to be said; with connecting i: sán-i-tva to be won; with connecting i: bháv-i-tva² future.
 
 
-#strong[5. The] only two examples in V. (both occurring in AV.) of the gerundive in tavyà, which in both cases is added with connecting i, are jan-i-tavyà to be born and hims-i-tavyà to be injured.³
+*5. The* only two examples in V. (both occurring in AV.) of the gerundive in tavyà, which in both cases is added with connecting i, are jan-i-tavyà to be born and hims-i-tavyà to be injured.³
 
 
-#strong[6. The] only examples of the gerundive in anīya (both appearing in the AV.) are upa-jīv-anīya to be subsisted on and ā-mantr-anīya worthy to be addressed.⁴
+*6. The* only examples of the gerundive in anīya (both appearing in the AV.) are upa-jīv-anīya to be subsisted on and ā-mantr-anīya worthy to be addressed.⁴
 
 
 #v(0.30em)
@@ -10167,7 +10167,7 @@ d. A final short vowel sometimes remains unchanged, a t being then interposed: �
 #v(0.18em)
 
 
-#strong[163. More] than 120 examples of the gerund occur in the RV. and AV. It expresses an action which accompanies or more often precedes that of the finite verb. It is formed with the three suffixes tví, tvá, tváya (all old cases of stems
+*163. More* than 120 examples of the gerund occur in the RV. and AV. It expresses an action which accompanies or more often precedes that of the finite verb. It is formed with the three suffixes tví, tvá, tváya (all old cases of stems
 
 #page-footnotes((
   [¹ A few examples occur in the Brāhmaṇas: jé-tva (ji conquer), sná-tva (snā bathe), hán-tva (han slay).],
@@ -10190,13 +10190,13 @@ d. A final short vowel sometimes remains unchanged, a t being then interposed: �
 ]
 
 
-#strong[1. The] form in tví, which is almost restricted to the RV.,¹ is the commonest of the three in that Saṃhitā, where fifteen examples occur. It probably represents an old locative of stems in tu. It is as a rule added directly to the root, which has the same form as in the perf. pass. participle in ta. Examples are: kr̥-tvī having made, ga-tvī having gone, gū-ḍhvī having hidden, bhū-tvī having become, vr̥k-tvī having overthrown (√vr̥j), hi-tvī having abandoned (√hā). There are two forms in which the suffix is added with the connecting vowel i: jan-i-tvī having produced and skabh-i-tvī having propped.
+*1. The* form in tví, which is almost restricted to the RV.,¹ is the commonest of the three in that Saṃhitā, where fifteen examples occur. It probably represents an old locative of stems in tu. It is as a rule added directly to the root, which has the same form as in the perf. pass. participle in ta. Examples are: kr̥-tvī having made, ga-tvī having gone, gū-ḍhvī having hidden, bhū-tvī having become, vr̥k-tvī having overthrown (√vr̥j), hi-tvī having abandoned (√hā). There are two forms in which the suffix is added with the connecting vowel i: jan-i-tvī having produced and skabh-i-tvī having propped.
 
 
-#strong[2. The] suffix tv-ā (an old inst. sing. of a verbal noun in tu) is taken by nine roots in the RV. and about thirty more in the AV. The root has the same form as before the ta of the perf. pass. participle. The forms occurring in the RV. are: pī-tvā (pā drink), bhit-tvā having shattered, bhū-tvā having become, mi-tvā having formed (√mā), yuk-tvā having yoked, vr̥-tvā having covered, śru-tvā having heard, ha-tvā having slain, hi-tvā having abandoned. Some of the forms from the AV. are: iṣ-ṭvā having sacrificed (√yaj), jag-dhvā having devoured (√jakṣ), tīr-tvā having crossed (√tṝ), tr̥-ḍhvā having shattered (√tr̥h), dat-tvā having given (√dā), pak-tvā having cooked (√pac), bad-dhvā having bound (√bandh), bhak-tvā having divided (√bhaj), rū-ḍhvā having ascended (√ruh), vr̥ṣ-ṭvā having cut up (√vraśc), sup-tvā having slept (√svap); three take the connecting vowel i: cāy-i-tvā noting (√cāy), hiṃs-i-tvā having injured, gr̥h-i-tvā having seized; a few also are formed from secondary stems in aya (which is retained); e. g. kalpay-i-tvā having arranged.
+*2. The* suffix tv-ā (an old inst. sing. of a verbal noun in tu) is taken by nine roots in the RV. and about thirty more in the AV. The root has the same form as before the ta of the perf. pass. participle. The forms occurring in the RV. are: pī-tvā (pā drink), bhit-tvā having shattered, bhū-tvā having become, mi-tvā having formed (√mā), yuk-tvā having yoked, vr̥-tvā having covered, śru-tvā having heard, ha-tvā having slain, hi-tvā having abandoned. Some of the forms from the AV. are: iṣ-ṭvā having sacrificed (√yaj), jag-dhvā having devoured (√jakṣ), tīr-tvā having crossed (√tṝ), tr̥-ḍhvā having shattered (√tr̥h), dat-tvā having given (√dā), pak-tvā having cooked (√pac), bad-dhvā having bound (√bandh), bhak-tvā having divided (√bhaj), rū-ḍhvā having ascended (√ruh), vr̥ṣ-ṭvā having cut up (√vraśc), sup-tvā having slept (√svap); three take the connecting vowel i: cāy-i-tvā noting (√cāy), hiṃs-i-tvā having injured, gr̥h-i-tvā having seized; a few also are formed from secondary stems in aya (which is retained); e. g. kalpay-i-tvā having arranged.
 
 
-#strong[3. The] rarest gerund is that in tvāya, which is formed
+*3. The* rarest gerund is that in tvāya, which is formed
 
 #page-footnotes((
   [¹ This gerundive is not found in the AV., but it has not entirely disappeared in the Brāhmaṇas.],
@@ -10216,10 +10216,10 @@ d. A final short vowel sometimes remains unchanged, a t being then interposed: �
 ]
 
 
-#strong[164. When] the verb is compounded the suffix is regularly either yā or tyā. In at least two-thirds of such forms the vowel of the suffix is long in the RV. The root is always accented.
+*164. When* the verb is compounded the suffix is regularly either yā or tyā. In at least two-thirds of such forms the vowel of the suffix is long in the RV. The root is always accented.
 
 
-#strong[1. yā] is added (but never with i) to the root, which has the same form as before tvā, except that final ā and am remain unchanged. Nearly forty roots in the RV. and about thirty more in the AV. form these compound gerunds. Examples from the RV. are: ác-yā bending (\= á-ac-), abhy-úp-ya having enveloped (√vap), abhi-krám-ya approaching, abhi-gúr-yā graciously accepting (gr̥ sing), saṃ-gṛbh-yā gathering, ni-cáy-yā fearing, vi-túr-yā driving forth (√tṝ), ā-dá-ya taking, ati-dív-ya playing higher, anu-dṛś-ya looking along, ā-rábh-ya grasping, ni-ṣád-yā having sat down; from a causative stem: prárp-ya setting in motion (prá-arpaya). Examples from the AV. are: ud-úh-ya having carried up (√vah), saṃ-gír-ya swallowing up (√gṝ), upa-dád-ya putting in (√dā), saṃ-bhū-ya combining, ut-thá-ya arising (√sthā), saṃ-sív-ya having sewed; from a causative stem: vi-bháj-ya having apportioned (√bhaj).
+*1. yā* is added (but never with i) to the root, which has the same form as before tvā, except that final ā and am remain unchanged. Nearly forty roots in the RV. and about thirty more in the AV. form these compound gerunds. Examples from the RV. are: ác-yā bending (\= á-ac-), abhy-úp-ya having enveloped (√vap), abhi-krám-ya approaching, abhi-gúr-yā graciously accepting (gr̥ sing), saṃ-gṛbh-yā gathering, ni-cáy-yā fearing, vi-túr-yā driving forth (√tṝ), ā-dá-ya taking, ati-dív-ya playing higher, anu-dṛś-ya looking along, ā-rábh-ya grasping, ni-ṣád-yā having sat down; from a causative stem: prárp-ya setting in motion (prá-arpaya). Examples from the AV. are: ud-úh-ya having carried up (√vah), saṃ-gír-ya swallowing up (√gṝ), upa-dád-ya putting in (√dā), saṃ-bhū-ya combining, ut-thá-ya arising (√sthā), saṃ-sív-ya having sewed; from a causative stem: vi-bháj-ya having apportioned (√bhaj).
 
 a. Three roots are found in the RV. compounded with adverbs or substantives: punar-dá-ya giving back, mitha-spṛdh-ya vying together, karṇa-gṛh-ya seizing by the ear, pāda-gṛh-ya grasping by the foot, hasta-gṛh-ya grasping by the hand.
 
@@ -10240,7 +10240,7 @@ a. Three roots are found in the RV. compounded with adverbs or substantives: pun
 a. The analogy of these verbs is followed by some roots ending in n or m preceded by a, which drop the nasal as in the perf. pass. part.: vi-há-tyā having driven away (√han), ā-gá-tyā having come (√gam), ud-yá-tya (AV.) lifting up (√yam).
 
 
-#strong[166. The] accusative in am of certain verbal nouns, though not yet construed like a gerund in the Saṃhitās, is not infrequently so construed in the Brāhmaṇas and Sūtras. Before the suffix, the root (which is almost always compounded) appears in the form it assumes before the i of the 3\. s. aor. pass. (155); e. g. śākhām sam-ā-lámbh-am taking hold of a branch (ŚB.); mahānāgám abhi-saṃ-sār-am running together around a great snake (ŚB.).
+*166. The* accusative in am of certain verbal nouns, though not yet construed like a gerund in the Saṃhitās, is not infrequently so construed in the Brāhmaṇas and Sūtras. Before the suffix, the root (which is almost always compounded) appears in the form it assumes before the i of the 3\. s. aor. pass. (155); e. g. śākhām sam-ā-lámbh-am taking hold of a branch (ŚB.); mahānāgám abhi-saṃ-sār-am running together around a great snake (ŚB.).
 
 
 #v(0.30em)
@@ -10248,7 +10248,7 @@ a. The analogy of these verbs is followed by some roots ending in n or m precede
 #v(0.18em)
 
 
-#strong[167. The] infinitive, all the forms of which are old cases of verbal nouns, acc., dat., abl.-gen., or loc., is very frequent, occurring about 700 times in the RV. Only the acc. and dat. forms are common, but the datives outnumber the acc. in the proportion of 12 to 1 in the RV. and 3 to 1 in the AV. It is a remarkable fact that the infinitive in tum, the only form surviving in Sanskrit, occurs not more than five times in the RV., while the dative infinitive, which in the RV. is more than seven times as common as all the rest put together, has already for the most part disappeared in the Brāhmaṇas.
+*167. The* infinitive, all the forms of which are old cases of verbal nouns, acc., dat., abl.-gen., or loc., is very frequent, occurring about 700 times in the RV. Only the acc. and dat. forms are common, but the datives outnumber the acc. in the proportion of 12 to 1 in the RV. and 3 to 1 in the AV. It is a remarkable fact that the infinitive in tum, the only form surviving in Sanskrit, occurs not more than five times in the RV., while the dative infinitive, which in the RV. is more than seven times as common as all the rest put together, has already for the most part disappeared in the Brāhmaṇas.
 
 #page-footnotes((
   [¹ Sometimes not original but reduced from a long vowel.],
@@ -10304,19 +10304,19 @@ Y
 ]
 
 
-#strong[1. Some] twenty-five are datives of stems in as; e.g.  \\acute{a} y -as-e to go,  c\\acute{a}k\\varsigma -as-e to see, car-as-e to fare,  p\\upsilon \\varsigma y -as-e to thrive, bhiy-as-e to fear,  \\acute{s} r i y -as-e to be resplendent.
+*1. Some* twenty-five are datives of stems in as; e.g.  \\acute{a} y -as-e to go,  c\\acute{a}k\\varsigma -as-e to see, car-as-e to fare,  p\\upsilon \\varsigma y -as-e to thrive, bhiy-as-e to fear,  \\acute{s} r i y -as-e to be resplendent.
 
 
-#strong[2. Five] or six datives of stems in i are found in the RV., and one or two in other Samhitās; tuj-áye to breed, drś-áy-e to see, mah-áy-e to rejoice, yudh-áy-e to fight, san-áy-e to win; grh-aye to seize (K.), cit-áye to understand (VS.).
+*2. Five* or six datives of stems in i are found in the RV., and one or two in other Samhitās; tuj-áye to breed, drś-áy-e to see, mah-áy-e to rejoice, yudh-áy-e to fight, san-áy-e to win; grh-aye to seize (K.), cit-áye to understand (VS.).
 
 
-#strong[3. Four] or five are datives of stems in ti: iṣ-ṭáy-e to refresh, pī-táy-e to drink, vī-táy-e to enjoy, sā-táy-e to win.
+*3. Four* or five are datives of stems in ti: iṣ-ṭáy-e to refresh, pī-táy-e to drink, vī-táy-e to enjoy, sā-táy-e to win.
 
 
-#strong[4. More] than thirty are datives of stems in tu² (added to the gunated root, sometimes with connecting i); e.g. at-tav-e to eat, é-tav-e to go, o-tav-e to weave (\\sqrt{u} \= vā), kár-tav-e to make, gán-tav-e to go, pá-tav-e to drink, bhár-tav-e to bear away, yás-tav-e to sacrifice, vák-tav-e to speak, vás-tav-e to shine, vó-lhav-e to convey (\\sqrt{v}ah); áv-i-tav-e to refresh, cár-i-tav-e to fare, sáv-i-tav-e to bring forth (\\sqrt{s}u), sráv-i-tav-e to flow (\\sqrt{s}ru), háv-i-tav-e to call (\\sqrt{h}u); jīv-ā-tav-e to live, stár-ī-tav-e (AV.) to lay low (\\sqrt{s}t\\bar{r}).
+*4. More* than thirty are datives of stems in tu² (added to the gunated root, sometimes with connecting i); e.g. at-tav-e to eat, é-tav-e to go, o-tav-e to weave (\\sqrt{u} \= vā), kár-tav-e to make, gán-tav-e to go, pá-tav-e to drink, bhár-tav-e to bear away, yás-tav-e to sacrifice, vák-tav-e to speak, vás-tav-e to shine, vó-lhav-e to convey (\\sqrt{v}ah); áv-i-tav-e to refresh, cár-i-tav-e to fare, sáv-i-tav-e to bring forth (\\sqrt{s}u), sráv-i-tav-e to flow (\\sqrt{s}ru), háv-i-tav-e to call (\\sqrt{h}u); jīv-ā-tav-e to live, stár-ī-tav-e (AV.) to lay low (\\sqrt{s}t\\bar{r}).
 
 
-#strong[5. More] than a dozen are datives of stems in tava (which is added like tu to the gunated root) and have the peculiarity of being doubly accented; e.g. é-tavai to go, o-tavai to weave, gan-tavai to go, pa-tavai to drink, man-tavai to think, sar-tavai to flow; yam-i-tavai to guide, srav-i-tavai to flow.
+*5. More* than a dozen are datives of stems in tava (which is added like tu to the gunated root) and have the peculiarity of being doubly accented; e.g. é-tavai to go, o-tavai to weave, gan-tavai to go, pa-tavai to drink, man-tavai to think, sar-tavai to flow; yam-i-tavai to guide, srav-i-tavai to flow.
 
 ending in consonants, all but one being compounded: drś-é (TS.) to see, prati-dhṛṣ-e to withstand (TS.), pra-mrad-é to crush (ŚB.), ā-rábh-e to take hold (ŚB.), ā-sád-e to sit upon (AB.), ati-sṛp-e to glide over (MS.). All these except pra-mrad-é occur in the RV.
 
@@ -10339,18 +10339,18 @@ ending in consonants, all but one being compounded: drś-é (TS.) to see, prati-
 ]
 
 
-#strong[6. There] is only one certain example of a dative infinitive from a stem in tyā: i-tyái to go.
+*6. There* is only one certain example of a dative infinitive from a stem in tyā: i-tyái to go.
 
 
-#strong[7. More] than thirty-five are datives (almost restricted to the RV.) of stems in dhyā, which is added to verbal stems ending in a (generally accented); e. g. iyá-dhyai to go (√i), gáma-dhyai to go, cará-dhyai to fare, śayá-dhyai to lie (√śī), stavá-dhyai to praise (√stu); pibá-dhyai to drink (√pā), prṇá-dhyai to fill (√pṝ), huvá-dhyai to call (√hū);¹ vāvṛdhá-dhyai² to strengthen; nāśayá-dhyai³ to cause to disappear, vartayá-dhyai³ to cause to turn.
+*7. More* than thirty-five are datives (almost restricted to the RV.) of stems in dhyā, which is added to verbal stems ending in a (generally accented); e. g. iyá-dhyai to go (√i), gáma-dhyai to go, cará-dhyai to fare, śayá-dhyai to lie (√śī), stavá-dhyai to praise (√stu); pibá-dhyai to drink (√pā), prṇá-dhyai to fill (√pṝ), huvá-dhyai to call (√hū);¹ vāvṛdhá-dhyai² to strengthen; nāśayá-dhyai³ to cause to disappear, vartayá-dhyai³ to cause to turn.
 
 a. Only one of these infinitives has been noted in B.: sádhyai to conquer (√sah). In the TS. occurs one example ending in e instead of ai: gamá-dhye to go.
 
 
-#strong[8. Five] are datives of stems in man: tra-maṇ-e to protect, dā-man-e to give (Gk. δóμεν-αi), dhár-maṇ-e to support, bhár-maṇ-e to preserve, vid-mán-e (Gk. iδ-μεν-αi) to know.
+*8. Five* are datives of stems in man: tra-maṇ-e to protect, dā-man-e to give (Gk. δóμεν-αi), dhár-maṇ-e to support, bhár-maṇ-e to preserve, vid-mán-e (Gk. iδ-μεν-αi) to know.
 
 
-#strong[9. Three] are datives of stems in van: tur-ván-e to overcome (√tr), dā-ván-e (Gk. δoνναι \= δóεναi) to give, dhúr-van-e⁴ to injure.
+*9. Three* are datives of stems in van: tur-ván-e to overcome (√tr), dā-ván-e (Gk. δoνναι \= δóεναi) to give, dhúr-van-e⁴ to injure.
 
 
 #v(0.30em)
@@ -10435,7 +10435,7 @@ c. The RV. has eight locatives from stems in san, with a genuine infinitive sens
 #v(0.18em)
 
 
-#strong[168. This] is by far the commonest of the secondary conjugations, being formed from more than two hundred roots in the Saṃhitās and from about a hundred additional ones in the Brāhmaṇas. Of about 150 causative stems in the RV., however, at least one-third have not a causative, but an iterative sense. The whole formation may indeed originally have had an iterative meaning. This perhaps explains how an iterative formation, the reduplicated aorist, specially attached itself to the causative. The same root occasionally forms both the iterative and the causative, as pat-áya-ti flies about and pāt-áya-ti causes to fly beside the simple verb páta-ti flies.
+*168. This* is by far the commonest of the secondary conjugations, being formed from more than two hundred roots in the Saṃhitās and from about a hundred additional ones in the Brāhmaṇas. Of about 150 causative stems in the RV., however, at least one-third have not a causative, but an iterative sense. The whole formation may indeed originally have had an iterative meaning. This perhaps explains how an iterative formation, the reduplicated aorist, specially attached itself to the causative. The same root occasionally forms both the iterative and the causative, as pat-áya-ti flies about and pāt-áya-ti causes to fly beside the simple verb páta-ti flies.
 
 o 2
 
@@ -10451,7 +10451,7 @@ o 2
 The causative is formed by adding the suffix áya to the root, which is usually strengthened.
 
 
-#strong[1. Initial] or medial i, u, r, l (if not long by position) take Guṇa; e.g. vid know: ved-áya cause to know; krudh be angry: krodh-áya enrage; rd dissolve (intr.): ard-áya destroy; trp be pleased: tarp-áya delight; klp be adapted: kalp-áya arrange.
+*1. Initial* or medial i, u, r, l (if not long by position) take Guṇa; e.g. vid know: ved-áya cause to know; krudh be angry: krodh-áya enrage; rd dissolve (intr.): ard-áya destroy; trp be pleased: tarp-áya delight; klp be adapted: kalp-áya arrange.
 
 a. Several roots, mostly lacking the causative meaning, leave the radical vowel unchanged; e.g. ruc shine: ruc-áya, id. (but roc-áya illumine).
 
@@ -10493,10 +10493,10 @@ f. Of nominal derivatives the following are examples: a pres. pass. part. bhāj-
 #v(0.18em)
 
 
-#strong[1. Three] causatives in the AV. shorten the ā before paya: jña-páya cause to know, śra-páya cook, sna-páya bathe beside snā-páya (RV.).
+*1. Three* causatives in the AV. shorten the ā before paya: jña-páya cause to know, śra-páya cook, sna-páya bathe beside snā-páya (RV.).
 
 
-#strong[2. Four] roots in vowels other than ā, that is, in r or i, take paya; r go: ar-páya cause to go; ksi dwell: kṣe-páya cause to dwell (beside
+*2. Four* roots in vowels other than ā, that is, in r or i, take paya; r go: ar-páya cause to go; ksi dwell: kṣe-páya cause to dwell (beside
 
 #page-footnotes((
   [¹ The only du. mid. form occurring is 3\. mādáyaite; and the only mid. form in ai (except 1\. du.) in the RV. is mādayādhvai.],
@@ -10521,10 +10521,10 @@ f. Of nominal derivatives the following are examples: a pres. pass. part. bhāj-
 3 The root bhi fear forms the quite anomalous causative stem bhi-s-aya frighten.
 
 
-#strong[4. The] roots pa drink and pyā swell add aya with interposed y: pay-aya cause to drink and pyay-aya fill up. This is probably to be explained by the assumption that the original form of these roots was pai and pyai.
+*4. The* roots pa drink and pyā swell add aya with interposed y: pay-aya cause to drink and pyay-aya fill up. This is probably to be explained by the assumption that the original form of these roots was pai and pyai.
 
 
-#strong[5. The] vowel of grabh grasp is weakened by Samprasāraṇa: grbh-aya grasp; while that of dus spoil is lengthened: dus-aya, id. The root pr fill, owing to its initial labial, forms its causative with medial u for a: pur-aya fulfil.
+*5. The* vowel of grabh grasp is weakened by Samprasāraṇa: grbh-aya grasp; while that of dus spoil is lengthened: dus-aya, id. The root pr fill, owing to its initial labial, forms its causative with medial u for a: pur-aya fulfil.
 
 
 #v(0.30em)
@@ -10532,15 +10532,15 @@ f. Of nominal derivatives the following are examples: a pres. pass. part. bhāj-
 #v(0.18em)
 
 
-#strong[169. The] desiderative, which is the least common of the secondary conjugations, is formed from the root with an accented reduplicative syllable and the suffix sa. This sa is never added with a connecting i in the RV., nor, with the single exception of pí-pat-i-ṣa, in the AV., jí-jīv-i-ṣa in the VS., and jí-gam-i-ṣa in the TS.² The desiderative is formed from fewer than sixty roots in the Saṃhitās and from more than thirty additional ones in B. It is inflected like verbs of the first conjugation (132).
+*169. The* desiderative, which is the least common of the secondary conjugations, is formed from the root with an accented reduplicative syllable and the suffix sa. This sa is never added with a connecting i in the RV., nor, with the single exception of pí-pat-i-ṣa, in the AV., jí-jīv-i-ṣa in the VS., and jí-gam-i-ṣa in the TS.² The desiderative is formed from fewer than sixty roots in the Saṃhitās and from more than thirty additional ones in B. It is inflected like verbs of the first conjugation (132).
 
 The accent being on the reduplicative syllable, the root as a rule remains unchanged; e. g. dā give: dí-dā-sa desire to give; bhid cleave: bí-bhit-sa; nī lead: ní-nī-ṣa; guh hide: jú-guk-ṣa (62 a, 69 a); bhū be: bú-bhū-ṣa; drś see: dí-drk-ṣa. But
 
 
-#strong[1. final] i and u are lengthened, and r becomes ir; e.g. ji conquer: ji-gī-sa; sru hear: su-sru-sa; kr make: ci-kir-sa.
+*1. final* i and u are lengthened, and r becomes ir; e.g. ji conquer: ji-gī-sa; sru hear: su-sru-sa; kr make: ci-kir-sa.
 
 
-#strong[2. final] ā is in three roots reduced (cp. 171, 3) to \\bar{1} and in
+*2. final* ā is in three roots reduced (cp. 171, 3) to \\bar{1} and in
 
 #page-footnotes((
   [¹ In B. the root ruh rise, even though ending in a consonant, takes paya after dropping its h: ro-paya raise (beside roh-áya).],
@@ -10566,7 +10566,7 @@ The accent being on the reduplicative syllable, the root as a rule remains uncha
 #v(0.18em)
 
 
-#strong[170. The] characteristic reduplicative vowel is i, which appears in all stems except those formed from roots containing ū (which reduplicate with u); e. g. jyā overpower: jí-jyā-sa; miś mix: mí-mik-ṣa; prī love: pí-prī-ṣa; vṛt turn: ví-vṛt-sa; but guh hide: jú-guk-ṣa; bhū be: bú-bhū-ṣa.
+*170. The* characteristic reduplicative vowel is i, which appears in all stems except those formed from roots containing ū (which reduplicate with u); e. g. jyā overpower: jí-jyā-sa; miś mix: mí-mik-ṣa; prī love: pí-prī-ṣa; vṛt turn: ví-vṛt-sa; but guh hide: jú-guk-ṣa; bhū be: bú-bhū-ṣa.
 
 
 #v(0.30em)
@@ -10576,15 +10576,15 @@ The accent being on the reduplicative syllable, the root as a rule remains uncha
 171\. 1\. Five roots with medial a followed by m or n lengthen the vowel: gam go: jí-gāṃ-sa; han smite: jí-ghāṃ-sa (66 A 2); man think lengthens the reduplicative vowel also: mí-māṃ-sa (66 A 2); van win and san gain drop the nasal: ví-vā-sa and sí-ṣā-sa.
 
 
-#strong[2. dhvṛ] injure, after interchange of semivowel and vowel to ur, lengthens its u: dú-dhūr-ṣa. Cp. p. 193, note 4\.
+*2. dhvṛ* injure, after interchange of semivowel and vowel to ur, lengthens its u: dú-dhūr-ṣa. Cp. p. 193, note 4\.
 
 
-#strong[3. Half] a dozen roots containing ā or a shorten the radical syllable by a kind of syncopation: dā give and dhā put lose their vowel: dí-t-sa (\= dí-d\[ā\]-sa) beside dí-dā-sa; dhí-t-sa (\= dí-dh\[ā\]-sa) beside dí-dhi-ṣa; dabh harm, labh take, śak be able, sah prevail lose their initial radical consonant and their vowel: dí-p-sa¹ (\= dí\[da\]bh-sa), líp-sa² (\= lí\[la\]bh-sa), śik-ṣa (\= śí\[śa\]k-ṣa), sík-ṣa, with lengthened reduplicative vowel (\= sí\[sa\]k-ṣa).³
+*3. Half* a dozen roots containing ā or a shorten the radical syllable by a kind of syncopation: dā give and dhā put lose their vowel: dí-t-sa (\= dí-d\[ā\]-sa) beside dí-dā-sa; dhí-t-sa (\= dí-dh\[ā\]-sa) beside dí-dhi-ṣa; dabh harm, labh take, śak be able, sah prevail lose their initial radical consonant and their vowel: dí-p-sa¹ (\= dí\[da\]bh-sa), líp-sa² (\= lí\[la\]bh-sa), śik-ṣa (\= śí\[śa\]k-ṣa), sík-ṣa, with lengthened reduplicative vowel (\= sí\[sa\]k-ṣa).³
 
 a. āp obtain and ṛdh thrive (treated as ardh) contract the reduplicated i with the radical initial to ī: íp-sa (\= í-āp-sa) and írt-sa (\= í-ardh-sa).
 
 
-#strong[4. In] ci note, cit perceive, ji conquer, han slay, the radical initial reverts to the original guttural: cí-kī-ṣa, cí-kit-sa, jí-gī-ṣa, jí-ghāṃ-sa.
+*4. In* ci note, cit perceive, ji conquer, han slay, the radical initial reverts to the original guttural: cí-kī-ṣa, cí-kit-sa, jí-gī-ṣa, jí-ghāṃ-sa.
 
 #page-footnotes((
   [¹ Also dhīpsa in B.],
@@ -10601,10 +10601,10 @@ a. āp obtain and ṛdh thrive (treated as ardh) contract the reduplicated i wit
 #fit-page[
 #folio("200", "CONJUGATION", "[171")
 
-#strong[5. ghas] eat changes its final s to t (66 B 1): jí-ghat-sa (AV.) be hungry.
+*5. ghas* eat changes its final s to t (66 B 1): jí-ghat-sa (AV.) be hungry.
 
 
-#strong[6. Three] roots reduplicate with a long vowel: tur cross (\= tṝ): tú-tur-ṣa; bādh oppress: bī-bhat-sa;¹ man think: mī-mām-sa.² On the other hand the reduplicative syllable is reduced in the desiderative f yaj sacrifice and naś attain by loss of the initial consonant: í-yak-ṣa (for yí-yak-ṣa) and í-nak-ṣa (for ní-nak-ṣa). In one form from āp obtain the reduplication is dropped altogether: ap-santa.
+*6. Three* roots reduplicate with a long vowel: tur cross (\= tṝ): tú-tur-ṣa; bādh oppress: bī-bhat-sa;¹ man think: mī-mām-sa.² On the other hand the reduplicative syllable is reduced in the desiderative f yaj sacrifice and naś attain by loss of the initial consonant: í-yak-ṣa (for yí-yak-ṣa) and í-nak-ṣa (for ní-nak-ṣa). In one form from āp obtain the reduplication is dropped altogether: ap-santa.
 
 a. The two roots with initial vowel aś eat and edh increase form their desiderative stem with the reduplicative vowel in the second syllable: aś-iś-i-ṣa (B.) and ed-idh-i-ṣa (VS.).
 
@@ -10650,7 +10650,7 @@ Impf. act. sing. 2\. ávivāsas. 3\. ávivāsat. Pl. 3\. ávivāsan.
 #v(0.18em)
 
 
-#strong[172. These] verbs are meant to convey intensification or frequent repetition of the action expressed by the simple root. They are common, being formed from over ninety roots in the Saṃhitās, and about twenty-five others in the Brāhmaṇas. The formation is restricted to roots with initial consonants, nor is it ever applied to derivative verbs.
+*172. These* verbs are meant to convey intensification or frequent repetition of the action expressed by the simple root. They are common, being formed from over ninety roots in the Saṃhitās, and about twenty-five others in the Brāhmaṇas. The formation is restricted to roots with initial consonants, nor is it ever applied to derivative verbs.
 
 The stem, of which a peculiar form of strong reduplication is characteristic, has two forms. The primary type, which is by far the commonest, adds the personal endings immediately to the reduplicated stem (accented on the first syllable in strong forms: App. III. 12 e). It is inflected, in both active and middle, like a verb of the third or reduplicated class (132); e. g. nij wash: 3\. sing. né-nek-ti. The secondary form, which is rare, adds accented yá in the same way as the passive (154) to the reduplicated stem. It is conjugated in the middle only, like the passive; e. g. vij tremble: ve-vij-yá-te trembles violently.
 
@@ -10682,14 +10682,14 @@ The stem, of which a peculiar form of strong reduplication is characteristic, ha
 173\. 1\. Radical ī and ū are reduplicated with the respective Guṇa vowels e and o; e. g. diś point: de-diś; nī lead: ne-nī; śuc shine: śo-śuc; nu praise: no-nu; bhū be: bo-bhū.
 
 
-#strong[2. Radical] ā and r̥ are reduplicated in two ways:
+*2. Radical* ā and r̥ are reduplicated in two ways:
 
 a. More than a dozen roots with medial ā (ending in mutes or sibilants, and one in m) as well as three with final r, reduplicate with ā: kāś shine: cā-kaś; pat fall: pā-pat; gam go: jā-gam; gr wake: jā-gr; dr split: dā-dr; dhr hold: dā-dhr; also cal stir: cā-cal.
 
 b. All other roots containing r (dr and dhr also alternatively) and those with medial a followed by r, l, or a nasal, reduplicate with ar, al, an or am; e. g. kr commemorate: car-kr and car-kir; kṛṣ drag: car-kṛṣ; dr split: dar-dr and dar-dir (beside dā-dr); dhr hold: dar-dhr (beside dā-dhr); hṛṣ be excited: jar-hṛṣ; car move: car-car; phar scatter: par-phar; cal stir: cal-cal (beside cā-cal); gam go: jañ-gam (beside jā-gam); jambh chew up: jañ-jabh; damś bite: dan-daś; tan thunder: taṃ-stan (66 A 2).
 
 
-#strong[3. Over] twenty roots with final or penultimate nasal, r or ū, interpose an ī (or i if the vowel would be long by position) between the reduplicative syllable and the root; e. g. gam go: gan-ī-gam (but gan-i-gm-at); han slay: ghan-ī-ghan; krand cry out: kan-i-krand and kan-i-krad; skand leap: kan-i-ṣkand and can-i-ṣkad; bhr bear: bhar-ī-bhr; vṛt turn: var-ī-vṛt; nu praise: nav-ī-nu; dhū shake: dav-i-dhv; dyut shine: dav-i-dyut.
+*3. Over* twenty roots with final or penultimate nasal, r or ū, interpose an ī (or i if the vowel would be long by position) between the reduplicative syllable and the root; e. g. gam go: gan-ī-gam (but gan-i-gm-at); han slay: ghan-ī-ghan; krand cry out: kan-i-krand and kan-i-krad; skand leap: kan-i-ṣkand and can-i-ṣkad; bhr bear: bhar-ī-bhr; vṛt turn: var-ī-vṛt; nu praise: nav-ī-nu; dhū shake: dav-i-dhv; dyut shine: dav-i-dyut.
 
 ]
 
@@ -10706,7 +10706,7 @@ b. All other roots containing r (dr and dhr also alternatively) and those with m
 #v(0.18em)
 
 
-#strong[174. The] radical vowel is shortened in roots with medial ā : kās shine : cā-kaś ; bādh oppress : bā-badh ; vās bellow : vā-vaś. In a few roots containing r or r the radical syllable varies ; thus gr swallow : jar-gur and jal-gul ; car move : car-cur beside car-car ; tṝ cross : tar-tur beside tar-tar.
+*174. The* radical vowel is shortened in roots with medial ā : kās shine : cā-kaś ; bādh oppress : bā-badh ; vās bellow : vā-vaś. In a few roots containing r or r the radical syllable varies ; thus gr swallow : jar-gur and jal-gul ; car move : car-cur beside car-car ; tṝ cross : tar-tur beside tar-tar.
 
 a. The root r go reduplicates with al : al-ar (dissimilation) ; gāh plunge, with a nasal : jañ-gah ;¹ bādh oppress, with its final mute :² bad-badh (beside bā-badh) ; bhr³ bear and bhur quiver, with a palatal : jar-bhr, jar-bhur ; bhur and gur greet reduplicate u with a : jar-bhur, jar-gur.
 
@@ -10715,12 +10715,12 @@ b. Roots with initial guttural, if interposing ī before the root, reduplicate w
 A. The forms of the primary type that occur, if made from nij wash, would be the following :
 
 
-#strong[1. Pres.] ind. act. sing. 1\. nénej-mi, nénej-ī-mi. 2\. né-nek-ṣi. 3\. nének-ti, nénej-ī-ti. Du. 2\. nenik-thás.⁵ 3\. ne-nik-tás. Pl. 1\. nenij-más, nenij-mási. 3\. nénij-ati.
+*1. Pres.* ind. act. sing. 1\. nénej-mi, nénej-ī-mi. 2\. né-nek-ṣi. 3\. nének-ti, nénej-ī-ti. Du. 2\. nenik-thás.⁵ 3\. ne-nik-tás. Pl. 1\. nenij-más, nenij-mási. 3\. nénij-ati.
 
 Mid. sing. 1\. nenij-é. 3\. nenik-té. Du. 3\. nénij-āte. Pl. 3\. nénij-ate.
 
 
-#strong[2. Subj.] act. sing. 1\. nénij-āni.⁶ 2\. nénij-a-s. 3\. nénij-a-t. Du. 1\. nénij-ā-va. Pl. 1\. nénij-ā-ma. 3\. nénij-a-n.
+*2. Subj.* act. sing. 1\. nénij-āni.⁶ 2\. nénij-a-s. 3\. nénij-a-t. Du. 1\. nénij-ā-va. Pl. 1\. nénij-ā-ma. 3\. nénij-a-n.
 
 Mid. du. 3\. nénij-aite. Pl. 3\. nénij-a-nta.
 
@@ -10742,16 +10742,16 @@ Mid. du. 3\. nénij-aite. Pl. 3\. nénij-a-nta.
 #fit-page[
 #folio("204", "CONJUGATION", "[174")
 
-#strong[3. Opt.] No certain forms occur in the RV. and only two active forms in other Samhitās: sing. 3\. veviṣ-yāt (AV.), pl. 1\. jā-gr-yāma (VS., MS., TS.), jāgri-yāma (TS.). The 3\. s. mid. nenij-ita occurs in K.
+*3. Opt.* No certain forms occur in the RV. and only two active forms in other Samhitās: sing. 3\. veviṣ-yāt (AV.), pl. 1\. jā-gr-yāma (VS., MS., TS.), jāgri-yāma (TS.). The 3\. s. mid. nenij-ita occurs in K.
 
 
-#strong[4. Impv.] About twenty active (but no middle)¹ forms occur. Made from jāgr these would be: sing. 2\. jāgr-hi, jāgar-ī-hi, jāgr-tāt. 3\. jāgar-tu, jāgar-ī-tu. Du. 2\. jāgr-tām. 3\. jāgr-tām. Pl. 2\. jāgr-tá.²
+*4. Impv.* About twenty active (but no middle)¹ forms occur. Made from jāgr these would be: sing. 2\. jāgr-hi, jāgar-ī-hi, jāgr-tāt. 3\. jāgar-tu, jāgar-ī-tu. Du. 2\. jāgr-tām. 3\. jāgr-tām. Pl. 2\. jāgr-tá.²
 
 
-#strong[5. Of] the participle over forty stems occur, about two-thirds of them being active. Examples are: act. kánikrad-at, cékit-at, jáŋghan-at, jāgr-at, dárdr-at, nánad-at, róruv-at; mid. járbhur-āna, dándas-āna, yóyuv-āna (yu join), sársr-āna.
+*5. Of* the participle over forty stems occur, about two-thirds of them being active. Examples are: act. kánikrad-at, cékit-at, jáŋghan-at, jāgr-at, dárdr-at, nánad-at, róruv-at; mid. járbhur-āna, dándas-āna, yóyuv-āna (yu join), sársr-āna.
 
 
-#strong[6. Impf.] Fewer than thirty forms of this tense occur, only three of them being middle. Examples of the persons occurring are:
+*6. Impf.* Fewer than thirty forms of this tense occur, only three of them being middle. Examples of the persons occurring are:
 
 Act. sing. 1\. á-cākaś-am. 2\. á-jāgar. 3\. á-dardar, á-var-ī-var, á-johav-ī-t; dáv-i-dyot, náv-ī-no-t. Du. 2\. á-dardṛ-tam. Pl. 1\. marmṛj-má. 3\. á-carkṛṣ-ur, á-dardir-ur, á-nonav-ur.
 
@@ -10786,15 +10786,15 @@ Part. carcūr-yá-māṇa (√car), nenī-yá-māna, marmṛj-yá-māna.
 #v(0.18em)
 
 
-#strong[175. These] verbs, inflected like those of the a conjugation (132), are derived, almost exclusively with the suffix ya, from nouns, to which they express some such relation as 'be or act like', 'treat as', 'turn into', or 'use as', 'wish for'. More than a hundred denominative stems occur in the RV. and about fifty in the AV.¹ The suffix is normally accented, but a certain number of undoubted denominatives, such as mantrá-ya utter a prayer, arthá-ya make an object of, desire, have the causative accent, thus forming a connecting link between the regular denominatives and the causatives.
+*175. These* verbs, inflected like those of the a conjugation (132), are derived, almost exclusively with the suffix ya, from nouns, to which they express some such relation as 'be or act like', 'treat as', 'turn into', or 'use as', 'wish for'. More than a hundred denominative stems occur in the RV. and about fifty in the AV.¹ The suffix is normally accented, but a certain number of undoubted denominatives, such as mantrá-ya utter a prayer, arthá-ya make an object of, desire, have the causative accent, thus forming a connecting link between the regular denominatives and the causatives.
 
 A. Before the suffix ya:
 
 
-#strong[1. final] i^2 and u are lengthened; e.g. kavī-yá be wise (kavi), rayi-yá desire wealth (rayi); rjū-yá be straight (rjú); vasū-yá desire wealth (vasu); šatrū-yá play the enemy (sátru), be hostile.
+*1. final* i^2 and u are lengthened; e.g. kavī-yá be wise (kavi), rayi-yá desire wealth (rayi); rjū-yá be straight (rjú); vasū-yá desire wealth (vasu); šatrū-yá play the enemy (sátru), be hostile.
 
 
-#strong[2. final] a usually remains unchanged, but is often lengthened; it is sometimes changed to i; and even dropped;
+*2. final* a usually remains unchanged, but is often lengthened; it is sometimes changed to i; and even dropped;
 
 #page-footnotes((
   [¹ Denominatives are less common in B.; thus the AB. has hardly twenty, and the ŠB. about a dozen.],
@@ -10816,10 +10816,10 @@ A. Before the suffix ya:
 ]
 
 
-#strong[3. final] ā remains unchanged; e. g. gopā-yá act as herdsman, protect, pṛtanā-yá³ fight. Final o, in the only example occurring, becomes av: gav-yá desire cows.
+*3. final* ā remains unchanged; e. g. gopā-yá act as herdsman, protect, pṛtanā-yá³ fight. Final o, in the only example occurring, becomes av: gav-yá desire cows.
 
 
-#strong[4. Consonant] stems, the commonest being those in as, nearly always remain unchanged; e. g. bhiṣaj-yá play the physician, heal; uksan-yá act like a bull (uksán); vadhar-yá hurl a bolt (vádhar); su-manas-yá be gracious (su-mánas); taruṣ-yá engage in fight (tárus).
+*4. Consonant* stems, the commonest being those in as, nearly always remain unchanged; e. g. bhiṣaj-yá play the physician, heal; uksan-yá act like a bull (uksán); vadhar-yá hurl a bolt (vádhar); su-manas-yá be gracious (su-mánas); taruṣ-yá engage in fight (tárus).
 
 a. A few denominative forms are made without a suffix, direct from nominal stems, but nearly always beside regular denominatives in yá; e. g. bhiṣák-ti from bhiṣáj act as physician beside bhiṣaj-yá; and the forms taruṣe-ma, taruṣa-nte, taruṣa-nta (from táruṣa conqueror) beside taruṣ-yá.
 
@@ -10831,7 +10831,7 @@ a. A few denominative forms are made without a suffix, direct from nominal stems
 B. All the tenses, moods, and participles of the present system are represented. If made from namas-yá pay homage the forms occurring would be:
 
 
-#strong[1. Pres.] ind. act. sing. 1\. namasyámi. 2\. namasyási. 3\. namasyáti. Du. 2\. namasyáthas. 3\. namasyátas. Pl. 1\. namasyá-masi, -mas. 2\. namasyátha. 3\. namasyánti.
+*1. Pres.* ind. act. sing. 1\. namasyámi. 2\. namasyási. 3\. namasyáti. Du. 2\. namasyáthas. 3\. namasyátas. Pl. 1\. namasyá-masi, -mas. 2\. namasyátha. 3\. namasyánti.
 
 Mid. sing. 1\. namasyé. 2\. namasyáse. 3\. namasyáte.
 
@@ -10852,28 +10852,28 @@ Mid. sing. 1\. namasyé. 2\. namasyáse. 3\. namasyáte.
 Du. 2\. namasyéthe. 3\. namasyéte. Pl. 1\. namasyá-mahe. 3\. namasyánte.
 
 
-#strong[2. Subj.] act. sing. 1\. namasyá. 2\. namasyás. 3\. namasyát. Du. 3\. namasyátas. Pl. 3\. namasyán.
+*2. Subj.* act. sing. 1\. namasyá. 2\. namasyás. 3\. namasyát. Du. 3\. namasyátas. Pl. 3\. namasyán.
 
 Mid. sing. 2\. namasyáse. 3\. namasyáte.
 
 
-#strong[3. Inj.] act. sing. 2\. namasyás. Pl. 3\. namasyán.
+*3. Inj.* act. sing. 2\. namasyás. Pl. 3\. namasyán.
 
 
-#strong[4. Opt.] act. sing. 2\. namasyés. 3\. namasyét. Pl. 1\. namasyéma.
+*4. Opt.* act. sing. 2\. namasyés. 3\. namasyét. Pl. 1\. namasyéma.
 
 Mid. sing. 3\. namasyéta.
 
 
-#strong[5. Impv.] act. sing. 2\. namasyá. 3\. namasyátu. Du. 2\. namasyátam. 3\. namasyátám. Pl. 2\. namasyáta. 3\. namasyántu.
+*5. Impv.* act. sing. 2\. namasyá. 3\. namasyátu. Du. 2\. namasyátam. 3\. namasyátám. Pl. 2\. namasyáta. 3\. namasyántu.
 
 Mid. sing. 2\. namasyásva. Pl. 2\. namasyádhvam. 3\. namasyántám.
 
 
-#strong[6. Part.] act. namasyánt. Mid. namasyámāna.
+*6. Part.* act. namasyánt. Mid. namasyámāna.
 
 
-#strong[7. Impf.] act. sing. 2\. ánamasyas. 3\. ánamasyat. Du. 3\. namasyátám. Pl. 3\. ánamasyan.
+*7. Impf.* act. sing. 2\. ánamasyas. 3\. ánamasyat. Du. 3\. namasyátám. Pl. 3\. ánamasyan.
 
 Mid. sing. 3\. ánamasyata. Du. 2\. ánamasyethám. Pl. 3\. ánamasyanta.
 
@@ -10896,7 +10896,7 @@ Mid. sing. 3\. ánamasyata. Du. 2\. ánamasyethám. Pl. 3\. ánamasyanta.
 Prepositions.
 
 
-#strong[176. Two] classes of prepositions have to be distinguished. The first comprises the genuine or adverbial prepositions. These are words with a local sense which, primarily used to modify the meaning of verbs, came to be connected independently with the cases governed by the verbs thus modified. They show no signs of derivation from inflexional forms or (except tirás and purás) forms made with adverbial suffixes. The second class has been called adnominal prepositions because they are not compounded with verbs, but govern cases of nouns only. They almost invariably end in case terminations or adverbial suffixes.
+*176. Two* classes of prepositions have to be distinguished. The first comprises the genuine or adverbial prepositions. These are words with a local sense which, primarily used to modify the meaning of verbs, came to be connected independently with the cases governed by the verbs thus modified. They show no signs of derivation from inflexional forms or (except tirás and purás) forms made with adverbial suffixes. The second class has been called adnominal prepositions because they are not compounded with verbs, but govern cases of nouns only. They almost invariably end in case terminations or adverbial suffixes.
 
 
 #v(0.30em)
@@ -10906,7 +10906,7 @@ Prepositions.
 There are fourteen or (if sám is included) fifteen genuine prepositions which, when used independently of verbs, define the local meaning of cases. They are almost entirely restricted to employment with the acc., loc., and abl. As their connexion with the abl. is only secondary, the genuine prepositions appear to have been originally connected with the acc. and loc. only. As a rule these prepositions follow, but also often precede, their case.
 
 
-#strong[1. The] accusative is exclusively taken by ácha towards, áti beyond, ánu after, abhí towards, práti (Gk. προτί) against, and tirás across (cp. Lat. trans).
+*1. The* accusative is exclusively taken by ácha towards, áti beyond, ánu after, abhí towards, práti (Gk. προτί) against, and tirás across (cp. Lat. trans).
 
 a. pári (Gk. περί) around takes the acc. primarily, but secondarily and more frequently the abl. in the sense of from (around).
 
@@ -10925,7 +10925,7 @@ a. pári (Gk. περί) around takes the acc. primarily, but secondarily and mor
 ]
 
 
-#strong[2. The] locative is exclusively taken by api (Gk. \\dot{\\epsilon}\\pi \\dot{\\iota}) upon and primarily by adhi upon, antar (Lat. inter) between, a on, in, at, to, puras before.
+*2. The* locative is exclusively taken by api (Gk. \\dot{\\epsilon}\\pi \\dot{\\iota}) upon and primarily by adhi upon, antar (Lat. inter) between, a on, in, at, to, puras before.
 
 a. adhi takes the abl. secondarily and less commonly in the sense of from (upon).
 
@@ -10936,7 +10936,7 @@ antár with abl. means from (within); with acc., between.
 á with acc. means to, expressing the goal with verbs of motion. With the abl., if following,¹ it means from (on); if preceding, up to.²
 
 
-#strong[3. The] ablative seems to be used once or twice independently with áva in the sense of down from.
+*3. The* ablative seems to be used once or twice independently with áva in the sense of down from.
 
 
 #v(0.30em)
@@ -10944,7 +10944,7 @@ antár with abl. means from (within); with acc., between.
 #v(0.18em)
 
 
-#strong[177. These] prepositions, being adverbs in origin, govern oblique cases (except the dat.) independently. Several of them govern the genitive and the instrumental, cases that are practically never connected with the genuine prepositions in the Saṃhitās. In the following list these prepositions are grouped under the cases which they accompany:
+*177. These* prepositions, being adverbs in origin, govern oblique cases (except the dat.) independently. Several of them govern the genitive and the instrumental, cases that are practically never connected with the genuine prepositions in the Saṃhitās. In the following list these prepositions are grouped under the cases which they accompany:
 
 1\. Acc.: adhás below (also with abl. or gen.), antará between, abhi-tas around, upári above, beyond, parás beyond (also with abl., more often inst.), pari-tas around (AV.), sanitúr apart from.3
 
@@ -10985,7 +10985,7 @@ P
 #v(0.18em)
 
 
-#strong[178. Many] case-forms of nominal and pronominal stems, often not otherwise in use, are employed as adverbs. Examples of all the cases appear with adverbial function.
+*178. Many* case-forms of nominal and pronominal stems, often not otherwise in use, are employed as adverbs. Examples of all the cases appear with adverbial function.
 
 1\. Nom.: prathamá-m firstly, dvitíya-m secondly. Such adverbs were originally used in apposition to the verbal action.
 
@@ -11034,7 +11034,7 @@ c. The pronominal instrumentals are formed from stems in a and one in u; e.g. an
 #v(0.18em)
 
 
-#strong[179. The] suffixes more or less commonly used in the
+*179. The* suffixes more or less commonly used in the
 
 formation of adverbs may be grouped under the senses
 
@@ -11214,7 +11214,7 @@ d. ád is often followed by id, when it means just then, then at once, then more
 íti thus is used with verbs of speaking and thinking, which have sometimes to be supplied. The particle generally concludes the speech and is followed by the verb: yá índrāya sunávāma íti áha who says 'we will press Soma for Indra' (iv. 25⁴); néndro asti íti néma u tva áha 'Indra does not exist' one and another says (viii. 100⁵). Less commonly the verb precedes: jyeṣṭhá áha camasá dvá karā íti the eldest said 'I will make two cups' (iv. 33⁵). Very rarely both íti and the verb precede the speech: ví prchad íti mātáram, ká ugrāḥ he asked his mother, 'who are the strong ones?' (viii. 77¹). The verb is occasionally omitted: tváṣṭā duhitré vahatúm kṛṇoti íti idám víśvam bhúvanaṃ sám eti 'Tvaṣṭṛ prepares a wedding for his daughter' (thinking) thus this whole world comes together (x. 17¹). Thus a principal sentence as direct speech is used with íti where in other languages a subordinate sentence would be employed.
 
 
-#strong[1. In] B. the use of íti is much the same, only that íti regularly follows and seems seldom to be omitted; the verbs of saying and thinking, too, with which it is employed, are more numerous: táthā íti devá abruvan 'yes', said the gods (SB.).
+*1. In* B. the use of íti is much the same, only that íti regularly follows and seems seldom to be omitted; the verbs of saying and thinking, too, with which it is employed, are more numerous: táthā íti devá abruvan 'yes', said the gods (SB.).
 
 ]
 
@@ -11226,7 +11226,7 @@ d. ád is often followed by id, when it means just then, then at once, then more
 #fit-page[
 #folio("218", "INDECLINABLE WORDS", "[180")
 
-#strong[2. There] are in B. also some additional uses:
+*2. There* are in B. also some additional uses:
 
 a. Very often the quotation is only an appellative that may be expressed by inverted commas: yams tv etad deva aditya iti a-caksate whom they call thus: 'the divine Adityas' (SB.).
 
@@ -11262,10 +11262,10 @@ a. In B. the particle is similarly used: ná tá ít sadyò 'nyásmai áti diśe
 iva is an enclitic particle with two uses:
 
 
-#strong[1. It] means as if, as, like in abbreviated similes in apposition, never introducing a clause like yáthā. It follows the word with which comparison is made; if the comparison consists of several words, the particle generally follows the first, less commonly the second. The comparison is usually complete, but not infrequently it is only partially expressed. This employment of iva is very common in V., but comparatively rare in B. Examples of this use are: dūré cit sán taḷíd iváti rocase even though far away, thou shinest brightly as if near at hand (i. 94⁷); tát padám paśyanti divīva cákṣur átatam they see that step like an eye fixed in heaven (i. 22²⁰); sá naḥ pitá#emph[iva sūnáve ágne sūpāyanó bhava as such be accessible to us, O Agni, as a father to his son (i. 1⁹); dvíṣo no áti nāvá]iva pāraya take us across our foes as \[across the ocean\] in a ship (i. 97⁷); tābhī rājānaṃ parigṛhya tiṣṭhati samudra iva bhūmim with these he keeps embracing the king, as the sea the earth (AB.).
+*1. It* means as if, as, like in abbreviated similes in apposition, never introducing a clause like yáthā. It follows the word with which comparison is made; if the comparison consists of several words, the particle generally follows the first, less commonly the second. The comparison is usually complete, but not infrequently it is only partially expressed. This employment of iva is very common in V., but comparatively rare in B. Examples of this use are: dūré cit sán taḷíd iváti rocase even though far away, thou shinest brightly as if near at hand (i. 94⁷); tát padám paśyanti divīva cákṣur átatam they see that step like an eye fixed in heaven (i. 22²⁰); sá naḥ pitá#emph[iva sūnáve ágne sūpāyanó bhava as such be accessible to us, O Agni, as a father to his son (i. 1⁹); dvíṣo no áti nāvá]iva pāraya take us across our foes as \[across the ocean\] in a ship (i. 97⁷); tābhī rājānaṃ parigṛhya tiṣṭhati samudra iva bhūmim with these he keeps embracing the king, as the sea the earth (AB.).
 
 
-#strong[2. It] modifies a statement not intended to be understood in its strict sense, meaning as it were. It chiefly follows adjectives, adverbs, prepositions or verbs. This use of iva is rare in V., but very common in B. Examples are: ihá#emph[iva śṛṇve I hear close at hand as it were (i. 37³); tád, indra, prá]iva vīryaṃ cakartha that heroic deed, O Indra, thou didst perform (as it were\=) quite pre-eminently (i. 103⁷); yá prá#emph[iva náśyasi who (as it were\=) almost losest thyself (i. 146¹); yádi tán ná]iva háryatha if ye are not quite pleased with that (i. 161⁸). From B.: tásmāt sá babhruká iva hence he (is as
+*2. It* modifies a statement not intended to be understood in its strict sense, meaning as it were. It chiefly follows adjectives, adverbs, prepositions or verbs. This use of iva is rare in V., but very common in B. Examples are: ihá#emph[iva śṛṇve I hear close at hand as it were (i. 37³); tád, indra, prá]iva vīryaṃ cakartha that heroic deed, O Indra, thou didst perform (as it were\=) quite pre-eminently (i. 103⁷); yá prá#emph[iva náśyasi who (as it were\=) almost losest thyself (i. 146¹); yádi tán ná]iva háryatha if ye are not quite pleased with that (i. 161⁸). From B.: tásmāt sá babhruká iva hence he (is as
 
 ]
 
@@ -11284,15 +11284,15 @@ iva is an enclitic particle with two uses:
 īm (an old enclitic acc. of the pron. root i) occurs in V. only, and is almost restricted to the RV.
 
 
-#strong[1. It] is generally employed as an acc. sing. of all genders \= him, her, it, sometimes even as an acc. du. or pl. It either takes the place of a noun, or prepares for a following noun, or is accompanied by other pronouns (tám, yám, enam, enān); e. g. ā gachanti#emph[īm ávasā they come to him with aid (i. 85¹¹); ā]īm āśúm āśáve bhara bring him, the swift, to the swift (i. 4⁷); tám īm hinvanti dhītáyaḥ him devotions impel (i. 144⁵); yád īm enāñ uśató abhy ávarṣīt (vii. 103³) when it has rained upon them that longed (for rain).
+*1. It* is generally employed as an acc. sing. of all genders \= him, her, it, sometimes even as an acc. du. or pl. It either takes the place of a noun, or prepares for a following noun, or is accompanied by other pronouns (tám, yám, enam, enān); e. g. ā gachanti#emph[īm ávasā they come to him with aid (i. 85¹¹); ā]īm āśúm āśáve bhara bring him, the swift, to the swift (i. 4⁷); tám īm hinvanti dhītáyaḥ him devotions impel (i. 144⁵); yád īm enāñ uśató abhy ávarṣīt (vii. 103³) when it has rained upon them that longed (for rain).
 
 
-#strong[2. īm] also appears as a generalizing particle with relatives (whoever), with yád (whenever), with interrogatives (who, pray?), with kím caná (nothing at all); e. g. yá īm bhávanti ājáyaḥ whatever conflicts take place (vii. 32¹⁷); ká īm vyàktā náraḥ who, pray, are the radiant men? (vii. 56¹).
+*2. īm* also appears as a generalizing particle with relatives (whoever), with yád (whenever), with interrogatives (who, pray?), with kím caná (nothing at all); e. g. yá īm bhávanti ājáyaḥ whatever conflicts take place (vii. 32¹⁷); ká īm vyàktā náraḥ who, pray, are the radiant men? (vii. 56¹).
 
 u is an enclitic particle, often written ū where the metre requires or favours a long syllable, especially in the second syllable of a Pāda, before a single consonant. It often appears contracted to o (cp. 24) with a preceding a or ā (mostly the final of particles or prepositions, also of the pron. eṣā, sometimes of verbal forms). It has two main uses in the RV.:
 
 
-#strong[1. It] is employed deictically with verbs and pronouns.
+*1. It* is employed deictically with verbs and pronouns.
 
 a. With verbs it expresses the immediate commencement of an action: with a present \= now, already; with a past tense \= just; with an imperative, injunctive, or optative used in an impv. sense \= at once; sú is here very often added, ū ṣú being \= instantly. When the verb is accompanied by a preposition, the particle regularly follows the
 
@@ -11317,7 +11317,7 @@ b. It emphasizes deictic pronouns, which may then be rendered by stress, and int
 a. In B. this use is very rare with deictic pronouns, but not infrequent with interrogatives; e. g. idám u no bhaviṣyati yádi no jeṣyánti this at least will remain to us, if they conquer us (TS.); kím u sá yajñéna yajeta yó gám iva yajñám ná duhītā what sort of sacrifice, pray, would he offer if he were not to milk out the sacrifice like a cow? (MS.).
 
 
-#strong[2. The] particle u is used anaphorically to connect sentences, when a word (usually the first) is repeated in the second, in the sense of also; e. g. trír náktam yāthás, trír u, aśvinā, dívā thrice by night ye come, thrice also, O Aśvins, by day (i. 34²); tvám trātā tvám u no vṛdhé bhūḥ thou be our protector, thou, too, be for our increase (i. 178⁵). The repeated word need not always have the same form: yó no dvéṣṭy ádharaḥ sás padīṣṭa, yám u dviṣmás tám u prāṇó jahātu may he who hates us fall downward; whom also we hate, him too let his breath forsake (iii. 53²¹). The u sometimes appears in both sentences, sometimes in the first only: vayám u tvā dívā suté, vayám náktam havāmahe we call thee by day to the pressed Soma, we also by night (viii. 64⁶).
+*2. The* particle u is used anaphorically to connect sentences, when a word (usually the first) is repeated in the second, in the sense of also; e. g. trír náktam yāthás, trír u, aśvinā, dívā thrice by night ye come, thrice also, O Aśvins, by day (i. 34²); tvám trātā tvám u no vṛdhé bhūḥ thou be our protector, thou, too, be for our increase (i. 178⁵). The repeated word need not always have the same form: yó no dvéṣṭy ádharaḥ sás padīṣṭa, yám u dviṣmás tám u prāṇó jahātu may he who hates us fall downward; whom also we hate, him too let his breath forsake (iii. 53²¹). The u sometimes appears in both sentences, sometimes in the first only: vayám u tvā dívā suté, vayám náktam havāmahe we call thee by day to the pressed Soma, we also by night (viii. 64⁶).
 
 a. It is sometimes used without referring back definitely, but simply adding some similar quality or activity with reference to the same thing \= and also, and; e. g. sá devó deván práti paprathe pṛthú, viśvéd u tá paribhúr bráhmaṇas pátiḥ he, the god, has extended himself widely to the gods, and he, Lord of Prayer, embraces all this universe (ii. 24¹¹).
 
@@ -11378,7 +11378,7 @@ a. In B. utó has the sense of but also or also: āhavaníye havíṃsi śrapaye
 evá has two uses in the RV. and the AV.:
 
 
-#strong[1. At] the beginning of sentences or clauses it means thus, referring either to what precedes or follows; e.g. evágnír gótamebhir astoṣṭa thus Agni has been praised by the Gotamas (i. 77⁵); evā tám āhur: índra éko vibhaktá thus they speak of him: 'Indra is the one dispenser' (vii. 26⁴).
+*1. At* the beginning of sentences or clauses it means thus, referring either to what precedes or follows; e.g. evágnír gótamebhir astoṣṭa thus Agni has been praised by the Gotamas (i. 77⁵); evā tám āhur: índra éko vibhaktá thus they speak of him: 'Indra is the one dispenser' (vii. 26⁴).
 
 ]
 
@@ -11392,7 +11392,7 @@ evá has two uses in the RV. and the AV.:
 It often appears as the correlative of yáthā as: yáthā ná pūrvam áparo jáhāty, evá, dhātar, áyūṃṣi kalpayaiṣām as the later abandons not the earlier, so, Creator, arrange their lives (x. 18⁵). With the impv. evá \= so, then: evá vandasva váruṇaṃ bṛhántam (viii. 42²) then praise the lofty Varuṇa (who has done these great deeds).
 
 
-#strong[2. As] an emphasizing particle following the word on which stress is laid, evá may be variously rendered just, quite, alone, &c., or by stress; e. g. tám evá him only; éka evá quite alone; átraivá just here; svayám evá quite spontaneously, jātā evá scarcely born, ná evá not at all.
+*2. As* an emphasizing particle following the word on which stress is laid, evá may be variously rendered just, quite, alone, &c., or by stress; e. g. tám evá him only; éka evá quite alone; átraivá just here; svayám evá quite spontaneously, jātā evá scarcely born, ná evá not at all.
 
 a. In B. the first of the above uses has entirely disappeared (evám here taking the place of evá), while the second is extremely common. The particle follows all kinds of words requiring emphasis for any reason; this is especially the case when a word is repeated; e. g. yám ágre 'gníṃ hotráya právṛṇata, sá prádhanvad, yám dvitíyaṃ právṛṇata, sá prá evá adhanvat the Agni whom they first chose for the priesthood, perished; he whom they chose the second time, likewise perished (ŚB.). When two notions are connected by way of contrast or otherwise, evá may follow either the first or the second; e. g. amūṃ evá devá upáyan, imám ásurāḥ (ŚB.) the gods inherited that world (heaven), the Asuras this one (the earth); sómo yuṣmākaṃ, vāg evāsmākaṃ (let) Soma (be) yours, Vāc ours (ŚB.).
 
@@ -11401,10 +11401,10 @@ evám thus occurs only once in the RV. (as correlative to yáthā as) and in the
 In B. evám is very common, having two uses:
 
 
-#strong[1. It] is correlative to yáthā as, being often accompanied by a form of the same verb as the latter; e. g. yáthā vái parjányaḥ sūvrṣṭiṃ várṣaty, eváṃ yajñó yájamānāya varṣati as Parjanya rains heavily, so the sacrifice rains for the sacrificer (TS.). When the second verb is omitted, yáthā evám is equivalent to iva; e. g. té devá abhy ásrjyanta yáthā víttiṃ vetsyámānā evám the gods rushed up like those wishing to obtain property (ŚB.).
+*1. It* is correlative to yáthā as, being often accompanied by a form of the same verb as the latter; e. g. yáthā vái parjányaḥ sūvrṣṭiṃ várṣaty, eváṃ yajñó yájamānāya varṣati as Parjanya rains heavily, so the sacrifice rains for the sacrificer (TS.). When the second verb is omitted, yáthā evám is equivalent to iva; e. g. té devá abhy ásrjyanta yáthā víttiṃ vetsyámānā evám the gods rushed up like those wishing to obtain property (ŚB.).
 
 
-#strong[2. It] accompanies verbs as an adverb, especially in the very frequent phrase yá eváṃ véda he who possesses such knowledge; utá eváṃ cin ná labheran after all they will thus not touch it (ŚB.).
+*2. It* accompanies verbs as an adverb, especially in the very frequent phrase yá eváṃ véda he who possesses such knowledge; utá eváṃ cin ná labheran after all they will thus not touch it (ŚB.).
 
 ]
 
@@ -11421,12 +11421,12 @@ In B. evám is very common, having two uses:
 ]
 
 
-#strong[1. a.] kám as an adv. with the full meaning well (equivalent to the Vedic śám) appears in B. only; e. g. kám me 'sat may it be well with me (ŚB.); it also occurs in a negative form: á-kam bhavati he fares not well (TS.).
+*1. a.* kám as an adv. with the full meaning well (equivalent to the Vedic śám) appears in B. only; e. g. kám me 'sat may it be well with me (ŚB.); it also occurs in a negative form: á-kam bhavati he fares not well (TS.).
 
 b. kám has the same meaning attenuated after datives (generally at the end of a Pāda) either of persons \= for the benefit of (dat. commodi) or of abstract nouns (final dative); e. g. yuvám etám cakrathuḥ síndhuṣu plavám taugryāya kám ye two have placed that ship in the waters for the benefit of the son of Tugra (i. 182³); tvám devāso amṛtāya kám papuḥ thee the gods have drunk for the love of immortality (ix. 106³); samānám añjy āñjate śubhé kám (vii. 57³) with the same hue they adorn themselves in order to shine (well). From B.: kásmai kám agnihotrám hūyata íti for whose benefit is the Agnihotra offered? (MS.); téjase kám pūrṇámā ijyate for the sake of splendour the full moon sacrifice is offered (MS.).
 
 
-#strong[2. The] unaccented kam occurs in the RV. only excepting one independent passage of the AV. It always appears as an enclitic following the particles nú, sú, hí. It means willingly, gladly, indeed, but the sense is generally so attenuated as to be untranslatable. nú kam appears with the inj., impv., subj., ind., also in relative clauses; e. g. áso nú kam ajáro várdhāś ca be unaging and grow (x. 50³). sú kam appears with the imperative only: tíṣṭhā sú kam, maghavan, má párā gāḥ pray stand still, bounteous god, go not further (iii. 53²). hí kam generally appears with the ind. (occasionally omitted), sometimes with impv. or subj.: rājā hí kam bhúvanānām abhiśriḥ for he indeed is the king who rules over beings (i. 98¹).
+*2. The* unaccented kam occurs in the RV. only excepting one independent passage of the AV. It always appears as an enclitic following the particles nú, sú, hí. It means willingly, gladly, indeed, but the sense is generally so attenuated as to be untranslatable. nú kam appears with the inj., impv., subj., ind., also in relative clauses; e. g. áso nú kam ajáro várdhāś ca be unaging and grow (x. 50³). sú kam appears with the imperative only: tíṣṭhā sú kam, maghavan, má párā gāḥ pray stand still, bounteous god, go not further (iii. 53²). hí kam generally appears with the ind. (occasionally omitted), sometimes with impv. or subj.: rājā hí kam bhúvanānām abhiśriḥ for he indeed is the king who rules over beings (i. 98¹).
 
 kím (n. of kí \= ká) has two uses. In the first place it means why? e. g. kím u śréṣṭhaḥ kím yáviṣṭho na ájagan
 
@@ -11501,7 +11501,7 @@ Q 2
 ]
 
 
-#strong[1. ca] connects substantives (including pronouns and numerals) and adverbs; e.g. mitrám huve váruṇaṁ ca I invoke Mitra and Varuṇa (i. 2⁷); maghávāno vayám ca the patrons and we (i. 73⁸); śatám ékaṁ ca a hundred and one (i. 117¹⁸); adyá nūnám ca to-day and now (i. 13⁹). In a few passages (but never in B.) the ca follows the first word instead of the second: náktā ca . . uṣásā night and morning (i. 73⁷).
+*1. ca* connects substantives (including pronouns and numerals) and adverbs; e.g. mitrám huve váruṇaṁ ca I invoke Mitra and Varuṇa (i. 2⁷); maghávāno vayám ca the patrons and we (i. 73⁸); śatám ékaṁ ca a hundred and one (i. 117¹⁸); adyá nūnám ca to-day and now (i. 13⁹). In a few passages (but never in B.) the ca follows the first word instead of the second: náktā ca . . uṣásā night and morning (i. 73⁷).
 
 a. ca...ca are used much in the same way; e.g. giráyaś ca dyávā ca bhūmā the mountains and heaven-and-earth (i. 61¹⁴); diváś ca gmáś ca of heaven and of earth (i. 37⁶); asmāñ ca táṁś ca us and them (ii. 1¹⁶); náva ca navatíṁ ca nine and ninety (i. 32¹⁴); á ca párā ca cárantam moving hither and away (i. 164³¹).
 
@@ -11536,14 +11536,14 @@ a. In B. ca is used to add a single word at the end of a sentence in the sense o
 c. ca following the interrogative ká, or the relative yá and the interrogative ká combined, gives them an indefinite sense: káś ca or yáḥ káś ca any one, whoever (cp. 119 b).
 
 
-#strong[2. ca] also connects both principal sentences and relative clauses: á devébhir yāhi yákṣi ca come with the gods and sacrifice (i. 14¹); yá vyūṣúr yáś ca nūnám vyuchán that have shone forth and that shall now shine forth (i. 113¹⁰); yò 'smán dvésti yám ca vayám dviṣmáḥ who hates us and whom we hate (ŚB.).
+*2. ca* also connects both principal sentences and relative clauses: á devébhir yāhi yákṣi ca come with the gods and sacrifice (i. 14¹); yá vyūṣúr yáś ca nūnám vyuchán that have shone forth and that shall now shine forth (i. 113¹⁰); yò 'smán dvésti yám ca vayám dviṣmáḥ who hates us and whom we hate (ŚB.).
 
 a. ca...ca connect sentences to express a contrast by means of parallel verbal forms which are either identical or at least appear in the same number and person, the first verb being then always accented: párā ca yánti púnar á ca yanti they go away and come again (i. 123¹²).
 
 a. In B. the use of ca...ca is similar; e. g. vatsám ca upāvasrjáty ukhám ca ádhi śrayati he admits the calf and puts the pot on the fire (TS.). The rule of accentuation applies even when the second verb is omitted: agnáye ca haviḥ paridádāti gúptyā asyái ca prthivyái he delivers the oblation for protection to Fire and to this Earth (ŚB.). This connecting use is particularly common in parallel abridged relative sentences: sárvān paśún ní dadhire yé ca grāmyā yé ca āraṇyāḥ they laid down all animals, those that are tame and those that are wild (ŚB.).
 
 
-#strong[3. ca] is used a few times in V. in the sense of if with the subjunctive or the indicative: índraś ca mṛláyāti no, ná naḥ paścād aghám naśat if Indra be gracious to us, no calamity will hereafter befall us (ii. 41¹¹); imāṃ ca vācaṃ pratiháryathā, naro, viśvéd vāmā vo aśnavat if ye graciously accept this song, O heroes, it will obtain all goods from you (i. 40⁶).
+*3. ca* is used a few times in V. in the sense of if with the subjunctive or the indicative: índraś ca mṛláyāti no, ná naḥ paścād aghám naśat if Indra be gracious to us, no calamity will hereafter befall us (ii. 41¹¹); imāṃ ca vācaṃ pratiháryathā, naro, viśvéd vāmā vo aśnavat if ye graciously accept this song, O heroes, it will obtain all goods from you (i. 40⁶).
 
 caná, properly meaning not even, is most usually employed
 
@@ -11570,7 +11570,7 @@ b. caná gives the interrogative an indefinite sense: káś caná any one, ná k
 cid is an enclitic particle very frequently used to emphasize the preceding word. It has two senses:
 
 
-#strong[1. expressing] that the statement is not to be expected in regard to the word emphasized: even; e. g. ā dṛḍhám cid árujo gávyam ūrvám even the firm cowstall thou hast broken through (iii. 32¹⁶). This sense is, however, sometimes so attenuated as to be capable of being rendered by stress only; e. g. tváṃ cin naḥ śámyai bodhi svādhiḥ be thou attentive to our endeavour (iv. 3⁴).
+*1. expressing* that the statement is not to be expected in regard to the word emphasized: even; e. g. ā dṛḍhám cid árujo gávyam ūrvám even the firm cowstall thou hast broken through (iii. 32¹⁶). This sense is, however, sometimes so attenuated as to be capable of being rendered by stress only; e. g. tváṃ cin naḥ śámyai bodhi svādhiḥ be thou attentive to our endeavour (iv. 3⁴).
 
 ]
 
@@ -11582,7 +11582,7 @@ cid is an enclitic particle very frequently used to emphasize the preceding word
 #fit-page[
 #folio("180]", "CONJUNCTIVE AND ADVBL. PARTICLES", "231")
 
-#strong[2. generalizing] \= any, every, all; e. g. kṛtám cid énaḥ prá mumugdhy asmát (i. 24⁹) remove from us any (every, all) sin committed (by us). Similarly, with interrogatives \= any, with relatives \= ever; thus kás cid any one: śṛṇóti kás cid eṣām any one (\= every one) hears them (i. 37¹³); sun-vádbhyo randhayā kám cid avratám subject every impious man to those that press Soma (i. 132⁴); ná or má kás cid (not any \=) no one; kadā cid ever \= at any time or always; yás cid whoever; yác cid if ever; yáthā cid as ever.
+*2. generalizing* \= any, every, all; e. g. kṛtám cid énaḥ prá mumugdhy asmát (i. 24⁹) remove from us any (every, all) sin committed (by us). Similarly, with interrogatives \= any, with relatives \= ever; thus kás cid any one: śṛṇóti kás cid eṣām any one (\= every one) hears them (i. 37¹³); sun-vádbhyo randhayā kám cid avratám subject every impious man to those that press Soma (i. 132⁴); ná or má kás cid (not any \=) no one; kadā cid ever \= at any time or always; yás cid whoever; yác cid if ever; yáthā cid as ever.
 
 a. In B. the only use that survives is the generalizing sense with interrogative pronouns \= any, some; e. g. átha kám cid āha then he says to some one (ŚB.); yát te kás cid ábravīt what any one said to you (ŚB.).
 
@@ -11617,13 +11617,13 @@ b. tátho (\= táthāṁ) occurs in B., meaning and in the same way, but so; e. 
 tád is often used adverbially in the RV. It then has three different senses:
 
 
-#strong[1. It] frequently means then as correlative to yad when; e.g. yaj jayathā vrtrahatyāya tát prthivim aprathayah when thou wast born for the Vrtra-fight, thou didst spread out the earth (viii. 89).
+*1. It* frequently means then as correlative to yad when; e.g. yaj jayathā vrtrahatyāya tát prthivim aprathayah when thou wast born for the Vrtra-fight, thou didst spread out the earth (viii. 89).
 
 
-#strong[2. It] is also often used in the sense of thither (acc. of the goal); e.g. tad it tvā yuktā hárayo vahantu thither let the yoked bays waft thee (iii. 53).
+*2. It* is also often used in the sense of thither (acc. of the goal); e.g. tad it tvā yuktā hárayo vahantu thither let the yoked bays waft thee (iii. 53).
 
 
-#strong[3. Occasionally] it has the sense of therefore; e.g. tad vo devá abruvan, tad va āgamam that the gods said to you,
+*3. Occasionally* it has the sense of therefore; e.g. tad vo devá abruvan, tad va āgamam that the gods said to you,
 
 ]
 
@@ -11642,16 +11642,16 @@ tád is often used adverbially in the RV. It then has three different senses:
 a. In B. tád has four different adverbial uses:
 
 
-#strong[1. as] a correlative to yad (when, inasmuch as) \= thereby, and to yatra (where) \= there; e.g. yan nv èva rajānam abhisunvanti, tát tam ghnanti now when they press the king (sema), they kill him thereby (SB.); yatrānya osadhayo mlayanti tad eté modamānā vardhante where other plants wither, it (the wheat) grows merrily (SB.).
+*1. as* a correlative to yad (when, inasmuch as) \= thereby, and to yatra (where) \= there; e.g. yan nv èva rajānam abhisunvanti, tát tam ghnanti now when they press the king (sema), they kill him thereby (SB.); yatrānya osadhayo mlayanti tad eté modamānā vardhante where other plants wither, it (the wheat) grows merrily (SB.).
 
 
-#strong[2. in] the sense of thereupon, then; e.g. atha itithim samam tad augha agantá, tan ma navam upakalpya upasasai now in such and such a year a flood will then come, then having built a ship you shall turn to me (SB.).
+*2. in* the sense of thereupon, then; e.g. atha itithim samam tad augha agantá, tan ma navam upakalpya upasasai now in such and such a year a flood will then come, then having built a ship you shall turn to me (SB.).
 
 
-#strong[3. constantly] with reference to a preceding statement in the sense of as to that, thereby, thus; e.g. yajnam eva tad deva upayan the gods thus obtained the sacrifice (SB.); tát tad avaklptam eva yad brahmano 'rajanyah syat so it is quite suitable that a Brahman should be without a king (SB.); tad ahuh as to that they say; tad u tát now as to this (SB.).
+*3. constantly* with reference to a preceding statement in the sense of as to that, thereby, thus; e.g. yajnam eva tad deva upayan the gods thus obtained the sacrifice (SB.); tát tad avaklptam eva yad brahmano 'rajanyah syat so it is quite suitable that a Brahman should be without a king (SB.); tad ahuh as to that they say; tad u tát now as to this (SB.).
 
 
-#strong[4. before] yad with reference to a preceding statement to add an explanation, and may be rendered by that is to say, now; e.g. tad yad esa etat tapati tena esa sukrah now, inasmuch as he burns here, therefore he is bright (SB.). Similarly in the phrase tad yat tatha that is to say, why it is so (is as follows) \= the reason for this is as follows (SB.).
+*4. before* yad with reference to a preceding statement to add an explanation, and may be rendered by that is to say, now; e.g. tad yad esa etat tapati tena esa sukrah now, inasmuch as he burns here, therefore he is bright (SB.). Similarly in the phrase tad yat tatha that is to say, why it is so (is as follows) \= the reason for this is as follows (SB.).
 
 tárhi at that time, then, occurs only once in the RV., but several times in the AV.: ná mṛtyúr āsīd amṛtaṃ ná tárhi there was not death nor immortality then (x. 129²). In the AV. the word appears as correlative to yádā when, and in B. to yátra, yád, yádā, yárhi when, and yádi if; e. g. rakṣāṃsi vā enaṃ tarhy ā labhante yarhi na jāyate the Rakṣases then seize him when (the fire) does not arise (AB.): yádi vā ṛtvijo 'lokā bhávanty aloká u tárhi yájamānaḥ if the priest is without a place, the sacrificer is then also without a place (ŠB.).
 
@@ -11674,14 +11674,14 @@ tásmād therefore is not found as an adverb in the RV., but occurs several time
 It has two uses:
 
 
-#strong[1. It] is an emphasizing particle. In the RV., where it occurs nearly fifty times, it seems to be restricted to this sense.
+*1. It* is an emphasizing particle. In the RV., where it occurs nearly fifty times, it seems to be restricted to this sense.
 
 a. In about two-thirds of its occurrences tú emphasizes an exhortation in the 2\. pers. impv. (rarely the 3\. pers., or the subj. in an impv. sense) \= pray, then; e. g. á tv étā, ní ṣīdata pray come, sit you down (i. 5¹); ná te dūré paramá cid rájāmsy, á tú prá yāhi háribhyām even the highest spaces are not far to thee; come hither, then, with thy two bays (iii. 30²).
 
 b. In several passages tú emphasizes assertions (generally following the demonstrative tá) in the sense of surely, indeed; e. g. tát tv áṣya that surely is his work (iii. 30¹²).
 
 
-#strong[2. It] is an adversative particle meaning but. This is its sense in the only passage of the AV. in which it occurs, and is its only meaning in B.; e. g. cakāra bhadrám asmábhyam ātmáne tápanaṁ tú sáḥ he has done what is good for us, but painful to himself (AV. iv. 18⁶); tád eváṁ véditor ná tv eváṁ kártavái that one should know thus, but not do thus (MS.). With áha or nú in the preceding clause, it expresses the sense it is true...but; e. g. tád áha téṣāṁ váco, 'nyá tv évátaḥ sthitiḥ this indeed is what they say, but the established practice is different therefrom (ŚB.).
+*2. It* is an adversative particle meaning but. This is its sense in the only passage of the AV. in which it occurs, and is its only meaning in B.; e. g. cakāra bhadrám asmábhyam ātmáne tápanaṁ tú sáḥ he has done what is good for us, but painful to himself (AV. iv. 18⁶); tád eváṁ véditor ná tv eváṁ kártavái that one should know thus, but not do thus (MS.). With áha or nú in the preceding clause, it expresses the sense it is true...but; e. g. tád áha téṣāṁ váco, 'nyá tv évátaḥ sthitiḥ this indeed is what they say, but the established practice is different therefrom (ŚB.).
 
 téna occurs in B. as an adverb correlative to yád because; e. g. yád grāmyásya ná, áśnāti téna grāmyán áva runddhe because he does not eat any tame animal, therefore he gains tame animals for himself (MS.).
 
@@ -11710,7 +11710,7 @@ a. The word occurs several times with ádha, meaning and that too doubly or espe
 ná has two senses in V. (but only the first of the two in B.):
 
 
-#strong[1. As] a negative particle meaning not it denies an assertion, appearing in principal sentences with the ind. of all tenses, with the subj., the opt., the inj. (in the sense of a fut.), but not with the impv.; it is also employed in relative and conjunctional clauses. It negatives either the assertion of the whole sentence (when it appears as near the beginning as possible, in V. even before the relative) or only the assertion of the verb. It can only be used in a sentence which contains a finite verb or in which one is to be supplied. There seems to be no undoubted example of its negating any word (such as a participle or adjective) other than the verb. The employment of this negative ná is much the same in B. as in V.
+*1. As* a negative particle meaning not it denies an assertion, appearing in principal sentences with the ind. of all tenses, with the subj., the opt., the inj. (in the sense of a fut.), but not with the impv.; it is also employed in relative and conjunctional clauses. It negatives either the assertion of the whole sentence (when it appears as near the beginning as possible, in V. even before the relative) or only the assertion of the verb. It can only be used in a sentence which contains a finite verb or in which one is to be supplied. There seems to be no undoubted example of its negating any word (such as a participle or adjective) other than the verb. The employment of this negative ná is much the same in B. as in V.
 
 a. A verb (such as asti is) has often to be supplied with this negative in simple sentences, especially with the gerundive, the
 
@@ -11768,7 +11768,7 @@ a. This compounded form never occurs in B., where ná hí alone is found. On the
 náma is used adverbially in the following two senses:
 
 
-#strong[1. by] name; e. g. sá ha śrutá índro náma deváḥ that god famous as Indra by name (ii. 20⁶); kó náma, asi who art thou by name? (VS. vii. 29). 2\. namely, indeed, verily; e. g. ájasro gharmó havír asmi náma I am constant heat, namely the oblation (iii. 26⁷); máṁ dhur índraṁ náma devátā they have placed me among the gods verily as Indra (x. 49²).
+*1. by* name; e. g. sá ha śrutá índro náma deváḥ that god famous as Indra by name (ii. 20⁶); kó náma, asi who art thou by name? (VS. vii. 29). 2\. namely, indeed, verily; e. g. ájasro gharmó havír asmi náma I am constant heat, namely the oblation (iii. 26⁷); máṁ dhur índraṁ náma devátā they have placed me among the gods verily as Indra (x. 49²).
 
 #page-footnotes((
   [¹ Probably because the N. has no longer an independent existence coupled with the fact that the pronoun kí has gone out of use except in the one form kí-m.],
@@ -11791,7 +11791,7 @@ náma is used adverbially in the following two senses:
 a. The senses of nú found in B. are the following:
 
 
-#strong[1. Now] actually in affirmative sentences, often correcting a previous statement; e. g. nirdāso nv abhūd, yajasva mā anena now he is actually more than ten days old: sacrifice him to me (AB.). 2\. then, pray, in exhortations with the subj., the impv., or mā with the inj., e. g. śraddhādevo vái mánur: āváṁ nú vedāva Manu is godfearing; let us two then try him (ŚB.); mā nu me prá hārṣīḥ pray, do not strike at me (ŚB.). When átha follows such sentences, nú may be translated by first: nirdāso nv astv, atha tvā yajai let him (the victim) first be more than ten days old, then I will sacrifice him to you (AB.). 3\. pray, in questions with or without an interrogative; e. g. kvà nu viṣṇur abhūt what, pray, has become of Viṣṇu? (ŚB.); tváṁ nú khálu no bráhmiṣṭho 'si are you, pray, indeed the wisest of us? (ŚB.). 4\. now, after iti followed by átha next: iti nu pūrvaṁ paṭalam, athottaram this now is the first section; next follows the
+*1. Now* actually in affirmative sentences, often correcting a previous statement; e. g. nirdāso nv abhūd, yajasva mā anena now he is actually more than ten days old: sacrifice him to me (AB.). 2\. then, pray, in exhortations with the subj., the impv., or mā with the inj., e. g. śraddhādevo vái mánur: āváṁ nú vedāva Manu is godfearing; let us two then try him (ŚB.); mā nu me prá hārṣīḥ pray, do not strike at me (ŚB.). When átha follows such sentences, nú may be translated by first: nirdāso nv astv, atha tvā yajai let him (the victim) first be more than ten days old, then I will sacrifice him to you (AB.). 3\. pray, in questions with or without an interrogative; e. g. kvà nu viṣṇur abhūt what, pray, has become of Viṣṇu? (ŚB.); tváṁ nú khálu no bráhmiṣṭho 'si are you, pray, indeed the wisest of us? (ŚB.). 4\. now, after iti followed by átha next: iti nu pūrvaṁ paṭalam, athottaram this now is the first section; next follows the
 
 #page-footnotes((
   [¹ Never begins a sentence.],
@@ -11814,17 +11814,17 @@ a. The senses of nú found in B. are the following:
 nūnám now has three uses in the RV.:
 
 
-#strong[1. With] the ind. pres. it means now as opposed to formerly or in future (an opposition often expressed by purā before and aparám after); e. g. ná nūnám ásti nó śváh there is no now and no to-morrow (i. 170¹).
+*1. With* the ind. pres. it means now as opposed to formerly or in future (an opposition often expressed by purā before and aparám after); e. g. ná nūnám ásti nó śváh there is no now and no to-morrow (i. 170¹).
 
 It is a few times used with the perfect in combination with purā to express that an action has taken place in the past and still takes place; e. g. purā nūnám ca stutáya ṛṣiṇām pasprdhrá indre formerly and now the praises of seers have striven to Indra (vi. 34¹).
 
 
-#strong[2. With] the subj., impv., opt., or inj., it expresses that an action is to take place at once; e. g. ví nūnám uchāt she shall now shine forth (i. 124¹¹); prá nūnám pūrṇávandhuras stutó yāhi praised advance now with laden car (i. 82³).
+*2. With* the subj., impv., opt., or inj., it expresses that an action is to take place at once; e. g. ví nūnám uchāt she shall now shine forth (i. 124¹¹); prá nūnám pūrṇávandhuras stutó yāhi praised advance now with laden car (i. 82³).
 
 With the perfect it is a few times used in the RV. to express that an action has just been completed; e. g. úpa nūnám yuyuje hárī he has just yoked his two bay steeds (viii. 4¹¹).
 
 
-#strong[3. It] occurs sometimes with interrogatives \= pray; e. g. kadā nūnám te dāśema when, pray, may we serve thee? (vii. 29³).
+*3. It* occurs sometimes with interrogatives \= pray; e. g. kadā nūnám te dāśema when, pray, may we serve thee? (vii. 29³).
 
 a. In B. none of these uses seem to survive, while the new sense of certainly, assuredly (perhaps once already in the AV.) has appeared; e. g. tathā in nūnám tád āsa just so assuredly it came to pass (ŚB.).
 
@@ -11853,10 +11853,10 @@ a. An interrogative following mā in a few cases receives an indefinite sense in
 mā-kis (not any one, Gk. μή-τις), occurring about a dozen times in the RV., to which it is restricted, is used in prohibitive sentences with the injunctive in two senses:
 
 
-#strong[1. no] one: mākis tokásya no riṣat may no one of our offspring be injured (viii. 67¹¹).
+*1. no* one: mākis tokásya no riṣat may no one of our offspring be injured (viii. 67¹¹).
 
 
-#strong[2. more] often an emphatic negative \= by no means, never: mākir devānām ápa bhūḥ be not at all away from the gods (x. 11⁹). Cp. ná-kis.
+*2. more* often an emphatic negative \= by no means, never: mākir devānām ápa bhūḥ be not at all away from the gods (x. 11⁹). Cp. ná-kis.
 
 mā-kīm, used as an emphatic prohibitive particle with the injunctive, occurs only in two passages of the RV.: mākīm sám śāri kévate let none suffer fracture in a pit (vi. 54⁷).
 
@@ -11877,15 +11877,15 @@ yátra is employed in two main senses: 1\. usually as a relative adverb, meaning
 ]
 
 
-#strong[2. not] infrequently as a temporal conjunction, when, in both V. and B.; e. g. yátra prá sudāsam ávatam when ye helped Sudās (vii. 83⁶). In V. ádha, átra, tád appear as correlatives; e. g. yátra śúrāsas tanvò vitanvaté . . ádha smā yacha tanvè táne ca chardíḥ when the heroes strain themselves (in battle) . . then especially bestow protection on us and our sons (vi. 46¹²). In B. tád is generally the correlative, sometimes tátas; e. g. táṁ yátra devá ághnams, tán mitrám abruvan when the gods killed him, they said to Mitra (ŚB.).
+*2. not* infrequently as a temporal conjunction, when, in both V. and B.; e. g. yátra prá sudāsam ávatam when ye helped Sudās (vii. 83⁶). In V. ádha, átra, tád appear as correlatives; e. g. yátra śúrāsas tanvò vitanvaté . . ádha smā yacha tanvè táne ca chardíḥ when the heroes strain themselves (in battle) . . then especially bestow protection on us and our sons (vi. 46¹²). In B. tád is generally the correlative, sometimes tátas; e. g. táṁ yátra devá ághnams, tán mitrám abruvan when the gods killed him, they said to Mitra (ŚB.).
 
 yáthā has two distinct uses in both V. and B.:
 
 
-#strong[1. as] a relative adverb meaning as; e. g. nūnám yáthā purā now as before (i. 39⁷); yáthā vayám uśmási tát kṛdhi as we wish that do (x. 38²); yáthā vái puruṣó jíryaty evám agnir áhito jíryati as a man grows old, so fire when it has been laid grows old (TS.). When there is a correlative in the RV., it is usually evá, sometimes táthā: in B. usually evám, sometimes táthā.
+*1. as* a relative adverb meaning as; e. g. nūnám yáthā purā now as before (i. 39⁷); yáthā vayám uśmási tát kṛdhi as we wish that do (x. 38²); yáthā vái puruṣó jíryaty evám agnir áhito jíryati as a man grows old, so fire when it has been laid grows old (TS.). When there is a correlative in the RV., it is usually evá, sometimes táthā: in B. usually evám, sometimes táthā.
 
 
-#strong[2. as] a conjunction meaning in order that, so that, introducing a posterior clause, generally with the subj., rarely the opt.; e. g. haviṣ kṛṇuṣva subhágo yáthā, ásasi prepare the oblation that thou mayest be successful (ii. 26²); á daívyā vṛṇīmahé 'vāṁsi, yáthā bhávema mīḷhúṣe ánāgāḥ (vii. 97²) we crave divine aids that we may appear sinless to the gracious god; tathā me kuru yathā, aham imāṁ senāṁ jayāni arrange it so for me that I may conquer this army (AB.); táthaivá hotavyāṁ yáthā, agním vyaveyát it must be poured so that it should divide the fire (ŚB.).
+*2. as* a conjunction meaning in order that, so that, introducing a posterior clause, generally with the subj., rarely the opt.; e. g. haviṣ kṛṇuṣva subhágo yáthā, ásasi prepare the oblation that thou mayest be successful (ii. 26²); á daívyā vṛṇīmahé 'vāṁsi, yáthā bhávema mīḷhúṣe ánāgāḥ (vii. 97²) we crave divine aids that we may appear sinless to the gracious god; tathā me kuru yathā, aham imāṁ senāṁ jayāni arrange it so for me that I may conquer this army (AB.); táthaivá hotavyāṁ yáthā, agním vyaveyát it must be poured so that it should divide the fire (ŚB.).
 
 a. In the RV. after verbs of knowing or saying yáthā introduces an explanation \= how; e. g. kás tád brūyād anudéyī yáthā, ábhavat who could tell us this, (viz.) how the gift was? (x. 135⁵). Occasionally it is used thus even without such verbs: ná pramíye savitúr dáivyasya
 
@@ -11910,17 +11910,17 @@ R
 yád (n. of the relative yá) is used in four distinct senses:
 
 
-#strong[1. that,] expanding the meaning of a word in the preceding principal clause; e.g. grṇé tád, indra, te śávo yád dháṃsi vṛtrám I praise this mighty deed of thine that thou slayest Vṛtra (viii. 62⁸); kím āga āsa, varuṇa, jyéṣṭhaṃ yát stotāraṃ jíghāṃsasi sákhaṃyam, what has been the chief guilt, O Varuṇa, that thou wishest to slay thy praiser (who is) thy friend? (vii. 86⁴). This use is not common in V.
+*1. that,* expanding the meaning of a word in the preceding principal clause; e.g. grṇé tád, indra, te śávo yád dháṃsi vṛtrám I praise this mighty deed of thine that thou slayest Vṛtra (viii. 62⁸); kím āga āsa, varuṇa, jyéṣṭhaṃ yát stotāraṃ jíghāṃsasi sákhaṃyam, what has been the chief guilt, O Varuṇa, that thou wishest to slay thy praiser (who is) thy friend? (vii. 86⁴). This use is not common in V.
 
 a. yad is similarly employed in B. with reference to a preceding tád (often omitted); e.g. tád yát páyasā śriṇāti: vṛtró vái sóma āsīt that (\= the reason why) he mixes Soma with milk (is) this: Vṛtra was Soma (ŚB.). This use is also found in B. after certain verbs: áva kalpate it is suitable, út sahate is able, icháti desires, yuktó bhavati is intent on, véda knows, and íśvará it is possible; e.g. ná hí tád avakálpate yád brūyát for it is not suitable that he should say (ŚB.).
 
 
-#strong[2. when] with the ind. pres., imp., perf., aor., fut., and with the subj.; e.g. yád dha yāntī márutaḥ sám ha bruvate when the Maruts go along, they speak together (i. 37¹³); kám apaśyo yát te bhír ágachat whom didst thou see when fear came upon thee? (i. 32¹⁴); índraś ca yád yuyudháte áhiś ca, maghávā ví jigye when Indra and the serpent fought, the bountiful god conquered (i. 32¹³); citró yád ábhrāṭ bright when he has shone forth (i. 66⁶); tigmā yád aśánir pátāti, ádha no bodhi gopāḥ when the sharp bolt shall fly, then be our protector (iv. 16¹⁷). It also occurs rarely in anacolutha with the pres. part. and the past pass. part. much as in English; e.g. pácanti te vṛṣabhāñ, átsi téṣāṃ yán, maghavan, hūyámānaḥ they roast bulls for thee, thou eatest of them, O bounteous one, when being called (x. 28³).
+*2. when* with the ind. pres., imp., perf., aor., fut., and with the subj.; e.g. yád dha yāntī márutaḥ sám ha bruvate when the Maruts go along, they speak together (i. 37¹³); kám apaśyo yát te bhír ágachat whom didst thou see when fear came upon thee? (i. 32¹⁴); índraś ca yád yuyudháte áhiś ca, maghávā ví jigye when Indra and the serpent fought, the bountiful god conquered (i. 32¹³); citró yád ábhrāṭ bright when he has shone forth (i. 66⁶); tigmā yád aśánir pátāti, ádha no bodhi gopāḥ when the sharp bolt shall fly, then be our protector (iv. 16¹⁷). It also occurs rarely in anacolutha with the pres. part. and the past pass. part. much as in English; e.g. pácanti te vṛṣabhāñ, átsi téṣāṃ yán, maghavan, hūyámānaḥ they roast bulls for thee, thou eatest of them, O bounteous one, when being called (x. 28³).
 
 a. In B. yád occurs with the sense of when with the pres., fut., and aor., and in the sense of whenever or while with the impf.
 
 
-#strong[3. if] used with the ind. pres., the subj., or the opt.; e.g.
+*3. if* used with the ind. pres., the subj., or the opt.; e.g.
 
 ]
 
@@ -11939,7 +11939,7 @@ a. In B. yád occurs with the sense of when with the pres., fut., and aor., and 
 a. In B. yád is used with the opt. as in V. while with yádi the fulfilment of the condition is usually assumed) and with the conditional; sá yád bhídyeta ártim árched yájamānaḥ if it were to break, the sacrificer would fall into misfortune (TS.); yád evám ná ávakṣyo mūrdhá te vy apatiṣyat if thou hadst not spoken thus, thy head would have fallen to pieces (ŚB.).
 
 
-#strong[4. in] order that, in posterior clauses, with the subj., very rarely with the opt. in V.; e. g. á vaha devátātim śárdho yád adyá divyám yájāsi bring hither the host of the gods that thou mayest adore the divine throng (iii. 19⁴); yán nūnám aśyám gátim, mitrásya yāyám pathá that I may now obtain refuge. I would go on Mitra's path (v. 64³).
+*4. in* order that, in posterior clauses, with the subj., very rarely with the opt. in V.; e. g. á vaha devátātim śárdho yád adyá divyám yájāsi bring hither the host of the gods that thou mayest adore the divine throng (iii. 19⁴); yán nūnám aśyám gátim, mitrásya yāyám pathá that I may now obtain refuge. I would go on Mitra's path (v. 64³).
 
 a. In B. this use of yád is very rare, occurring only a few times with the subj.; e. g. tát prápṇuhi yát te prāṇó vátam apipádyātai obtain thou this, that thy breath may pass into the wind (ŚB.).
 
@@ -11966,14 +11966,14 @@ R 2
 a. The injunctive is found only once with yadá in the RV.: yadá máhyam dídharo bhāgám, indra, ád in máyá kṛṇavo vīryāṇi when thou shalt have secured for me my share, O Indra, then thou shalt perform heroic deeds with my help (viii. 100¹).
 
 
-#strong[2. a. with] the impf. and perf.; e.g. yadá viṣṇus tríṇi padá vicakramé, yadá sūryam diví.. ádhāraya, ád it te hárī vavakṣatuḥ when Viṣṇu took his three steps, when thou didst fix the sun in the sky, then thy two bays grew in strength (viii. 12²⁷·³⁰); tásya yadá márma#emph[ágachann átha]aceṣṭat as soon as they touched his weak spot, he quivered (MS.); sá yadá#emph[ābhyām anūváca]átha\_asya tád índraḥ śíraś ci-cheda as soon as he had told them, Indra cut his head off (ŚB.).
+*2. a. with* the impf. and perf.; e.g. yadá viṣṇus tríṇi padá vicakramé, yadá sūryam diví.. ádhāraya, ád it te hárī vavakṣatuḥ when Viṣṇu took his three steps, when thou didst fix the sun in the sky, then thy two bays grew in strength (viii. 12²⁷·³⁰); tásya yadá márma#emph[ágachann átha]aceṣṭat as soon as they touched his weak spot, he quivered (MS.); sá yadá#emph[ābhyām anūváca]átha\_asya tád índraḥ śíraś ci-cheda as soon as he had told them, Indra cut his head off (ŚB.).
 
 b. with the pres. ind.: yadá satyám kṛṇuté manyúm índro, víśvam dṛḷhám bhayate éjad asmāt when Indra shows his true anger, all that is firm, trembling, is afraid of him (iv. 17¹⁰); yadá vai paśur nirdáso bhavaty atha sa medhyo bhavati as soon as the victim is more than ten days old, it becomes fit for sacrifice (AB.); sá yadá keśaśmaśrú vápaty átha snāti when he has cut off his hair and beard, he bathes (ŚB.).
 
 c. with the subj. (here \= future perfect): yadá śṛtám kṛṇávo 'tha\_īm enam prá hiṇutāt pitṛbhyaḥ when thou shalt have made him done, then deliver him to the fathers (x. 16¹); yadá tām ativárdhā, átha karṣūṃ khātvá tásyāṃ mā bibharāsi when I shall have grown too big for it, you shall, having dug a pit, keep me in it (ŚB.).
 
 
-#strong[3. a. with] the fut.: yadaiva hotā paridhāsyaty atha pāsān prati mokṣyāmi when the Hotr shall have concluded, I shall tighten the cords (AB.).
+*3. a. with* the fut.: yadaiva hotā paridhāsyaty atha pāsān prati mokṣyāmi when the Hotr shall have concluded, I shall tighten the cords (AB.).
 
 b. with the opt.: sá yadá saṃgrāmám jáyed átha\_aindrāgnám nír vapet as soon as he may have won a battle, he should sacrifice to Indra and Agni (MS.).
 
@@ -11994,10 +11994,10 @@ yádi if (sometimes when with a past tense) is found with perf. and impf. in V. 
 ]
 
 
-#strong[1. With] the perf. used historically and with the impf. yádi means when, the verb then having the force of a pluperfect; e.g. ud astambhit samidhā nākām agnir yádi bhṛgubhyaḥ pari mātarísvā havyavāhaṁ samīdhé Agni supported the vault with fuel when Matarísvan from the Bhṛgus had kindled the oblation-bearer (iii. 510); yádi sahasram mahiṣān ághaḥ, ād it ta indriyám mahi prá vāvṛdhe when thou hadst eaten a thousand bulls, thy might grew great (viii. 128). But when the perf. has the pres. perf. sense, yádi has its ordinary meaning of if: grāhir jagrāha yádi vaitād enam, tasyā, indrāgnī, prá mumuktam enam or if illness has seized him, from that release him, Indra and Agni (x. 1611).
+*1. With* the perf. used historically and with the impf. yádi means when, the verb then having the force of a pluperfect; e.g. ud astambhit samidhā nākām agnir yádi bhṛgubhyaḥ pari mātarísvā havyavāhaṁ samīdhé Agni supported the vault with fuel when Matarísvan from the Bhṛgus had kindled the oblation-bearer (iii. 510); yádi sahasram mahiṣān ághaḥ, ād it ta indriyám mahi prá vāvṛdhe when thou hadst eaten a thousand bulls, thy might grew great (viii. 128). But when the perf. has the pres. perf. sense, yádi has its ordinary meaning of if: grāhir jagrāha yádi vaitād enam, tasyā, indrāgnī, prá mumuktam enam or if illness has seized him, from that release him, Indra and Agni (x. 1611).
 
 
-#strong[2. a. with] the pres.: yádi mánthanti bāhúbhir vi rocate when they rub with their arms, he shines (iii. 29); adyā murīya yádi yātudhāno ásmī to-day I would die, if I am a sorcerer (vii. 104); yádi ná aśnāti pitṛdevatyò bhavati if he does not eat, he becomes dedicated to the Manes (SB.).
+*2. a. with* the pres.: yádi mánthanti bāhúbhir vi rocate when they rub with their arms, he shines (iii. 29); adyā murīya yádi yātudhāno ásmī to-day I would die, if I am a sorcerer (vii. 104); yádi ná aśnāti pitṛdevatyò bhavati if he does not eat, he becomes dedicated to the Manes (SB.).
 
 b. with the aor.: yádi matur upa svásā . . asthita, adhvaryur modate if the sister (coming) from the mother has approached, the priest rejoices (ii. 5); yády áha enam prān-cam acaiṣir, yáthā páraca āsināya prṣṭhato 'nnádyam upāháret if you have piled it frontways, it is as if one handed food from behind to one sitting with averted face (SB.).
 
@@ -12022,7 +12022,7 @@ d. with the subj.: yajama devan yadi saknavama we will worship the gods, if we s
 a. With the opt. yádi is (excepting one occurrence in the SV. found in B. only, where this use is very common. Here a case is usually supposed with a rule applicable to it in the principal clause; e. g. yadi na śaknuyāt, so 'gnaye puroḷāśam nir vapet if he should not be able to do it, he should offer a cake to Agni (AB.).
 
 
-#strong[3. after] the verb vid know, yádi is used in the sense of whether in one passage of the RV. (x. 129⁷) and often in B.; e. g. hánta na éko véttu yádi ható vā vṛtró jívati vā come, let one of us find out whether Vṛtra is dead or whether he is alive (ŚB.).
+*3. after* the verb vid know, yádi is used in the sense of whether in one passage of the RV. (x. 129⁷) and often in B.; e. g. hánta na éko véttu yádi ható vā vṛtró jívati vā come, let one of us find out whether Vṛtra is dead or whether he is alive (ŚB.).
 
 a. yádi vā is not only used after a preceding yádi in the sense of or if, but also alone in the sense of or, nearly always without a verb; e. g. só aṅgá veda yádi vā ná véda he alone knows or he does not know (x. 129⁷); yám váhanti śatám áśvā yádi vā saptá whom a hundred horses draw, or seven (AV. xiii. 2⁷); yádi vā itárathā or conversely (ŚB.).
 
@@ -12057,7 +12057,7 @@ vāvá (doubtless a contraction of two particles) is found in B. only. It emphas
 vái is an emphasizing particle meaning truly, indeed.
 
 
-#strong[1. In] the RV. this particle occurs only in 28 passages, in all but three of which it follows the first word of the sentence; e. g. bhadrám vái váram vṛṇate truly they make a good choice (x. 164²); íti vā íti me mánaḥ so, indeed, so is my mind (x. 119¹); ná vái stráṇāni sakhyáni santi
+*1. In* the RV. this particle occurs only in 28 passages, in all but three of which it follows the first word of the sentence; e. g. bhadrám vái váram vṛṇate truly they make a good choice (x. 164²); íti vā íti me mánaḥ so, indeed, so is my mind (x. 119¹); ná vái stráṇāni sakhyáni santi
 
 ]
 
@@ -12076,7 +12076,7 @@ vái is an emphasizing particle meaning truly, indeed.
 a. In the AV. the use is similar except that here the particle often appears after a demonstrative or a relative; e. g. tásmād vái sā párā-bhavat therefore, indeed, he perishad (xii. 4¹⁹); yó vái tā vidyāt pratyák-ṣaṃ, sā vā adyā mahād vadet whoever may know them plainly, he, verily, may speak aloud to-day (xi. 8²).
 
 
-#strong[2. In] B. vái usually occupies the same position, but often yields the second place to céd, hí, khálu, and of course always to the enclitics iva, u, ca, sma, ha. When átho begins a sentence vái occupies the second place.
+*2. In* B. vái usually occupies the same position, but often yields the second place to céd, hí, khálu, and of course always to the enclitics iva, u, ca, sma, ha. When átho begins a sentence vái occupies the second place.
 
 Here the use of vái in the first sentence of a narrative is typical; e. g. yámo vā amriyata: té devā yamyā yámam ápābruvan Yama died: the gods (then) dissuaded Yamī from (thinking of) Yama (MS.).
 
@@ -12127,7 +12127,7 @@ c. su kam is used like the simple su except that it appears with the impv. only;
 sma, an enclitic, slightly emphasizing particle, has two senses in the RV.:
 
 
-#strong[1. It] generally emphasizes:
+*1. It* generally emphasizes:
 
 a. demonstrative or personal pronouns, relatives, or nouns, and may be rendered by just, especially, or simply by stress; e.g. tásya sma prāvitā bhava be his helper (i. 128); sáśrudhi yáḥ smā pṛtanāsu káṣu cit . . . sūraiḥ svāḥ sánitā hear thou, who especially in all battles with heroes dost win the light (i. 1292).
 
@@ -12138,7 +12138,7 @@ c. adverbs and particles; e.g. utá sma and especially; ná sma and ma sma by no
 a. In the AV. these emphasizing uses are similar; but in B. they have entirely disappeared.
 
 
-#strong[2. In] a few instances sma occurs in the RV. before purā with the pres. ind. to express that an action has habitually taken place in the past down to the present time; e.g. yé smā purā gātūyanti who have always aided \= who aids now and formerly did so (i. 1695).
+*2. In* a few instances sma occurs in the RV. before purā with the pres. ind. to express that an action has habitually taken place in the past down to the present time; e.g. yé smā purā gātūyanti who have always aided \= who aids now and formerly did so (i. 1695).
 
 a. This use is not found in the AV., but has become extremely common in B., where sma is always preceded by ha. The meaning
 
@@ -12191,10 +12191,10 @@ a. It is similarly used in B.: hanta\_imaṃ yajñaṃ sambharāma well, we will
 hí, in origin probably an emphasizing particle, is used throughout as a subordinating conjunction which regularly throws the accent on the verb. It nearly always follows the first word of the sentence, or the second when the first two are closely connected. In V. it is used in two ways:
 
 
-#strong[1. in] indicative sentences (the verb having sometimes to be supplied) to express the reason (like γάρ), meaning either for, if the clause containing it follows, or because, since, if it precedes; e. g. bálaṃ dhehi tanūṣu no, tváṃ hí baladā ási bestow strength on our bodies, for thou art a giver of strength (iii. 53¹⁸); śruṣṭīvāno hí dāśúṣe devās, tān ā vaha since the gods give ear to the pious man, bring them hither (i. 45²).
+*1. in* indicative sentences (the verb having sometimes to be supplied) to express the reason (like γάρ), meaning either for, if the clause containing it follows, or because, since, if it precedes; e. g. bálaṃ dhehi tanūṣu no, tváṃ hí baladā ási bestow strength on our bodies, for thou art a giver of strength (iii. 53¹⁸); śruṣṭīvāno hí dāśúṣe devās, tān ā vaha since the gods give ear to the pious man, bring them hither (i. 45²).
 
 
-#strong[2. in] exhortative sentences, mostly with the impv., as an emphatic particle \= pray, indeed; e. g. yukṣvā hí keśinā hárī pray harness thy two long-maned bay steeds (i. 10³).
+*2. in* exhortative sentences, mostly with the impv., as an emphatic particle \= pray, indeed; e. g. yukṣvā hí keśinā hárī pray harness thy two long-maned bay steeds (i. 10³).
 
 ]
 
@@ -12211,18 +12211,18 @@ hí, in origin probably an emphasizing particle, is used throughout as a subordi
 ]
 
 
-#strong[1. it] expresses the reason, as in the first use in V., only that the clause containing hí always follows (\= for only), and the verb is much oftener omitted than expressed; e. g. tád índro 'mucyata, devó hí sáḥ from that Indra freed himself, for he (is) a god (ŚB.). The particle váí is often added to strengthen hí; e. g. vájro hí vá ápaḥ for water is indeed a thunderbolt (ŚB.).
+*1. it* expresses the reason, as in the first use in V., only that the clause containing hí always follows (\= for only), and the verb is much oftener omitted than expressed; e. g. tád índro 'mucyata, devó hí sáḥ from that Indra freed himself, for he (is) a god (ŚB.). The particle váí is often added to strengthen hí; e. g. vájro hí vá ápaḥ for water is indeed a thunderbolt (ŚB.).
 
 
-#strong[2. it] is sometimes employed to emphasize an interrogative \= pray; e. g. kathám hí kariṣyási how, pray, wilt thou do it? (ŚB.).
+*2. it* is sometimes employed to emphasize an interrogative \= pray; e. g. kathám hí kariṣyási how, pray, wilt thou do it? (ŚB.).
 
 
-#strong[3. it] expresses assent in answers after a word repeated from a preceding question; e. g. tám eva tvám paśyasi íti; tám hí 'do you see him?' Yes, (I see) him (ŚB.).
+*3. it* expresses assent in answers after a word repeated from a preceding question; e. g. tám eva tvám paśyasi íti; tám hí 'do you see him?' Yes, (I see) him (ŚB.).
 
 a. In B., when hí appears in the relative clause of a period explaining a previous statement, the verb of the principal clause (to which hí properly applies) is sometimes irregularly unaccented; e. g. idám hí yadá várṣaty átha óṣadhayo jāyante for, when it rains here, then the plants spring up (ŚB.).
 
 
-#strong[181. A] certain number of words having the nature of interjections occur in the Saṃhitās. They are of two kinds, being either exclamations or imitative sounds.
+*181. A* certain number of words having the nature of interjections occur in the Saṃhitās. They are of two kinds, being either exclamations or imitative sounds.
 
 a. The exclamations are: bát (RV.) truly, bata (RV.) alas! hánta come, used exhortatively with the subjunctive and hayé come before vocatives; híruk and hurúk (RV.) away! hái (AV.) ho!
 
@@ -12242,13 +12242,13 @@ b. Interjections of the onomatopoetic type are: kikirá (RV.) used with kr̄ \= 
 #align(center)[#text(size: 9.0pt, weight: "bold")[A. Nominal Stems.]]
 #v(0.18em)
 
-#strong[182\.] Declinable stems, though they often consist of the bare root (either verbal or pronominal), are chiefly formed by means of suffixes added to roots. These #strong[suffixes] are of two kinds: #strong[primary], or those added directly to roots (which may at the same time be compounded with verbal prefixes): and #strong[secondary], or those added to stems already ending in a suffix and to pronominal roots (which are thus treated as primary stems).
+*182\.* Declinable stems, though they often consist of the bare root (either verbal or pronominal), are chiefly formed by means of suffixes added to roots. These *suffixes* are of two kinds: *primary*, or those added directly to roots (which may at the same time be compounded with verbal prefixes): and *secondary*, or those added to stems already ending in a suffix and to pronominal roots (which are thus treated as primary stems).
 
-1\.  #strong[Primary Derivatives] as a rule show the root in its strong form; e. g. #strong[véd-a] m. #emph[knowledge] (#strong[vid] #emph[know]); #strong[sár-ana] n. #emph[running] (\\sqrt{sr}); #strong[kār-á] #emph[making] (\\sqrt{kr}); #strong[grābh-á] m. #emph[seizer] (\\sqrt{grabh}). In meaning they may be divided into the two classes of abstract action nouns (cognate in sense to infinitives) and concrete agent nouns (cognate in sense to participles) used as adjectives or substantives; e. g. #strong[ma-tí] f. #emph[thought] (#strong[man] #emph[think]); #strong[yodh-á], m. #emph[fighter] (#strong[yudh] #emph[fight]). Other meanings are only modifications of these two; e. g. #strong[dāna] (\= #strong[dāana]) n. #emph[act of giving], then #emph[gift].
+1\.  *Primary Derivatives* as a rule show the root in its strong form; e. g. *véd-a* m. #emph[knowledge] (*vid* #emph[know]); *sár-ana* n. #emph[running] (\\sqrt{sr}); *kār-á* #emph[making] (\\sqrt{kr}); *grābh-á* m. #emph[seizer] (\\sqrt{grabh}). In meaning they may be divided into the two classes of abstract action nouns (cognate in sense to infinitives) and concrete agent nouns (cognate in sense to participles) used as adjectives or substantives; e. g. *ma-tí* f. #emph[thought] (*man* #emph[think]); *yodh-á*, m. #emph[fighter] (*yudh* #emph[fight]). Other meanings are only modifications of these two; e. g. *dāna* (\= *dāana*) n. #emph[act of giving], then #emph[gift].
 
-a. When the #strong[bare root] is used as a declinable stem, it usually remains unchanged; e. g. #strong[dā] m. #emph[giver], #strong[bhíd] f. #emph[destroyer], #strong[yúj] m. #emph[companion], #strong[spáš] m. #emph[spy], #strong[vṛdh] adj. #emph[strengthening]. Roots ending in #strong[i] or #strong[u] take a determinative #strong[t]; e. g. #strong[mí-t] f. #emph[pillar], #strong[stú-t] f. #emph[praise]. The root may appear in a reduplicated form; e. g. #strong[cikít] #emph[wise], #strong[jó-gū] #emph[singing aloud].
+a. When the *bare root* is used as a declinable stem, it usually remains unchanged; e. g. *dā* m. #emph[giver], *bhíd* f. #emph[destroyer], *yúj* m. #emph[companion], *spáš* m. #emph[spy], *vṛdh* adj. #emph[strengthening]. Roots ending in *i* or *u* take a determinative *t*; e. g. *mí-t* f. #emph[pillar], *stú-t* f. #emph[praise]. The root may appear in a reduplicated form; e. g. *cikít* #emph[wise], *jó-gū* #emph[singing aloud].
 
-b. Several primary nominal suffixes connected with the verbal system have already been sufficiently dealt with, viz. those of the pres. and fut. participles: #strong[ant] (85; 156), #strong[āna]
+b. Several primary nominal suffixes connected with the verbal system have already been sufficiently dealt with, viz. those of the pres. and fut. participles: *ant* (85; 156), *āna*
 
 ]
 
@@ -12555,7 +12555,7 @@ vin: forms adjectives from stems ending in a (which is lengthened), ā, and as; 
 śa: forms adjectives and m. substantives, sometimes without change of meaning; e. g. éta-śa variegated (éta id.), yuva-śá youthful (yúvan id.), roma-śá hairy (róman hair); aṅku-śá m. hook, kalá-śa m. jar.
 
 
-#strong[183. The] above lists of suffixes practically supply the rules of gender for the Vedic noun. These may be summarized as follows:
+*183. The* above lists of suffixes practically supply the rules of gender for the Vedic noun. These may be summarized as follows:
 
 Speaking generally, bare roots as stems, if action nouns, are f., if agent nouns, m.
 
@@ -12595,7 +12595,7 @@ f. Masc., fem., neut. are stems formed with i or u.
 #v(0.18em)
 
 
-#strong[184. I.] Verbal Compounds are formed by combining roots with twenty prepositions and a few adverbs. The compound verb (which, however, in finite forms is actually compounded only in subordinate clauses when the preposition immediately precedes the verb) is conjugated like the simple verb. Thus gam go combines with sam together to sam-gam go together, unite; 3\. s. sam-gachati. The compound root can be used to form nominal stems by means of the primary suffixes enumerated above (182, 1); e. g. sam-gam-a m. union.
+*184. I.* Verbal Compounds are formed by combining roots with twenty prepositions and a few adverbs. The compound verb (which, however, in finite forms is actually compounded only in subordinate clauses when the preposition immediately precedes the verb) is conjugated like the simple verb. Thus gam go combines with sam together to sam-gam go together, unite; 3\. s. sam-gachati. The compound root can be used to form nominal stems by means of the primary suffixes enumerated above (182, 1); e. g. sam-gam-a m. union.
 
 a. The prepositions which are compounded with roots are the following: acha towards, ati beyond, adhi upon, anu after, antar between, apa away, api on, abhi against, ava down, a near, ud up, ni down, into, nis out, para away,
 
@@ -12662,7 +12662,7 @@ a. The latter compound is the only example in the RV. of ī appearing instead of
 #v(0.18em)
 
 
-#strong[185. From] the Indo-European period the Vedic language has inherited the power of combining two or more words into one treated like a simple word as regards accent, inflexion, and construction. Both in the frequency and in the length of compounds the Vedic language resembles the Greek of Homer. In the RV. and the AV. no compounds of more than three independent members are met with, and those in which three occur are rare, such as pūrva-kāma-kṛtvan fulfilling former wishes.
+*185. From* the Indo-European period the Vedic language has inherited the power of combining two or more words into one treated like a simple word as regards accent, inflexion, and construction. Both in the frequency and in the length of compounds the Vedic language resembles the Greek of Homer. In the RV. and the AV. no compounds of more than three independent members are met with, and those in which three occur are rare, such as pūrva-kāma-kṛtvan fulfilling former wishes.
 
 The two characteristic features of a compound are unity of accent and employment of the uninflected stem in the first member (or members); but there are exceptions to both these rules. Occasionally tmesis of a compound occurs.¹
 
@@ -12690,7 +12690,7 @@ b. Classification. Vedic compounds may be divided into three main classes accord
 #v(0.18em)
 
 
-#strong[186. These] consist of two substantives, far less commonly adjectives, connected in sense with 'and'.
+*186. These* consist of two substantives, far less commonly adjectives, connected in sense with 'and'.
 
 #page-footnotes((
   [¹ This term applied to co-ordinatives by the later Hindu grammarians, means pair or couple.],
@@ -12707,7 +12707,7 @@ b. Classification. Vedic compounds may be divided into three main classes accord
 A 1\. The most numerous group (about three-fourths of all the Dvandvas) in the Rigveda comprises those compounds (nearly always names of deities) in which each member is dual in form and has a separate accent; e. g. mitrā-váruṇā Mitra and Varuṇa; mātárā-pitárā mother and father; dyāvā-pṛthivī heaven and earth. In the RV. the two duals are often separated, as in the line ā náktā barhiḥ sadatām uṣāsā let Night and Dawn seat themselves upon the litter. The proper genitive of such compounds is e. g. mitráyor váruṇayoḥ. But as these co-ordinate duals early came to be regarded as a unit, the commonest ending of the first member, that of the N. A., came to be retained unaltered in the other cases: G. mitrā-váruṇayoḥ, I. mitrā-váruṇābhyām. A further step towards unification is taken in a minority of cases in which the first member loses its accent and the last syllable of the final member (irrespectively of its original accent) receives the acute, as sūryā-candramás-ā sun and moon (candrá-mas). The last stage in the Rigveda appears in four examples in which the first member assumes the stem-form, e. g. indra-vāyū Indra and Vāyu. In the later Saṃhitās and in B. this is the prevailing type in new formations, e. g. dakṣa-kratū m. will and understanding (TB.).
 
 
-#strong[2. Another] type is represented by the plural Dvandvas¹ which express pairs of groups. These show the stem-form in the first member and the accent on the final syllable of the last. The only examples in the RV. occur in Book X; e. g. aho-rātrāṇi² days and nights, ajāvāyas goats (ajá) and sheep (ávi); but in the later Saṃhitās this type becomes quite general, e. g. bhadra-pāpāḥ (AV.), the good and the bad.³
+*2. Another* type is represented by the plural Dvandvas¹ which express pairs of groups. These show the stem-form in the first member and the accent on the final syllable of the last. The only examples in the RV. occur in Book X; e. g. aho-rātrāṇi² days and nights, ajāvāyas goats (ajá) and sheep (ávi); but in the later Saṃhitās this type becomes quite general, e. g. bhadra-pāpāḥ (AV.), the good and the bad.³
 
 #page-footnotes((
   [¹ Cp. Latin su-ore-taurilia, a later type representing three groups.],
@@ -12724,18 +12724,18 @@ A 1\. The most numerous group (about three-fourths of all the Dvandvas) in the R
 #fit-page[
 #folio("270", "NOMINAL COMPOUNDS", "[186-187")
 
-#strong[3. There] occur in the Saṃhitās a few singular Dvandvas which express a collective sense and are always neuter,¹ and accent the final syllable; e. g. iṣṭā-pūrtám² what has been offered or given; kṛta akṛtám (AV.) what has been done and not done; keśa-śmaśrú n. hair and beard (AV.); bhadra-pāpám (AV.) good and evil; samiṣṭa-yajús (VS.) sacrifice and sacrificial formula.
+*3. There* occur in the Saṃhitās a few singular Dvandvas which express a collective sense and are always neuter,¹ and accent the final syllable; e. g. iṣṭā-pūrtám² what has been offered or given; kṛta akṛtám (AV.) what has been done and not done; keśa-śmaśrú n. hair and beard (AV.); bhadra-pāpám (AV.) good and evil; samiṣṭa-yajús (VS.) sacrifice and sacrificial formula.
 
 B. Dvandvas consisting of adjectives are rare. They are of three types:
 
 
-#strong[1. The] adjectives designate colours, their combination expressing a mixture of the two, as nīla-lohitá dark blue and red \= dark red.
+*1. The* adjectives designate colours, their combination expressing a mixture of the two, as nīla-lohitá dark blue and red \= dark red.
 
 
-#strong[2. They] express a contrast, as utkūla-nikūlá (VS.) going uphill and downhill.
+*2. They* express a contrast, as utkūla-nikūlá (VS.) going uphill and downhill.
 
 
-#strong[3. They] are used with dual substantives to express that each is an attribute of one unit of the kind, as pad-bhyāṃ dakṣiṇa-savyābhyām (AV.) with the two feet, the right and the left.
+*3. They* are used with dual substantives to express that each is an attribute of one unit of the kind, as pad-bhyāṃ dakṣiṇa-savyābhyām (AV.) with the two feet, the right and the left.
 
 a. The old dual Dvandvas (A 1) are frequently represented by elliptical duals which put one of a pair in the dual to express both, as dyāvā \= heaven and earth; mitrā \= Mitra and Varuṇa; pitārā \= father and mother; mātārā \= mother and father, parents.
 
@@ -12745,7 +12745,7 @@ a. The old dual Dvandvas (A 1) are frequently represented by elliptical duals wh
 #v(0.18em)
 
 
-#strong[187. This] numerous class of compounds comprises two groups. In the larger group (2 a) the first member has the value of a substantive dependent, in the sense of an oblique case, on the second, which may be either a verbal noun or an ordinary substantive. This may be called the dependent determinative group (named Tatpuruṣa by the later Hindu grammarians). In the other group (2 b) the final member,
+*187. This* numerous class of compounds comprises two groups. In the larger group (2 a) the first member has the value of a substantive dependent, in the sense of an oblique case, on the second, which may be either a verbal noun or an ordinary substantive. This may be called the dependent determinative group (named Tatpuruṣa by the later Hindu grammarians). In the other group (2 b) the final member,
 
 #page-footnotes((
   [¹ Cf. the Greek νυχθήμερον.],
@@ -12773,7 +12773,7 @@ a. The old dual Dvandvas (A 1) are frequently represented by elliptical duals wh
 A. The first member (substantive or pronoun) may have the sense (and often even the form) of any oblique case. When it has an acc., inst., abl., or loc. sense, the final member is mostly a verbal noun;¹ when it has a dat.² or gen.³ sense, it is always an ordinary noun.⁴ The compound may be a substantive or an adjective, according as the last member is one or the other.
 
 
-#strong[1. In] acc. dependents the final member is always a verbal noun; e.g. havir-ád eating the oblation; go-ghná cow-slaying, aśva-hayá⁵ urging on steeds; deva-mādana exhilarating the gods; gara-girná (AV.)⁶ having swallowed poison; bhūridāvan giving much; bhadra-vādin uttering an auspicious cry; vaja-sāti f. act of winning booty; vṛtra-hátya n. act of slaying Vṛtra.
+*1. In* acc. dependents the final member is always a verbal noun; e.g. havir-ád eating the oblation; go-ghná cow-slaying, aśva-hayá⁵ urging on steeds; deva-mādana exhilarating the gods; gara-girná (AV.)⁶ having swallowed poison; bhūridāvan giving much; bhadra-vādin uttering an auspicious cry; vaja-sāti f. act of winning booty; vṛtra-hátya n. act of slaying Vṛtra.
 
 2\. Inst.: indra-pātama most drunk by Indra; agni-dagdhá burnt with fire; devá-tta⁷ given by the gods; aritra-páraṇa, adj. crossing with oars; tanū-śubhra shining (with\=) in body; bala-vijñāyá to be recognized by his strength.
 
@@ -12800,7 +12800,7 @@ A. The first member (substantive or pronoun) may have the sense (and often even 
 4\. Abl.: go-já produced from cows; tívra-sú-t pressed from the fermenting mass.
 
 
-#strong[5. Gen.] (the commonest sense): rāja-putra king's son; vis-páti lord of the clan; deva-kilbiṣa m. offence against the gods; dru-padá n. post of wood.
+*5. Gen.* (the commonest sense): rāja-putra king's son; vis-páti lord of the clan; deva-kilbiṣa m. offence against the gods; dru-padá n. post of wood.
 
 6\. Loc.: áhar-jata (AV.) born in the day; uda-plutá (AV.) swimming in the water; puru-bhú being in many places; bandhu-ksit dwelling among relatives.
 
@@ -12866,17 +12866,17 @@ T
 #v(0.18em)
 
 
-#strong[188. This] class of Determinatives is comparatively rare in the Saṃhitās. The last member is generally an ordinary substantive, but is sometimes a verbal or an ordinary adjective. The relation of the first member to the last is appositional, attributive, or adverbial. It is expressed in three ways:
+*188. This* class of Determinatives is comparatively rare in the Saṃhitās. The last member is generally an ordinary substantive, but is sometimes a verbal or an ordinary adjective. The relation of the first member to the last is appositional, attributive, or adverbial. It is expressed in three ways:
 
 
-#strong[1. By] a Substantive. If followed by a subst., it has an attributive sense equivalent to an adj. expressing sex or a compound nature; e. g. puruṣa-mṛgá (VS.) m. (man \=) male antelope; úlūka-yātu m. owl demon, i. e. demon in form of an owl; puruṣa-vyāghrá (VS.) m. man-tiger, a kind of demon; vṛṣá-kapi m. man-ape.
+*1. By* a Substantive. If followed by a subst., it has an attributive sense equivalent to an adj. expressing sex or a compound nature; e. g. puruṣa-mṛgá (VS.) m. (man \=) male antelope; úlūka-yātu m. owl demon, i. e. demon in form of an owl; puruṣa-vyāghrá (VS.) m. man-tiger, a kind of demon; vṛṣá-kapi m. man-ape.
 
 If followed by a verbal adj., the preceding subst. is usually appositional in sense; e. g. īśāna-kṛt acting as a ruler; stóma-taṣṭa fashioned as a hymn of praise. But sometimes it is adverbial; e. g. ṛtv-ij sacrificing in season \= regularly; sárga-takta speeding with a rush.
 
 a. Before a verbal noun a substantive sometimes implies a comparison; e.g. dhāra-vāká sounding like a stream, syená-jūta speeding like an eagle. Similarly before an ordinary adjective: suka-babhru (VS.) reddish like a parrot.
 
 
-#strong[2. By] an Adjective. If followed by an ordinary subst., the adj. has the usual attributive sense; e.g. candrá-más m. (bright) moon; kṛṣṇa-sakuni (AV.) m. raven (lit. black
+*2. By* an Adjective. If followed by an ordinary subst., the adj. has the usual attributive sense; e.g. candrá-más m. (bright) moon; kṛṣṇa-sakuni (AV.) m. raven (lit. black
 
 #page-footnotes((
   [¹ Final u sometimes appears as a shortened form of ū in some Tatpuruṣas, as dhī-jú inspiring the mind; puru-bhú appearing in many places.],
@@ -12901,7 +12901,7 @@ If followed by a verbal noun, the preceding adj. is adverbial in sense;⁵ e. g.
 a. At the end of Karmadhārayas the final n of an stems is dropped⁸ in eka-vṛṣā (AV.) m. only bull, mahā-vṛṣā (AV.) m. great bull, bhadrāhā⁹ (AV.) n. auspicious day.
 
 
-#strong[3. By] an Adverb (inclusive of particles and prepositions): akṣṇayā-drúh injuring wrongly; amutra-bhūya (AV.) n. state of being there; evāra quite (evā) ready (āra); púnar-nava renewing itself; punar-bhū arising again; puro-yāvan going before; puró-hita placed in front; sató-mahat equally (sa-tás) great; satyám-ugra truly mighty; sāyaṃ-bhavā
+*3. By* an Adverb (inclusive of particles and prepositions): akṣṇayā-drúh injuring wrongly; amutra-bhūya (AV.) n. state of being there; evāra quite (evā) ready (āra); púnar-nava renewing itself; punar-bhū arising again; puro-yāvan going before; puró-hita placed in front; sató-mahat equally (sa-tás) great; satyám-ugra truly mighty; sāyaṃ-bhavā
 
 T 2
 
@@ -12936,10 +12936,10 @@ T 2
 #v(0.18em)
 
 
-#strong[189. These] compounds are secondary adjectives. They are determinatives (generally Karmadhārayas), ending in substantives, which have been transformed into adjectives agreeing in gender, number, and case with another substantive expressed or understood. The transformation is accompanied by a shift of accent from the final member to the first. The term 'possessive' is probably the most appropriate as applied to these compounds, for it expresses their general meaning in the vast majority of cases; in a few instances the more comprehensive sense of 'connected with' is required to indicate the relation between the substantive and the Bahuvrīhi compound agreeing with it; e. g. viśvá-nara belonging to all men. Possessives are of two kinds:
+*189. These* compounds are secondary adjectives. They are determinatives (generally Karmadhārayas), ending in substantives, which have been transformed into adjectives agreeing in gender, number, and case with another substantive expressed or understood. The transformation is accompanied by a shift of accent from the final member to the first. The term 'possessive' is probably the most appropriate as applied to these compounds, for it expresses their general meaning in the vast majority of cases; in a few instances the more comprehensive sense of 'connected with' is required to indicate the relation between the substantive and the Bahuvrīhi compound agreeing with it; e. g. viśvá-nara belonging to all men. Possessives are of two kinds:
 
 
-#strong[1. Karmadhāraya] Possessives, in which the first member is an attributive adj. (including participles), an appositional subst., or an adverb (including particles and prepositions): e. g. ugrá-bāhu powerful-armed; hatá-mātr whose mother has been slain; rúśad-vatsa having a shining calf; áśva-parṇa horse-winged, i. e. whose wings are horses; índra-śatru having Indra as a foe; rājá-putra having kings as sons; hiraṇya-nemi whose fellies are (made of) gold; aṣṭá-pad² eight-footed, dvi-pád³ two-footed; itthá-dhī having such thought, devout; puro-rathá whose car is in front; ví-grīva wry-necked;
+*1. Karmadhāraya* Possessives, in which the first member is an attributive adj. (including participles), an appositional subst., or an adverb (including particles and prepositions): e. g. ugrá-bāhu powerful-armed; hatá-mātr whose mother has been slain; rúśad-vatsa having a shining calf; áśva-parṇa horse-winged, i. e. whose wings are horses; índra-śatru having Indra as a foe; rājá-putra having kings as sons; hiraṇya-nemi whose fellies are (made of) gold; aṣṭá-pad² eight-footed, dvi-pád³ two-footed; itthá-dhī having such thought, devout; puro-rathá whose car is in front; ví-grīva wry-necked;
 
 #page-footnotes((
   [¹ Here the adverbs preceding ordinary substantives are \= adjectives.],
@@ -12965,14 +12965,14 @@ a. In some possessives based on appositional Karmadhārayas a comparison of the 
 b. The superlatives jyéṣṭha chief and śréṣṭha best, the comparative bhūyas more, and pára higher, are used substantively as final member of possessives: índra-jyeṣṭha having Indra as chief, yamá-śreṣṭha (AV.) of whom Yama is best, ásthi-bhūyāṃs (AV.) having bone as its chief part – chiefly bone, avara-s-pará² (VS.) in which the lower is higher, topsy-turvy.
 
 
-#strong[2. In] Tatpuruṣa Possessives the first member most commonly has a gen., not infrequently a loc., but rarely an inst. or acc. sense. The case-ending is in several instances retained. Examples are: rāyás-kāma having a desire for wealth; divi-yoni having (his) origin in heaven; bhāśā-ketu recognizable by light; tvāṃ-kāma having a desire for thee.
+*2. In* Tatpuruṣa Possessives the first member most commonly has a gen., not infrequently a loc., but rarely an inst. or acc. sense. The case-ending is in several instances retained. Examples are: rāyás-kāma having a desire for wealth; divi-yoni having (his) origin in heaven; bhāśā-ketu recognizable by light; tvāṃ-kāma having a desire for thee.
 
 a. In possessives based on gen. Tatpuruṣas, the first member often implies a comparison, but never with a case-ending; as agní-tejas (AV.) having the brightness of fire, fire-bright; r̥kṣa-grīva bear-necked; gó-vapus cow-shaped; máno-java having the swiftness of thought, swift as thought; mayūra-roman having the plumes of peacocks.
 
 b. When a loc. sense is intended, parts of the body appear as the last member; e. g. áśru-mukhá (AV.) having tears on her face, tear-faced; ghṛtá-pr̥ṣṭha having butter on his back, butter-backed; pātra-hasta (AV.) having a vessel in his hand; maṇi-grīvá having pearls on the neck; mádhu-jihva having honey on his tongue; vájra-bāhu having a bolt on his arm.
 
 
-#strong[3. Bahuvrīhis] come to be used substantively, when the noun with which they agree is dropped: thus su-parṇá fair-winged, m. bird. Of this use there are three applications:
+*3. Bahuvrīhis* come to be used substantively, when the noun with which they agree is dropped: thus su-parṇá fair-winged, m. bird. Of this use there are three applications:
 
 a. These compounds very frequently appear as m., sometimes as f., proper names, the adjectival sense often not
 
@@ -12999,7 +12999,7 @@ b. They appear not infrequently as n. substantives with an abstract (sometimes a
 c. With numerals, from dvi two upwards, as their first member, they form sing. neuters¹ (always ending in accented á) with a collective sense; e. g. tri-yugá n. period of three lives; dvi-rājá (AV.) n. battle of two kings; daśāṅgulá n. length of ten fingers (4 d).
 
 
-#strong[4. The] final member of Bahuvrihis is liable to various changes tending to make it end in a.
+*4. The* final member of Bahuvrihis is liable to various changes tending to make it end in a.
 
 a. The n of several words in an, kárman,² dháman, náman, párvan, vfsan, sakthán, is frequently dropped in ordinary Bahuvrihis, and that of áhan in numeral collectives; e. g. visvá-karma³ performing all work, priyá-dhama occupying desirable places, chando-námá (VS.) named metre, metrical, vi-parva⁴ jointless, dvi-vrsá (VS.) having two bulls, lomasá-saktha (VS.) having hairy thighs; sad-ahá (AV.) m. period of six days.
 
@@ -13039,7 +13039,7 @@ e. In the f. of Bahuvrīhis ṛāti husband or lord, instead of remaining unchan
 189 A. In this class, which embraces a considerable number of compounds, the first member, being either a preposition or a verbal noun, governs the last in sense. They resemble Bahuvrīhis in form² as well as in their adjectival character.
 
 
-#strong[1. In] the prepositional group, in which about twenty examples occur in the RV., the first member is a preposition capable of governing a case; e. g. ati-rātrā³ lasting overnight; anu-kāmā according to wish; ā-pathi and ā-pathi being on the way; paro-mātrā going beyond measure, excessive.
+*1. In* the prepositional group, in which about twenty examples occur in the RV., the first member is a preposition capable of governing a case; e. g. ati-rātrā³ lasting overnight; anu-kāmā according to wish; ā-pathi and ā-pathi being on the way; paro-mātrā going beyond measure, excessive.
 
 a. Like Bahuvrihis, compounds of this type may become substantives; e.g. upanas-á adj. being on a wagon, n. (AV.) space on a wagon.
 
@@ -13065,7 +13065,7 @@ b. The final member, when it does not end in a, adds the suffix a, and ya someti
 ]
 
 
-#strong[2. In] the verbally governing class the first member is an agent noun or an action noun governing the last member as an object. With a single exception¹ they never add a suffix. Three types (in all of which examples of proper names occur) may be distinguished.
+*2. In* the verbally governing class the first member is an agent noun or an action noun governing the last member as an object. With a single exception¹ they never add a suffix. Three types (in all of which examples of proper names occur) may be distinguished.
 
 a. In the commonest type, which is almost restricted to the RV., the first member is a participle ending in át formed from transitive present stems in a, á, or áya; e. g. ṛdhád-vāra² increasing goods, tarád-dveṣas overcoming (tárat) foes, dhārayát-kavi supporting the wise, mandayát-sakha³ gladdening his friend. The following are used as proper names: ṛdhád-ray² (increasing wealth), jamád-agni⁴ (going to Agni), bharád-vāja (carrying off the prize).
 
@@ -13161,7 +13161,7 @@ g. The only example of a verbal form occurring as an iterative is píba-píba dr
 #fit-page[
 #folio("", "OUTLINES OF SYNTAX", "283")
 
-#strong[190. Having] in the preceding parts of the present grammar dealt with single words in their phonetic, their derivative, and their inflexional aspects, we now turn to their treatment in syntax, which regards their arrangement and mutual meaning when they are combined to form a sentence, which is the expression of a connected and definite unit of thought. The parts of which the sentence may consist are either inflected words: the noun (substantive and adjective) and the verb, the participle which shares the nature of both, and the pronoun; or uninflected words: prepositions, adverbs, and conjunctions. A comparison of the syntax of the RV. with that of classical Sanskrit shows (1) that the use of the middle voice, the tenses, the moods, the inflected participles, the infinitives, and the genuine prepositions is much fuller and more living in the former, while (2) that of the passive voice and of indeclinable participles is much less developed, that of absolute cases and of adverbial prepositions with case-endings is only incipient, and that of periphrastic verbal forms is non-existent. The later Saṃhitās and the Brāhmaṇas exhibit a gradual transition by restriction or loss in the former group and by growth in the latter to the condition of things prevailing in classical Sanskrit.
+*190. Having* in the preceding parts of the present grammar dealt with single words in their phonetic, their derivative, and their inflexional aspects, we now turn to their treatment in syntax, which regards their arrangement and mutual meaning when they are combined to form a sentence, which is the expression of a connected and definite unit of thought. The parts of which the sentence may consist are either inflected words: the noun (substantive and adjective) and the verb, the participle which shares the nature of both, and the pronoun; or uninflected words: prepositions, adverbs, and conjunctions. A comparison of the syntax of the RV. with that of classical Sanskrit shows (1) that the use of the middle voice, the tenses, the moods, the inflected participles, the infinitives, and the genuine prepositions is much fuller and more living in the former, while (2) that of the passive voice and of indeclinable participles is much less developed, that of absolute cases and of adverbial prepositions with case-endings is only incipient, and that of periphrastic verbal forms is non-existent. The later Saṃhitās and the Brāhmaṇas exhibit a gradual transition by restriction or loss in the former group and by growth in the latter to the condition of things prevailing in classical Sanskrit.
 
 
 #v(0.30em)
@@ -13169,7 +13169,7 @@ g. The only example of a verbal form occurring as an iterative is píba-píba dr
 #v(0.18em)
 
 
-#strong[191. Since] metrical considerations largely interfere with the ordinary position of words in the Saṃhitās, the normal order is best represented by the prose of the Brāhmaṇas,
+*191. Since* metrical considerations largely interfere with the ordinary position of words in the Saṃhitās, the normal order is best represented by the prose of the Brāhmaṇas,
 
 ]
 
@@ -13253,7 +13253,7 @@ a. The last position in the sentence is exceptionally occupied in the following 
 #fit-page[
 #folio("192-193]", "ORDER OF WORDS", "287")
 
-#strong[192. There] is neither an indefinite nor a definite article in the Vedic language. Their meaning is inherent in the substantive much as personal pronouns are in forms of the definite verb. Whether the one or the other is meant is made sufficiently clear by the context; e. g. agním iḷe puróhitam I praise Agni the domestic priest (i. 1¹); agním manye pitáram Agni I deem a father (x. 7³). In B. the anaphoric use of tá is sometimes very nearly equivalent to the definite article (cp. 195 B 3 b, p. 294).
+*192. There* is neither an indefinite nor a definite article in the Vedic language. Their meaning is inherent in the substantive much as personal pronouns are in forms of the definite verb. Whether the one or the other is meant is made sufficiently clear by the context; e. g. agním iḷe puróhitam I praise Agni the domestic priest (i. 1¹); agním manye pitáram Agni I deem a father (x. 7³). In B. the anaphoric use of tá is sometimes very nearly equivalent to the definite article (cp. 195 B 3 b, p. 294).
 
 
 #v(0.30em)
@@ -13263,12 +13263,12 @@ a. The last position in the sentence is exceptionally occupied in the following 
 193\. 1\. Singular words with a plural or a collective sense are always treated strictly as singulars, being never construed with a plural form of the verb (cp. 194).
 
 
-#strong[2. The] dual number is in regular use and, generally speaking, in strict application. But in certain parts of the RV. the plural is often used instead of the dual of natural pairs; sometimes also otherwise; e. g. sám añjantu víśve deváḥ, sám ápo hṛdayāni nau let all the gods, let the waters unite the hearts of us two (x. 85⁴⁷).
+*2. The* dual number is in regular use and, generally speaking, in strict application. But in certain parts of the RV. the plural is often used instead of the dual of natural pairs; sometimes also otherwise; e. g. sám añjantu víśve deváḥ, sám ápo hṛdayāni nau let all the gods, let the waters unite the hearts of us two (x. 85⁴⁷).
 
 a. A m. or f. du. is sometimes used to express a male and female of the same class; e. g. pitárā \= father and mother; mātárā \= mother and father. This type of the dual has its widest application in naming pairs of deities by means of one of them and is equivalent to dual compounds containing both names; e. g. dyávā heaven and earth (\= dyávā-pṛthivī); uṣāsā Dawn and Night (\= uṣāsā-náktā); mitrā Mitra and Varuṇa (\= mitrā-váruṇā). Sometimes the other member of the pair is added in the N. sing.; e. g. mitrā tánā ná rathyā váruṇo yás ca sukrátuḥ Mitra (and Varuṇa) and the very wise Varuṇa, like two constant charioteers (viii. 25²).
 
 
-#strong[3. a. The] plural is sometimes used (analogously to the dual) so as to include the other two of a group of three; e. g. dyávaḥ the (three) heavens \= heaven, air, and earth;
+*3. a. The* plural is sometimes used (analogously to the dual) so as to include the other two of a group of three; e. g. dyávaḥ the (three) heavens \= heaven, air, and earth;
 
 ]
 
@@ -13292,7 +13292,7 @@ b. The 1\. pers. pl. is sometimes loosely used instead of the sing. or du.; thus
 #v(0.18em)
 
 
-#strong[194. The] rules of concord in case, person, gender, and number are in general the same as in other inflexional languages.
+*194. The* rules of concord in case, person, gender, and number are in general the same as in other inflexional languages.
 
 #page-footnotes((
   [¹ To this use is probably due the conception of the three heavens and three earths in Vedic cosmology.],
@@ -13309,7 +13309,7 @@ b. The 1\. pers. pl. is sometimes loosely used instead of the sing. or du.; thus
 A. 1\. To the rule that the verb agrees with its substantive in person and number the exceptions are very rare. Thus the sing. of the word tva many, having a pl. sense, appears once with a pl. verb: jáyān u tvo juhvati many a one sacrifices for victories (MS.). On the other hand, there are a few examples in the RV. of a neut. pl. taking a verb in the sing.; e. g. dhṛṣṇáve dhīyate dhánā to the bold man booty accrues (i. 81³).
 
 
-#strong[2. a. When] two sing. subjects have one verb, the latter in most cases is in the dual; e. g. índraś ca yád yuyudhāte áhiś ca when Indra and the dragon fought (i. 32¹³); ŭrjaṁ no dyáuś ca pṛthivī ca pinvatām may heaven and earth increase our strength (vi. 70⁶); índraś ca sómaṁ pibataṁ bṛhaspate do ye two, Indra and (thou), O Bṛhaspati, drink Soma (iv. 50¹⁰).
+*2. a. When* two sing. subjects have one verb, the latter in most cases is in the dual; e. g. índraś ca yád yuyudhāte áhiś ca when Indra and the dragon fought (i. 32¹³); ŭrjaṁ no dyáuś ca pṛthivī ca pinvatām may heaven and earth increase our strength (vi. 70⁶); índraś ca sómaṁ pibataṁ bṛhaspate do ye two, Indra and (thou), O Bṛhaspati, drink Soma (iv. 50¹⁰).
 
 When one only of two subjects is expressed, the other having to be supplied, the verb is also in the dual; e. g. á yád índraś ca dádvahe when (I) and Indra receive (viii. 34¹⁶); bṛhaspate yuvám índraś ca vásvo divyásya, īśāthe O Bṛhaspati, ye two, (thou) and Indra, dispose of heavenly wealth (vii. 97¹⁰). In B. this usage seems to be found only when the verb is in the third person; e. g. prajāpatiḥ prajā asṛjata: tā bṛhaspátiś ca, anvávaitām Prajāpati created beings: (he) and Bṛhaspati followed them (TS.).
 
@@ -13320,7 +13320,7 @@ a. In a minority of cases two sing. subjects take a sing. verb when they are equ
 b. When there are more than two subjects the verb is not necessarily in the pl., but may agree with only one of them.
 
 
-#strong[1. If] each of the subjects is sing. the verb is sing.; e. g.
+*1. If* each of the subjects is sing. the verb is sing.; e. g.
 
 1819
 
@@ -13341,7 +13341,7 @@ U
 ]
 
 
-#strong[2. If] the subjects are of different numbers the verb may agree with either one or the other; e. g. ávad índraṃ yamúnā tṛtsavaś ca Yamunā and the Tṛtsus helped Indra (vii. 18¹⁹); índro vidur áṅgirasaś ca Indra and the Aṅgirases know it (x. 108¹⁰).
+*2. If* the subjects are of different numbers the verb may agree with either one or the other; e. g. ávad índraṃ yamúnā tṛtsavaś ca Yamunā and the Tṛtsus helped Indra (vii. 18¹⁹); índro vidur áṅgirasaś ca Indra and the Aṅgirases know it (x. 108¹⁰).
 
 The du. and pl. take the du. or the pl.; e. g. giráyaś ca dṛḷhā dyávā ca bhūmā tujete the firm mountains and heaven and earth trembled (i. 61¹⁴); dyávā ca yátra pīpáyann áhā ca where heaven and earth and the days have given abundance (vii. 65²).
 
@@ -13350,7 +13350,7 @@ a. In B. a sing. and a du. subject take a verb in the sing. or pl.; e. g. vyāma
 β. In B. anyò 'nyá one another takes the verb in the sing., du., or pl. according as one, two, or several agents are intended; e. g. tābhyaḥ sá nīr ṛchād yó naḥ prathamò 'nyò 'nyásmai drúhyāt of these he shall be deprived who first of us may cheat another (TS.); néd anyò 'nyáṃ hinásātaḥ lest they injure each other (ŚB.); táni sṛṣṭány anyò 'nyéna aspardhanta being created they fought with one another (ŚB.).
 
 
-#strong[3. When] two or more subjects of different persons take a verb in the du. or pl. the first person is preferred to the second or third, the second to the third; e. g. aháṃ ca tváṃ ca sáṃ yujyāva I and thou will unite together (viii. 62¹¹); táṃ yūyáṃ vayáṃ ca aśyáma may you and we obtain him (ix. 98¹²). Occasionally, however, the third person is preferred to the first; e. g. amí ca yé maghávāno vayáṃ ca mihaṃ ná súro áti niṣ ṭatanyuḥ may these patrons and we pierce through as the sun the mist (i. 141¹³).
+*3. When* two or more subjects of different persons take a verb in the du. or pl. the first person is preferred to the second or third, the second to the third; e. g. aháṃ ca tváṃ ca sáṃ yujyāva I and thou will unite together (viii. 62¹¹); táṃ yūyáṃ vayáṃ ca aśyáma may you and we obtain him (ix. 98¹²). Occasionally, however, the third person is preferred to the first; e. g. amí ca yé maghávāno vayáṃ ca mihaṃ ná súro áti niṣ ṭatanyuḥ may these patrons and we pierce through as the sun the mist (i. 141¹³).
 
 B. 1\. An attributive adjective agrees with its substantive in gender, number, and case. The exceptions are few
 
@@ -13373,7 +13373,7 @@ a. The cardinals from five to nineteen, being adjectives, show some peculiaritie
 b. The cardinals from 20 upwards being substantives in form may govern a G.; e.g. ṣaṣṭím áśvánām sixty horses, śatám gónām a hundred kine, sahásrāṇi gávām thousands of kine. They are, however, generally treated like adjectives; but being collectives they take sing. endings in concord with pl. cases; e.g. triṃśád devāḥ thirty gods, triṃśátam yójanāni thirty yojanas (acc.), triṃśátā háribhiḥ with thirty bays, tra-yastriṃśato devānām of thirty gods (AB.). śatám hundred and sahásram thousand are used as the nom. acc. form in agreement with plurals; e.g. śatám púraḥ a hundred forts, sahásram hárayaḥ a thousand bays, sahásram paśún a thousand beasts (TS.); they also appear in the same sense in the plural; e.g. śatá púraḥ a hundred forts, sahásrāṇy ádhi-rathāni a thousand wagon loads (x. 98⁹). śatám and sahásram are also found (but not in B.) with an inst. pl., as śatám pūrbhiḥ with a hundred forts beside śaténa háribhiḥ with a hundred bays, sahásram ṛṣibhiḥ with a thousand seers. The noun accompanying sahásra occasionally appears by a kind of attraction in the sing.: śúnaś cic chépam níditaṃ sahásrād yúpād amuñcaḥ thou didst deliver Śunaḥśepa, who was bound, from a thousand posts (v. 2⁷): this use does not seem to occur in B.
 
 
-#strong[2. A] predicative adjective used with as or bhū (often to be supplied) agrees in gender and number with its subject.
+*2. A* predicative adjective used with as or bhū (often to be supplied) agrees in gender and number with its subject.
 
 a. The nom. of īśvará capable used thus in B. is equivalent to a verb \= be able. The concord here is in the majority of cases normal; e.g. īśvaró vá áśvó 'yató 'pratiṣṭhitaḥ párāṃ parávátam gántoḥ a horse if unbridled and unobstructed can go to an extreme distance (TS.); sā enam īśvará pradáhaḥ she can burn him (TS.); īśvaráu vá etáu nirdáhaḥ both of them can burn (ŚB.); tāny enam īśvaráṇi pratinúdaḥ they can drive him away (MS.). Sometimes, however, the concord of either number or gender, or of both, is neglected; e.g. tám īśvaráṃ rákṣāṃsi hántoḥ the demons can kill him (TS.); tásya īśvaráḥ prajá pápiyasī bhávitoḥ his offspring can degenerate (ŚB.); īśvaró ha etá ánagnicitaṃ saṃtáptoḥ these (f. pl.) are liable to weigh heavily upon one who has not built a fire altar (ŚB.). In the last two examples quoted
 
@@ -13396,7 +13396,7 @@ U 2
 b. The use of a predicative adjective referring to two or more substantives differing in gender is very rare; it then seems to agree in gender with the subst. nearest it, or the masc. seems to have been preferred to the neut.; e. g. trayā́ vái náirṛtā akṣā́ḥ stríyaḥ svápnab (MS.) dice, women, and sleep (are) the treble pernicious (things); evā́ hy àsya kámyā stóma ukthám ca śámsyā thus indeed his two favourites, stoma and uktha, are to be recited (i. 8¹⁰). A predicative adj. dependent on kr agrees with its subst.; if there are two, the du. is used; e. g. dáiviṃ ca vává asmā etád víśam mānuṣíṃ ca ánuvartmānau karoti so he makes the divine and the human folk obedient to him (MS.).
 
 
-#strong[3. As] in Greek and Latin, a demonstrative pronoun agrees with a predicative noun in gender and number; e. g. ye tuṣāḥ sā tvak what (are) the husks (that \=) those (are) the skin (AB.); yád áśru sámkṣāritam ásit táni váyāṃsi abhavan what was the concentrated tear (those \=) that became the birds (ŚB.).
+*3. As* in Greek and Latin, a demonstrative pronoun agrees with a predicative noun in gender and number; e. g. ye tuṣāḥ sā tvak what (are) the husks (that \=) those (are) the skin (AB.); yád áśru sámkṣāritam ásit táni váyāṃsi abhavan what was the concentrated tear (those \=) that became the birds (ŚB.).
 
 
 #v(0.30em)
@@ -13404,7 +13404,7 @@ b. The use of a predicative adjective referring to two or more substantives diff
 #v(0.18em)
 
 
-#strong[195. A.] Personal. a. Owing to its highly inflexional character the Vedic language, like Latin and Greek, uses the nominatives of personal pronouns far less frequently than modern European languages do. Being already inherent in the first and second persons of the finite verb such pronouns are expressed separately only when they require emphasizing.
+*195. A.* Personal. a. Owing to its highly inflexional character the Vedic language, like Latin and Greek, uses the nominatives of personal pronouns far less frequently than modern European languages do. Being already inherent in the first and second persons of the finite verb such pronouns are expressed separately only when they require emphasizing.
 
 b. The unaccented forms of ahám and tvám (109 a) being enclitic, can be used neither at the beginning of a sentence or metrical line (Pāda), nor after vocatives, nor before emphasizing, conjunctive or disjunctive particles.
 
@@ -13427,7 +13427,7 @@ c. Bhavān Your Honour, the polite form of tvám, which first comes into use in 
 B. Demonstrative. 1\. ayám this (here) is a deictic pronoun used adjectivally of what is in the neighbourhood, presence, or possession of the speaker, and may often be translated by here; e. g. ayám ta emi tanvā purástāt here I come with my body before thee (viii. 100¹); iyám mátir máma this my hymn; ayám vātaḥ the wind here (on earth); ayám jánaḥ the people here (vii. 55⁵); idám bhúvanam this world; ayám agniḥ Agni here (present). In the RV. ayám is sometimes used even with div heaven and ādityá sun as if they were included in the environment of the speaker.
 
 
-#strong[2. Opposed] to ayám is asáu that (there), applied to objects remote from the speaker, as heaven and its phenomena, immortals, persons who are not present or are at a distance; e. g. amī yé devā sthána triṣú á rocané diváḥ ye, O gods, who are there, in the three bright realms of heaven (i. 105⁵); amī ca yé maghávāno vayám ca those (absent) patrons and we (i. 141¹³); asáu yá éṣi vīrakáḥ you who go there, a mannikin (viii. 91²).
+*2. Opposed* to ayám is asáu that (there), applied to objects remote from the speaker, as heaven and its phenomena, immortals, persons who are not present or are at a distance; e. g. amī yé devā sthána triṣú á rocané diváḥ ye, O gods, who are there, in the three bright realms of heaven (i. 105⁵); amī ca yé maghávāno vayám ca those (absent) patrons and we (i. 141¹³); asáu yá éṣi vīrakáḥ you who go there, a mannikin (viii. 91²).
 
 a. In B. the usage is similar, only the contrast is more definite: it is typical in referring to the earth (iyám) and the heavenly world (asáu), and in the phrases yò 'yám pávate he who blows here (\= Wind), and yò 'sáu tápati he who burns there (\= Sun), and asáv ādityáḥ the sun there. In B. asáu is besides used in a formulaic way (\= so and so) when the actual name is to be substituted; e. g. asáu náma ayám idámrūpaḥ he here, having this form, is so and so by name (ŚB.). In addressing a person the voc. form ásau is also used thus: yáthā vá idám nāmagrāham ásā ásā íti hváyati as one here (\= in ordinary life) by way of mentioning the name calls: 'you there, you there' (MS.).
 
@@ -13510,7 +13510,7 @@ b. In its anaphoric use etá expresses identity with that to which it refers bac
 5\. tyá occurs only in the sense of that (well known); e. g. kvà tyáni nau sakhyá babhūvuḥ what has become of those friendships of us two? (vii. 88⁵). It often follows forms of the demonstrative pronouns etá and idám; e. g. eté tyé bhānáva uṣása āguḥ here those (familiar) beams of Dawn have come (vii. 75³); imám u tyám atharvavád agniṁ manthanti they, like Atharvan, rub forth that (famous) Agni here (vi. 15¹⁷). The neuter tyád is sometimes used after the relative yá, and often after the particle ha, in an adverbial sense; e. g. yásya tyác chámbaraṁ máde dívodāsāya randháyaḥ in the exhilaration of which (Soma) thou didst at that time subject Śambara to Divodāsa (vi. 43¹).
 
 
-#strong[6. The] pronoun a that in its substantive sense (\= he, she, it, they), when it is unaccented, not infrequently appears as an unemphatic correlative (while the accented form is a deictic adjective); e. g. yásya deváir áśado barhir agne, áhāni asmai sudínā bhavanti on whose litter thou, O Agni, hast sat down, fair days arise for him (vii. 11²); yá vāṁ śatáṁ niyútaḥ sácante, ábhir yātam arvák the hundred teams that accompany you, with them do ye two come hither (vii. 91⁶); nákir eṣāṁ ninditá mártyeṣu, yé asmákaṁ pitáro góṣu yodhāḥ there is among mortals no reproacher of them who, (being) our fathers, were fighters for cows (iii. 39⁴).
+*6. The* pronoun a that in its substantive sense (\= he, she, it, they), when it is unaccented, not infrequently appears as an unemphatic correlative (while the accented form is a deictic adjective); e. g. yásya deváir áśado barhir agne, áhāni asmai sudínā bhavanti on whose litter thou, O Agni, hast sat down, fair days arise for him (vii. 11²); yá vāṁ śatáṁ niyútaḥ sácante, ábhir yātam arvák the hundred teams that accompany you, with them do ye two come hither (vii. 91⁶); nákir eṣāṁ ninditá mártyeṣu, yé asmákaṁ pitáro góṣu yodhāḥ there is among mortals no reproacher of them who, (being) our fathers, were fighters for cows (iii. 39⁴).
 
 ]
 
@@ -13527,7 +13527,7 @@ b. In its anaphoric use etá expresses identity with that to which it refers bac
 #v(0.18em)
 
 
-#strong[196. The] nominative, as in other languages, is mainly used as the subject of a sentence.
+*196. The* nominative, as in other languages, is mainly used as the subject of a sentence.
 
 a. A second nominative is employed as a predicate with certain verbs beside the subject, that is, with verbs meaning be, become, seem or be accounted, think oneself; e. g. tvám hí ratnadhá ási for thou art a bestower of treasure (i. 15³); śivásah sánto áśivá abhūvan being friendly they have become unfriendly (v. 12⁵); ékaviṃśatih sám padyante they become twenty-one (TS.);¹ gókāmā me achadayan they seemed to me desirous of cows (x. 108¹⁰); ṛṣiḥ kó vípra ohate who counts as a seer, as a singer? (viii. 3¹⁴); apratír mánya-mānah thinking himself irresistible (v. 32³); sómaṃ manyate papiván he believes he has drunk Soma (x. 85³); parābhaviṣ-yánto manāmahe we think we are about to perish (TS.).
 
@@ -13564,15 +13564,15 @@ a. Since apparently two vocatives cannot be connected with ca, the nom. often ap
 #v(0.18em)
 
 
-#strong[197. A.] This case is usually employed in connexion with verbs in various ways. Besides its ordinary use of denoting the object of transitive verbs, the acc. is employed to express:
+*197. A.* This case is usually employed in connexion with verbs in various ways. Besides its ordinary use of denoting the object of transitive verbs, the acc. is employed to express:
 
 
-#strong[1. the] goal with verbs of motion, chiefly gam, also i, much less often yā, car, and sṛ and some others. The acc. may be a person, a place, an activity or a condition; e. g. yamám ha yajñó gachati to Yama goes the sacrifice (x. 14¹³); devám id eṣi pathíbhiḥ sugébhiḥ to the gods thou goest by paths easy to traverse (i. 162²¹); índraṃ stómāś caranti to Indra fare the songs of praise (x. 47⁷); sāraj jāró ná yóṣaṇām he sped like a lover to a maiden (ix. 101¹⁴); mā tvát kṣétrāṇy áraṇāni gamma may we not go from thee to strange fields (vi. 61¹⁴); sabhám eti kitaváḥ the gambler goes to the assembly (x. 34⁶); jaritúr gachatho hávam ye two go to the call of the singer (viii. 35¹³); táva krátubhir amṛtatvám āyan by thy mental powers they (went to \=) attained immortality (vi. 7⁴).
+*1. the* goal with verbs of motion, chiefly gam, also i, much less often yā, car, and sṛ and some others. The acc. may be a person, a place, an activity or a condition; e. g. yamám ha yajñó gachati to Yama goes the sacrifice (x. 14¹³); devám id eṣi pathíbhiḥ sugébhiḥ to the gods thou goest by paths easy to traverse (i. 162²¹); índraṃ stómāś caranti to Indra fare the songs of praise (x. 47⁷); sāraj jāró ná yóṣaṇām he sped like a lover to a maiden (ix. 101¹⁴); mā tvát kṣétrāṇy áraṇāni gamma may we not go from thee to strange fields (vi. 61¹⁴); sabhám eti kitaváḥ the gambler goes to the assembly (x. 34⁶); jaritúr gachatho hávam ye two go to the call of the singer (viii. 35¹³); táva krátubhir amṛtatvám āyan by thy mental powers they (went to \=) attained immortality (vi. 7⁴).
 
 a. The usage in B. is similar; e. g. prajāpatiḥ prajā asṛjata, tā váruṇam agachan Prajāpati created creatures; they went to Varuṇa (TS.); sá ná dívam apatat he did not fly to heaven (ŚB.); śríyaṃ gacheyam may I (go to \=) attain prosperity (ŚB.).
 
 
-#strong[2. duration] of time (in origin only a special form of the cognate acc.); e. g. śatám jīva śarádo várdhamānaḥ live prospering a hundred autumns (x. 161⁴); só aśvatthé saṃ-vatsarám atiṣṭhat he remained in the Aśvattha tree for a year
+*2. duration* of time (in origin only a special form of the cognate acc.); e. g. śatám jīva śarádo várdhamānaḥ live prospering a hundred autumns (x. 161⁴); só aśvatthé saṃ-vatsarám atiṣṭhat he remained in the Aśvattha tree for a year
 
 ]
 
@@ -13589,15 +13589,15 @@ a. The usage in B. is similar; e. g. prajāpatiḥ prajā asṛjata, tā váru�
 ]
 
 
-#strong[3. extension] of distance (in origin only a special form of the cognate acc.), a use rare in both V. and B.; e. g. yád āśubhiḥ pátasi yójanā purū when with the swift ones thou fliest many leagues (ii. 16³); sā bhūmīm viśvāto vṛtvā́,áty atiṣṭhad daśāṅgulám he covering the earth on all sides extended beyond (it) a distance of ten fingers (x. 90¹); saptá-daśa pravyādhán ājím dhāvanti they run a race (a distance of) seventeen arrow-flights (TB.).
+*3. extension* of distance (in origin only a special form of the cognate acc.), a use rare in both V. and B.; e. g. yád āśubhiḥ pátasi yójanā purū when with the swift ones thou fliest many leagues (ii. 16³); sā bhūmīm viśvāto vṛtvā́,áty atiṣṭhad daśāṅgulám he covering the earth on all sides extended beyond (it) a distance of ten fingers (x. 90¹); saptá-daśa pravyādhán ājím dhāvanti they run a race (a distance of) seventeen arrow-flights (TB.).
 
 
-#strong[4. the] cognate object of intransitive verbs, which may be allied to the latter etymologically or only in sense; e. g. samānám añjí,añjate they deck themselves with like adornment (vii. 57³); yád agne yāsi dūtyám when, O Agni, thou goest on a message (i. 12⁴); tváyā,ádhyakṣeṇa pṛtanā jayema with thee as witness we would conquer in battles (x. 128¹); tásmād rājā saṃgrāmám jitvā́,udājám úd ajate therefore a king, having won a battle, chooses booty for himself (MS.); tisró rātrīr vratám caret he should perform a fast for three nights (TS.).
+*4. the* cognate object of intransitive verbs, which may be allied to the latter etymologically or only in sense; e. g. samānám añjí,añjate they deck themselves with like adornment (vii. 57³); yád agne yāsi dūtyám when, O Agni, thou goest on a message (i. 12⁴); tváyā,ádhyakṣeṇa pṛtanā jayema with thee as witness we would conquer in battles (x. 128¹); tásmād rājā saṃgrāmám jitvā́,udājám úd ajate therefore a king, having won a battle, chooses booty for himself (MS.); tisró rātrīr vratám caret he should perform a fast for three nights (TS.).
 
 a. Verbs meaning to stream or to shine in V. take a cognate acc. with a concrete sense; e. g. rtásya jihvá pavate mádhu the tongue of the rite (Soma) streams mead (ix. 75²), tásmā āpo ghṛtám arṣanti for him the waters stream ghee (i. 125⁵), ví yát sūryo ná rócate bṛhád bhāḥ when, like the sun, he beams forth lofty light (vii. 8⁴).
 
 
-#strong[5. an] adverbial sense. Adverbs of this form all originated in various uses of the acc. which have acquired an independent character. They are formed from:
+*5. an* adverbial sense. Adverbs of this form all originated in various uses of the acc. which have acquired an independent character. They are formed from:
 
 a. substantives; e. g. náktam by night (not during the night like the acc. of time); kámam at will (still rare in the RV.), e. g. kāmam tad dhotā śaṃsed yad dhotrakāḥ pūrvedyuḥ śaṃseyuḥ the Hotṛ may, as he likes, recite what the assistants of the Hotṛ may recite the day before (AB.); nāma by name; e. g. mām dhur índraṃ nāma devātā
 
@@ -13628,7 +13628,7 @@ a. The acc. adverbs from ordinals seem to have been appositional in origin; e. g
 ε. Another group comparatively rare in V., but very common in B., are those formed from prepositionally governing adjectival compounds; e. g. anukāmám tarpayethām satisfy yourselves according to desire (i. 17⁵), adhidevatám with reference to the deity (ŚB.). Probably following the analogy of some of these were formed others in which the first member of the compound is not a preposition, but an adverb derived from the relative yá; e. g. yathā-kāmám ní padyate she turns in according to her desire (x. 146⁵), yāvaj-jivám (as long as \=) for life (ŚB.). Some other adverbial compounds are used like gerunds in am; e. g. stukā-sárgaṃ sṛṣṭā bhavati it is plaited like a braid of hair (ŚB.).
 
 
-#strong[197. B.] The acc. is largely used with verbal nouns. Besides being governed by all participles, active and middle,
+*197. B.* The acc. is largely used with verbal nouns. Besides being governed by all participles, active and middle,
 
 ]
 
@@ -13676,10 +13676,10 @@ a. The preposition vínā without, except, which first occurs in B. (and there h
 #v(0.18em)
 
 
-#strong[198. A] second acc. appears in apposition with various verbs; e.g. púruṣaṃ ha vái devā ágre paśúm á lebhire the gods in the beginning sacrificed a man as a victim (ŚB.). It is further used:
+*198. A* second acc. appears in apposition with various verbs; e.g. púruṣaṃ ha vái devā ágre paśúm á lebhire the gods in the beginning sacrificed a man as a victim (ŚB.). It is further used:
 
 
-#strong[1. predicatively] with verbs of saying (brū, vac), thinking (man), knowing (vid), hearing (śru), making (kr), ordaining (vi-dhā), choosing (vṛ), appointing (ni-dhā) in both V.
+*1. predicatively* with verbs of saying (brū, vac), thinking (man), knowing (vid), hearing (śru), making (kr), ordaining (vi-dhā), choosing (vṛ), appointing (ni-dhā) in both V.
 
 ]
 
@@ -13696,7 +13696,7 @@ a. The preposition vínā without, except, which first occurs in B. (and there h
 ]
 
 
-#strong[2. to] express the person as a direct object beside the thing with verbs of addressing (vac), asking (prach), begging (yāc), approaching with prayer (ī, yā), milking (duh), shaking (dhū), sacrificing to (yaj), doing to (kṛ); e. g. agníṃ mahám avocāmā suvṛktím to Agni we have addressed a great hymn (x. 80⁷); pṛchámi tvā páram ántam pṛthivyáḥ I ask thee about the farthest limit of the earth (i. 164³⁴); yájñavalkyaṃ dváu praśnáu prakṣyāmi I will ask Yájñavalkya two questions (ŚB.); apó yācāmi bheṣajám I beg healing from the waters (x. 9⁵); tád agnihotry agníṃ yācet that the Agnihotṛ should beg of Agni (MS.); vásūni dasmám imahe we approach the wondrous one for riches (i. 42¹⁰); tát tvā yāmi I approach thee for this (i. 24¹¹); duhánty ŭdhar divyáni they milk celestial gifts from the udder (i. 64⁵); imám evá sárvān kámān duhe from her he (milks \=) obtains all desires (ŚB.);
+*2. to* express the person as a direct object beside the thing with verbs of addressing (vac), asking (prach), begging (yāc), approaching with prayer (ī, yā), milking (duh), shaking (dhū), sacrificing to (yaj), doing to (kṛ); e. g. agníṃ mahám avocāmā suvṛktím to Agni we have addressed a great hymn (x. 80⁷); pṛchámi tvā páram ántam pṛthivyáḥ I ask thee about the farthest limit of the earth (i. 164³⁴); yájñavalkyaṃ dváu praśnáu prakṣyāmi I will ask Yájñavalkya two questions (ŚB.); apó yācāmi bheṣajám I beg healing from the waters (x. 9⁵); tád agnihotry agníṃ yācet that the Agnihotṛ should beg of Agni (MS.); vásūni dasmám imahe we approach the wondrous one for riches (i. 42¹⁰); tát tvā yāmi I approach thee for this (i. 24¹¹); duhánty ŭdhar divyáni they milk celestial gifts from the udder (i. 64⁵); imám evá sárvān kámān duhe from her he (milks \=) obtains all desires (ŚB.);
 
 ]
 
@@ -13715,7 +13715,7 @@ a. The preposition vínā without, except, which first occurs in B. (and there h
 a. Of the above verbs vac, ī and yā, dhū, yaj and kṛ do not seem to be found with two acc. in B.; on the other hand ā-gam approach, dhā milk, ji win, jyā wrest from are so used there; e. g. agnir vái váruṇaṃ brahmacáryam ā gachat Agni (approached \=) asked Varuṇa for the position of a religious student (MS.); imāl lokān adhayad yaṃ-yaṃ kāmam akāmayata from these worlds he extracted whatever he desired (AB.); devān ásurā yajñám ajayan the Asuras won the sacrifice from the gods (MS.); índro marutaḥ sahasrım ajināt Indra wrested a thousand from the Maruts (PB.).
 
 
-#strong[3. to] express the agent¹ with causative verbs beside the acc. which would be taken by the simple verb also; e. g. uśán devāṃ uśatáḥ pāyayā havíḥ eager thyself cause the eager gods to drink the libation (ii. 37⁶); tā yájamānaṃ vācayati he makes the sacrificer name them (TS.). With verbs of motion the other acc. expresses the goal (which is, however, never a person)²; e. g. párām evá parāvátáṃ sapátniṃ gamayāmasi to the extreme distance we cause the rival wife to go (x. 145⁴); yájamānaṃ suvargáṃ lokáṃ gamayati he causes the sacrificer to reach the celestial world (TS.).
+*3. to* express the agent¹ with causative verbs beside the acc. which would be taken by the simple verb also; e. g. uśán devāṃ uśatáḥ pāyayā havíḥ eager thyself cause the eager gods to drink the libation (ii. 37⁶); tā yájamānaṃ vācayati he makes the sacrificer name them (TS.). With verbs of motion the other acc. expresses the goal (which is, however, never a person)²; e. g. párām evá parāvátáṃ sapátniṃ gamayāmasi to the extreme distance we cause the rival wife to go (x. 145⁴); yájamānaṃ suvargáṃ lokáṃ gamayati he causes the sacrificer to reach the celestial world (TS.).
 
 a. In B. the agent is frequently put in the inst. instead of the acc. with various causatives, especially that of grah seize; e. g. tā váruṇena agrāhayat (MS.) he caused Varuṇa to seize them (\= he caused them to be seized by Varuṇa).
 
@@ -13744,25 +13744,25 @@ X
 #v(0.18em)
 
 
-#strong[199. A.] The fundamental sense of this case is concomitance, which may variously be rendered by with, by, through, according as it expresses accompaniment, instrumentality or agency, causality, motion through space or duration of time.
+*199. A.* The fundamental sense of this case is concomitance, which may variously be rendered by with, by, through, according as it expresses accompaniment, instrumentality or agency, causality, motion through space or duration of time.
 
 
-#strong[1. In] its sociative sense the instrumental expresses the companion or accompaniment of the subject in any activity; e. g. devó devébhir á gamat may the god come with the gods (i. 1⁵); índreṇa yujá nír apám aubjo arṇavám with Indra as thy companion thou didst release the flood of waters (ii. 23¹⁸); índro no rádhasā á gamat may Indra come to us with wealth (iv. 55¹⁰).
+*1. In* its sociative sense the instrumental expresses the companion or accompaniment of the subject in any activity; e. g. devó devébhir á gamat may the god come with the gods (i. 1⁵); índreṇa yujá nír apám aubjo arṇavám with Indra as thy companion thou didst release the flood of waters (ii. 23¹⁸); índro no rádhasā á gamat may Indra come to us with wealth (iv. 55¹⁰).
 
 a. Similarly in B.: agnir vasubhir ud akrāmat Indra departed with the Vasus (AB.); yéna mántreṇa juhóti tád yájuḥ the spell to the accompaniment of which he offers the oblation is the Yajus (ŚB.); tád asya sáhasā á ditsanta they tried to take it from him by force (TS.).
 
 
-#strong[2. In] its instrumental sense it expresses the means (person or thing) by which an action is accomplished; e. g. vayám índreṇa sanuyāma vájam we would win booty through Indra (i. 101¹¹); áhan vṛtrám índro vájreṇa Indra smote Vṛtra with his bolt (i. 32⁵).
+*2. In* its instrumental sense it expresses the means (person or thing) by which an action is accomplished; e. g. vayám índreṇa sanuyāma vájam we would win booty through Indra (i. 101¹¹); áhan vṛtrám índro vájreṇa Indra smote Vṛtra with his bolt (i. 32⁵).
 
 a. Similarly in B.: kéna víréṇa by whom as champion (ŚB.); śīrṣṇā bījaṃ haranti they carry corn (with \=) on the head (ŚB.); tásmād dákṣiṇena hástena ánnam adyate therefore food is eaten with the right hand (MS.).
 
 
-#strong[3. In] its causal sense it expresses the reason or motive of an action \= by reason of, on account of, for the sake of; e. g. sómasya pītyā . . . á gatam come hither for the sake of the Soma draught (i. 46¹³); áśatrúr janúṣā sanád asi thou art by thy nature without foes from of old (i. 102⁸).
+*3. In* its causal sense it expresses the reason or motive of an action \= by reason of, on account of, for the sake of; e. g. sómasya pītyā . . . á gatam come hither for the sake of the Soma draught (i. 46¹³); áśatrúr janúṣā sanád asi thou art by thy nature without foes from of old (i. 102⁸).
 
 a. Similarly in B.: sá bhīṣā ní lilye he concealed himself through fear (ŚB.); so nāmnā by name.
 
 
-#strong[4. In] its local sense of through or over it is used with
+*4. In* its local sense of through or over it is used with
 
 ]
 
@@ -13781,17 +13781,17 @@ a. Similarly in B.: sá bhīṣā ní lilye he concealed himself through fear (�
 a. In B. the inst. is constantly used in the local sense with words meaning path or door, but rarely with others; e. g. yáthā ákṣetrajūo'nyéna pathā náyet as if one who does not know the district were to lead by a wrong road (ŚB.); sárasvatyā yānti they go along the Śārasvatī (TS.).
 
 
-#strong[5. In] its temporal sense the inst. expresses the time throughout which an action extends; e. g. pūrvíbhir dadāś-imá śarádbhiḥ we have worshipped throughout many autumns (i. 86⁶). Sometimes, however, the sense of duration is not apparent, the inst. being then used like the loc. of time; thus ṛtúnā and ṛtúbhiḥ mean in due season.
+*5. In* its temporal sense the inst. expresses the time throughout which an action extends; e. g. pūrvíbhir dadāś-imá śarádbhiḥ we have worshipped throughout many autumns (i. 86⁶). Sometimes, however, the sense of duration is not apparent, the inst. being then used like the loc. of time; thus ṛtúnā and ṛtúbhiḥ mean in due season.
 
 a. In B. the temporal meaning is rare; e.g. sá vá iṣumātrám eváhnā tiryáññ avardhata he grew in the course of a day quite an arrow's length in width (MS.).
 
 
-#strong[6. Many] instrumentals (chiefly of the sociative and local classes) have come to be used in a purely adverbial sense. Such are formed from either substantives or adjectives (of which sometimes no other form occurs); e. g. áñjasā straight-way, máhobhiḥ mightily, sáhasā and sáhobhis suddenly; ántareṇa within, úttareṇa to the north; uccáis above, nīcáis below, parācáis sideways, prācáis forwards, śánais and śanáis, śanakáis slowly.
+*6. Many* instrumentals (chiefly of the sociative and local classes) have come to be used in a purely adverbial sense. Such are formed from either substantives or adjectives (of which sometimes no other form occurs); e. g. áñjasā straight-way, máhobhiḥ mightily, sáhasā and sáhobhis suddenly; ántareṇa within, úttareṇa to the north; uccáis above, nīcáis below, parācáis sideways, prācáis forwards, śánais and śanáis, śanakáis slowly.
 
 a. In a number of these instrumentals the adverbial use is indicated, not only by the sense, but by a shift of accent; e. g. divā by day; dak-ṣiṇā to the right; madhyā between; naktayā by night; svapnayā in a dream; akṣṇayā across (B.); anomalously formed from u stems: āśuyā quickly, dhṛṣṇuyā boldly, raghuyā swiftly, sādhuyā straightway, mithuyā falsely (mithyā ŚB.), anuṣṭhuyā immediately (anuṣṭhyā B.); and from a pronoun, amuyā in that way.
 
 
-#strong[199. B.] Besides having the above general and independent uses the inst. also appears, in special connexion with
+*199. B.* Besides having the above general and independent uses the inst. also appears, in special connexion with
 
 x 2
 
@@ -13810,7 +13810,7 @@ x 2
 ]
 
 
-#strong[1. with] verbs expressing:
+*1. with* verbs expressing:
 
 a. association or contention with; in RV.: yat marshal, yād combine, yuj join (mid.), sac accompany; yudh fight, spr̥dh strive, hās race, krīḍ play; in B.: yudh fight, vi-ji contend victoriously (with).
 
@@ -13865,7 +13865,7 @@ b. other adjectives, to express that by which the quality in question is produce
 c. numerals accompanied by ná, to express deficiency; e. g. ekāyā ná viṃśatiḥ not twenty by (lack of) one \= nineteen.
 
 
-#strong[3. with] prepositions: genuine prepositions are virtually not used with the instrumental. The only exceptions in
+*3. with* prepositions: genuine prepositions are virtually not used with the instrumental. The only exceptions in
 
 ]
 
@@ -13887,12 +13887,12 @@ c. numerals accompanied by ná, to express deficiency; e. g. ekāyā ná viṃś
 #v(0.18em)
 
 
-#strong[200. The] dative expresses the notion with which an action is concerned. It is either connected with individual words or is used more generally as a complement to the whole statement.
+*200. The* dative expresses the notion with which an action is concerned. It is either connected with individual words or is used more generally as a complement to the whole statement.
 
 A. Dative in a special sense with:
 
 
-#strong[1. verbs] (mostly as affecting persons) having the sense of a. give; in V. B. dā give, yam extend, dhā bestow, bhaj apportion; e. g. dádhāti rátnaṃ vidhaté he bestows treasure on the worshipper (iv. 12³); in V. also many other verbs expressing a modification of the sense of giving: diś assign, áva-duh milk down on, pṛ bestow fully, pṛc bestow abundantly, maṃh give liberally, mā measure out, rā procure (for), ní-yu bestow permanently, vid find (for), san obtain (for), sū set in motion (for), srj shed (for), and others.
+*1. verbs* (mostly as affecting persons) having the sense of a. give; in V. B. dā give, yam extend, dhā bestow, bhaj apportion; e. g. dádhāti rátnaṃ vidhaté he bestows treasure on the worshipper (iv. 12³); in V. also many other verbs expressing a modification of the sense of giving: diś assign, áva-duh milk down on, pṛ bestow fully, pṛc bestow abundantly, maṃh give liberally, mā measure out, rā procure (for), ní-yu bestow permanently, vid find (for), san obtain (for), sū set in motion (for), srj shed (for), and others.
 
 b. sacrifice; in V. ā-yaj offer to (while yaj takes the acc.); and in V. B. kṛ when \= make an offering to; in B. ā-labh (catch and tie up \=) offer; e. g. agníbhyaḥ paśūn ā labhate he sacrifices the animals to the Agnis (TS.).
 
@@ -13951,7 +13951,7 @@ o. exist or be intended for, accrue to: as be, bhū become; e. g. gambhīré cid
 a. The dative is used with gerundives and infinitives to express the agent, and with the latter also the object by attraction instead of the acc.; e. g. yáḥ stotṛbhyo hávyo asti who is to be invoked by singers (i. 33²); ví śrayantāṃ prayái devébhyah let (the doors) open wide for the gods to enter (i. 142⁶); índram arkáir ávardhayann áhaye hántavā u they strengthened Indra with hymns to slay the serpent (v. 31⁴).
 
 
-#strong[2. The] dative is used with a certain number of substantives.
+*2. The* dative is used with a certain number of substantives.
 
 a. Such are words that invoke blessings, especially námas homage (with the verbs kṛ do or as be, which are often to be supplied); e. g. námo mahádbhyah homage to the great (i. 27¹³); námo 'stu bráhmiṣṭhāya adoration to the greatest Brahman (ŚB.). Similarly used are the sacrificial formulas svāhā, svadhā, vāṣaṭ hail! blessing! e. g. tébhyaḥ svāhā blessing on them (AV.).
 
@@ -13974,12 +13974,12 @@ a. The indeclinables śám in V. and kám in B. meaning welfare are used as nom.
 γ. In the name Dásyave vṛkaḥ Wolf to the Dasyu (RV.) the dat. is to be explained as due to its use in the sentence he is a very wolf to the Dasyu.
 
 
-#strong[3. The] dative is used with adjectives meaning dear, kind, agreeable, beneficial, willing, obedient, ill-disposed, hostile; e. g. śivā sákhibhya utá máhyam āsīt she was kind to friends and also to me (x. 34²); átithiś cārur āyáve a guest dear to man (ii. 2⁸); yád vāvá jīvēbhyo hitám tát pitṛbhyaḥ what is good for the living is good for the Manes (ŚB.); sá rātāmanā vráścanāya bhavati (ŚB.) he is ready for felling (the tree); pratyudyāminīṃ ha kṣatrāya viśaṃ kuryāt he would make the peasantry hostile to the nobility (ŚB.).
+*3. The* dative is used with adjectives meaning dear, kind, agreeable, beneficial, willing, obedient, ill-disposed, hostile; e. g. śivā sákhibhya utá máhyam āsīt she was kind to friends and also to me (x. 34²); átithiś cārur āyáve a guest dear to man (ii. 2⁸); yád vāvá jīvēbhyo hitám tát pitṛbhyaḥ what is good for the living is good for the Manes (ŚB.); sá rātāmanā vráścanāya bhavati (ŚB.) he is ready for felling (the tree); pratyudyāminīṃ ha kṣatrāya viśaṃ kuryāt he would make the peasantry hostile to the nobility (ŚB.).
 
 a. The adj. ánāgas sinless often seems to take the dative of the name of a deity, but it is somewhat uncertain whether the case should not be connected with the verb; e. g. ánāgaso áditaye syāma may we be sinless (to \=) in the eyes of Aditi (i. 24¹⁵) may perhaps mean may we, as sinless, belong to Aditi.
 
 
-#strong[4. The] dative is used with a few adverbs.
+*4. The* dative is used with a few adverbs.
 
 a. áram often takes the dat.; e. g. yé áram̥ váhanti manyáve who drive in accordance with (thy) zeal (vi. 16⁴³). This use of áram is common in combination with the verbs kr̥, gam, and bhū. When used with the dat. áram is not infrequently equivalent to an adj.; e. g. sāsmā áram he is ready for him (ii. 18²); ayám̥ sómo astu áram̥ mánase yuvábhyām let this Soma be agreeable to your heart (i. 108²). In B. álam appears in the place of áram and is often similarly used; e. g. nālam̥ āhutyā āsa, nālam̥ bhakṣāya he was not suitable for sacrifice, nor suitable for food (ŚB.).
 
@@ -13997,15 +13997,15 @@ b. The adverb āvís visibly is used with the dat. in V. and B., but only when a
 B. The dative also in a general sense complements the statement of the whole sentence.
 
 
-#strong[1. It] expresses the person for whose advantage or disadvantage the action of the sentence takes place; e. g. deván devayaté yaja worship the gods for the benefit of the pious man (i. 15¹²); tásmā etám vájram akurvan for him they made this bolt (ŚB.); tasmā upākṛtāya niyoktāram na vividuḥ (AB.) for him when he had been brought near they could find no binder (i. e. they could find no one willing to bind him).
+*1. It* expresses the person for whose advantage or disadvantage the action of the sentence takes place; e. g. deván devayaté yaja worship the gods for the benefit of the pious man (i. 15¹²); tásmā etám vájram akurvan for him they made this bolt (ŚB.); tasmā upākṛtāya niyoktāram na vividuḥ (AB.) for him when he had been brought near they could find no binder (i. e. they could find no one willing to bind him).
 
 
-#strong[2. It] expresses the purpose for which an action is done (final dative); e. g. ūrdhvás tiṣṭhā na ūtáye stand up for our help \= in order to help us (i. 30⁶); ná súṣvim indro ávase mṛdhāti Indra will not leave the pious man in the lurch for help (vi. 23³); svargāya lokāya viṣṇukramāḥ kramyante the Viṣṇu steps are taken for the sake of (\= in order to gain) heaven (TS.); agnīṃ hotrāya prāvrṇata they chose Agni for the priesthood \= in order that he should be priest (ŚB.). The final sense is commonly expressed by abstract substantives (including in V. many infinitives); e. g. ádhi śriyé duhitā śūryasya ráthaṃ tasthau the daughter of the sun has mounted the car for beauty \= so as to produce a beautiful effect (vi. 63⁵); téna#emph[evá]enam sám sṛjati śāntyai with him (Mitra) he unites him (Agni) for appeasement (TS.).
+*2. It* expresses the purpose for which an action is done (final dative); e. g. ūrdhvás tiṣṭhā na ūtáye stand up for our help \= in order to help us (i. 30⁶); ná súṣvim indro ávase mṛdhāti Indra will not leave the pious man in the lurch for help (vi. 23³); svargāya lokāya viṣṇukramāḥ kramyante the Viṣṇu steps are taken for the sake of (\= in order to gain) heaven (TS.); agnīṃ hotrāya prāvrṇata they chose Agni for the priesthood \= in order that he should be priest (ŚB.). The final sense is commonly expressed by abstract substantives (including in V. many infinitives); e. g. ádhi śriyé duhitā śūryasya ráthaṃ tasthau the daughter of the sun has mounted the car for beauty \= so as to produce a beautiful effect (vi. 63⁵); téna#emph[evá]enam sám sṛjati śāntyai with him (Mitra) he unites him (Agni) for appeasement (TS.).
 
 a. This final dat. is particularly used with as and bhū; e. g. ásti hí ṣmā mádāya vaḥ there is (something) for your intoxication, i. e. to intoxicate you (i. 37¹⁵); mádāya sómaḥ (sc. asti). Soma (is for \=) produces intoxication (ŚB.).
 
 
-#strong[3. The] dative is used, though rarely, in expressions of time like the English for; e. g. nūnám na indra\_ aparāya ca syāḥ now and for the future mayst thou be ours, O Indra (vi. 33⁵); saṃvatsarāya sám amyate for a year an alliance is made (MS.).
+*3. The* dative is used, though rarely, in expressions of time like the English for; e. g. nūnám na indra\_ aparāya ca syāḥ now and for the future mayst thou be ours, O Indra (vi. 33⁵); saṃvatsarāya sám amyate for a year an alliance is made (MS.).
 
 a. The iterative compound divé-dive day by day, though apparently dat. of div, is probably in reality meant for the loc. of the transfer stem divá.
 
@@ -14019,12 +14019,12 @@ a. The iterative compound divé-dive day by day, though apparently dat. of div, 
 #fit-page[
 #folio("200-201]", "DATIVE", "315")
 
-#strong[4. Two] datives connected in sense often appear together. This occurs in V. when an acc. is attracted by a dative infinitive; e. g. vṛtrāya hántave \= vṛtrám hántave to slay Vṛtra (cp. 200\. A. 1 o a).
+*4. Two* datives connected in sense often appear together. This occurs in V. when an acc. is attracted by a dative infinitive; e. g. vṛtrāya hántave \= vṛtrám hántave to slay Vṛtra (cp. 200\. A. 1 o a).
 
 a. There is an analogous use in B., where, however, an abstract substantive takes the place of the infinitive; e. g. yáthāidám pāṇi-bhyām avanéjanāya, āháranty evám just as they bring it for washing the hands (ŚB.). Two datives are here often found with the verb sthā, one expressing the purpose, the other the person affected by the action; e. g. devebhyaḥ paśavo 'nnādyāyālambāya naṁatiṣṭhanta the animals did not present themselves to the gods for food, for sacrifice (AB.).
 
 
-#strong[5. The] adverbial use of the dative is very rare: kāmāya and árthāya for the sake of may be regarded as such; kāmacārāsya kāmāya for the sake of unrestrained motion (ŚB.); asmākārthāya jajñiṣe thou hast been born for our sake (AV.).
+*5. The* adverbial use of the dative is very rare: kāmāya and árthāya for the sake of may be regarded as such; kāmacārāsya kāmāya for the sake of unrestrained motion (ŚB.); asmākārthāya jajñiṣe thou hast been born for our sake (AV.).
 
 
 #v(0.30em)
@@ -14032,12 +14032,12 @@ a. There is an analogous use in B., where, however, an abstract substantive take
 #v(0.18em)
 
 
-#strong[201. The] ablative, expressing the starting-point from which the action of the verb proceeds, may as a rule be translated by from. It is chiefly connected with various classes of words, but is also used independently.
+*201. The* ablative, expressing the starting-point from which the action of the verb proceeds, may as a rule be translated by from. It is chiefly connected with various classes of words, but is also used independently.
 
 A. In its dependent use the ablative appears with:
 
 
-#strong[1. verbs] a. expressing a local action, as go, proceed, drive, lead, take, receive; pour, drink; call, loosen, ward off, exclude; e. g. īyúr gāvo ná yávasād ágopāḥ they went like unherded kine from the pasture (vii. 18¹⁰); vṛtrāsya śvasáthād īṣa-māṇāḥ fleeing from the snorting of Vṛtra (viii. 96⁷); áṣataḥ sád ajāyata from non-being arose being (x. 72³); abhrād íva prá stanayanti vṛṣṭāyaḥ from the cloud as it were thunder the rains (x. 75³); tvám dásyūmr ókasa ājaḥ thou drovest the enemies from the house (vii. 5⁶); bhujyúm samudrād ūha-thuḥ ye two have borne Bhujyu from the sea (vi. 62⁶); dāśo hiraṇyapiṇḍān dīvodāsād asāniṣam ten lumps of gold I
+*1. verbs* a. expressing a local action, as go, proceed, drive, lead, take, receive; pour, drink; call, loosen, ward off, exclude; e. g. īyúr gāvo ná yávasād ágopāḥ they went like unherded kine from the pasture (vii. 18¹⁰); vṛtrāsya śvasáthād īṣa-māṇāḥ fleeing from the snorting of Vṛtra (viii. 96⁷); áṣataḥ sád ajāyata from non-being arose being (x. 72³); abhrād íva prá stanayanti vṛṣṭāyaḥ from the cloud as it were thunder the rains (x. 75³); tvám dásyūmr ókasa ājaḥ thou drovest the enemies from the house (vii. 5⁶); bhujyúm samudrād ūha-thuḥ ye two have borne Bhujyu from the sea (vi. 62⁶); dāśo hiraṇyapiṇḍān dīvodāsād asāniṣam ten lumps of gold I
 
 ]
 
@@ -14071,7 +14071,7 @@ a. With bhī two ablatives are found, the one being the object feared, the other
 Indra's bolt, of its crushing (x. 138⁵), i. e. that it would crush her; asurarakṣasébhya āsaṅgād bibhayāṁ cakruḥ they were afraid of the Asuras and Rakṣasas, of their attachment \= that they would attach themselves to them (ŚB.).
 
 
-#strong[2. substantives] when derived from, or equivalent to, verbs used with the ablative; e. g. śárma no yaṁsan trivá-rūtham áṁhasaḥ they shall grant us thrice-protecting shelter from distress (x. 66⁵); úpa chāyām iva ghṛṇer áganma śárma te vayám we have entered thy shelter like shade (that protects) from heat (vi. 16⁵⁸); rákṣobhyo vái tāṁ bhīṣā vācam ayachan they restrained their speech from fear of the demons (ŚB.).
+*2. substantives* when derived from, or equivalent to, verbs used with the ablative; e. g. śárma no yaṁsan trivá-rūtham áṁhasaḥ they shall grant us thrice-protecting shelter from distress (x. 66⁵); úpa chāyām iva ghṛṇer áganma śárma te vayám we have entered thy shelter like shade (that protects) from heat (vi. 16⁵⁸); rákṣobhyo vái tāṁ bhīṣā vācam ayachan they restrained their speech from fear of the demons (ŚB.).
 
 3\. adjectives: in V. and B. comparatives and adjectives of cognate sense, when it means than; e. g. ghṛtāt svādīyaḥ sweeter than butter (viii. 24²⁰); víśvasmād índra úttaraḥ Indra is greater than every one (x. 86¹); jātāny ávarāṇy asmāt born later than he (viii. 96⁶); pūrvā víśvasmād bhúvanād abodhi she has awakened earlier than every being (i. 123²); pāpīyān áśvād gardabháḥ the ass is worse than the horse (TS.); brahma hi pūrvam kṣatrāt the priesthood is superior to the warrior class (PB.); anyo vā ayam asmad bhavati he becomes other than we (AB.).
 
@@ -14093,7 +14093,7 @@ c. in B. numerals, both ordinals and cardinals: with the former the abl. express
 Analogously with words meaning incomplete the abl. expresses the amount of the deficiency; e.g. ékasmād akṣárād ánāptam (a verse) incomplete by one syllable (TS.); téṣām alpakād evágnír ásaṃcita āsa their fire (altar) was not completely piled up by a little only, i.e. was almost completely piled up (ŚB.).
 
 
-#strong[4. adverbs] meaning before, beyond, outside, below, far from, without are used prepositionally with the abl. Those occurring in V. only are: adhás below, avás down from, áré without, purás before; in V. and B.: ṛté without, tirás apart from, parás outside, purá before; in B. only: abhyardhás far from; bahís outside. Cp. 177, 3\.
+*4. adverbs* meaning before, beyond, outside, below, far from, without are used prepositionally with the abl. Those occurring in V. only are: adhás below, avás down from, áré without, purás before; in V. and B.: ṛté without, tirás apart from, parás outside, purá before; in B. only: abhyardhás far from; bahís outside. Cp. 177, 3\.
 
 a. In B. some other adverbs with a local or temporal sense; e. g. dūrám ha vá asmǎn mṛtyúr bhavati death is far from him (ŚB.); tásmān madhyamāc chaṅkór dakṣiṇā pāñcadaśa vikramǎn prá krāmati he strides forward fifteen steps to the right of this middle peg (ŚB.); prāg ghomāt before (making) the oblation (AB.).
 
@@ -14105,7 +14105,7 @@ B. The abl. is used independently of any particular class of word to express the
 #v(0.18em)
 
 
-#strong[202. The] genitive is a dependent case, being in its main uses connected with verbs and substantives, but also appearing with adjectives and adverbs.
+*202. The* genitive is a dependent case, being in its main uses connected with verbs and substantives, but also appearing with adjectives and adverbs.
 
 A. With verbs the gen. has a sense analogous to that of the acc., but differs here from the latter in expressing that the action affects the object not as a whole, but only in part. It is used with verbs having the following senses:
 
@@ -14136,12 +14136,12 @@ a. In B. only three verbs of this class are thus construed: vid and śru as in R
 d. partitiveness (while the acc. with the same verbs expresses full extent):
 
 
-#strong[1. eat,] drink: aś cat of, ad eat (almost exclusively with acc.); pā drink; ā-vṛṣ fill oneself full of, vī and juṣ enjoy.
+*1. eat,* drink: aś cat of, ad eat (almost exclusively with acc.); pā drink; ā-vṛṣ fill oneself full of, vī and juṣ enjoy.
 
 a. In B. only aś and pā besides bhakṣ eat (in RV. with acc. only) take the partitive gen.
 
 
-#strong[2. give,] present, sacrifice: dā give of, ā-daśasya and śak present with; prc give abundantly of; yaj sacrifice (acc. of person, gen. of offering), e. g. sómasya tvā yakṣi I will worship thee (with a libation) of Soma (iii. 53²).
+*2. give,* present, sacrifice: dā give of, ā-daśasya and śak present with; prc give abundantly of; yaj sacrifice (acc. of person, gen. of offering), e. g. sómasya tvā yakṣi I will worship thee (with a libation) of Soma (iii. 53²).
 
 a. In B. yaj may be used without acc. of the person; e. g. tásmād ājyasya, evá yajet therefore he should sacrifice some butter (ŚB.).
 
@@ -14170,7 +14170,7 @@ f. belong to: as and bhū, with the gen. of the possessor in both V. and B.; e. 
 B. The genitive is used with two classes of substantives.
 
 
-#strong[1. It] depends on verbal substantives and is then allied to the gen. with verbs (especially those expressing possession).
+*1. It* depends on verbal substantives and is then allied to the gen. with verbs (especially those expressing possession).
 
 a. The subjective gen., which is equivalent to the agent of the action expressed by the cognate verb; e. g. uṣáso vyuṣṭau at the break of dawn \= when the dawn breaks; apakramād u ha evá eṣām etād bibhayāṃ cakāra he was afraid of their departure (ŚB.) \= that they would run away. It very often occurs with datives; e. g. yajñásya sámṛd-dhyai for the success of the sacrifice (TS.) \= that the sacrifice might succeed.
 
@@ -14191,7 +14191,7 @@ b. The objective gen., which is equivalent to the object expressed by the cognat
 ]
 
 
-#strong[2. The] gen. commonly depends on non-verbal substantives. It may then have two senses:
+*2. The* gen. commonly depends on non-verbal substantives. It may then have two senses:
 
 a. The possessive gen.; e.g. vēḥ parṇām the wing of the bird \= wing belonging to the bird; devānām dūtāḥ the messenger of the gods. It also appears with abstract nouns derived from such words; e.g. ād id devānām upa sakhyām āyan then they came to friendship with the gods (iv. 33²) \= then they became friends of the gods.
 
@@ -14236,10 +14236,10 @@ D. The gen. is used with certain adverbs having 1\. a local sense: in V. agratá
 β. In B. the local adjective (like the local adverbs) udañc northward of takes the gen.
 
 
-#strong[2. a] temporal sense: idā and idānīm now are used in V. with the genitives áhnas and áhnām \= at the present time of day; prātár early with the gen. áhnas in V. and with rátryās in B.; e. g. yásyā rátryāḥ prātár yakṣyámānaḥ syāt in the morning of which night he may be about to sacrifice (MS.).
+*2. a* temporal sense: idā and idānīm now are used in V. with the genitives áhnas and áhnām \= at the present time of day; prātár early with the gen. áhnas in V. and with rátryās in B.; e. g. yásyā rátryāḥ prātár yakṣyámānaḥ syāt in the morning of which night he may be about to sacrifice (MS.).
 
 
-#strong[3. a] multiplicative sense: in V. sakṛt once with áhnas once a day; trís thrice in trír áhnas, trír ā diváḥ thrice
+*3. a* multiplicative sense: in V. sakṛt once with áhnas once a day; trís thrice in trír áhnas, trír ā diváḥ thrice
 
 ]
 
@@ -14263,7 +14263,7 @@ a. The adverbial use in V. of the gen. in a temporal sense is perhaps derived fr
 #v(0.18em)
 
 
-#strong[203. This] case expresses the sphere in which an action takes place, or with verbs of motion the sphere which is reached by the action. Its sense includes not only locality (both concrete and abstract) but persons and time. It may therefore be variously translated by in, on, at; beside, among, in the presence of; to, into.
+*203. This* case expresses the sphere in which an action takes place, or with verbs of motion the sphere which is reached by the action. Its sense includes not only locality (both concrete and abstract) but persons and time. It may therefore be variously translated by in, on, at; beside, among, in the presence of; to, into.
 
 A. The loc. appears in a general and independent way in the following senses:
 
@@ -14294,13 +14294,13 @@ v 2
 a. This temporal use sometimes comes to mean that something happens at the end of the period; e. g. saṃvatsarā idám adyā vy ākhyata ye have opened your eyes now to-day (for the first time) in a year (i. 161¹³) \= at the end of a year; tātaḥ saṃvatsarē púruṣaḥ sám abhavat thence arose in (\= at the end of) a year a man (ŚB.).
 
 
-#strong[4. Adverbially.] A few substantives and adjectives are thus used; e. g. ágre often occurs in the sense of in front and at first, appearing even in compounds (e. g. agre-gá going before, agre-pá drinking first); in ŚB. the loc. of kṣiprá quick is several times thus employed, e. g. kṣipré ha yájamāno 'múm lokám iyāt the sacrificer would speedily go to yonder world.
+*4. Adverbially.* A few substantives and adjectives are thus used; e. g. ágre often occurs in the sense of in front and at first, appearing even in compounds (e. g. agre-gá going before, agre-pá drinking first); in ŚB. the loc. of kṣiprá quick is several times thus employed, e. g. kṣipré ha yájamāno 'múm lokám iyāt the sacrificer would speedily go to yonder world.
 
 
-#strong[204. B.] The loc. is connected with different classes of words by which it may be said to be governed.
+*204. B.* The loc. is connected with different classes of words by which it may be said to be governed.
 
 
-#strong[1. It] is specially connected with verbs expressing:
+*1. It* is specially connected with verbs expressing:
 
 a. in V.: rejoice in; grow, prosper; bless, injure in respect of; implore, invoke for (ī, hū); receive from; e. g. víśve devā havíṣi mādayadhvam do ye, O all-gods, rejoice in the oblation (vi. 52¹⁷); távíṣīṣu vāvṛdhe he grew in strength (i. 52²); yá eṣāṃ bhṛtyám ṛṇádhat sá jīvāt he who will succeed in their support, shall live (i. 84¹⁶); práva nas toké bless us in children (viii. 23¹²); mā nas toké rīriṣaḥ injure us not in our children (i. 114⁸); agníṃ toké tánaye śāśvad īmahe Agni we constantly implore for children and for grandchildren (viii. 71¹³); ádhā hí tvā hávāmahe tánaye góṣuapsú for we invoke thee for offspring, cows, water (vi. 19¹²); devéṣu amṛtatvám ānaśa ye received immortality (among \=) from the gods (iv. 36⁴);
 
@@ -14324,7 +14324,7 @@ b. in V. and B.: motion, to indicate the place that is reached. The case may her
 c. desire, to indicate the goal or object aimed at: gṛdh be eager, yat strive, ā-śaṃs hope; e. g. ánneṣu jāgṛdhur they are eager for food (ii. 23¹⁶); diví svanó yatate the sound soars to heaven (x. 75³); á tú na indra śaṃsaya góṣv áśveṣu pray give us hope, Indra, of cows and horses (i. 29¹); agnihotríṇi devátā á śaṃsante the gods place their hope in the maintainer of the sacrificial fire (MS.).
 
 
-#strong[2. The] loc. is also used to some extent connected with nouns:
+*2. The* loc. is also used to some extent connected with nouns:
 
 a. verbal nouns (substantives and adjectives) derived from verbs taking that case; e. g. ná tásya vācy ápi bhāgó asti he has no share in speech (x. 71⁶); sómo bhūtv avapāneṣv ábhagaḥ let Soma be a participator in drinking bouts (i. 136⁴); sutá ít tvám nímiśla indra sóme thou art attached, O Indra,
 
@@ -14357,7 +14357,7 @@ asmin dhruvám akaḥ he has made the sovereignty established
 in him (TS.).
 
 
-#strong[3. The] loc. is used with a few prepositions: in V. ā in,
+*3. The* loc. is used with a few prepositions: in V. ā in,
 
 at, on, and (rarely) ápi near, in, and úpa near to, at, upon, as
 
@@ -14448,7 +14448,7 @@ a. Similarly in B: yajñamukhé-yajñamukhe vái kriyámāṇe yaj-ñáṃ rák�
 ]
 
 
-#strong[2. The] genitive absolute is unknown in V., but has already come into use in B. It arose from the possessive genitive which acquired an independent syntactical value when accompanied by a (pres. or perf. pass.) participle much in the same way as the loc. The substantive is sometimes omitted. Examples are: tásya álabdhasya sā vāg ápa cakrāma he being sacrificed, this voice departed (ŚB.); tásmād apám taptánám phéno jāyate therefore, when water is heated, foam arises (ŚB.); sá etá viprúṣo 'janayata yá īmāḥ skūyámānasya viprávante he (Agni) produced those sparks which dart about when (the fire) is stirred (MS.); teṣām ha uttiṣṭhatām uvāca while these stood up he said (AB.). In the first three of the above examples the close relationship of the absolute to the possessive case is still apparent.
+*2. The* genitive absolute is unknown in V., but has already come into use in B. It arose from the possessive genitive which acquired an independent syntactical value when accompanied by a (pres. or perf. pass.) participle much in the same way as the loc. The substantive is sometimes omitted. Examples are: tásya álabdhasya sā vāg ápa cakrāma he being sacrificed, this voice departed (ŚB.); tásmād apám taptánám phéno jāyate therefore, when water is heated, foam arises (ŚB.); sá etá viprúṣo 'janayata yá īmāḥ skūyámānasya viprávante he (Agni) produced those sparks which dart about when (the fire) is stirred (MS.); teṣām ha uttiṣṭhatām uvāca while these stood up he said (AB.). In the first three of the above examples the close relationship of the absolute to the possessive case is still apparent.
 
 
 #v(0.30em)
@@ -14456,7 +14456,7 @@ a. Similarly in B: yajñamukhé-yajñamukhe vái kriyámāṇe yaj-ñáṃ rák�
 #v(0.18em)
 
 
-#strong[206. Participles] are of a twofold nature inasmuch as they share the characteristics of both noun and verb. In form they are adjectives both in inflexion and concord. On the other hand they not only govern cases like the verb, but also indicate differences of voice and generally speaking retain the distinctions of time expressed by the tenses to which they belong. They are as a rule used appositionally with substantives, qualifying the main action and equivalent to subordinate clauses. They may thus express a relative, temporal, causal, concessive, final, or hypothetical sense. The verbal character of participles formed directly from the root (and not from tense stems) is restricted (with certain exceptions) to the passive voice in sense, and to past and future time; while owing to their passive nature they are not construed with an acc. of the object, but only with the inst. of the agent or means.
+*206. Participles* are of a twofold nature inasmuch as they share the characteristics of both noun and verb. In form they are adjectives both in inflexion and concord. On the other hand they not only govern cases like the verb, but also indicate differences of voice and generally speaking retain the distinctions of time expressed by the tenses to which they belong. They are as a rule used appositionally with substantives, qualifying the main action and equivalent to subordinate clauses. They may thus express a relative, temporal, causal, concessive, final, or hypothetical sense. The verbal character of participles formed directly from the root (and not from tense stems) is restricted (with certain exceptions) to the passive voice in sense, and to past and future time; while owing to their passive nature they are not construed with an acc. of the object, but only with the inst. of the agent or means.
 
 ]
 
@@ -14468,12 +14468,12 @@ a. Similarly in B: yajñamukhé-yajñamukhe vái kriyámāṇe yaj-ñáṃ rák�
 #fit-page[
 #folio("207-208]", "PARTICIPLES", "329")
 
-#strong[207. The] pres. part. is occasionally used in V. by anacoluthon as a finite verb; e.g. asmād ahám taviṣād īṣamāṇa índrād bhiyā maruto réjamānaḥ I (am) fleeing from this mighty one, trembling with fear of Indra, ye Maruts (i. 171⁴). This use does not seem to be found in B.
+*207. The* pres. part. is occasionally used in V. by anacoluthon as a finite verb; e.g. asmād ahám taviṣād īṣamāṇa índrād bhiyā maruto réjamānaḥ I (am) fleeing from this mighty one, trembling with fear of Indra, ye Maruts (i. 171⁴). This use does not seem to be found in B.
 
 a. The pres. part. is used with the verbs i go, car move, ās remain, sthā stand as auxiliaries to express continued duration in V. and B.; e.g. víśvam anyó abhicákṣāṇa eti the other (Pūṣan) goes on watching the universe (ii. 40⁵); vicākaśac candramā náktam eti the moon goes on shining brightly at night (i. 24¹⁰); tè 'sya grhāḥ paśáva upamūryámāṇā īyuḥ his house and cattle would go on being destroyed (ŚB.); tvám hí . . . éko vrtrā́ cárasi jíghnamānaḥ for thou alone goest on killing the Vṛtras (iii. 30⁴); té 'rcantaḥ śrám-yantaś ceruḥ they went on praying and fasting (ŚB.); ṛcám tváḥ póṣam āste pupuṣván the one keeps producing abundance of verses (x. 71¹¹); sómam evá etát pibanta āsate they thus keep on drinking Soma (TS.); ucchváñcamānā prthiví sú tiṣṭhatu let the earth keep on yawning wide (x. 18¹²); vitṛṁhā-ṇās tiṣṭhanti they keep conflicting (TS.).
 
 
-#strong[208. The] past passive participle in ta is very frequently used as a finite verb; e.g. tatám me ápas tád u tāyate púnaḥ my work is done and it is being done again (i. 110¹); ná tvávām indra káś caná ná játó ná janīṣyate no one is like thee, O Indra, he has not been born, and he will not be born (i.81⁵); used impersonally: śráddhitam te mahatá indriyāya confidence has been placed in thy great might (i. 104⁶).
+*208. The* past passive participle in ta is very frequently used as a finite verb; e.g. tatám me ápas tád u tāyate púnaḥ my work is done and it is being done again (i. 110¹); ná tvávām indra káś caná ná játó ná janīṣyate no one is like thee, O Indra, he has not been born, and he will not be born (i.81⁵); used impersonally: śráddhitam te mahatá indriyāya confidence has been placed in thy great might (i. 104⁶).
 
 Similarly in B.: iṣṭā́ devátā átha katamá eté the gods have been worshipped, but which are these gods? (TS.); also in subordinate clauses: tásmin yád āpannam, grasitám evá asya tát what has got into him, that has been devoured by him (TS.).
 
@@ -14496,10 +14496,10 @@ a. The perf. pass. part. is not infrequently used with forms of as and bhū as a
 b. Such forms (pres. and aor. ind. of bhū, impf. and perf. ind. and opt. of as) make regular past and present tenses and the opt. mood in B.; e.g. bhūyasībhir ha asya āhutibhir iṣṭaṁ bhavati by him sacrifice has been made with several offerings (AB.); devāsurāḥ saṃyattā āsan the gods and Asuras were engaged in conflict (TS.); tād vā ṛṣiṇām ānu-śrutam āsa that was heard by the seers (ŚB.); tásmād vidhṛtā ádhvāno 'bhūvan therefore the roads have been divided (TS.).
 
 
-#strong[209. Future] Participles Passive. There are six of these: one, that in āyya occurs in the RV. only; three, those in enya, ya, and tva, in V. and in B.; two, those in tavya and anīya in V. (but not in the RV.) and in B. The commonest sense expressed by these verbal nouns is necessity; but various allied meanings, such as obligation, fitness, certain futurity, and possibility, are also frequent. Four of them are construed with the inst. of the agent (the gen. and dat. sometimes appearing instead), while the forms in tva and anīya are never found connected with a case.
+*209. Future* Participles Passive. There are six of these: one, that in āyya occurs in the RV. only; three, those in enya, ya, and tva, in V. and in B.; two, those in tavya and anīya in V. (but not in the RV.) and in B. The commonest sense expressed by these verbal nouns is necessity; but various allied meanings, such as obligation, fitness, certain futurity, and possibility, are also frequent. Four of them are construed with the inst. of the agent (the gen. and dat. sometimes appearing instead), while the forms in tva and anīya are never found connected with a case.
 
 
-#strong[1. The] commonest of these gerundives is that in ya; sadyó jajñānó hávyo babhūva as soon as born he became one to be invoked (viii. 96²¹). It often appears without a verb; e.g. viśvā hí vo namasyāni vándyā nāmāni devā utá yajñiyāni vaḥ all your names, ye gods, are adorable, worthy of praise, and worshipful (x. 63²). The agent may be expressed by the inst., dat., or gen.; e.g. tváṃ nṛbhir hávyo viśvádhā asi thou art always to be invoked by men (vii. 22⁷); asmābhir ū nú praticákṣyā abhūt she has become visible (by \=) to us (i. 113¹¹); sákhā sákhibhya īḍyaḥ a friend to be praised by friends (i. 75⁴); yá éka id dhávyaḥ carṣaṇīnām who alone is to be invoked of men (vi. 22¹).
+*1. The* commonest of these gerundives is that in ya; sadyó jajñānó hávyo babhūva as soon as born he became one to be invoked (viii. 96²¹). It often appears without a verb; e.g. viśvā hí vo namasyāni vándyā nāmāni devā utá yajñiyāni vaḥ all your names, ye gods, are adorable, worthy of praise, and worshipful (x. 63²). The agent may be expressed by the inst., dat., or gen.; e.g. tváṃ nṛbhir hávyo viśvádhā asi thou art always to be invoked by men (vii. 22⁷); asmābhir ū nú praticákṣyā abhūt she has become visible (by \=) to us (i. 113¹¹); sákhā sákhibhya īḍyaḥ a friend to be praised by friends (i. 75⁴); yá éka id dhávyaḥ carṣaṇīnām who alone is to be invoked of men (vi. 22¹).
 
 a. In B. the agent may be in the inst. or gen., but not in the dat.; thus tásmai déyam means to him gifts should be given (ŚB.). This example also illustrates the impersonal use of this gerundive in B.,
 
@@ -14518,20 +14518,20 @@ a. In B. the agent may be in the inst. or gen., but not in the dat.; thus tásma
 ]
 
 
-#strong[2. The] gerundive in tva in the RV. implies necessity or possibility and is often used in contrast with the past; but it is not found accompanied by a verb (as or bhū) or a noun expressing the agent; e. g. ripávo hántvāsaḥ the enemy are to be killed (iii. 30¹⁵); yó nántvāny ánaman ny ójasā who by his might bent what could be bent (ii. 24²); tád víśvam abhibhūr asi yáj jātāṁ yác ca jántvam thou surpassest all that has been born and that is to be born (viii. 89⁶).
+*2. The* gerundive in tva in the RV. implies necessity or possibility and is often used in contrast with the past; but it is not found accompanied by a verb (as or bhū) or a noun expressing the agent; e. g. ripávo hántvāsaḥ the enemy are to be killed (iii. 30¹⁵); yó nántvāny ánaman ny ójasā who by his might bent what could be bent (ii. 24²); tád víśvam abhibhūr asi yáj jātāṁ yác ca jántvam thou surpassest all that has been born and that is to be born (viii. 89⁶).
 
 a. The only meaning that seems to be expressed by this gerundive in B. is possibility; e. g. snātvam udakám water that can be bathed in (ŚB.); nó asya anyád dhótvam āsit prāṇāt and he had nothing else that could be offered but breath (MS.).
 
 
-#strong[3. The] gerundive in āyya, found in the RV. only, sometimes appears accompanied by an agent in the inst. or the dat.; e. g. dakṣāyyo nṛbhiḥ to be propitiated by men (i. 129²); dakṣāyyo dāsvate dáma ā who is to be propitiated by the pious man in his house (ii. 4³).
+*3. The* gerundive in āyya, found in the RV. only, sometimes appears accompanied by an agent in the inst. or the dat.; e. g. dakṣāyyo nṛbhiḥ to be propitiated by men (i. 129²); dakṣāyyo dāsvate dáma ā who is to be propitiated by the pious man in his house (ii. 4³).
 
 
-#strong[4. The] form in enya, almost restricted to the RV., may be accompanied by an agent in the inst.; e. g. agnir īlényo girā Agni to be praised with song (i. 79⁵); abhyāyaṁsényā bhavataṁ manīṣibhiḥ be willing to be drawn near by the devout (i. 34¹).
+*4. The* form in enya, almost restricted to the RV., may be accompanied by an agent in the inst.; e. g. agnir īlényo girā Agni to be praised with song (i. 79⁵); abhyāyaṁsényā bhavataṁ manīṣibhiḥ be willing to be drawn near by the devout (i. 34¹).
 
 a. It is once or twice also found in B.; thus vācam udyāsam śuśrū-ṣényām I would utter a speech worthy to be heard (TS.).
 
 
-#strong[5. The] gerundive in tavya, which is not found in the RV. at all, occurs only twice in the AV.; thus ná brāhmaṇó hiṁsitavyāḥ a Brahmin is not to be injured (AV. v. 18⁶).
+*5. The* gerundive in tavya, which is not found in the RV. at all, occurs only twice in the AV.; thus ná brāhmaṇó hiṁsitavyāḥ a Brahmin is not to be injured (AV. v. 18⁶).
 
 a. In B. it is frequent and used much in the same way as the form in ya; here it is also used impersonally and with the agent in the inst.; e. g. putró yājayayitavyāḥ a son must be made to sacrifice (MS.); agnicitā pakṣiṇo ná aśitavyām an Agnicit should not eat (any part) of a bird (MS.); paśúvratena bhavitavyām (MS.) he should act after the manner of
 
@@ -14550,7 +14550,7 @@ a. In B. it is frequent and used much in the same way as the form in ya; here it
 ]
 
 
-#strong[6. The] form in anīya, which is rare in both V. and B., does not occur at all in the RV., and only twice in the prose of the AV. Expressing only suitability or possibility, and never used either with an inst. or impersonally, it has hardly attained the full value of a gerundive even in B.; e. g. upajīvanīyo bhavati he is one who may be subsisted on (AV.); abhicaraṇīya liable to be bewitched (ŚB.); āhavanīya suitable to be offered to (AB.).
+*6. The* form in anīya, which is rare in both V. and B., does not occur at all in the RV., and only twice in the prose of the AV. Expressing only suitability or possibility, and never used either with an inst. or impersonally, it has hardly attained the full value of a gerundive even in B.; e. g. upajīvanīyo bhavati he is one who may be subsisted on (AV.); abhicaraṇīya liable to be bewitched (ŚB.); āhavanīya suitable to be offered to (AB.).
 
 
 #v(0.30em)
@@ -14558,7 +14558,7 @@ a. In B. it is frequent and used much in the same way as the form in ya; here it
 #v(0.18em)
 
 
-#strong[210. The] forms of the gerund, ending in tvī, tvā, tvāya (cp. 163) and in ya or tya (164) are synonymous, expressing an action that is past before that of the finite verb begins. It regularly refers to what is regarded as the subject of the sentence; e. g. gūḍhvī támo jyótiṣāuṣā abodhi having hidden away the darkness, Dawn has awakened with light (vii. 80²); yuktvā háribhyām úpa yāsad arvāk having yoked (them) may he come hither with his two bays (v. 40⁴); stríyam drṣṭvāya kitavám tatāpa having seen a woman it pains the gambler (x. 34¹¹) \= the gambler, having seen a woman, is pained; píbā niṣádya drink, after having sat down (i. 177⁴); yó hánti śátrum abhítya who slays the foe after having attacked him (ix. 55⁴).
+*210. The* forms of the gerund, ending in tvī, tvā, tvāya (cp. 163) and in ya or tya (164) are synonymous, expressing an action that is past before that of the finite verb begins. It regularly refers to what is regarded as the subject of the sentence; e. g. gūḍhvī támo jyótiṣāuṣā abodhi having hidden away the darkness, Dawn has awakened with light (vii. 80²); yuktvā háribhyām úpa yāsad arvāk having yoked (them) may he come hither with his two bays (v. 40⁴); stríyam drṣṭvāya kitavám tatāpa having seen a woman it pains the gambler (x. 34¹¹) \= the gambler, having seen a woman, is pained; píbā niṣádya drink, after having sat down (i. 177⁴); yó hánti śátrum abhítya who slays the foe after having attacked him (ix. 55⁴).
 
 a. The usage in B. is similar; e. g. tásmāt suptvā prajāḥ prá budhyante therefore creatures awake after having slept (TS.); tám haṇenam drṣṭvā bhīr viveda having seen him fear seized him \= having seen him he became afraid (ŚB.). The gerund is, however, here found loosely construed in various ways not occurring in V. Thus it refers in sense to the agent implied by the future part. pass. in tavya or ya used predicatively as a finite verb; e. g. agnihotrahávanīṃ pratápya hásto 'vadhéyaḥ his hand (is) to be put into it (by the holder) after having heated the fire-sacrifice ladle (MS.). Still looser is the connexion in such sentences as the following: té paśáva óṣadhīr jagdhvāapáḥ pītvā táta eṣá rásaḥ sám bhavati the beasts having eaten the plants and drunk water—
 
@@ -14586,7 +14586,7 @@ a. In B. it has become common; e. g. abhikrā́maṃ juhoti (TS.) he sacrifices 
 #v(0.18em)
 
 
-#strong[211. The] normal use of this form is to supplement the general statement of the sentence in a final (in order to) or a consequential (so as to) sense. The infinitive is, however, sometimes dependent on a particular word in the sentence, usually a verb, occasionally a noun: it then loses some of its full meaning, as in other languages after an auxiliary. The object when it is expressed is generally in the accusative.
+*211. The* normal use of this form is to supplement the general statement of the sentence in a final (in order to) or a consequential (so as to) sense. The infinitive is, however, sometimes dependent on a particular word in the sentence, usually a verb, occasionally a noun: it then loses some of its full meaning, as in other languages after an auxiliary. The object when it is expressed is generally in the accusative.
 
 
 #v(0.30em)
@@ -14717,7 +14717,7 @@ a. The dat. inf. has sometimes a passive force; e.g. á vo vāhiṣṭho vahatu 
 ]
 
 
-#strong[5. In] B. the inf. in tavái has three uses: 1\. with a final sense; e. g. taṃ pra harati yo 'sya siṛtyas tasmai startavai he hurls it in order to strike down him who is to be struck down by it (AB.). 2\. predicatively with ná, often with a passive sense, sometimes impersonally; e. g. ná vái yajñá iva mántavái it is not to be regarded like a sacrifice (ŚB.); ná purá sūryasya údetor mánthitavái one should not rub fire before sunrise (MS.); tásmād eténa áśru ná kártavái therefore tears should not be shed by him (MS.). 3\. with a pass. sense after an acc. governed by āha, uvāca and brūyāt; e. g. agníṃ páristarītavá āha he says that the fire is to be enclosed (MS.); gopālān śáṃhvayitavá uvāca he said that the cowherds should be called together (ŚB.); tád aśvám ánetavái brūyāt then he should order the horse to be brought (ŚB.). Perhaps, however, the acc. here depends on the inf. alone: he should give orders to bring the horse.
+*5. In* B. the inf. in tavái has three uses: 1\. with a final sense; e. g. taṃ pra harati yo 'sya siṛtyas tasmai startavai he hurls it in order to strike down him who is to be struck down by it (AB.). 2\. predicatively with ná, often with a passive sense, sometimes impersonally; e. g. ná vái yajñá iva mántavái it is not to be regarded like a sacrifice (ŚB.); ná purá sūryasya údetor mánthitavái one should not rub fire before sunrise (MS.); tásmād eténa áśru ná kártavái therefore tears should not be shed by him (MS.). 3\. with a pass. sense after an acc. governed by āha, uvāca and brūyāt; e. g. agníṃ páristarītavá āha he says that the fire is to be enclosed (MS.); gopālān śáṃhvayitavá uvāca he said that the cowherds should be called together (ŚB.); tád aśvám ánetavái brūyāt then he should order the horse to be brought (ŚB.). Perhaps, however, the acc. here depends on the inf. alone: he should give orders to bring the horse.
 
 
 #v(0.30em)
@@ -14801,22 +14801,22 @@ The only loc. forms to which a genuine inf. use (cp. 167, 4) can be attributed a
 #fit-page[
 #folio("212]", "TENSES AND MOODS.", "339")
 
-#strong[212. Two] or more roots of cognate meaning sometimes supplement each other in such a way as to be used for different tenses of what is practically one verb. Such are:
+*212. Two* or more roots of cognate meaning sometimes supplement each other in such a way as to be used for different tenses of what is practically one verb. Such are:
 
 
-#strong[1. as] and bhū be: the pres., impf., and perf. are formed by as; the fut. and aor. by bhū alone. In its proper sense bhū means to become (originally to grow), but unless opposed to as be, it has the same sense as the latter, the pres. and perf. of both being used promiscuously. The contrast appears clearly when the pres. is opposed to the aor.; e.g. yamó vá idám abhūd yád vayám smáḥ Yama has become that which we are (TS.). It also appears in the impf.: yá viprúṣā ásaṃs táḥ śárkarā abhavan what were sparks became gravel (MS.).
+*1. as* and bhū be: the pres., impf., and perf. are formed by as; the fut. and aor. by bhū alone. In its proper sense bhū means to become (originally to grow), but unless opposed to as be, it has the same sense as the latter, the pres. and perf. of both being used promiscuously. The contrast appears clearly when the pres. is opposed to the aor.; e.g. yamó vá idám abhūd yád vayám smáḥ Yama has become that which we are (TS.). It also appears in the impf.: yá viprúṣā ásaṃs táḥ śárkarā abhavan what were sparks became gravel (MS.).
 
 
-#strong[2. dhāv] and sṛ run: in the RV. occur the plup. ádadhāvat and the pres. sísarti; in B. the pres. dhāvati, the impf. ásarat, and the perf. sasára.
+*2. dhāv* and sṛ run: in the RV. occur the plup. ádadhāvat and the pres. sísarti; in B. the pres. dhāvati, the impf. ásarat, and the perf. sasára.
 
 
-#strong[3. paś] and drś see: the former appears in the pres. only, the latter in the aor., fut., and perf. only; khyā see is used in the same tenses as drś, but as opposed to the latter means discern.
+*3. paś* and drś see: the former appears in the pres. only, the latter in the aor., fut., and perf. only; khyā see is used in the same tenses as drś, but as opposed to the latter means discern.
 
 
-#strong[4. brū] and vac speak: the former is used in the pres. stem only; the latter in the aor., fut., perf. (V. has also the pres. vívakti).
+*4. brū* and vac speak: the former is used in the pres. stem only; the latter in the aor., fut., perf. (V. has also the pres. vívakti).
 
 
-#strong[5. han] and vadh slay: the former has the pres., impf., fut., perf. only, the latter the aor. only.
+*5. han* and vadh slay: the former has the pres., impf., fut., perf. only, the latter the aor. only.
 
 a. In B. a few additional pairs of roots supplement each other to some extent. Such are ad and ghas eat; aj and vī drive; i and gā (aor.) go; pra-yam and pra-dā present; śad and śī fall.
 
@@ -14841,10 +14841,10 @@ z 2
 The only type here showing any development is that in ya, which tends to have an intransitive sense. Such present stems are formed in B. from more than a dozen roots that do not form it in the RV.; e.g. tápyati grows hot (RV. tápati).
 
 
-#strong[1. As] in other languages, the present is used to indicate an action that is taking place when the speaker makes his statement.
+*1. As* in other languages, the present is used to indicate an action that is taking place when the speaker makes his statement.
 
 
-#strong[2. In] the RV. the simple pres. is sometimes employed of past actions in narration to add a new statement in a vivid manner; e.g. purutrā vṛtró aśayad vyāstah: amuyā śayānam ati yanti āpah Vṛtra lay scattered in many places: over him as he thus lies the waters flow (i. 327).
+*2. In* the RV. the simple pres. is sometimes employed of past actions in narration to add a new statement in a vivid manner; e.g. purutrā vṛtró aśayad vyāstah: amuyā śayānam ati yanti āpah Vṛtra lay scattered in many places: over him as he thus lies the waters flow (i. 327).
 
 This use does not seem to occur in B.
 
@@ -14878,7 +14878,7 @@ c. The pres. ind. is also sometimes used for the fut. or the subj.; e.g. āhaṃ
 #v(0.18em)
 
 
-#strong[213. Each] of the past tenses (except the pluperfect) has a distinctive meaning of its own, though occasional examples of aor. and perf. forms occur that are almost indistinguishable in sense from the impf.
+*213. Each* of the past tenses (except the pluperfect) has a distinctive meaning of its own, though occasional examples of aor. and perf. forms occur that are almost indistinguishable in sense from the impf.
 
 A. The perfect characteristically expresses the condition attained by the subject as the result of a preceding action. If that action (often a repeated or continuous one) is continued into the present so as to include the latter, it may be translated by the present; if it is regarded as concluded before the present, by the present perfect. It can express both these senses when accompanied by the adverbs purā formerly and nūnám now; e.g. purā nūnám ca stutāya ṛṣiṇāṃ paspṛdhre the praises of the seers have vied together in past times and (do so) now (vi. 34¹); śāśvad dhī va ūtibhir vayāṃ purā nūnám bubhujmáhe we have constantly enjoyed your aids and (do so) now (viii. 67¹⁶); the same sense appears with the adverb satrā always; e.g. túbhyaṃ bráhmāṇi gíra indra túbhyaṃ satrā dadhire: juṣásva to thee prayers. O Indra, to thee songs have always been offered (and still are): accept them kindly (iii. 51⁶). But even without a particle this double sense is not infrequently apparent:
 
@@ -14935,15 +14935,15 @@ d. The perf. is not infrequently used of a single action in the remoter past, wh
 a. In B. the perf. ind. appears in three different uses:
 
 
-#strong[1. in] a present sense based on the pres. perf., chiefly in forms that have a strengthened reduplicative vowel and thus seem to have an intensive meaning. It is the pres. perf. that includes the present, expressing that an action takes place in the present as a result of its repetition in the past; e. g. dādhāra (he has constantly held and now) holds; e. g. yát sāyám juhóti rátryai téna dādhāra if he offers in the evening, he thereby holds (Agni) for the night (MS.). Other perfects of this kind are: dīdāya shines; upa dodrāva rushes at; yoyāva wards off; lelāya quivers; bibhāya (beside bibhāya) fears (while the periphrastic bibhayám cakāra has always a preterite sense). Besides these verbs veda knows and āha says always have a present sense.
+*1. in* a present sense based on the pres. perf., chiefly in forms that have a strengthened reduplicative vowel and thus seem to have an intensive meaning. It is the pres. perf. that includes the present, expressing that an action takes place in the present as a result of its repetition in the past; e. g. dādhāra (he has constantly held and now) holds; e. g. yát sāyám juhóti rátryai téna dādhāra if he offers in the evening, he thereby holds (Agni) for the night (MS.). Other perfects of this kind are: dīdāya shines; upa dodrāva rushes at; yoyāva wards off; lelāya quivers; bibhāya (beside bibhāya) fears (while the periphrastic bibhayám cakāra has always a preterite sense). Besides these verbs veda knows and āha says always have a present sense.
 
 Several other perfects with ordinary reduplication often have the present sense: ānaśé (has obtained \=) has (MS., TS.); párīyāya (has acquired \=) possesses (TS.); babhúva (has become \=) is (MS.); vivyāca (has encompassed \=) contains; dadṛśé (has been seen \=) appears (while dadárśa always has a past sense); also the perfect of grah and pra-āp: yé hí paśávo lóma jagṛhús té médhaṁ prápuḥ the cattle which have hair have also fat (MS.).
 
 
-#strong[2. in] a preterite sense, expressing that an action once occurred in the past (but not in the narrative sense of the impf.). This use most often appears in the form uvāca, which may be translated by once said or has said; e. g. eténa vá úpakerū rarādha: ṛdhnóti yá eténa yájate by this sacrifice Upakeru once prospered; he who sacrifices with it prospers (MS.). It often occurs in the AB. at the conclusion of a story related in the impf., in the phrase tad etad ṛṣiḥ paśyann abhyanū-vāca seeing this a seer has uttered with reference to it (the following verse). A somewhat different connexion with the narrative impf. appears in the following example: etám ha váí yajñásenaś cítiṁ vidám cakāra: táyā váí sá paśún ávārunddha this method of piling Yajñasena once invented: by means of it he acquired cattle (TS.). This perfect is found contrasting what is past with the present and future in the following successive sentences: yád vá asyám kíṁ cārcanti yád ānṛcúr; yád evá kíṁ ca vācā ānṛcúr yád átó 'dhí arcítáraḥ whatever prayers they offer on it (the earth) or have offered: whatever prayers they have offered with the voice or will offer in future (TS.).
+*2. in* a preterite sense, expressing that an action once occurred in the past (but not in the narrative sense of the impf.). This use most often appears in the form uvāca, which may be translated by once said or has said; e. g. eténa vá úpakerū rarādha: ṛdhnóti yá eténa yájate by this sacrifice Upakeru once prospered; he who sacrifices with it prospers (MS.). It often occurs in the AB. at the conclusion of a story related in the impf., in the phrase tad etad ṛṣiḥ paśyann abhyanū-vāca seeing this a seer has uttered with reference to it (the following verse). A somewhat different connexion with the narrative impf. appears in the following example: etám ha váí yajñásenaś cítiṁ vidám cakāra: táyā váí sá paśún ávārunddha this method of piling Yajñasena once invented: by means of it he acquired cattle (TS.). This perfect is found contrasting what is past with the present and future in the following successive sentences: yád vá asyám kíṁ cārcanti yád ānṛcúr; yád evá kíṁ ca vācā ānṛcúr yád átó 'dhí arcítáraḥ whatever prayers they offer on it (the earth) or have offered: whatever prayers they have offered with the voice or will offer in future (TS.).
 
 
-#strong[3. in] an historical sense, equivalent to that of the impf. in narrative,
+*3. in* an historical sense, equivalent to that of the impf. in narrative,
 
 ]
 
@@ -14982,10 +14982,10 @@ a. In B. three uses of the aor. ind. may be distinguished: 1\. it expresses what
 ]
 
 
-#strong[2. it] is employed by the author with regard to what from his own point of view has either just happened or has occurred in the more remote past; e.g. sá bándhur śunāsīryāsya yám pūrvám ávocāma this is the import of the Śunāsīrya oblation which we have explained above (ŚB.); puro vā etān devā akrata yat puroḷāśāṃs tat puroḷāśānāṃ puroḷāśatvam because the gods have made these cakes their castles, the cakes are so called (AB.). The adverb purā is not infrequently used with these aorists; e.g. ná vá etāsya brāhmaṇāḥ purāṇāṇnam akṣan Brahmins have never hitherto eaten his food (TS.).
+*2. it* is employed by the author with regard to what from his own point of view has either just happened or has occurred in the more remote past; e.g. sá bándhur śunāsīryāsya yám pūrvám ávocāma this is the import of the Śunāsīrya oblation which we have explained above (ŚB.); puro vā etān devā akrata yat puroḷāśāṃs tat puroḷāśānāṃ puroḷāśatvam because the gods have made these cakes their castles, the cakes are so called (AB.). The adverb purā is not infrequently used with these aorists; e.g. ná vá etāsya brāhmaṇāḥ purāṇāṇnam akṣan Brahmins have never hitherto eaten his food (TS.).
 
 
-#strong[3. it] expresses what results from a ritual act or is antecedent to it; e.g. putrāsya nāma gṛhṇāti: prajām evāṇānu sām atanīt he gives his son a name: he has thus extended his race (MS.); etād vái tṛtīyam yajñām āpad yác chándāṃsiṇāpnóti thereby he has obtained the third sacrifice when he obtains the metres (TS.); yád dhīṇasyaṇamedhyām ábhūt tád dhīṇasyaṇetād avadhūnóti what has been impure in it, that in it he shakes off in this way (ŚB.).
+*3. it* expresses what results from a ritual act or is antecedent to it; e.g. putrāsya nāma gṛhṇāti: prajām evāṇānu sām atanīt he gives his son a name: he has thus extended his race (MS.); etād vái tṛtīyam yajñām āpad yác chándāṃsiṇāpnóti thereby he has obtained the third sacrifice when he obtains the metres (TS.); yád dhīṇasyaṇamedhyām ábhūt tád dhīṇasyaṇetād avadhūnóti what has been impure in it, that in it he shakes off in this way (ŚB.).
 
 D. The pluperfect, as an augmented perfect, is equivalent to the corresponding Greek tense in form only. It cannot be distinguished in syntactical use from the impf. in some examples and from the aor. in others; e.g. átrā samudrá ā gūḷhám ā sūryam ajabhartana then ye brought the sun hidden in the sea (x. 72ʳ); úd u ṣyá devāḥ savitā yayāma hiraṇyāyīm amátiṃ yām áśiśret that god Savitr now has raised up the golden sheen which he has spread out (vii. 38ʳ).
 
@@ -14995,7 +14995,7 @@ D. The pluperfect, as an augmented perfect, is equivalent to the corresponding G
 #v(0.18em)
 
 
-#strong[214. A.] 1\. The simple future is in comparatively rare use in V., being formed from only fifteen roots in the RV. and from rather more than twenty others in the AV. This limited employment is accounted for by its sense being partly expressed by the subjunctive and to some extent by the present. It means that, according to the opinion, expectation, intention, hope or fear of the speaker, an action is to take place in the near or the remote future. The sphere of the future includes that of the will, the specific meaning of the subjunctive, but the stress is here laid on
+*214. A.* 1\. The simple future is in comparatively rare use in V., being formed from only fifteen roots in the RV. and from rather more than twenty others in the AV. This limited employment is accounted for by its sense being partly expressed by the subjunctive and to some extent by the present. It means that, according to the opinion, expectation, intention, hope or fear of the speaker, an action is to take place in the near or the remote future. The sphere of the future includes that of the will, the specific meaning of the subjunctive, but the stress is here laid on
 
 ]
 
@@ -15014,7 +15014,7 @@ D. The pluperfect, as an augmented perfect, is equivalent to the corresponding G
 Examples from the RV. are: staviṣyāmi tvām ahām I shall praise thee (i. 44⁵); kíṃ svid vakṣyāmi kíṃ u nū maniṣye what pray shall I say, what shall I now think? (vi. 9⁶); yády evā kariṣyátha sākāṃ devāir yajñiyāso bhaviṣyatha if ye will do so, you will be partakers of the sacrifice with the gods (i. 161²); nā tvāvāṃ indra kás caná nā jātó nā janiṣyate no one equal to thee, O Indra, has been born or will be born.
 
 
-#strong[2. In] B. the simple future is frequently used after verbs of speaking, knowing, thinking, hoping, fearing, which are sometimes also to be supplied; e. g. só 'bravīd: idāṃ māyi vīryāṃ, tát te prá dāsyāmi#emph[íti he said: here is heroism in me, that I will give thee (TS.); té ha]ūcuḥ kěna rājñā, kěna#emph[áníkena yotsyāma íti they said: with whom as king, with whom as leader shall we fight? (SB.); tátra vidyād: varṣiṣyati]íti in regard to that he should know: it will rain (SB.); índro ha vā īkṣāṃ cakre: mahád vā itó 'bhvāṃ janiṣyate Indra reflected: a great abuse will arise from this (SB.); sarvā devatā āśaṃsanta: mām abhi prati patsyati#emph[íti all the gods hoped: he will begin with me (AB.); yádi bibhiyād duścarmā bhaviṣyāmi]íti if he should fear, 'I shall suffer from skin disease' (TS.); ásurā vā īṣṭakā acinvata: dívam ā rokṣyāma íti the Asuras built up the bricks (thinking): we shall scale heaven (MS.).
+*2. In* B. the simple future is frequently used after verbs of speaking, knowing, thinking, hoping, fearing, which are sometimes also to be supplied; e. g. só 'bravīd: idāṃ māyi vīryāṃ, tát te prá dāsyāmi#emph[íti he said: here is heroism in me, that I will give thee (TS.); té ha]ūcuḥ kěna rājñā, kěna#emph[áníkena yotsyāma íti they said: with whom as king, with whom as leader shall we fight? (SB.); tátra vidyād: varṣiṣyati]íti in regard to that he should know: it will rain (SB.); índro ha vā īkṣāṃ cakre: mahád vā itó 'bhvāṃ janiṣyate Indra reflected: a great abuse will arise from this (SB.); sarvā devatā āśaṃsanta: mām abhi prati patsyati#emph[íti all the gods hoped: he will begin with me (AB.); yádi bibhiyād duścarmā bhaviṣyāmi]íti if he should fear, 'I shall suffer from skin disease' (TS.); ásurā vā īṣṭakā acinvata: dívam ā rokṣyāma íti the Asuras built up the bricks (thinking): we shall scale heaven (MS.).
 
 α. After an impv., the fut. is often used with átha; e. g. pátiṃ nū me púnar yúvānaṃ kurutam: átha vāṃ vakṣyāmi (SB.) make my husband young again: then I shall tell you (two).
 
@@ -15046,7 +15046,7 @@ a. Sometimes this form is used to express not that an action will take place at 
 #v(0.18em)
 
 
-#strong[215. The] only pure impv. forms are those of the 2\. 3\. sing. and 3\. pl., represented by bháva and bhávatāt, bhávasva; bhávatu; bhávantu, bhávantām. The forms later regarded as imperatives of the 1\. pers., bhávāni, bhávāva, bhávāma are subjunctives (cp. 131): while the 2\. 3\. du. and 2\. pl. bhávatam, bhávatām, bhávethām, bhávetām; bhávata, bhávadhvam, are injunctives (cp. 122 a a).
+*215. The* only pure impv. forms are those of the 2\. 3\. sing. and 3\. pl., represented by bháva and bhávatāt, bhávasva; bhávatu; bhávantu, bhávantām. The forms later regarded as imperatives of the 1\. pers., bhávāni, bhávāva, bhávāma are subjunctives (cp. 131): while the 2\. 3\. du. and 2\. pl. bhávatam, bhávatām, bhávethām, bhávetām; bhávata, bhávadhvam, are injunctives (cp. 122 a a).
 
 a. The impv. does not express commands only, but also a desire in the widest sense, such as a wish, a request, advice, a direction; e. g. devāṃ iháṇā vaha bring hither the gods (i. 14¹²); āheḷamāno bodhi be not angry (i. 24¹¹); imāniṇasya śīrṣāṇi chinddhi cut off these heads of his (MS.); vṛkṣe nāvaṃ práti badhnīṣva tie the ship to the tree (ŚB.); prá vām aśnotu suṣṭutiḥ may the hymn of praise reach you two (i. 17⁹); hánta na éko vettu come, let one of us find out (ŚB.).
 
@@ -15118,10 +15118,10 @@ In negative sentences the inj. is the only mood (with the exception of the singl
 e. The inj. not infrequently expresses a future sense like the subj. (215 C) in two types of sentences:
 
 
-#strong[1. in] positive interrogative sentences; e. g. kó no mahyá áditaye púnar dāt who will give us back to great Aditi? (i. 24¹). The subj. itself is here sometimes found beside it; e. g. kadā mártam arādhásaṁ padā kṣúmpam iva sphurat, kadā naḥ śuśravad giraḥ when will he spurn the niggardly mortal like a mushroom with his foot; when will he hear our songs? (i. 84⁸).
+*1. in* positive interrogative sentences; e. g. kó no mahyá áditaye púnar dāt who will give us back to great Aditi? (i. 24¹). The subj. itself is here sometimes found beside it; e. g. kadā mártam arādhásaṁ padā kṣúmpam iva sphurat, kadā naḥ śuśravad giraḥ when will he spurn the niggardly mortal like a mushroom with his foot; when will he hear our songs? (i. 84⁸).
 
 
-#strong[2. in] negative sentences with ná; e. g. yám ādityā abhi druhó rákṣathā, ném aghám naśat whom, O Ādityas, ye protect from harm, him misfortune will not reach (viii. 47¹).
+*2. in* negative sentences with ná; e. g. yám ādityā abhi druhó rákṣathā, ném aghám naśat whom, O Ādityas, ye protect from harm, him misfortune will not reach (viii. 47¹).
 
 a. In B. the use of the inj. in positive sentences has almost entirely disappeared. The ŚB., however, preserves several examples; e. g. deván avat let it refresh the gods; also sometimes in subordinate clauses, especially with néd; e. g. néd idám bahirdhā yajñād bhávat lest it be outside the sacrifice.
 
@@ -15149,7 +15149,7 @@ On the other hand the inj. is very frequent in negative sentences,
 The meaning of the subj. is best brought out by contrasting its use with that of the opt. From this it appears that the fundamental sense of the subj. is will, while that of the opt. is either wish or possibility (this mood being therefore alternatively called optative or potential). This distinction appears clearly from the fact that in the first person in independent sentences one group of verbs in the RV. employs the subj. exclusively or almost exclusively, while another employs the opt., because in the former the execution is dependent on the will of the speaker, while in the latter it is not in his control, but is only possible. With the subj. are thus used the verbs han strike, kṛ make, su press, brū speak. With the opt. on the other hand appear: ji conquer, tṛ overcome, sah conquer; aś and naś obtain, vid acquire, īś be master of; sac be associated with; ā-vṛt attract (to the sacrifice); śak be able; mad be happy; ṛdh prosper; paś live to see; as be (with predicates such as prosperous, &c.); also certain sacrificial verbs: idh kindle (with the co-operation of the god), dāś worship, vac and vad speak (effectively), vidh serve, sap please \= obtain the favour of (a god), hū call (\= bring hither).
 
 
-#strong[1. The] meanings expressed by the different persons of the subj. are the following:
+*1. The* meanings expressed by the different persons of the subj. are the following:
 
 The first person declares the will of the speaker; e. g. svastāye vāyum upa bravāmahai for welfare we will invoke Vāyu (v. 51¹²). It is often accompanied by the particles nū and hānta; e. g. prá nū vocā sutēṣu vām I will now praise you two at the libations (v. 69¹). The 1\. du. and pl. may also express an exhortation to another to share an action with
 
@@ -15196,7 +15196,7 @@ A 2
 In B. the 3\. pers. subj. is not found in the hortative sense, appearing only when a condition, promise, or curse is expressed; e.g. vṛṇīṣva ity abruvan; so 'bravīn: maddevatyā eva samid asad iti they said: choose a boon; he replied: the fuel shall be sacred to me (MS.); sā abravīd: váram vṛṇai; khātāt parābhaviṣyántī manye: táto mā parā bhūvam iti; purā te samvatsarād ápi rohād ity abravīt she said: I will make a condition; I think I shall perish in consequence of digging: let me not perish. He replied: before the lapse of a year for you, it (the wound) shall heal up (TS.); devās tān aśapan: svena vaḥ kiṣkuṇā vajreṇa vṛścān iti the gods cursed them (the trees): they shall destroy you with your own handle, with a bolt (TB.). The 3\. pers. subj. often also expresses the purpose of a ceremony; e.g. śṛṇād iti śaramáyaṃ barhír bhavati (MS.) the litter is made of reeds with the intention: it shall destroy him (the adversary).
 
 
-#strong[2. The] syntactical employment of the subj. is twofold.
+*2. The* syntactical employment of the subj. is twofold.
 
 a. It appears in principal sentences:
 
@@ -15231,7 +15231,7 @@ In B. the antecedent clause has either an ind. or an opt.; e. g. átha yán ná 
 β. in relative clauses:
 
 
-#strong[1. such] a clause normally precedes if it contains a supposition determining the sense of the principal clause; the latter usually has an impv., not infrequently a subj., seldom an inj. or ind.; e. g. yó naḥ pṛtanyád, ápa táṃ-tam íd dhatam whoever shall combat us, him do ye two slay (i. 132⁶); yás túbhyaṃ dāśān ná táṃ áṃho aśnavat who shall serve thee, him no distress can reach (ii. 23⁴); utá nūnám yád in-driyám kariṣyá indra páuṃsyam, adyá nákiṣ ṭád á minat and what heroic, manly deed thou, Indra, shalt now do, that let no one belittle to-day (iv. 30²³); yásmai tváṃ sukṛte jātaveda, u lokám agne kṛṇávaḥ syonáṃ, sá rayíṃ
+*1. such* a clause normally precedes if it contains a supposition determining the sense of the principal clause; the latter usually has an impv., not infrequently a subj., seldom an inj. or ind.; e. g. yó naḥ pṛtanyád, ápa táṃ-tam íd dhatam whoever shall combat us, him do ye two slay (i. 132⁶); yás túbhyaṃ dāśān ná táṃ áṃho aśnavat who shall serve thee, him no distress can reach (ii. 23⁴); utá nūnám yád in-driyám kariṣyá indra páuṃsyam, adyá nákiṣ ṭád á minat and what heroic, manly deed thou, Indra, shalt now do, that let no one belittle to-day (iv. 30²³); yásmai tváṃ sukṛte jātaveda, u lokám agne kṛṇávaḥ syonáṃ, sá rayíṃ
 
 A a 2
 
@@ -15252,7 +15252,7 @@ A a 2
 In B. the use of the subj. in relative clauses is similar; but here the subj. is by far the commonest form in the principal clause, the impv. and ind. (sometimes omitted) being rare; e.g. tāny abruvan, vāram vṛṇāmahai: yād āsurān jāyāma, tán naḥ sahā asad iti they said, we will make a condition: what we shall win from the Asuras that shall be ours in common (TS.); yās tvā kās ca upāyat, tūṣṇim evā āsva whoever shall come towards you, sit still; yād vindāsai tāt te ṛgnihotram kurmaḥ what thou shalt find, that we (shall) make thy fire-oblation (MS.); tād vái sámṛddham yám devāḥ sādháve kármaṇe juṣāntai that, indeed, (is) excellent, if the gods shall be pleased with him for a good work (ŚB.). In the last example the relative clause exceptionally follows.
 
 
-#strong[2. The] relative clause follows if it expresses a final or consequential sense (in order that, so that) arising from the principal clause; the latter usually has an impv., but sometimes an inj., opt., or ind.; e.g. sám pūṣan vidūṣā naya, yó ānjasā anuśāsati, yá evā idám iti brávat associate us, O Pūṣan, with a wise (guide) who shall at once direct us and who shall say: here it is (vi. 54¹); asmābhyaṃ tād rāḍha āgāt, śám yát stotṛbhya āpáye bhāvāti let that wealth come for us which shall be a blessing to thy praisers and thy kinsman (ii. 38¹¹); tād adyá vācāḥ prathamám masīya yéna āsurām abhi devā āsāma I would to-day think of that as the first (point) of my speech whereby we gods shall overcome the Asuras (x. 53⁴); imám bibharmi sukṛtaṃ te añkuśám yéna ārujāsi maghavañ chaphārūjaḥ I bring to thee this well-fashioned weapon (with which \=) in order that thou shouldst break the hoof-breakers (x. 44⁹). The subj. of these relative clauses sometimes comes to have a purely future sense; e. g. ó (\=ā u) té yanti yé ápariṣu páśyān those are coming who in future days will see her (i. 113¹¹).
+*2. The* relative clause follows if it expresses a final or consequential sense (in order that, so that) arising from the principal clause; the latter usually has an impv., but sometimes an inj., opt., or ind.; e.g. sám pūṣan vidūṣā naya, yó ānjasā anuśāsati, yá evā idám iti brávat associate us, O Pūṣan, with a wise (guide) who shall at once direct us and who shall say: here it is (vi. 54¹); asmābhyaṃ tād rāḍha āgāt, śám yát stotṛbhya āpáye bhāvāti let that wealth come for us which shall be a blessing to thy praisers and thy kinsman (ii. 38¹¹); tād adyá vācāḥ prathamám masīya yéna āsurām abhi devā āsāma I would to-day think of that as the first (point) of my speech whereby we gods shall overcome the Asuras (x. 53⁴); imám bibharmi sukṛtaṃ te añkuśám yéna ārujāsi maghavañ chaphārūjaḥ I bring to thee this well-fashioned weapon (with which \=) in order that thou shouldst break the hoof-breakers (x. 44⁹). The subj. of these relative clauses sometimes comes to have a purely future sense; e. g. ó (\=ā u) té yanti yé ápariṣu páśyān those are coming who in future days will see her (i. 113¹¹).
 
 In B. this type of relative clause with the subj. is rare; e.g. yán mā dhinávat tán me kuruta procure for me that which shall refresh me (ŚB.); hánta vayám tát sṛjāmahai yád asmān anvásad iti come, let us create what shall come after us (ŚB.).
 
@@ -15363,17 +15363,17 @@ In B., however, it is found with the subj. in the sense of a future perfect; e. 
 ]
 
 
-#strong[4. yadā] when, with the subj. (pres. or aor.), which then has the value of a fut. perf., is regularly antecedent, the principal clause containing an impv. or a subj.; e.g. śṛtām yadā kārasī jātavedo, āthaṁ enaṁ pāri dattāt pitṛ-bhyaḥ when thou shalt have made him done, then deliver him to the fathers (x. 16²); yadā gāchāty āsunītīm etām, ātha devānām vaśanīr bhavāti when he shall have gone to that spirit world, then he shall become subject to the gods (x. 16²). yadā kadā ca whenever seems to give the verb the same sense: yadā kadā ca sunāvama sōmam, agniṣ tvā dūtō dhanvāty ācha whenever we shall have pressed Soma, Agni shall hasten to thee as a messenger (iii. 53⁴).
+*4. yadā* when, with the subj. (pres. or aor.), which then has the value of a fut. perf., is regularly antecedent, the principal clause containing an impv. or a subj.; e.g. śṛtām yadā kārasī jātavedo, āthaṁ enaṁ pāri dattāt pitṛ-bhyaḥ when thou shalt have made him done, then deliver him to the fathers (x. 16²); yadā gāchāty āsunītīm etām, ātha devānām vaśanīr bhavāti when he shall have gone to that spirit world, then he shall become subject to the gods (x. 16²). yadā kadā ca whenever seems to give the verb the same sense: yadā kadā ca sunāvama sōmam, agniṣ tvā dūtō dhanvāty ācha whenever we shall have pressed Soma, Agni shall hasten to thee as a messenger (iii. 53⁴).
 
 a. The usage of B. is the same; e. g. sā yadā tām ativārdhā, ātha karṣūṁ khātvā tāsyāṁ mā bibharāsi when I shall have outgrown that (vessel), then having dug a trench you shall keep me in it (ŚB.).
 
 
-#strong[5. yādi] if with the subj. generally precedes the principal clause, which contains an impv., a subj., (rarely) an opt., or an ind. (sometimes to be supplied); e.g. yādi stōmaṁ māma śrāvad, asmākam indram indavo mandantu if he shall hear my praise, let these drops of ours gladden Indra (viii. 1¹⁵); yājāma devān yādi śaknāvāma we will adore the gods, if we shall be able (i. 27¹³); yādi prāti tvāṁ hāryāḥ . . apā enā jayema if thou shalt accept (it) gladly, we might thereby win the waters (v. 2¹¹); indrā ha vāruṇā dhēṣṭhā, yādi sōmaiḥ . . mādāyaite Indra and Varuṇa (are) the most liberal, if they shall delight in the Soma offerings (iv. 41³).
+*5. yādi* if with the subj. generally precedes the principal clause, which contains an impv., a subj., (rarely) an opt., or an ind. (sometimes to be supplied); e.g. yādi stōmaṁ māma śrāvad, asmākam indram indavo mandantu if he shall hear my praise, let these drops of ours gladden Indra (viii. 1¹⁵); yājāma devān yādi śaknāvāma we will adore the gods, if we shall be able (i. 27¹³); yādi prāti tvāṁ hāryāḥ . . apā enā jayema if thou shalt accept (it) gladly, we might thereby win the waters (v. 2¹¹); indrā ha vāruṇā dhēṣṭhā, yādi sōmaiḥ . . mādāyaite Indra and Varuṇa (are) the most liberal, if they shall delight in the Soma offerings (iv. 41³).
 
 a. In B. the subj. with yadi is very rare; an example is: yadi tvā etāt punar brávatas, tvam brutāt if they two shall say this again to thee, do thou say (SB.).
 
 
-#strong[6. yād] so long as occurs twice with the subj. in the RV.: anānukṛtyām apunáš cakāra yāt sūryāmāsā mithá uccá-
+*6. yād* so long as occurs twice with the subj. in the RV.: anānukṛtyām apunáš cakāra yāt sūryāmāsā mithá uccá-
 
 ]
 
@@ -15425,7 +15425,7 @@ The third person is used in the three different senses of wish, precept, or supp
 In B. it is common in all three senses: expressing a wish; e. g. apaśúḥ syāt may he be bereft of cattle (TS.); a general precept (where a gerundive may also be used); e. g. kṣáume vásānā agním á dadhīyā-tāṁ, té adhvaryáve déye wearing linen garments the two should lay the fire; the two (garments) should be given to the Adhvaryu (MS.); a supposition in the apodosis of periods, but seldom independently; e. g. náasya tāṁ rātrīm apó gṛbān prá hareyur; ápo vái śāntiḥ: śamáyeyur eva (MS.) they should not during that night bring water into his house; for water is extinction: they would thus extinguish (if they did this). The protasis in this example must be supplied.
 
 
-#strong[2. The] syntactical employment of the optative is two-fold:
+*2. The* syntactical employment of the optative is two-fold:
 
 a. it appears in principal sentences (for the most part retaining the sense of a wish) with interrogatives, either the pronoun or the adverbs kathā how? kadā when? and kuvid; e. g. kásmai devāya haviṣā vidhema what god would we worship with oblation? (x. 121¹); kadā na indra rāyá á daśasyeḥ when wouldst thou, O Indra, bestow riches upon us? (vii. 37⁵); kuvít tutujyāt sātāye dhíyah (i. 143⁶) would he not stimulate our prayers for gain? (cp. p. 354, 2 a). A possibility is sometimes thus repudiated; e. g. kád dha nūnám
 
@@ -15574,7 +15574,7 @@ In B. it is used with the opt. like yádi (with which it may interchange); e. g.
 #v(0.18em)
 
 
-#strong[217. This] form, which occurs in the RV. and AV. in principal clauses only, and never interrogatively, expresses a prayer or wish addressed to the gods almost exclusively, as is to be expected from the nature of those texts; e. g. yó no dvésṭy ádharaḥ sás padīṣṭa may he who hates us fall to the ground (iii. 53²¹). When a negative is used it is ná; e. g. bhágo me agne sakhyé ná mṛdhyāḥ may my good fortune, O Agni, not relax in (thy) friendship (iii. 54²¹).
+*217. This* form, which occurs in the RV. and AV. in principal clauses only, and never interrogatively, expresses a prayer or wish addressed to the gods almost exclusively, as is to be expected from the nature of those texts; e. g. yó no dvésṭy ádharaḥ sás padīṣṭa may he who hates us fall to the ground (iii. 53²¹). When a negative is used it is ná; e. g. bhágo me agne sakhyé ná mṛdhyāḥ may my good fortune, O Agni, not relax in (thy) friendship (iii. 54²¹).
 
 In B. the precative is almost restricted to verse or prose formulas quoted and to paraphrases of such formulas; e. g. bhúyasīnām uttarāṁ sámāṁ kriyāsam íti gávāṁ lákṣma kuryāt would that I may do (this) to more next year: so saying he should make the mark of the cows (MS.). śatáṁ hímā íti śatáṁ varṣāṇi jīvyāsam íty evá, ctád āha by the expression 'a hundred winters' he says this: 'would that I may live a hundred years' (ŚB.). It is, however, sometimes found in genuine prose narrative also; e. g. sā ha vāk prajāpatim uvāca: áhavyavāḍ evá, aháṁ túbhyaṁ bhúyāsam Vāc said to Prajāpati: I would like not to be a conductor of sacrifice for thee (ŚB.); tám aśapad: dhiyā-dhiyā tvā vadhyāsuḥ him (Agni) cursed (saying): I wish they may kill thee with repeated deliberation (TS.).
 
@@ -15584,12 +15584,12 @@ In B. the precative is almost restricted to verse or prose formulas quoted and t
 #v(0.18em)
 
 
-#strong[218. In] V. the conditional occurs only once (RV. ii. 30°) in a somewhat obscure passage, though the form abhariṣyat used after a past tense appears to mean would take away (in place of the future which would have been used after a present tense).
+*218. In* V. the conditional occurs only once (RV. ii. 30°) in a somewhat obscure passage, though the form abhariṣyat used after a past tense appears to mean would take away (in place of the future which would have been used after a present tense).
 
 In B. the conditional is once found in a simple interrogative sentence: táta evá, asya bhayáṁ vlyāya: kásmād dhy ábheṣyat thereupon his fear departed: for of what should he have been afraid? (ŚB.). Otherwise it occurs only in compound sentences:
 
 
-#strong[1. usually] in both protasis and apodosis of conditional sentences, expressing what might have happened in the past, but did not happen because the condition was not fulfilled. The conditional clause is generally introduced by yád, rarely by yádi (216); e. g. sá yád dha, ápi múkhād ádroṣyan, ná ha, evá práyaścittir abhaviṣyat if it (Soma) had also flowed out of his mouth, there would not have been a penance (ŚB.); yád eváṁ ná, ávakṣyo mūrdhā te vy àpatiṣyat if you had not spoken thus, your head would have split asunder (ŚB.); pādau te 'mlāsyatāṁ yádi ha ná, ágamiṣyaḥ your feet would have withered, if you had not come (ŚB.).
+*1. usually* in both protasis and apodosis of conditional sentences, expressing what might have happened in the past, but did not happen because the condition was not fulfilled. The conditional clause is generally introduced by yád, rarely by yádi (216); e. g. sá yád dha, ápi múkhād ádroṣyan, ná ha, evá práyaścittir abhaviṣyat if it (Soma) had also flowed out of his mouth, there would not have been a penance (ŚB.); yád eváṁ ná, ávakṣyo mūrdhā te vy àpatiṣyat if you had not spoken thus, your head would have split asunder (ŚB.); pādau te 'mlāsyatāṁ yádi ha ná, ágamiṣyaḥ your feet would have withered, if you had not come (ŚB.).
 
 ]
 
@@ -15606,10 +15606,10 @@ In B. the conditional is once found in a simple interrogative sentence: táta ev
 ]
 
 
-#strong[2. in] relative clauses dependent on negative principal clauses containing a past tense (always of vid find); e. g. sá tád evá ná avindat prajāpatir yád áhoṣyat Prajāpati found nothing that he could sacrifice (MS.); sá váí táṃ ná avindad yásmai táṃ dákṣiṇām áneṣyat he found no one to whom he should give this sacrificial fee (TB.).
+*2. in* relative clauses dependent on negative principal clauses containing a past tense (always of vid find); e. g. sá tád evá ná avindat prajāpatir yád áhoṣyat Prajāpati found nothing that he could sacrifice (MS.); sá váí táṃ ná avindad yásmai táṃ dákṣiṇām áneṣyat he found no one to whom he should give this sacrificial fee (TB.).
 
 
-#strong[3. in] a clause introduced by yád that dependent on a negative (or equivalent) clause; e. g. cirám tán mene yád vāsaḥ paryádhāsyata he thought it too long (that \=) till he should put on the garment (ŚB.) \= he thought the time was not short enough till he should put on the garment.
+*3. in* a clause introduced by yád that dependent on a negative (or equivalent) clause; e. g. cirám tán mene yád vāsaḥ paryádhāsyata he thought it too long (that \=) till he should put on the garment (ŚB.) \= he thought the time was not short enough till he should put on the garment.
 
 ]
 
@@ -15679,7 +15679,7 @@ av favour, I. P.: PR. ávati; SB. ávāt; INJ. ávat; OP. ávet; IPV. ávatu; PT
 aś eat, IX.: PR. aśnāti, aśnánti; aśnité, aśnáte; OP. aśnīyāt; IPV. aśāná; PT. aśnánt. IPF. aśnām, aśnāt; aśnan, aśnan. PF. aśa. AO. iṣ: aśiṣam, aśiṣ, aśīt; INJ. aśīt. FT. aśiṣyáti (B.). PS. aśyáte; PP. aśitá. GD. aśitvá (B.), -áśya (B.). CS. aśáyati (B.). DS. aśiśiṣati (B.).
 
 
-#strong[1. as] be, II. P.: PR. ásmi, ási, ásti; sthás, stás; smás, sthá and sthána, sánti; SB. ásāni, ásasi and ásas, ásati and ásat; ásathas; ásāma, ásatha, ásan; INJ. 3\. pl. sán; OP. syām, syās, syāt; syātam, syātām; syāma, syāta and syātana, syúr; IPV. edhí, ástu; stám, stám; stá, sántu; PT. sánt. IPF. ásam, ásiṣ, áṣ (\=ás-t) and
+*1. as* be, II. P.: PR. ásmi, ási, ásti; sthás, stás; smás, sthá and sthána, sánti; SB. ásāni, ásasi and ásas, ásati and ásat; ásathas; ásāma, ásatha, ásan; INJ. 3\. pl. sán; OP. syām, syās, syāt; syātam, syātām; syāma, syāta and syātana, syúr; IPV. edhí, ástu; stám, stám; stá, sántu; PT. sánt. IPF. ásam, ásiṣ, áṣ (\=ás-t) and
 
 ]
 ]
@@ -15703,7 +15703,7 @@ aś eat, IX.: PR. aśnāti, aśnánti; aśnité, aśnáte; OP. aśnīyāt; IPV. 
 thur, ásátur; ásimá, ásúr.
 
 
-#strong[2. as] throw, IV.: PR. ásyāmi, ásyati and ásyate; ásyāmasi,
+*2. as* throw, IV.: PR. ásyāmi, ásyati and ásyate; ásyāmasi,
 
 ásyanti; IPV. ásya and ásyatāt, ásyatu; PT. ásyant.
 
@@ -15748,7 +15748,7 @@ iyāná. IPF. áyam, áis, áit; áitam, áitām; áita, áyan;
 Ā. 3\. pl. áyata. I.: áyati, áyate; INJ. áyanta; IPV.
 
 
-#strong[3. du.] áyatām, pl. áyantām. V.: PR. inóti; inviré.
+*3. du.* áyatām, pl. áyantām. V.: PR. inóti; inviré.
 
 IPF. áinos, áinot.
 
@@ -15841,10 +15841,10 @@ ubh confine, VII. P.: IPF. unap (2\. s.), áumbhan (TS.). VI. P.: IPV. umbháta 
 uṣ burn, I. P.: PR. óṣati; INJ. óṣas; IPV. óṣa and óṣatāt, óṣatu; óṣatam; PT. óṣant. IX. P.: PT. uṣṇánt. IPF. uṣṇán. PF. uvóṣa (B.). AO. áuṣīt (B.). PP. uṣṭá (B.).
 
 
-#strong[1. ūh] remove, I.: PR. ūhati; IPV. ūha. IPF. áuhat; áuhata, áuhan; A. áuhata (3\. s.). AO. áuhīt (B.); OP. uhyāt (B.). PP. ūḍhá (B.). GD. -ūhya and -ūhya (B.). INF. -ūhitavái (B.).
+*1. ūh* remove, I.: PR. ūhati; IPV. ūha. IPF. áuhat; áuhata, áuhan; A. áuhata (3\. s.). AO. áuhīt (B.); OP. uhyāt (B.). PP. ūḍhá (B.). GD. -ūhya and -ūhya (B.). INF. -ūhitavái (B.).
 
 
-#strong[2. ūh] consider, I. Ā.: PR. óhate. II. Ā.: PR. óhate (3\. pl.); PT. óhāna and ohāná. PF. ūhé; 2\. du. ūhyāthe (\=ūh-āthe?). AO. áuhiṣṭa; PT. óhasāna.
+*2. ūh* consider, I. Ā.: PR. óhate. II. Ā.: PR. óhate (3\. pl.); PT. óhāna and ohāná. PF. ūhé; 2\. du. ūhyāthe (\=ūh-āthe?). AO. áuhiṣṭa; PT. óhasāna.
 
 ṛ go, VI. P.: PR. ṛcháti (-te, B.); SB. ṛchát; IPV. ṛchátu; ṛchántu. III. P.: PR. íyarmi, íyárṣi, íyarti; IPV. íyarta (2\. pl.). V.: PR. ṛṇómi, ṛṇóti; ṛṇvánti; ṛṇvé; ṛṇviré; INJ. ṛṇós; ṛṇván; Ā. ṛṇutá (3\. s.); SB. ṛṇávas; IPV.: Ā. ṛṇvátām (3\. pl.); PT. ṛṇvánt. IPF. ṛṇván. PF. áritha, ára; áráthur, árúr; PT. árivāṃs; áráṇá. AO.
 
@@ -15905,7 +15905,7 @@ kam love: PF. PT. cakamānā. AO. red.: ácīkamata (B.). FT. kamiṣyáte (B.);
 kup be angry, IV.: PR. PT. kúpyant. PP. kupitá. CS. kopáyati.
 
 
-#strong[1. kṛ] make, V.: PR. kṛṇómi, kṛṇóṣi, kṛṇóti; kṛṇuthás, kṛṇutás; kṛṇmási, kṛṇuthá, kṛṇvánti; Ā. kṛṇvé, kṛṇuṣé, kṛṇuté; kṛṇmáhe, kṛṇváte; INJ. kṛṇváta (3\. pl.); SB. kṛṇávā, kṛṇávas, kṛṇávat; kṛṇávāva; kṛṇávāma, kṛṇávātha (VS.), kṛṇávan; Ā. kṛṇávai, kṛṇávase, kṛṇávate; kṛṇávāvahai, kṛṇváite (for kṛṇávaite); kṛṇávāmahai, kṛṇávanta; OP. kṛṇvītā; IPV. kṛṇú, kṛṇuhí and kṛṇutāt, kṛṇótu; kṛṇutám, kṛṇutám; kṛṇutá, kṛṇóta, and kṛṇótana, kṛṇvántu; Ā. kṛṇuṣvá, kṛṇutám; kṛṇváthām; kṛṇudhvám; PT. kṛṇvánt; kṛṇvāná. IPF. kṛṇavam, ákṛṇos, ákṛṇot; ákṛṇutam; ákṛṇuta, ákṛṇota and ákṛṇotana, ákṛṇvan; Ā. ákṛṇuta (3\. s.); ákṛṇudhvam, ákṛṇvata.
+*1. kṛ* make, V.: PR. kṛṇómi, kṛṇóṣi, kṛṇóti; kṛṇuthás, kṛṇutás; kṛṇmási, kṛṇuthá, kṛṇvánti; Ā. kṛṇvé, kṛṇuṣé, kṛṇuté; kṛṇmáhe, kṛṇváte; INJ. kṛṇváta (3\. pl.); SB. kṛṇávā, kṛṇávas, kṛṇávat; kṛṇávāva; kṛṇávāma, kṛṇávātha (VS.), kṛṇávan; Ā. kṛṇávai, kṛṇávase, kṛṇávate; kṛṇávāvahai, kṛṇváite (for kṛṇávaite); kṛṇávāmahai, kṛṇávanta; OP. kṛṇvītā; IPV. kṛṇú, kṛṇuhí and kṛṇutāt, kṛṇótu; kṛṇutám, kṛṇutám; kṛṇutá, kṛṇóta, and kṛṇótana, kṛṇvántu; Ā. kṛṇuṣvá, kṛṇutám; kṛṇváthām; kṛṇudhvám; PT. kṛṇvánt; kṛṇvāná. IPF. kṛṇavam, ákṛṇos, ákṛṇot; ákṛṇutam; ákṛṇuta, ákṛṇota and ákṛṇotana, ákṛṇvan; Ā. ákṛṇuta (3\. s.); ákṛṇudhvam, ákṛṇvata.
 
 VIII.: karómi, karóti; kurmás, kurvánti; kurvé, kuruté; kurváte; SB. karávas, karávāt; IPV. kurú, karótu; Ā. kurvátām. PT. kurvánt; kurvāṇá. IPF. ákaros, ákarot; ákurvan; Ā. kuruthás, ákuruta; ákurvata. II.: PR. kárṣi; kṛthás; kṛthá; A. kṛṣé.
 
@@ -15928,7 +15928,7 @@ PF. cakára, cakártha, cakāra; cakráthur, cakrátur; cakṛmá, cakrá, cakr�
   SE. kariṣyās. CO. ákariṣyat (B.). PS. kriyáte; PT. kri-yámāṇa; AO. ákāri; PP. kṛtá. GDV. kártva. GD. kṛtvá, kṛtví, kṛtváya. INF. kártave, kártavái; kártos; kártum. CS. kāráyati, kāráyate (B.). DS. cíkiṛṣati. INT. PT. kárikrat and cárikrat.
 
 
-#strong[2. kṛ] commemorate: AO. S: ákāṛṣam; iṣ: ákāriṣam, ákārīt. INT. cárkarmi; SE. cárkiran; AO. cárkṛṣe (3\. s.); GDV. carkṛtya.
+*2. kṛ* commemorate: AO. S: ákāṛṣam; iṣ: ákāriṣam, ákārīt. INT. cárkarmi; SE. cárkiran; AO. cárkṛṣe (3\. s.); GDV. carkṛtya.
 
 kṛt cut, VI. P.: PR. kṛntáti; INJ. kṛntát; IPV. kṛntá; PT. kṛntánt. IPF. ákṛntat. PF. cakártitha, cakárta. AO. a: ákṛtas; PT. kṛtánt; red.: ácikṛtas (B.). FT. kartsyámi. PS. kṛtyáte; PP. kṛttá. GD. -kṛtya.
 
@@ -15975,7 +15975,7 @@ kṣam endure, I. Ā.: OP. kṣámeta; IPV. kṣámadhvam. PT. kṣámamāṇa. 
 kṣar flow, I. P.: PR. kṣárati; INJ. kṣárat; IPV. kṣára; kṣárantu; PT. kṣárant. IPF. ákṣarat; ákṣaran. AO. s: ákṣār. PP. kṣaritá (B.). INF. kṣáradhyai. CS. kṣāráyati (B.).
 
 
-#strong[1. kṣi] possess, II. P.: PR. kṣéṣi, kṣéti; kṣitás; kṣiyánti; SB. kṣáyas, kṣáyat; kṣáyāma; PT. kṣiyánt. I. P.: PR. kṣáyati; OP. kṣáyema (AV.); PT. kṣáyant. IV. P.:
+*1. kṣi* possess, II. P.: PR. kṣéṣi, kṣéti; kṣitás; kṣiyánti; SB. kṣáyas, kṣáyat; kṣáyāma; PT. kṣiyánt. I. P.: PR. kṣáyati; OP. kṣáyema (AV.); PT. kṣáyant. IV. P.:
 
 ]
 ]
@@ -15996,7 +15996,7 @@ kṣar flow, I. P.: PR. kṣárati; INJ. kṣárat; IPV. kṣára; kṣárantu; 
 FT. PT. kṣeṣyánt. CS. IPV. kṣayáya; INJ. kṣepáyat.
 
 
-#strong[2. kṣi] destroy, IX.: PR. kṣiṇáti; kṣiṇánti; INJ. kṣiṇám.
+*2. kṣi* destroy, IX.: PR. kṣiṇáti; kṣiṇánti; INJ. kṣiṇám.
 
 IPF. ákṣiṇās. V.: PR. kṣiṇómi. IV. Ā.: PR. kṣíyate;
 
@@ -16084,10 +16084,10 @@ jagmāná. Per. PF. gamayám cakāra (AV.). PPF. ájagan
 ]
 
 
-#strong[1. gā] go, III. P.: PR. jígāsi, jígāti; INJ. jígāt; IPV. jígātam; jígāta; PT. jígat. IPF. ájigāt. PF. OP. jagāyāt. AO. root: ágām, ágās, ágāt; ágātam, ágātām; ágāma, ágāta, águr; SB. gāni, gās, gāt; gāma; INJ. gám; gāma, gúr; IPV. gātā and gātāna; s: INJ. geṣam (VS.); geṣma (AV.). DS. jígāsa (SV.). INF. gātave.
+*1. gā* go, III. P.: PR. jígāsi, jígāti; INJ. jígāt; IPV. jígātam; jígāta; PT. jígat. IPF. ájigāt. PF. OP. jagāyāt. AO. root: ágām, ágās, ágāt; ágātam, ágātām; ágāma, ágāta, águr; SB. gāni, gās, gāt; gāma; INJ. gám; gāma, gúr; IPV. gātā and gātāna; s: INJ. geṣam (VS.); geṣma (AV.). DS. jígāsa (SV.). INF. gātave.
 
 
-#strong[2. gā] sing, IV.: PR. gāyasi, gāyati; gāyanti; Ā. gāye; INJ. gāyat; IPV. gāya; gāyata, gāyantu; PT. gāyant. IPF. ágāyat. PF. jagán (B.). AO. s: INJ. gāsi (1\. s.); siṣ: ágāsiṣur; SB. gāsiṣat. FT. gāsyáti (B.). PS. PT. gīyámāna; PP. gītā. GD. gītvá (B.); -gāya (B.) and -gīya (B.). INF. gātum (B.). CS. gāpáyati, -te (B.). DS. jígāsati (B.).
+*2. gā* sing, IV.: PR. gāyasi, gāyati; gāyanti; Ā. gāye; INJ. gāyat; IPV. gāya; gāyata, gāyantu; PT. gāyant. IPF. ágāyat. PF. jagán (B.). AO. s: INJ. gāsi (1\. s.); siṣ: ágāsiṣur; SB. gāsiṣat. FT. gāsyáti (B.). PS. PT. gīyámāna; PP. gītā. GD. gītvá (B.); -gāya (B.) and -gīya (B.). INF. gātum (B.). CS. gāpáyati, -te (B.). DS. jígāsati (B.).
 
 gāh plunge, I. Ā.: PR. gāhase, gāhate; OP. gāhemahi; IPV. gāhethām; PT. gāhamāna. IPF. ágāhathās. INT. jáṅgahe.
 
@@ -16118,7 +16118,7 @@ sa: ághuksat. PS. guhyáte; PT. guhyámāna; PP. gūḍhá;
 GDV. gūhya, -gohya. GD. gūḍhvī. DS. júguksati.
 
 
-#strong[1. gr] sing, IX.: PR. grṇāmi, grṇāti; grṇītās; grṇīmási,
+*1. gr* sing, IX.: PR. grṇāmi, grṇāti; grṇītās; grṇīmási,
 
 grṇánti; Ā. grṇé, grṇīṣé, grṇīté (and grṇé), grṇīmāhe;
 
@@ -16129,7 +16129,7 @@ grṇītām; grṇītā, grṇántu; PT. grṇánt; grṇānā. GD.
 -gīrya (B.). INF. grṇīsāṇi.
 
 
-#strong[2. gr] wake: AO. red.: 2\. 3\. ájīgar; IPV. jigṛtám; jigṛtá.
+*2. gr* wake: AO. red.: 2\. 3\. ájīgar; IPV. jigṛtám; jigṛtá.
 
 INT. jāgartī; jāgrati; SB. jāgarāsi (AV.), jāgarat; OP.
 
@@ -16213,7 +16213,7 @@ car move, I. P.: PR. cárati; SB. cárāṇi; cárāva, cárātas; cárān; cár
 cāy note, I.: PR. cāyati (B.); PT. cāyamāna. PER. PF. -cāyāṃ cakrur (B.). AO. iṣ: ácāyiṣam. PS. cāyyáte. GD. cāyitvá; -cāyya.
 
 
-#strong[1. ci] gather, V.: PR. cinóti; cinvánti; cinuté; SB. cináv-at; OP. cinuyāma; IPV. cinuhí, cinótu; cinvántu;
+*1. ci* gather, V.: PR. cinóti; cinvánti; cinuté; SB. cináv-at; OP. cinuyāma; IPV. cinuhí, cinótu; cinvántu;
 
 ]
 ]
@@ -16235,7 +16235,7 @@ cāy note, I.: PR. cāyati (B.); PT. cāyamāna. PER. PF. -cāyāṃ cakrur (B.)
 ]
 
 
-#strong[2. ci] note, III.: PR. cikéṣi (AV.); IPV. cikīhí (AV.), ciketu (TS.); Ā. (3\. s.) cikitām (AV.); PT. cíkyat. IPF. áciket; ácikayur (B.). PF. cikāya; cikyátur; cikyúr; Ā. 2\. du. cikéthe (for cikyāthe). AO. root: ácet; Ā. áci-dhvam. PP. citá. DS. cikiṣate.
+*2. ci* note, III.: PR. cikéṣi (AV.); IPV. cikīhí (AV.), ciketu (TS.); Ā. (3\. s.) cikitām (AV.); PT. cíkyat. IPF. áciket; ácikayur (B.). PF. cikāya; cikyátur; cikyúr; Ā. 2\. du. cikéthe (for cikyāthe). AO. root: ácet; Ā. áci-dhvam. PP. citá. DS. cikiṣate.
 
 cit perceive, I.: PR. cétati; cétathas; cétatha; Ā. cétate; cétante; INJ. cétat; IPV. cétatām; PT. cétant; IPF. ácetat. II. Ā.: PR. cité (3\. s.). PF. cikéta; cikitúr; Ā. cikité; cikitré and cikitriré; SB. cikitas, ciketati and cíketat; cíketathas; IPV. cikiddhi; PT. cikitvāṃs; cikitānā; PPF. ciketam; áciketat. AO. root: ácet; PT. citāna; PS.: áceti; S: ácait. INF. citáye. CS. cetáyati, -te and citáyati, -te; SB. cetáyāni, cetáyātai (TS.); OP. citáyema. DS. INJ. cikitsat. INT. cékite (3\. s.); SB. cé-kitat; PT. cékitat.
 
@@ -16275,7 +16275,7 @@ jas be exhausted, I.: PR. PT. jásamāna; IV.: IPV. jásyata. PF. jajāsa; IPV. 
 jā be born, IV. Ā.: PR. jáyate; INJ. jáyata; OP. jáyemahi; IPV. jáyasva, jáyatām; jáyadhvam; PT. jáyamāna. IPF. ájāyathās, ájāyata; ájāyanta. PP. jātā.
 
 
-#strong[1. ji] conquer, I.: jáyati, -te; SB. jáyāsi, jáyās, jáyāti; jáyāva, jáyātha; Ā. jáyātai (AV.); INJ. jáyat; OP. jáyema; IPV. jáyatu; Ā. jáyantām; PT. jáyant. IPF. ájayat. II. P.: PR. jéṣi. PF. jigétha, jigāya; jigyáthur; jigyúr; Ā. jigyé; PF. jigīvāṃs; jigivāṃs (B.); AO. root: INJ. jés; IPV. jitám; s: ájaiṣam, 3\. ájais (\= ájais-t); ájaiṣma; SB. jéṣas, jéṣat; jéṣāma; INJ. jéṣam (VS.), jés; jéṣma, jáiṣur (AV.). FT. jeṣyáti; PT. jeṣyánt. PP. jitá; GDV. jétva. GD. jitvā (B.); -jítya. INF. jisé; jétave (B.); jétum (B.). CS. jāpáyati (B.); ájījapata
+*1. ji* conquer, I.: jáyati, -te; SB. jáyāsi, jáyās, jáyāti; jáyāva, jáyātha; Ā. jáyātai (AV.); INJ. jáyat; OP. jáyema; IPV. jáyatu; Ā. jáyantām; PT. jáyant. IPF. ájayat. II. P.: PR. jéṣi. PF. jigétha, jigāya; jigyáthur; jigyúr; Ā. jigyé; PF. jigīvāṃs; jigivāṃs (B.); AO. root: INJ. jés; IPV. jitám; s: ájaiṣam, 3\. ájais (\= ájais-t); ájaiṣma; SB. jéṣas, jéṣat; jéṣāma; INJ. jéṣam (VS.), jés; jéṣma, jáiṣur (AV.). FT. jeṣyáti; PT. jeṣyánt. PP. jitá; GDV. jétva. GD. jitvā (B.); -jítya. INF. jisé; jétave (B.); jétum (B.). CS. jāpáyati (B.); ájījapata
 
 ]
 ]
@@ -16297,7 +16297,7 @@ jā be born, IV. Ā.: PR. jáyate; INJ. jáyata; OP. jáyemahi; IPV. jáyasva, j
 ]
 
 
-#strong[2. ji] quicken, V.: PR. jinóṣi; jinvé. IPF. ájinot (B.).
+*2. ji* quicken, V.: PR. jinóṣi; jinvé. IPF. ájinot (B.).
 
 jinv quicken (\=V. ji-nu+a), I.: PR. jínvasi, jínvati; jínva-thas; jínvatha, jínvanti; Ā. jínvate; IPV. jínva, jínv-atu; jínvatam; jínvata; PT. jínvant. IPF. ájínvat; ájinv-atam. PF. jijínváthur. PT. jinviṣyáti (B.). PP. jinvitá.
 
@@ -16553,7 +16553,7 @@ das, dās lay waste, IV. P.: PR. dásyati; OP. dásyet. I. P.: PR. dāsati; SB. 
 dah burn, I. P.: PR. dáhati; SB. dáhāti. II. P.: PR. dhákṣi. PF. dadáha (B.). AO. s.: ádhákṣīt; ádhāk (3\. s.); INJ. dhāk (3\. s.); PT. dhákṣant and dákṣant. PT. dhakṣyáti; PT. dhakṣyánt. PS. dahyáte; PP. dagdhá. GD. dagdhvā (B.); -dáhya (B.). INF. -dáhas (B.), dágdhos (B.), dágdhum (B.). DS. dhíkṣate (B.).
 
 
-#strong[1. dā] gire, III.: PR. dádāti; dátte; SB. dádas, dádat; dádan; dádātai (AV.), dádāmahe; INJ. dadās, dadāt; OP. dadyāt; dadimáhi, dadirán; IPV. daddhí, dehí, dattāt, dádātu; dattám, dattám; dattá and dádāta, dádātana, dádatu; Ā. datsvá; PT. dádat; dádāna; IPF. ádadām, ádadās, ádadāt; ádattam; ádadāta, ádattana, ádadur; Ā. ádatta. I.: dadati; dadate; INJ. dadat; IPV. dadatām (3\. s.); IPF. ádadat; ádadanta. PF. dadátha, dadáu; dadáthur, dadátur; dadá, dadúr; Ā. dadé, dadáthe, dadriré; PT. dadvāṃs, dadivāṃs (AV.), dadā-
+*1. dā* gire, III.: PR. dádāti; dátte; SB. dádas, dádat; dádan; dádātai (AV.), dádāmahe; INJ. dadās, dadāt; OP. dadyāt; dadimáhi, dadirán; IPV. daddhí, dehí, dattāt, dádātu; dattám, dattám; dattá and dádāta, dádātana, dádatu; Ā. datsvá; PT. dádat; dádāna; IPF. ádadām, ádadās, ádadāt; ádattam; ádadāta, ádattana, ádadur; Ā. ádatta. I.: dadati; dadate; INJ. dadat; IPV. dadatām (3\. s.); IPF. ádadat; ádadanta. PF. dadátha, dadáu; dadáthur, dadátur; dadá, dadúr; Ā. dadé, dadáthe, dadriré; PT. dadvāṃs, dadivāṃs (AV.), dadā-
 
 ]
 ]
@@ -16575,10 +16575,10 @@ dah burn, I. P.: PR. dáhati; SB. dáhāti. II. P.: PR. dhákṣi. PF. dadáha (
 ]
 
 
-#strong[2. dā] divide, II. P.: PR. dāti; dānti; IPV. dāntu. VI. P.: PR. dyāmi, dyáti; dyāmasi; IPV. dyátu; dyátām; IV.: PR. dáyāmasi; IPV. dáyasva, dáyatām; PT. dáyamāna. IPF. dáyanta. PF. dadiré (B.). AO. root: ádimahi (B.), adīmahi (VS., K.); S: OP. diṣīyá. PS. diyáte; PP. diná; -tta (B.). GD. -dāya.
+*2. dā* divide, II. P.: PR. dāti; dānti; IPV. dāntu. VI. P.: PR. dyāmi, dyáti; dyāmasi; IPV. dyátu; dyátām; IV.: PR. dáyāmasi; IPV. dáyasva, dáyatām; PT. dáyamāna. IPF. dáyanta. PF. dadiré (B.). AO. root: ádimahi (B.), adīmahi (VS., K.); S: OP. diṣīyá. PS. diyáte; PP. diná; -tta (B.). GD. -dāya.
 
 
-#strong[3. dā] bind, VI. P.: PR. dyáti; IPF. ádyas. PS. AO. dāyi; PP. ditá.
+*3. dā* bind, VI. P.: PR. dyáti; IPF. ádyas. PS. AO. dāyi; PP. ditá.
 
 dāś make offering, I. P.: PR. dāśati; SB. dāśāt; OP. dāśema; IPF. ádāśat. II. P.: PR. dāṣṭi; PT. dāśat. V. P.: PR. dāśnóti. PF. dadāśa. SB. dadāśas, dādāśati and dādāśat; PT. dadāśváṃs, dāśváṃs, dāśiváṃs (SV.). CS. ádāśayat (B.).
 
@@ -16587,10 +16587,10 @@ diś point, VI.: PR. diśāmi. IPV. diśátu; PT. diśánt; diśámāna. PF. did
 dih smear, II.: PR. dégdhi; dihánti; SB. déhat; PT. dihāná. IPF. ádihan. AO. S.: ádhikṣur (B.). PP. digdhá.
 
 
-#strong[1. dī] fly, IV.: PR. diyati; -te; INJ. diyat; IPV. diya. IPF. ádiyam. INT. INF. dédiyitavái.
+*1. dī* fly, IV.: PR. diyati; -te; INJ. diyat; IPV. diya. IPF. ádiyam. INT. INF. dédiyitavái.
 
 
-#strong[2. dī,] dīdī shine: PR. didyati (3\. pl.); SB. didayat; IPV. didihi and didihi; PT. didyat; didyāna. IPF.
+*2. dī,* dīdī shine: PR. didyati (3\. pl.); SB. didayat; IPV. didihi and didihi; PT. didyat; didyāna. IPF.
 
 ]
 ]
@@ -16624,7 +16624,7 @@ duṣ spoil, IV. P.: PR. dúṣyati (B.). AO. red.: ádūduṣat; a: duṣát (B
 duh milk, II. P.: PR. dógdhi; duhánti; Ā. dugdhé; duháte and duhaté, duhrate and duhré; SB. dóhat; dóhate; OP. duhīyát, duhīyán; IPV. 3\. du. dugdhám; Ā. 3\. s. duhám; 3\. du. duhāthám; 3\. pl. duhrám (AV.) and duhrátám (AV.); PT. duhánt; dúghāna, dúhāna, and duhāná; IPF. ádhok; duhúr; áduhan (B.) and áduhran (AV.). I. Ā.: PR. dóhate. VI.: IPF. áduhat (TS.). PF. dudóha, dudóhitha; duduhúr; Ā. duduhé; duduhré and duduhriré; PT. duduhāná. AO. s: ádhukṣata (3\. pl.); INJ. dhukṣata (3\. pl.); OP. dhukṣimáhi; SA: ádhukṣas, ádukṣat and ádhukṣat; ádhukṣan, dukṣán and dhukṣán; Ā. ádhukṣata, dukṣata and dhukṣata; INJ. dukṣas; Ā. 3\. dukṣata and dhúkṣata; pl. dhukṣánta; IPV. dhukṣásva. PS. duhyáte; PT. duhyámāna; PP. dugdhá. GD. dugdhvá (B.). INF. duhádhyai; doháse; dógdhos (B.). CS. doháyati (B.). DS. dúdukṣati.
 
 
-#strong[1. dṛ] pierce, II. P.: PR. dárṣi. IX. P.: OP. dṛṇīyát (B.). PF. dadāra; PT. dadṛváṃs. AO. root: ádar; s: SB. dárṣasi, dárṣat; Ā. dárṣate; OP. darṣiṣṭá. PS. dīryáte (B.); PS. dīrṇá (B.). GD. -dīrya (B.). CS. daráyati; dārayati
+*1. dṛ* pierce, II. P.: PR. dárṣi. IX. P.: OP. dṛṇīyát (B.). PF. dadāra; PT. dadṛváṃs. AO. root: ádar; s: SB. dárṣasi, dárṣat; Ā. dárṣate; OP. darṣiṣṭá. PS. dīryáte (B.); PS. dīrṇá (B.). GD. -dīrya (B.). CS. daráyati; dārayati
 
 ]
 ]
@@ -16646,7 +16646,7 @@ duh milk, II. P.: PR. dógdhi; duhánti; Ā. dugdhé; duháte and duhaté, duhra
 ]
 
 
-#strong[2. dṛ] heed: AO. ádṛthās (B.); S: dṛḍhvam (B.). PS. dri-yáte (B.). GD. -dṛtya.
+*2. dṛ* heed: AO. ádṛthās (B.); S: dṛḍhvam (B.). PS. dri-yáte (B.). GD. -dṛtya.
 
 dṛp rave, IV. P.: PR. dṛpyati. AO. a: ádṛpat (B.). FT. drapsyáti (B.) and drapiṣyáti (B.). PP. dṛptá and dṛpitá.
 
@@ -16657,7 +16657,7 @@ dṛh make firm, I. P.: IPV. dṛṃha; dṛṃhata; IPF. ádṛṃhat. VI. Ā.:
 dyut shine, I. Ā.: PR. dyótate. PF. didyóta; didyutúr; Ā. didyuté; PT. didyutāná. AO. root: PT. dyutánt; dyútāna and dyutāná; a: ádyutat (B.); red.: ádidyutat; INJ. didyutas; S.: ádyaut. FT. dyotiṣyáti (B.). PP. dyuttá. GD. -dyutya (B.). CS. dyutáyati (shine), dyotá-yati (illumine). INT. dávidyutati (3\. pl.); SB. dávidyutat; PT. dávidyutat; IPF. dávidyot.
 
 
-#strong[1. drā] run, II. P.: IPV. drāntu. PF. dadrúr; PT. dadrāṇá. AO. S: SB. drāsat. CS. drāpáyati (B.); DS. dídṛāpayiṣati (B.). INT. PT. dáridrat.
+*1. drā* run, II. P.: IPV. drāntu. PF. dadrúr; PT. dadrāṇá. AO. S: SB. drāsat. CS. drāpáyati (B.); DS. dídṛāpayiṣati (B.). INT. PT. dáridrat.
 
 ]
 ]
@@ -16674,7 +16674,7 @@ dyut shine, I. Ā.: PR. dyótate. PF. didyóta; didyutúr; Ā. didyuté; PT. did
   #set par(leading: 0.29em, first-line-indent: -1.0em, hanging-indent: 1.0em)
   #set block(spacing: 0.12em)
   
-#strong[2. drā] sleep, II. P.: PR. drā́ti (B.). AO. siṣ: ádrāsīt (B.).
+*2. drā* sleep, II. P.: PR. drā́ti (B.). AO. siṣ: ádrāsīt (B.).
 
 FT. drāsyáti (B.). PP. drāṇá.
 
@@ -16719,7 +16719,7 @@ IPF. ádhamat. PS. dhamyáte; dhmāyáte (B.); PP.
 dhamitá and dhmātá. GD. dhmā́ya (B.).
 
 
-#strong[1. dhā] put, III.: PR. dádhāmi, dádhāsi, dádhāti; dhat-
+*1. dhā* put, III.: PR. dádhāmi, dádhāsi, dádhāti; dhat-
 
 thás; dadhmási and dadhmás, dhattá, dádhati; Ā.
 
@@ -16767,13 +16767,13 @@ root: ádhām, dhās, ádhāt and dhāt; dhātam, ádhātām;
 ]
 
 
-#strong[2. dhā] suck, IV. P.: PR. dhāyati. AO. root: ádhāt. PP. dhītā. GD. dhītvá (B.), -dhīya (B.). INF. dhātave. CS. dhāpāyate; -ti (B.).
+*2. dhā* suck, IV. P.: PR. dhāyati. AO. root: ádhāt. PP. dhītā. GD. dhītvá (B.), -dhīya (B.). INF. dhātave. CS. dhāpāyate; -ti (B.).
 
 
-#strong[1. dhāv] run, I.: PR. dhāvati, -te. PPF. ádadhāvat. AO. iṣ: ádhāvīt (B.). CS. dhāvāyati.
+*1. dhāv* run, I.: PR. dhāvati, -te. PPF. ádadhāvat. AO. iṣ: ádhāvīt (B.). CS. dhāvāyati.
 
 
-#strong[2. dhāv] wash, I.: PR. dhāvati, -te. AO. iṣ: ádhāviṣṭa. PP. dhautá. CS. dhāvayati, -te (B.).
+*2. dhāv* wash, I.: PR. dhāvati, -te. AO. iṣ: ádhāviṣṭa. PP. dhautá. CS. dhāvayati, -te (B.).
 
 dhī think, III.: PR. dīdhye; dīdhyāthām and dīdhīthām (AV.); SB. dīdhayas; dīdhayan; PT. dīdhyat; dīdhyāna. IPF. ádīdhet, dīdhet; ádīdhayur; A. ádīdhīta. PF. dīdh-áya; dīdhimá, dīdhiyúr and dīdhyúr; dīdhiré. PF. dhītā. INT. dedhyat (TS.).
 
@@ -16832,10 +16832,10 @@ nam bend, I.: PR. námati, -te. PF. nānāma; nemé. PPF. nanámas. AO. red.: IN
   INT. nánnamīti; nánnate (3\. s.); PT. nánnamat; nán-namāna; IPF. ánannata (3\. s.).
 
 
-#strong[1. naś] be lost, IV. P.: PR. náśyati; I.: PR. náśati, -te. PF. nanāśa; neśúr (B.). AO. red.: ánīnaśat; néśat; INJ. nīnaśas; néśat. FT. naśiṣyáti. PP. naṣṭá. CS. nāśá-yati; INF. nāśayádhyai.
+*1. naś* be lost, IV. P.: PR. náśyati; I.: PR. náśati, -te. PF. nanāśa; neśúr (B.). AO. red.: ánīnaśat; néśat; INJ. nīnaśas; néśat. FT. naśiṣyáti. PP. naṣṭá. CS. nāśá-yati; INF. nāśayádhyai.
 
 
-#strong[2. naś] attain, I.: PR. náśati, -te. AO. root: ānaṭ (2\. 3\. s.), náṭ (3\. s.); ánaṣṭām; INJ. nák and náṭ (3\. s.); Ā. námśi; OP. naśimáhi; S: SB. nákṣat. INF. -náśe. DS. inakṣasi; INJ. inakṣat.
+*2. naś* attain, I.: PR. náśati, -te. AO. root: ānaṭ (2\. 3\. s.), náṭ (3\. s.); ánaṣṭām; INJ. nák and náṭ (3\. s.); Ā. námśi; OP. naśimáhi; S: SB. nákṣat. INF. -náśe. DS. inakṣasi; INJ. inakṣat.
 
 nas unite, I. Ā.: PR. násate; násāmahe; INJ. násanta. AO. root: OP. nasīmáhi.
 
@@ -16900,10 +16900,10 @@ pad go, IV.: PR. pádyate; padyati (B.); IPV. pádyasva; PT. pádyamāna; IPF. �
 paś see, IV.: PR. páśyati, -te; SB. páśyāni, páśyāsi and páśyās, páśyāt; páśyāma, páśyān; INJ. páśyat; OP. páśyet; páśyeta; IPV. páśya; páśyasva; PT. páśyant; páśyamāna; IPF. ápaśyat; ápaśyanta. Cp. spás.
 
 
-#strong[1. pā] drink, I.: PR. píbati, -te; SB. píbāsi, píbāti and píbāt; píbāva, píbāthas, píbātas; INJ. píbat; IPV. píbatu; píbasva; píbadhvam; PT. píbant; IPF. ápibat. III.: PR. pipīte (B.), pipate (B.); OP. pipīya (B.); IPF. ápipīta (B.); IPV. pipatu (K.); PT. pipāná and pipāna (AV.). PF. papátha, papáu; papáthur, papúr; Ā. papé; papiré; OP. papīyāt; PT. papivāṃs; papāná. AO. root: ápām, ápās, ápāt; ápāma, ápur; SB. pās; pāthás; pānti; PRC. peyās (3\. s.); IPV. pāhí, pātu; pātám, pātām; pātá and pātána, pāntu; PT. pānt; S: INJ. pāsta (3\. s.). FT. pāsyáti, -te (B.). PS. pīyáte; AO. ápāyi; PP. pītā. GD. pītvā, pītvī; -pāya. INF. pītāye, pātave, pātavái; pātos (B.); píbadhyai. CS. pāyáyati; DS. pípāyayiṣet (K.). DS. pípāsati; pípīsati; PT. pípīsant.
+*1. pā* drink, I.: PR. píbati, -te; SB. píbāsi, píbāti and píbāt; píbāva, píbāthas, píbātas; INJ. píbat; IPV. píbatu; píbasva; píbadhvam; PT. píbant; IPF. ápibat. III.: PR. pipīte (B.), pipate (B.); OP. pipīya (B.); IPF. ápipīta (B.); IPV. pipatu (K.); PT. pipāná and pipāna (AV.). PF. papátha, papáu; papáthur, papúr; Ā. papé; papiré; OP. papīyāt; PT. papivāṃs; papāná. AO. root: ápām, ápās, ápāt; ápāma, ápur; SB. pās; pāthás; pānti; PRC. peyās (3\. s.); IPV. pāhí, pātu; pātám, pātām; pātá and pātána, pāntu; PT. pānt; S: INJ. pāsta (3\. s.). FT. pāsyáti, -te (B.). PS. pīyáte; AO. ápāyi; PP. pītā. GD. pītvā, pītvī; -pāya. INF. pītāye, pātave, pātavái; pātos (B.); píbadhyai. CS. pāyáyati; DS. pípāyayiṣet (K.). DS. pípāsati; pípīsati; PT. pípīsant.
 
 
-#strong[2. pā] protect, II.: PR. pāmi, pāsi, pāti; pāthás, pātás; pāthá, pāthána, pānti; SB. pāt; pātas; IPV. pāhí, pātu; pātám, pātām; pātā, pāntu; PT. pānt; pāná; IPF. ápām, ápās, ápāt; ápāma, ápur. AO. S: SB. pāsati. pi, pī swell, I. Ā.: PR. páyate. II. Ā.: PT. pīyāna. V.: PR. pinvire; PT. pinvánt, f. pinvatī; pinvāná. PF. pī-pétha, pīpāya; pipyáthur; pipyúr; pipyé (3\. s.); SB. pīpāyas, pīpāyat; pīpāyatas; pīpāyan; pīpāyata; pīpāyanta; INJ. pīpes; IPV. pīpihí, pīpaya; pipyatam, pipyatām; pipyata PT. pīpivāṃs; pīpyāna and pīpyāná. PPF. ápipe; ápipema, ápīpyan; ápīpayat; ápīpayanta. PP. pīná (AV.).
+*2. pā* protect, II.: PR. pāmi, pāsi, pāti; pāthás, pātás; pāthá, pāthána, pānti; SB. pāt; pātas; IPV. pāhí, pātu; pātám, pātām; pātā, pāntu; PT. pānt; pāná; IPF. ápām, ápās, ápāt; ápāma, ápur. AO. S: SB. pāsati. pi, pī swell, I. Ā.: PR. páyate. II. Ā.: PT. pīyāna. V.: PR. pinvire; PT. pinvánt, f. pinvatī; pinvāná. PF. pī-pétha, pīpāya; pipyáthur; pipyúr; pipyé (3\. s.); SB. pīpāyas, pīpāyat; pīpāyatas; pīpāyan; pīpāyata; pīpāyanta; INJ. pīpes; IPV. pīpihí, pīpaya; pipyatam, pipyatām; pipyata PT. pīpivāṃs; pīpyāna and pīpyāná. PPF. ápipe; ápipema, ápīpyan; ápīpayat; ápīpayanta. PP. pīná (AV.).
 
 pinv fatten, I.: PR. pínvati, -te; INJ. pínvat; pínvanta;
 
@@ -17122,10 +17122,10 @@ bhid split, VII.: PR. bhinádmi, bhinátsi, bhinátti; bhindánti; SB. bhinádas
 bhī fear, III. P.: PR. bibhéti; bíbhyati; INJ. bibhés; OP. bibhīyát; IPV. bibhītā, bibhītána; PT. bíbhyat; IPF. bibhés, ábibhet. I. Ā.: PR. bháyate; SB. bháyāte; IPV. bháyatām (3\. s.); IPF. ábhayanta; PT. bháyamāna. PF. bibháya (1\. s.), bibháya (B. also bībhāya); bibhyátur; bibhyúr; PT. bibhīvāṃs; PER. PF. bibhayāṃ cakāra. AO. root: INJ. bhés (TS.); bhema; PT. bhiyāná; red.: bībhayat; ábībhayur (Kh.); ábībhayanta; s: bhaiṣīs (AV.); ábhaiṣma, ábhaiṣur; PT. bhiyásāna (AV.). CO. ábheṣyat (B.). PP. bhītā. INF. bhiyáse. CS. bhīṣáyate (B.); AO. bībhiṣas; bībhiṣathās.
 
 
-#strong[1. bhuj] enjoy, VII. Ā.: PR. bhuṅkté; bhuñjáte and bhuñjáté; SB. bhunājāmahai; PT. f. bhuñjati. PF. bubhujé; bubhujmáhe, bubhujrīré. AO. root: SB. bhójate; INJ. bhójam; a: OP. bhujéma; IPV. bhujá (TS.). PS. bhujyáte (B.). INF. bhujé; bhójase. CS. bhojáyati.
+*1. bhuj* enjoy, VII. Ā.: PR. bhuṅkté; bhuñjáte and bhuñjáté; SB. bhunājāmahai; PT. f. bhuñjati. PF. bubhujé; bubhujmáhe, bubhujrīré. AO. root: SB. bhójate; INJ. bhójam; a: OP. bhujéma; IPV. bhujá (TS.). PS. bhujyáte (B.). INF. bhujé; bhójase. CS. bhojáyati.
 
 
-#strong[2. bhuj] bend, VI. P.: INJ. bhuját; IPV. bhujá (VS.). PPF. ábubhojīs. GD. -bhujya (B.).
+*2. bhuj* bend, VI. P.: INJ. bhuját; IPV. bhujá (VS.). PPF. ábubhojīs. GD. -bhujya (B.).
 
 bhur quiver, VI.: INJ. bhuránta; IPV. bhurántu; PT. bhurámāṇa. INT. járbhurīti; PT. járbhurat; járbhurāṇa.
 
@@ -17271,10 +17271,10 @@ man think, IV. Ā.: PR. mányate. VIII. Ā.: PR. manvé; manmáhe, manvaté; SB.
 mand exhilarate, I.: PR. mándati, -te. PF. mamánda; SB. mamandat; PT. f. mamandúṣī. PPF. ámamandur. AO. root: mandúr; PT. mandāná; iṣ: ámandīt; ámandiṣur; mándiṣṭa (3\. s. Ā.); ámandiṣātām (3\. du. Ā.); OP. mandi-ṣimáhi (VS.). INF. mandádhyai. CS. mandáyati; INF. mandayádhyai.
 
 
-#strong[1. mā] measure, III.: PR. mime, mímite; mimāte; mimi-mahe, mimate; OP. mimīyās, mímīyāt; IPV. mimihí, mímātu; mimitám, mimitám; Ā. mimiṣva; mimāthām; PT. mímāna. IPF. ámimithās, ámimīta. PF. mamátur; mamúr; mamé (1\. 3.); mamāte; mamiré; AO. root: IPV. māhí; māsvá; PT. māna (TS.); S: ámāsi; SB. māsātai (AV.). PS. AO. ámāyi; PP. mitá; GDV. méya (AV.). GD. mitvá; -māya. INF. -mé, -mái.
+*1. mā* measure, III.: PR. mime, mímite; mimāte; mimi-mahe, mimate; OP. mimīyās, mímīyāt; IPV. mimihí, mímātu; mimitám, mimitám; Ā. mimiṣva; mimāthām; PT. mímāna. IPF. ámimithās, ámimīta. PF. mamátur; mamúr; mamé (1\. 3.); mamāte; mamiré; AO. root: IPV. māhí; māsvá; PT. māna (TS.); S: ámāsi; SB. māsātai (AV.). PS. AO. ámāyi; PP. mitá; GDV. méya (AV.). GD. mitvá; -māya. INF. -mé, -mái.
 
 
-#strong[2. mā] bellow, III. P.: PR. mímāti; mimanti. PF. mimāya; SB. mīmayat. PPF. ámīmet. INF. mātavái. INT. PT. mémyat.
+*2. mā* bellow, III. P.: PR. mímāti; mimanti. PF. mimāya; SB. mīmayat. PPF. ámīmet. INF. mātavái. INT. PT. mémyat.
 
 mi fix, V. P.: PR. minómi, minóti; SB. minávāma; INJ. minván; IPV. minótu. IPF. minván. PF. mimāya; mimyúr. PS. mīyáte; PT. mīyámāna; PP. mitá. GD. -mitya (B.).
 
@@ -17338,7 +17338,7 @@ muh be dazed, IV. P.: PR. múhyati. PF. mumóha (B.). AO. a: ámuhat (B.); red.:
 CS. mūrcháyati (B.).
 
 
-#strong[1. mr] die, I.: PR. márati, márate; márāmahe; SB. márāti;
+*1. mr* die, I.: PR. márati, márate; márāmahe; SB. márāti;
 
 márāma; Á. márai. PF. mamāra; mamrūr; PT.
 
@@ -17467,10 +17467,10 @@ yā go, II. P.: PR. yāti; yánti; OP. yāyám; IPV. yāhí, yātu; yātám; yā
 yāc ask, I.: PR. yācati, -te. PF. yayāce (B.). AO. iṣ: áyācīt; áyāciṣṭa (B.); SB. yāciṣat; Ā. yāciṣāmahe. FT. yāciṣyáte. PP. yācitá; yācitvá and yācya (B.). INF. yācitum. CS. yācáyati.
 
 
-#strong[1. yu] unite, VI.: PR. yuváti, -te. II. yáuti; Ā. yuté; SB. yávan; IPV. yutám (3\. s. Ā.); PT. yuvāná. PF. yuyuvé. PER. FT. yuvitá (B.). PP. yutá. GD. -yúya. DS. yúyūṣati. INT. yoyuvé; PT. yóyuvat (AV.); yóyuvāna.
+*1. yu* unite, VI.: PR. yuváti, -te. II. yáuti; Ā. yuté; SB. yávan; IPV. yutám (3\. s. Ā.); PT. yuvāná. PF. yuyuvé. PER. FT. yuvitá (B.). PP. yutá. GD. -yúya. DS. yúyūṣati. INT. yoyuvé; PT. yóyuvat (AV.); yóyuvāna.
 
 
-#strong[2. yu] separate, III.: PR. yuyóti; SB. yuyávat; INJ. yuyo-
+*2. yu* separate, III.: PR. yuyóti; SB. yuyávat; INJ. yuyo-
 
 ]
 ]
@@ -17551,10 +17551,10 @@ ram rejoice, I. Ā.: PR. rámate. IX. P.: IPF. áramṇās, áramṇāt. AO. red
   #set par(leading: 0.29em, first-line-indent: -1.0em, hanging-indent: 1.0em)
   #set block(spacing: 0.12em)
   
-#strong[1. rā] give, III.: IPV. ririhi; Å. rarasva (AV.); raratham (3\. du.); raridhvam; SB. rarate; PT. rarāna. II.: PR. rasi (\=IPV.); raté (B.); PF. rarimá; rare (1\. s.), rariṣe; rarathe; PT. rarivāms; rarāna. AO. root: arādhvam; IPV. rásva; s: árasma; árasata (3\. pl.); SB. rasat; rasan; Å. rāsate (3\. s.); OP. rasīyá; IPV. Å. rasatām (3\. s.); rāsatham (2\. du.); rasantam (3\. pl.); PP. rata.
+*1. rā* give, III.: IPV. ririhi; Å. rarasva (AV.); raratham (3\. du.); raridhvam; SB. rarate; PT. rarāna. II.: PR. rasi (\=IPV.); raté (B.); PF. rarimá; rare (1\. s.), rariṣe; rarathe; PT. rarivāms; rarāna. AO. root: arādhvam; IPV. rásva; s: árasma; árasata (3\. pl.); SB. rasat; rasan; Å. rāsate (3\. s.); OP. rasīyá; IPV. Å. rasatām (3\. s.); rāsatham (2\. du.); rasantam (3\. pl.); PP. rata.
 
 
-#strong[2. rā] bark, IV. P.: PR. rāyasi; IPV. rāya; PT. rāyant.
+*2. rā* bark, IV. P.: PR. rāyasi; IPV. rāya; PT. rāyant.
 
 raj rule, I. P.: PR. rajati. II. P.: PR. rasti; INJ. rat. AO. is: arajisur. INF. rajase. CS. rajayati (B.), -te.
 
@@ -17594,17 +17594,17 @@ ris be hurt, IV.: PR. risyati; SB. risyas, risyati and risyat; OP. risyet; risye
 rih lick, II.: PR. réḍhi; rihánti; 3\. pl. riháte and rihaté; PT. rihánt; rihāṇa (VS.) and rihāṇá. PF. PT. rīrihvāṃs. PP. rīḍhá. INT. rerihyáte; PT. rérihat; rérihāṇa. Cp. lih.
 
 
-#strong[1. ru] cry, VI. P.: PR. ruváti; INJ. ruvát; IPV. ruvá; PT. ruvánt. II. (B.) ráuti; ruvánti. PF. ruruviré (B.). AO. iṣ: árávīt; áráviṣur. PP. rutá. INT. róravīti; PT. róruvat; róruvāṇa (B.); IPF. ároravīt.
+*1. ru* cry, VI. P.: PR. ruváti; INJ. ruvát; IPV. ruvá; PT. ruvánt. II. (B.) ráuti; ruvánti. PF. ruruviré (B.). AO. iṣ: árávīt; áráviṣur. PP. rutá. INT. róravīti; PT. róruvat; róruvāṇa (B.); IPF. ároravīt.
 
 
-#strong[2. ru] break: AO. iṣ: rāviṣam. PP. rutá. INT. PT. róruvat. ruc shine, I.: PR. rócate. PF. ruróca; rurucúr; rurucé (3\. s.); INJ. rurucanta; OP. rurucyás; PT. rurukvāṃs; rurucāná. AO. root: PT. rucāná; red.: árūrucat; A. árūrucata (3\. s., B.); iṣ: A. árociṣṭa (3\. s.); OP. ruciṣīyá (AV.) and rociṣīyá (B.). PS. AO. ároci. PP. rucitá (B.). INF. rucé. CS. rocáyati; -te (B.). INT. PT. rórucāna.
+*2. ru* break: AO. iṣ: rāviṣam. PP. rutá. INT. PT. róruvat. ruc shine, I.: PR. rócate. PF. ruróca; rurucúr; rurucé (3\. s.); INJ. rurucanta; OP. rurucyás; PT. rurukvāṃs; rurucāná. AO. root: PT. rucāná; red.: árūrucat; A. árūrucata (3\. s., B.); iṣ: A. árociṣṭa (3\. s.); OP. ruciṣīyá (AV.) and rociṣīyá (B.). PS. AO. ároci. PP. rucitá (B.). INF. rucé. CS. rocáyati; -te (B.). INT. PT. rórucāna.
 
 ruj break, I. P.: PR. rujáti. PF. rurójitha, rurója. AO. root: INJ. rók; red.: árūrujatam (2\. du.). PP. rugṇá. GD. ruktvá (B.); -rújya (B.). INF. -rúje.
 
 rud weep, II. P.: PR. róditi; rudánti; SB. ródāt (Kh.); PT. rudánt. IPF. árodīt (B.). AO. a: árudat. CS. rodáyati.
 
 
-#strong[1. rudh] obstruct, VII.: PR. ruṇádhmi, ruṇáddhi; A. rundhé (\= runddhé); rundhate (3\. pl.); SB. A. ruṇádhāmahai; IPV. rundhí (\= runddhí); A. rundhām (\= runddhām, 3\. s.); PT. rundhāná; IPF. A. árundhata (3\. pl.). PF. ruródhitha; A. rurudhré. AO. root: árodham; árudhma; a: árudhat; árudhan; INJ. rudhát; PT. rudhánt; s: áraut; árautsīt (B.); A. árutsi (B.), áruddha (B.). FT. rotsyáti, -te (B.). PS. rudhyáte; PP. ruddhá. GD. -rúdhya. INF. -rúdham, rúndham (B.), -ródham (B.); róddhos (B.). DS. rúrutsate (B.).
+*1. rudh* obstruct, VII.: PR. ruṇádhmi, ruṇáddhi; A. rundhé (\= runddhé); rundhate (3\. pl.); SB. A. ruṇádhāmahai; IPV. rundhí (\= runddhí); A. rundhām (\= runddhām, 3\. s.); PT. rundhāná; IPF. A. árundhata (3\. pl.). PF. ruródhitha; A. rurudhré. AO. root: árodham; árudhma; a: árudhat; árudhan; INJ. rudhát; PT. rudhánt; s: áraut; árautsīt (B.); A. árutsi (B.), áruddha (B.). FT. rotsyáti, -te (B.). PS. rudhyáte; PP. ruddhá. GD. -rúdhya. INF. -rúdham, rúndham (B.), -ródham (B.); róddhos (B.). DS. rúrutsate (B.).
 
 ]
 ]
@@ -17621,7 +17621,7 @@ rud weep, II. P.: PR. róditi; rudánti; SB. ródāt (Kh.); PT. rudánt. IPF. á
   #set par(leading: 0.29em, first-line-indent: -1.0em, hanging-indent: 1.0em)
   #set block(spacing: 0.12em)
   
-#strong[2. rudh] grow, I. P.: PR. ródhati; INJ. ródhat.
+*2. rudh* grow, I. P.: PR. ródhati; INJ. ródhat.
 
 rup break, IV. P.: PR. rupyati (B.). AO. red.: arurupat. PP. rupita. cs. ropayati (B.).
 
@@ -17780,21 +17780,21 @@ vāvaśé; PT. vāvaśāná.
   #set par(leading: 0.29em, first-line-indent: -1.0em, hanging-indent: 1.0em)
   #set block(spacing: 0.12em)
   
-#strong[1. vas] shine, VI. P.: PR. ucháti; SB. uchát; uchán; INJ. uchát; OP. uchét; IPV. uchá, uchátu; ucháta, uchántu; PT. uchánt; IPF. áuchas áuchat. PF. uvása; ũṣá (2\. pl.), ũṣúr; PT. f. ũṣúṣī (TS.). AO. root: ávas (2\. 3\. s.); Á. ávasran; S: ávāt (3\. s.). CO. ávatsyat (B.). PP. uṣṭá. INF. vástave. CS. vāsáyati.
+*1. vas* shine, VI. P.: PR. ucháti; SB. uchát; uchán; INJ. uchát; OP. uchét; IPV. uchá, uchátu; ucháta, uchántu; PT. uchánt; IPF. áuchas áuchat. PF. uvása; ũṣá (2\. pl.), ũṣúr; PT. f. ũṣúṣī (TS.). AO. root: ávas (2\. 3\. s.); Á. ávasran; S: ávāt (3\. s.). CO. ávatsyat (B.). PP. uṣṭá. INF. vástave. CS. vāsáyati.
 
 
-#strong[2. vas] wear, II. Ā.: PR. váste; vásāthe; vásate (3\. pl.); INJ. vásta (3\. s.); vásata (3\. pl.); OP. vasīmahi; IPV. vásiṣva, vástām (3\. s.); vásāthām (TS.); PT. vásāna; IPF. ávasthās; ávasta. PF. vāvasé; PT. vāvasāná. AO. iṣ: ávasiṣṭa (3\. s.). CS. vāsáyati, -te; FT. vās-ayiṣyáte.
+*2. vas* wear, II. Ā.: PR. váste; vásāthe; vásate (3\. pl.); INJ. vásta (3\. s.); vásata (3\. pl.); OP. vasīmahi; IPV. vásiṣva, vástām (3\. s.); vásāthām (TS.); PT. vásāna; IPF. ávasthās; ávasta. PF. vāvasé; PT. vāvasāná. AO. iṣ: ávasiṣṭa (3\. s.). CS. vāsáyati, -te; FT. vās-ayiṣyáte.
 
 
-#strong[3. vas] dwell, I.: PR. vásati; vásate (B.). PF. ũṣátur; ũṣimá; PT. ũṣiváṃs; vāvasāná. PER. -vāsāṃ cakre (B.). AO. root: vásāna; red.: ávīvasat; S: ávātsīs. FT. vatsyáti (B.). GD. uṣitvá (B.); -úṣya (B.). DS. vívatsati (B.). CS. vāsáyati, -te; PS. vāsyáte (B.).
+*3. vas* dwell, I.: PR. vásati; vásate (B.). PF. ũṣátur; ũṣimá; PT. ũṣiváṃs; vāvasāná. PER. -vāsāṃ cakre (B.). AO. root: vásāna; red.: ávīvasat; S: ávātsīs. FT. vatsyáti (B.). GD. uṣitvá (B.); -úṣya (B.). DS. vívatsati (B.). CS. vāsáyati, -te; PS. vāsyáte (B.).
 
 vah carry, I.: PR. váhati, -te. PF. uváha; ũháthur, ũhá-tur; ũhúr; Ā. ũhiṣé; ũhiré. AO. root: OP. uhītā; IPV. voḷhám (2\. du.), voḷhám; Ā. voḍhvám; PT. ũhāna; S: ávāṭ, vāṭ; ávākṣur; SB. vákṣas, vákṣati and vákṣat; vákṣathas, vákṣatas; vákṣan; INJ. vákṣīt. FT. vak-ṣyáti; voḍhá (B.). PS. uhyáte; PP. ũḍhá. GD. ũḍhvá (B.); -úhya. INF. vóḍhum; vóḍhave, vóḍhavái (B.); -váhe; váhadhyai. CS. vāháyati (B.); INT. vanī-vāhyáte (B.).
 
 
-#strong[1. vā] blow, II. P.: PR. vāmi, vāti; vātás; vāntī; IPV. vāhī, vātu; PT. vānt; IPF. ávāt. IV. P.: PR. vāyati; vāyatas; vāyanti. PF. vaváu (B.). AO. siṣ: ávāsīt (B.). CS. vāpáyati.
+*1. vā* blow, II. P.: PR. vāmi, vāti; vātás; vāntī; IPV. vāhī, vātu; PT. vānt; IPF. ávāt. IV. P.: PR. vāyati; vāyatas; vāyanti. PF. vaváu (B.). AO. siṣ: ávāsīt (B.). CS. vāpáyati.
 
 
-#strong[2. vā] weave, IV.: PR. váyati; váyate (B.); IPV. váya; váyata; PT. váyant; IPF. ávayat; ávayan. PF. ũvúr. FT. vayiṣyáti. PS. ũyáte (B.); PP. utá. INF. ótum; ótave, ótavái; vātave (AV.).
+*2. vā* weave, IV.: PR. váyati; váyate (B.); IPV. váya; váyata; PT. váyant; IPF. ávayat; ávayan. PF. ũvúr. FT. vayiṣyáti. PS. ũyáte (B.); PP. utá. INF. ótum; ótave, ótavái; vātave (AV.).
 
 vājayá desire booty, den.: PR. PT. vājayánt.
 
@@ -17828,10 +17828,10 @@ vic sift, VII. P.: PR. viñcánti; IPV. vináktu; PT. viñcánt; IPF. ávinak. I
 vij tremble, VI.: PR. vijánte; IPV. vijántām; PT. vijámāna; IPF. ávije. PF. vivijré. AO. root: INJ. Ā. vikthās, viktá; red.: INJ. vīvijas. PS. viktá. CS. vejāyati (B.). INT. vevijyáte; PT. vévijāna.
 
 
-#strong[1. vid] know, II. P.: PR. vidmás; SB. védas, védati and védat; védathas; OP. vidyám, vidyát; vidyátam; vidyáma, vidyúr; IPV. viddhí and vittát, véttu; vittám. IPF. ávedam, ávet and vét; ávidur (B.). PF. véda (1\. 3.), véttha; vidáthur; vidmá, vidá, vidúr; Ā. vidmáhe (B.), vidré; PER. vidám cakāra (B.); PT. vidvāṃs. AO. iṣ: ávedīt (B.); PER. vidám akran (B.). FT. vediṣyáti, -te (B.); veditá (B.). PP. viditá. GD. viditvá. INF. vidmáne; véditum (B.); véditos (B.). CS. vedāyati, -te. DS. vívidiṣati (B.).
+*1. vid* know, II. P.: PR. vidmás; SB. védas, védati and védat; védathas; OP. vidyám, vidyát; vidyátam; vidyáma, vidyúr; IPV. viddhí and vittát, véttu; vittám. IPF. ávedam, ávet and vét; ávidur (B.). PF. véda (1\. 3.), véttha; vidáthur; vidmá, vidá, vidúr; Ā. vidmáhe (B.), vidré; PER. vidám cakāra (B.); PT. vidvāṃs. AO. iṣ: ávedīt (B.); PER. vidám akran (B.). FT. vediṣyáti, -te (B.); veditá (B.). PP. viditá. GD. viditvá. INF. vidmáne; véditum (B.); véditos (B.). CS. vedāyati, -te. DS. vívidiṣati (B.).
 
 
-#strong[2. vid] find, VI.: PR. vindáti, -te. II. vitsé, vidé (3\. s.); vidré; IPV. viddhí; Ā. 3\. s. vidám (AV.); PT. vidāna and vidānā. PF. vivéditha, vivéda; vividáthur; vi-vidúr; Ā. vividé, vivitsé; vividré and vividriré; SB. vividat; PT. vividvāṃs. AO. a: ávidam, ávidas, ávidat; ávidāma, ávidan; Ā. ávidanta; SB. vidās, vidát; vidāthas; vidātha; INJ. vidám, vidás, vidát; vidán; Ā. vidáta (3\. s.); vidánta; OP. vidéyam, vidét; vidéma; Ā. vidéya; PRC. videṣṭa (AV.); IPV. vidátam; PT. vidánt; S: Ā. ávitsi. FT. vetsyáti, -te (B.). PS. vidyáte; AO. ávedi, védi; PP. vittá; vinná. GDV. vidāyya. GD. vittvá, -vidya (B.). INF. vidé, véttave; véttos (B.). DS. vívitsati (B.). INT. SB. vévidāma. PT. vévidat; vévidāna.
+*2. vid* find, VI.: PR. vindáti, -te. II. vitsé, vidé (3\. s.); vidré; IPV. viddhí; Ā. 3\. s. vidám (AV.); PT. vidāna and vidānā. PF. vivéditha, vivéda; vividáthur; vi-vidúr; Ā. vividé, vivitsé; vividré and vividriré; SB. vividat; PT. vividvāṃs. AO. a: ávidam, ávidas, ávidat; ávidāma, ávidan; Ā. ávidanta; SB. vidās, vidát; vidāthas; vidātha; INJ. vidám, vidás, vidát; vidán; Ā. vidáta (3\. s.); vidánta; OP. vidéyam, vidét; vidéma; Ā. vidéya; PRC. videṣṭa (AV.); IPV. vidátam; PT. vidánt; S: Ā. ávitsi. FT. vetsyáti, -te (B.). PS. vidyáte; AO. ávedi, védi; PP. vittá; vinná. GDV. vidāyya. GD. vittvá, -vidya (B.). INF. vidé, véttave; véttos (B.). DS. vívitsati (B.). INT. SB. vévidāma. PT. vévidat; vévidāna.
 
 ]
 ]
@@ -17865,7 +17865,7 @@ vī enjoy, II.: vémi, véṣi, véti; vīthás; vyánti; SB. váyati; INJ. vés
 vīd make strong: CS. SB. vīḷāyāsi; IPV. vīḷāyasva. PP. vīḷitá.
 
 
-#strong[1. vṛ] cover, V.: PR. vṛṇóti; Ā. vṛṇvé; vṛṇváte and vṛṇ-vaté; PT. vṛṇvánt; IPF. ávṛṇos, ávṛṇot; Ā. ávṛṇvata (3\. pl.); PR. ūrṇómi, ūrṇóti; ūrṇuthás, ūrṇutás; Ā. ūrṇuṣé, ūrṇuté; INJ. ūrṇot; IPV. ūrṇuhí and ūrṇú, ūrṇótu; ūrṇutá, ūrṇuvántu; Ā. ūrṇuṣvá; PT. ūrṇuvánt; ūrṇvāná; IPF. áurṇos, áurṇot. I.: PR. várathas; Ā. várate; várethe; várante; SB. várāte; INJ. váranta.
+*1. vṛ* cover, V.: PR. vṛṇóti; Ā. vṛṇvé; vṛṇváte and vṛṇ-vaté; PT. vṛṇvánt; IPF. ávṛṇos, ávṛṇot; Ā. ávṛṇvata (3\. pl.); PR. ūrṇómi, ūrṇóti; ūrṇuthás, ūrṇutás; Ā. ūrṇuṣé, ūrṇuté; INJ. ūrṇot; IPV. ūrṇuhí and ūrṇú, ūrṇótu; ūrṇutá, ūrṇuvántu; Ā. ūrṇuṣvá; PT. ūrṇuvánt; ūrṇvāná; IPF. áurṇos, áurṇot. I.: PR. várathas; Ā. várate; várethe; várante; SB. várāte; INJ. váranta.
 
 E e 2
 
@@ -17886,7 +17886,7 @@ E e 2
   IX.: IPF. ávrṇīdhvam (AV.). PF. vavártha, vavāra; vavrúr; Ā. vavré; PF. vavṛvāṃs. PPF. ávāvarīt. AO. root: vám (\= váram), ávar and vár (2\. 3\. s.); ávran; Ā. ávṛta; INJ. vár (2\. 3\. s.); vrán; IPV. vṛdhí; vartam; varta; vrāṇá; red.: ávīvaran; Ā. ávīvarata (3\. s.); s: SB. várṣathas; iṣ: ávārīt (B.). PS. AO. ávāri; PP. vṛtá. GD. vṛtvā, vṛtvi; vṛtvāya; -vṛtya. INF. vártave. CS. vārāyati, -te; DS. vívārayiṣate (B.). INT. ávarīvar.
 
 
-#strong[2. vṛ] choose, IX. Ā.: PR. vṛṇé, vṛṇīsé, vṛṇīté; vṛṇīmāhe, vṛṇāte; INJ. vṛṇītā (3\. s.); OP. vṛṇītā; IPV. vṛṇīṣvá; vṛṇīdhvám, vṛṇātām; PT. vṛṇānā; IPF. ávṛṇi, ávṛṇīta; ávṛṇīmahi. PF. vavṛṣé; vavṛmāhe. AO. root: ávri, ávṛta; SB. váras, várat; váranta; INJ. vṛtá (3\. s.); OP. vurītā (3\. s.); PT. urāṇá; s: ávṛṣi; ávṛḍhvam (B.), ávṛṣata. FT. variṣyáte (B.). PP. vṛtá. GDV. vārya; váreṇya.
+*2. vṛ* choose, IX. Ā.: PR. vṛṇé, vṛṇīsé, vṛṇīté; vṛṇīmāhe, vṛṇāte; INJ. vṛṇītā (3\. s.); OP. vṛṇītā; IPV. vṛṇīṣvá; vṛṇīdhvám, vṛṇātām; PT. vṛṇānā; IPF. ávṛṇi, ávṛṇīta; ávṛṇīmahi. PF. vavṛṣé; vavṛmāhe. AO. root: ávri, ávṛta; SB. váras, várat; váranta; INJ. vṛtá (3\. s.); OP. vurītā (3\. s.); PT. urāṇá; s: ávṛṣi; ávṛḍhvam (B.), ávṛṣata. FT. variṣyáte (B.). PP. vṛtá. GDV. vārya; váreṇya.
 
 vṛj twist, VII.: PR. vṛṇākṣi, vṛṇákti; vṛñjánti; Ā. vṛñjé, vṛṅkté; vṛñjāte; vṛñjāte; SB. vṛṇájan; IPV. vṛṇdhí, vṛṇáktu; vṛṅktá, vṛñjántu; Ā. vṛṅkṣvá. IPF. ávṛṇak (2\. 3\. s.); ávṛñjan. PF. vavṛjúr; Ā. vāvṛjé; OP. vavṛjyúr; IPV. vavṛktám (2\. du.); PT. f. vavarjuṣ-ī; (á-)varjuṣī (AV.). AO. root: várk (2\. 3\. s.), ávṛk (AV.); ávṛjan; Ā. ávṛkta; SB. várjati; várjate; INJ. várk; OP. vṛjyám; vṛjyāma; PRC. vṛjyās (3\. s.); IPV. varktam (2\. du.); s: ávārkṣīs (B.); Ā. ávṛkṣmahi; INJ. Ā. vṛkṣi; SA: ávṛkṣam. FT. varkṣyáti, -te (B.). PS. vṛjyáte; PP. vṛktá. GD. vṛktví; -vṛjya. INF. -vṛje; vṛjádhyai; vṛñjáse. CS. varjāyati. DS. vívṛkṣate (B.). INT. PT. várīvṛjat; CS. PT. varīvarjāyant (AV.).
 
@@ -18009,18 +18009,18 @@ vraśc cut up, VI. P.: PR. vr̄scáti; SB. vr̄scāt; INJ. vr̄scās; IV.: vr̄s
 śak be able, V. P.: PR. śaknómi, śaknóti; śaknuvánti; SB. śaknávāma. IPF. áśaknuvan. PF. śaśāka; śekimá, śeká, śekúr. AO. root: SB. śākas, śākat; OP. śakyám; IPV. śagdhí, śaktám; a: áśakam, áśakat; áśakan; INJ. śakan; OP. śakéyam; śakéma. FT. śakṣyáti, -te (B.). INF. śáktave. DS. śikṣati, -te.
 
 
-#strong[1. śad] prevail: PF. śāśadúr; Á. śāśadmáhe, śāśadré; PT. śāśadāna.
+*1. śad* prevail: PF. śāśadúr; Á. śāśadmáhe, śāśadré; PT. śāśadāna.
 
 
-#strong[2. śad] fall: PF. śaśāda (B.); śedúr (B.). FT. śatsyáti.
+*2. śad* fall: PF. śaśāda (B.); śedúr (B.). FT. śatsyáti.
 
 śap curse, I.: PR. śápati; śápate (AV.); SB. śápātas (3\. du.); PT. śápant. IPF. áśapata (2\. pl.). PF. śaśāpa; śepé (1\. 3\. s.), śepiṣé. AO. S: INJ. śāpta (2\. pl.). PP. śaptá (B.). CS. śāpáyati.
 
 
-#strong[1. śam,] śim labour, IV. P.: śámyati (B.); śímyati; IPV. śímyantu; PT. śímyant. PF. śaśamé; SB. śaśámate (3\. s.); PT. śaśamāná. AO. iṣ: Á. áśamiṣṭhās, áśamiṣṭa. PP. śamitá (B.).
+*1. śam,* śim labour, IV. P.: śámyati (B.); śímyati; IPV. śímyantu; PT. śímyant. PF. śaśamé; SB. śaśámate (3\. s.); PT. śaśamāná. AO. iṣ: Á. áśamiṣṭhās, áśamiṣṭa. PP. śamitá (B.).
 
 
-#strong[2. śam,] be quiet, IV. (B.): PR. śámyati, -te. PF. śaśáma (B.); śemúr (B.). AO. a: áśamat (B.); red.: áśīśamat. PP. śāntá. CS. śamáyati.
+*2. śam,* be quiet, IV. (B.): PR. śámyati, -te. PF. śaśáma (B.); śemúr (B.). AO. a: áśamat (B.); red.: áśīśamat. PP. śāntá. CS. śamáyati.
 
 ]
 ]
@@ -18182,10 +18182,10 @@ si bind, IX. P.: PR. sināti; sinīthás; IPV. sinātu. PF. siṣāya; INJ. si�
 sic pour, VI.: PR. siñcáti, -te. PF. siṣéca; siṣicátur; sisicúr; sisicé. AO. a: ásicat; ásican; SB. sicāmahe. FT. sekṣyáti (B.). PS. sicyáte; AO. áseci (B.); PP. siktá. GD. siktvá (B.); -sicya. INF. séktavái (B.).
 
 
-#strong[1. sidh] repel, I. P.: PR. sédhati. PF. siṣédha. AO. iṣ: ásedhīs. PP. siddhá (B.). GD. -sidhya. INF. séddhum (B.). INT. PT. séṣidhat.
+*1. sidh* repel, I. P.: PR. sédhati. PF. siṣédha. AO. iṣ: ásedhīs. PP. siddhá (B.). GD. -sidhya. INF. séddhum (B.). INT. PT. séṣidhat.
 
 
-#strong[2. sidh] succeed, IV. P.: PR. sídhyati. PP. siddhá (B.).
+*2. sidh* succeed, IV. P.: PR. sídhyati. PP. siddhá (B.).
 
 sīv sew, IV.: PR. IPV. sīvyatu; Á. sīvyadhvam; PT. sīvyant. PP. syūtá. GD. -sīvya.
 
@@ -18432,10 +18432,10 @@ han strike, II.: PR. hánmi, háṃsi, hánti; hathás, hatás; hanmás, hathá,
 har be gratified, IV.: PR. háryati; SB. háryāsi and háryās; IPV. hárya; PT. háryant. IPF. áharyat; Ā. áharyathās.
 
 
-#strong[1. hā] leave, III. P.: PR. jáhāmi, jáhāsi, jáhāti; jáhati; SB. jáhāni; jáhāma; OP. jahyāt; jahyúr; IPV. jahītāt, jáhātu; jahītam; jahīta; PT. jáhat. IPF. ajahāt; ájahātana, ájahur. PF. jahā; jahátur; jahúr. AO. root: áhāt (B.); S: ahās (3\. S.); Ā. áhāsi, áhāsthās; INJ. hāsīs; siṢ: INJ. hāsiṭam, hāsiṭām; hāsiṭa, hāsiṣur. FT. hāsyáti; hāsyáte (B.). PS. hīyáte; AO. áhāyi; PP. hīná; hāna (B.); jahitá. GD. hitvá, hitví, hitváya; -hāya (B.). INF. hātum (B.). CS. AO. jīhipas.
+*1. hā* leave, III. P.: PR. jáhāmi, jáhāsi, jáhāti; jáhati; SB. jáhāni; jáhāma; OP. jahyāt; jahyúr; IPV. jahītāt, jáhātu; jahītam; jahīta; PT. jáhat. IPF. ajahāt; ájahātana, ájahur. PF. jahā; jahátur; jahúr. AO. root: áhāt (B.); S: ahās (3\. S.); Ā. áhāsi, áhāsthās; INJ. hāsīs; siṢ: INJ. hāsiṭam, hāsiṭām; hāsiṭa, hāsiṣur. FT. hāsyáti; hāsyáte (B.). PS. hīyáte; AO. áhāyi; PP. hīná; hāna (B.); jahitá. GD. hitvá, hitví, hitváya; -hāya (B.). INF. hātum (B.). CS. AO. jīhipas.
 
 
-#strong[2. hā] go forth, III. Ā.: PR. jihīte; jihāte; jihate; INJ. jihīta; IPV. jihīṣva, jihītām (3\. S.); jihāthām (2\. du.); jihatām (3\. pl.); PT. jihāna. IPF. Ā. ájihīta; ájihata. PF. jahiré. AO. red.: jījananta; S: Ā. áhāsata (3\. pl.); INJ. hāsthās. FT. hāsyáte (B.). PP. hāná (B.). GD. -hāya. INF. hātum. CS. hāpáyati. DS. jihīsate.
+*2. hā* go forth, III. Ā.: PR. jihīte; jihāte; jihate; INJ. jihīta; IPV. jihīṣva, jihītām (3\. S.); jihāthām (2\. du.); jihatām (3\. pl.); PT. jihāna. IPF. Ā. ájihīta; ájihata. PF. jahiré. AO. red.: jījananta; S: Ā. áhāsata (3\. pl.); INJ. hāsthās. FT. hāsyáte (B.). PP. hāná (B.). GD. -hāya. INF. hātum. CS. hāpáyati. DS. jihīsate.
 
 hi impel, V.: PR. hinómi, hinóṣi, hinóti; hinmás and hinmási, hinvánti; Ā. hinvé (1\. 3.); hinváte and hinviré; SB. hinávā; INJ. hinván; IPV. hinuhí, hinutāt, hinú; hinótam; hinutá, hinóta and hinótana, hinvántu; PT. hinvánt; hinvāná; IPF. áhinvan. PF. jighāya (B.); jighyúr (B.). AO. root: áhema, áhetana, áhyan; IPV. heta; PT. hiyāná; a: áhyam; S: áhait (3\. S., AV.); áhaiṣīt (B.); Ā. áheṣata (3\. pl.). PP. hitá. GDV. hétva. INF. -hyè.
 
@@ -18547,7 +18547,7 @@ F f 2
 #v(0.30cm)
 
 
-#strong[1. The] main principle governing Vedic metre¹ (the source of all later Indian versification)² is measurement by number of syllables.³ The metrical unit here is not the #emph[foot] in the sense of Greek prosody, but the #emph[foot] (#strong[pāda]) or #emph[quarter]⁴ in the sense of the verse or line which is a constituent of the stanza. Such verses consist of eight, eleven, twelve, or (much less commonly) five syllables. The verse is further more or less regulated by a quantitative rhythm (unaffected by the musical accent) in which short and long syllables alternate. Nearly all metres have a general iambic rhythm inasmuch as they show a preference for the even syllables (second, fourth, and so on) in a verse being long rather than short. In every metre the rhythm of the latter part of the verse (the last four or five syllables), called the cadence, is more rigidly regulated than that of the earlier part. Verses of eleven and twelve syllables are characterized not only by their cadence, but by a caesura after the fourth or the fifth syllable, while verses of five and eight syllables have no such metrical pause.
+*1. The* main principle governing Vedic metre¹ (the source of all later Indian versification)² is measurement by number of syllables.³ The metrical unit here is not the #emph[foot] in the sense of Greek prosody, but the #emph[foot] (*pāda*) or #emph[quarter]⁴ in the sense of the verse or line which is a constituent of the stanza. Such verses consist of eight, eleven, twelve, or (much less commonly) five syllables. The verse is further more or less regulated by a quantitative rhythm (unaffected by the musical accent) in which short and long syllables alternate. Nearly all metres have a general iambic rhythm inasmuch as they show a preference for the even syllables (second, fourth, and so on) in a verse being long rather than short. In every metre the rhythm of the latter part of the verse (the last four or five syllables), called the cadence, is more rigidly regulated than that of the earlier part. Verses of eleven and twelve syllables are characterized not only by their cadence, but by a caesura after the fourth or the fifth syllable, while verses of five and eight syllables have no such metrical pause.
 
 1 Called chandas in the RV. itself.
 
@@ -18590,14 +18590,14 @@ a. The following general rules of prosody are to be noted. 1\. The end of a vers
 #v(0.18em)
 
 
-#strong[2. The] Vedic hymns consist chiefly of simple stanzas, that is, of such as are formed of verses which are all metrically identical. Different stanzas are formed by combining three, four, five, or six identical verses. The following is an account of the various types of verse and of the different simple stanzas formed by them.
+*2. The* Vedic hymns consist chiefly of simple stanzas, that is, of such as are formed of verses which are all metrically identical. Different stanzas are formed by combining three, four, five, or six identical verses. The following is an account of the various types of verse and of the different simple stanzas formed by them.
 
 A. Verse of eight syllables. This is a dimeter verse consisting of two equal members of four syllables each, the opening and the cadence. In the opening the first and third syllable are indifferent, while the second and fourth are preferably long. When the second is short, the third is almost invariably long. In the cadence the rhythm is typically iambic, the first and third syllables being almost always short, while the second is usually long (though it is not infrequently short also). Thus the prevailing scheme of the whole verse is ♢ - ♢ - ♡ - ♡
 
 a. Even after every admissible vowel restoration a good many verses of this type exhibit the anomaly (which cannot be removed without doing violence to the text) of having one syllable too few; e. g. táṃ tuā vayáṃ pito. There are also here a very few instances of one or even two syllables too many; e. g. agním īle | bhujáṃ yávi | ṣṭham and vayáṃ tád as | ya sáṃbhṛtaṃ | vásu.
 
 
-#strong[3. a. The] Gāyatrī¹ stanza consists of three² octosyllabic verses;³ e. g.
+*3. a. The* Gāyatrī¹ stanza consists of three² octosyllabic verses;³ e. g.
 
 #page-footnotes((
   [¹ Next to the Triṣṭubh this is the commonest metre in the RV., nearly one-fourth of that Saṃhitā being composed in it; yet it has entirely disappeared in Classical Sanskrit. The Avesta has a parallel stanza of 3 × 8 syllables.],
@@ -18672,7 +18672,7 @@ itthā́ hi sóma ín máde | brahmā́ cakā́ra várdhanam |
 d. In about fifty stanzas of the RV. the number of octosyllabic verses is increased to six and in about twenty others to seven, generally by adding a refrain of two verses to an Anuṣṭubh (e. g. viii. 47) or to a Paṅkti (e. g. x. 133, 1-3). The former is called Mahāpaṅkti (48), the latter Śakvarī (56).
 
 
-#strong[4. B.] Verses of eleven syllables differ from those of eight in consisting of three members (the opening, the break, and the cadence). They also contrast with the latter in two other respects: their cadence is trochaic² (— ∪ — ∪) and they have a caesura, which follows either the fourth³ or the fifth syllable. The rhythm of the syllables preceding the caesura is prevailingly iambic, being ∪ — ∪ — ⁴ or ∪ — ∪ — ∪.⁵ The rhythm of the break between the caesura and the cadence is regularly ∪ ∪ — or ∪ ∪ ⁶. Thus the scheme of
+*4. B.* Verses of eleven syllables differ from those of eight in consisting of three members (the opening, the break, and the cadence). They also contrast with the latter in two other respects: their cadence is trochaic² (— ∪ — ∪) and they have a caesura, which follows either the fourth³ or the fifth syllable. The rhythm of the syllables preceding the caesura is prevailingly iambic, being ∪ — ∪ — ⁴ or ∪ — ∪ — ∪.⁵ The rhythm of the break between the caesura and the cadence is regularly ∪ ∪ — or ∪ ∪ ⁶. Thus the scheme of
 
 #page-footnotes((
   [¹ The Avesta has a parallel stanza of 5 × 8 syllables.],
@@ -18703,7 +18703,7 @@ d. In about fifty stanzas of the RV. the number of octosyllabic verses is increa
 a. Apart from corruptions or only seeming irregularities (removable by restoration of vowels) several verses of this type have one syllable too many or too few;¹ e. g. tā no vidvāṃsā, mánma vo | cetam adyá² (12); tám īṃ gíro, jána | yo ná pátnīḥ³ (10). Occasionally two syllables are wanting after the caesura or the verse is too long by a trochee added at the end; e. g. tá ū ṣú ṇo, \[..\] ma | hó yajatrāḥ (9); ayáṃ sá hótā, \[∪ ∪\] yó dvijánmā (9); ráthebhir yāta, ṛṣṭi | mádbhir áśva | parṇaiḥ (13).
 
 
-#strong[5. The] Triṣṭubh stanza, the commonest in the RV.,⁴ consists of four verses of eleven syllables⁵ divided into two hemistichs. The following are hemistichs of each type:
+*5. The* Triṣṭubh stanza, the commonest in the RV.,⁴ consists of four verses of eleven syllables⁵ divided into two hemistichs. The following are hemistichs of each type:
 
 (a) anāgāstve, aditi | tvé turāsah | imám yajñám, dadhatu | srosamānah |
 
@@ -18729,7 +18729,7 @@ a. A few Triṣṭubh stanzas of only two verses (dvipadā) occur (e. g. vii. 17
 #fit-page[
 #folio("442", "APPENDIX II", "")
 
-#strong[6. C.] The verse of twelve syllables is probably an extension¹ of the Triṣṭubh verse by one syllable which gives the trochaic cadence of the latter an iambic character.² The rhythm of the last five syllables is therefore - ∪ - ∪ ⊔. The added syllable being the only point of difference, the scheme of the whole verse is:
+*6. C.* The verse of twelve syllables is probably an extension¹ of the Triṣṭubh verse by one syllable which gives the trochaic cadence of the latter an iambic character.² The rhythm of the last five syllables is therefore - ∪ - ∪ ⊔. The added syllable being the only point of difference, the scheme of the whole verse is:
 
 (a) ⊔ - ⊔ -, ∪ ∪ - | - ∪ - ∪ ⊔ | or
 
@@ -18738,7 +18738,7 @@ a. A few Triṣṭubh stanzas of only two verses (dvipadā) occur (e. g. vii. 17
 a. Several examples occur of this type of verse (like the Triṣṭubh) having one, and occasionally two, syllables too many or too few; e.g. mā no mártāya, ripáve vājinīvasū (13); ródasī ā, vada | tā gaṇaśrī-yah (11); sā drīhé cit, abhí tr | ṇatti vājam ár | vatā (14); pībā sōmam, \[ ∪ ∪ \] e | nā śatakrato (10).
 
 
-#strong[7. The] Jagatī stanza, the third in order of frequency in the RV., consists of four verses of twelve syllables divided into two hemistichs. The following hemistich gives an example of each of the two types of verse:
+*7. The* Jagatī stanza, the third in order of frequency in the RV., consists of four verses of twelve syllables divided into two hemistichs. The following hemistich gives an example of each of the two types of verse:
 
 anānudó, vṛṣabhó | dódhato vadháḥ |
 
@@ -18751,7 +18751,7 @@ abhraprúṣo ná, vācā, pruṣā vásu |
 havíṣmanto ná, yajñā, vijānúṣaḥ ||
 
 
-#strong[8. D.] The verse of five syllables resembles the last five syllables of the Triṣṭubh verse in rhythm, its commonest form being ∪ - ∪ - ⊔, and the one next to it in frequency - - ∪ - ⊔ |³
+*8. D.* The verse of five syllables resembles the last five syllables of the Triṣṭubh verse in rhythm, its commonest form being ∪ - ∪ - ⊔, and the one next to it in frequency - - ∪ - ⊔ |³
 
 #page-footnotes((
   [¹ It is probably not Indo-Iranian, because though a verse of 12 syllables occurs in the Avesta, it is there differently divided (7+5).],
@@ -18791,7 +18791,7 @@ hṛdispṛśam, ṛdhiā | mā⁷ ta óhaiḥ
 #v(0.18em)
 
 
-#strong[9. The] only different verses normally used in combination to form a stanza are the Gayatri and the Jagati. The principal metres thus formed are the following:
+*9. The* only different verses normally used in combination to form a stanza are the Gayatri and the Jagati. The principal metres thus formed are the following:
 
 a. Stanzas of 28 syllables consisting of three verses, the first two of which are treated as a hemistich:
 
@@ -18814,7 +18814,7 @@ a. Stanzas of 28 syllables consisting of three verses, the first two of which ar
 #fit-page[
 #folio("444", "APPENDIX II", "")
 
-#strong[1. Uṣṇih] : 8 8 12 ; e. g.
+*1. Uṣṇih* : 8 8 12 ; e. g.
 
 ágne vāja | sya gómataḥ |
 
@@ -18823,7 +18823,7 @@ a. Stanzas of 28 syllables consisting of three verses, the first two of which ar
 asmé dhehi, jātave | do māhi śrávaḥ |
 
 
-#strong[2. Purauṣṇih] : 12 8 8 ; e. g.
+*2. Purauṣṇih* : 12 8 8 ; e. g.
 
 apsú antár, amṛtam | apsú bheṣajám
 
@@ -18832,7 +18832,7 @@ apám utá | práśastaye ||
 dévā bhava | ta vājinaḥ
 
 
-#strong[3. Kakubh] : 8 12 8 ; e. g.
+*3. Kakubh* : 8 12 8 ; e. g.
 
 ádhā hí in | dra girvaṇaḥ
 
@@ -18861,7 +18861,7 @@ sá tvám no adyá, sumá | nā ihāvitá |
 bhávā vāje | ṣu santia ||
 
 
-#strong[10. There] are besides two much longer mixed stanzas of seven verses,¹ each of which is split up into three divisions of three, two, and two verses respectively in the Saṃhitā text.
+*10. There* are besides two much longer mixed stanzas of seven verses,¹ each of which is split up into three divisions of three, two, and two verses respectively in the Saṃhitā text.
 
 a. Stanzas of 60 syllables consisting of six Gāyatri verses and one Jagatī : Atiśakvarī 8 8 8, 8 8, 12 8 ;² e. g.
 
@@ -18897,18 +18897,12 @@ sómāḥ śukrā | gávāśiraḥ ||
 
 b. Stanzas of 68 syllables consisting of four Gāyatrī and three Jagatī verses: Atyaṣṭi¹ 12 12 8, 8 8, 12 8; e. g.
 
-sá no nédiṣṭhaṃ, dádṛś | āna ā bhara |
-
-ágne devébhiḥ, sāca | nāḥ sucetúnā |
-
-mahó rāyáḥ | sucetúnā ||
-
-máhi śavi | ṣṭha nas kṛdhi |
-
-saṃcákṣe bhu | jé asiái ||
-
-máhi stotṛbhyo, magha | van suvíriam |
-
+sá no nédiṣṭhaṃ, dádṛś | āna ā bhara | \
+ágne devébhiḥ, sāca | nāḥ sucetúnā | \
+mahó rāyáḥ | sucetúnā || \
+máhi śavi | ṣṭha nas kṛdhi | \
+saṃcákṣe bhu | jé asiái || \
+máhi stotṛbhyo, magha | van suvíriam | \
 máthīr ugró | ná śávasā ||
 
 a. Besides the above mixed metres various other but isolated combinations of Gāyatrī and Jagatī verses occur in the RV., chiefly in single hymns. There are stanzas of this kind containing 20 syllables (12 8);² 32 syllables (12 8, 12);³ 40 syllables (12 12, 8 8);⁴ 44 syllables (12 12, 12 8)⁵; 52 syllables (12 12, 12 8 8).⁶
@@ -18940,7 +18934,7 @@ a. Besides the above mixed metres various other but isolated combinations of Gā
 #v(0.18em)
 
 
-#strong[11. Two] or three stanzas are often found strophically combined in the RV., forming couplets or triplets.
+*11. Two* or three stanzas are often found strophically combined in the RV., forming couplets or triplets.
 
 A. Three simple stanzas (called tṛca) in the same metre are often thus connected. Gāyatrī triplets are the commonest; less usual are Uṣṇih, Bṛhatī, or Paṅkti triplets; while Triṣṭubh triplets are rare. A hymn consisting of several triplets often concludes with an additional stanza in a different metre.
 
@@ -18949,7 +18943,7 @@ a. It is a typical practice to conclude a hymn composed in one metre with a stan
 B. Two mixed stanzas in different metres are often combined, the RV. containing about 250 such strophes. This doubly mixed strophic metre, called Pragātha, is of two main types:
 
 
-#strong[1. The] Kākubha Pragātha is much the less common kind of strophe, occurring only slightly more than fifty times in the RV. It is formed by the combination of a Kakubh with a Satobṛhatī stanza: 8 12, 8+12 8, 12 8; e. g.
+*1. The* Kākubha Pragātha is much the less common kind of strophe, occurring only slightly more than fifty times in the RV. It is formed by the combination of a Kakubh with a Satobṛhatī stanza: 8 12, 8+12 8, 12 8; e. g.
 
 ā no áśvā | vad aśvinā |
 
@@ -18966,7 +18960,7 @@ asmínn ā vām, āyāne | vājinīvasū |
 víśvā vāmā | ni dhīmahi ||
 
 
-#strong[2. The] Bārhata Pragātha is a common strophe, occurring nearly two hundred times in the RV. It is formed by the combination of a Bṛhatī with a Satobṛhatī stanza: 8 8, 12 8+12 8, 12 8; e. g.
+*2. The* Bārhata Pragātha is a common strophe, occurring nearly two hundred times in the RV. It is formed by the combination of a Bṛhatī with a Satobṛhatī stanza: 8 8, 12 8+12 8, 12 8; e. g.
 
 ]
 
@@ -19015,12 +19009,12 @@ a. Of these two types there are many variations occurring in individual hymns, c
 #v(0.30cm)
 
 
-#strong[1. The] accent is marked in all the texts of the four Vedas as well as in two Brāhmaṇas, the Taittirīya (including its Āraṇyaka) and the Śatapatha (including the Bṛhadāraṇyaka Upaniṣad).
+*1. The* accent is marked in all the texts of the four Vedas as well as in two Brāhmaṇas, the Taittirīya (including its Āraṇyaka) and the Śatapatha (including the Bṛhadāraṇyaka Upaniṣad).
 
-The Vedic, like the ancient Greek, accent was a musical one, depending mainly on pitch, as is indicated both by its not affecting the rhythm of metre and by the name of the chief tone, #strong[udātta] #emph[raised]. That such was its nature is, moreover, shown by the account given of it by the ancient native phoneticians. Three degrees of pitch are to be distinguished, the high, properly represented by the #strong[udātta], the middle by the #strong[svarita] (#emph[sounded]), and the low by the #strong[anudātta] (#emph[not raised]). But in the Rigveda the Udātta, the rising accent, has secondarily acquired a middle pitch, lower than the initial pitch of the Svarita. The Svarita is a falling accent representing the descent from the Udātta pitch to tonelessness. In the Rigveda it rises slightly above Udātta pitch before descending: here therefore it has something of the nature of a circumflex. It is in reality always an enclitic accent following an Udātta, though it assumes the appearance of an independent accent when the preceding Udātta is lost by the euphonic change of a vowel into the corresponding semivowel (as in #strong[kvā \= kūā]). In the latter case it is called the independent Svarita. The Anudātta is the low tone of the syllables preceding an Udātta.
+The Vedic, like the ancient Greek, accent was a musical one, depending mainly on pitch, as is indicated both by its not affecting the rhythm of metre and by the name of the chief tone, *udātta* #emph[raised]. That such was its nature is, moreover, shown by the account given of it by the ancient native phoneticians. Three degrees of pitch are to be distinguished, the high, properly represented by the *udātta*, the middle by the *svarita* (#emph[sounded]), and the low by the *anudātta* (#emph[not raised]). But in the Rigveda the Udātta, the rising accent, has secondarily acquired a middle pitch, lower than the initial pitch of the Svarita. The Svarita is a falling accent representing the descent from the Udātta pitch to tonelessness. In the Rigveda it rises slightly above Udātta pitch before descending: here therefore it has something of the nature of a circumflex. It is in reality always an enclitic accent following an Udātta, though it assumes the appearance of an independent accent when the preceding Udātta is lost by the euphonic change of a vowel into the corresponding semivowel (as in *kvā \= kūā*). In the latter case it is called the independent Svarita. The Anudātta is the low tone of the syllables preceding an Udātta.
 
 
-#strong[2. There] are four different methods of marking the accent in Vedic texts. The system of the Rigveda, which is
+*2. There* are four different methods of marking the accent in Vedic texts. The system of the Rigveda, which is
 
 ]
 
@@ -19062,10 +19056,10 @@ G g
 b. When an independent Svarita² immediately precedes an Udātta, it is accompanied by the sign of the numeral 1 if the vowel is short and by 3 if it is long, the figure being marked with both the Svarita and the Anudātta; e. g. apsvḷantaḥ \= apsú antáḥ; rāyo ṣ vaniḥ \= rāyò 'vániḥ (cp. 17, 3).
 
 
-#strong[3. Both] the Maitrāyaṇī and the Kāṭhaka Saṃhitās agree in marking the Udātta with a vertical stroke above (like the Svarita in the RV.), thereby seeming to indicate that here the Udātta rose to the highest pitch; e. g. agninā. But they differ in their method of marking the Svarita. The Maitrāyaṇī indicates the independent Svarita by a curve below; e. g. vīryam \= vīryām; but the dependent Svarita by a horizontal stroke crossing the middle of the syllable or by three vertical strokes above it; while the Kāṭhaka marks the independent Svarita by a curve below only if an unaccented syllable follows, but by a hook below if the following syllable is accented; e. g. vīryam \= vīryām badhnāti; vīryam \= vīryām vyācaṣṭe; the dependent Svarita has a dot below the accented syllable.³ The Anudātta is marked in both these Saṃhitās with a horizontal stroke below (as in the RV.).⁴
+*3. Both* the Maitrāyaṇī and the Kāṭhaka Saṃhitās agree in marking the Udātta with a vertical stroke above (like the Svarita in the RV.), thereby seeming to indicate that here the Udātta rose to the highest pitch; e. g. agninā. But they differ in their method of marking the Svarita. The Maitrāyaṇī indicates the independent Svarita by a curve below; e. g. vīryam \= vīryām; but the dependent Svarita by a horizontal stroke crossing the middle of the syllable or by three vertical strokes above it; while the Kāṭhaka marks the independent Svarita by a curve below only if an unaccented syllable follows, but by a hook below if the following syllable is accented; e. g. vīryam \= vīryām badhnāti; vīryam \= vīryām vyācaṣṭe; the dependent Svarita has a dot below the accented syllable.³ The Anudātta is marked in both these Saṃhitās with a horizontal stroke below (as in the RV.).⁴
 
 
-#strong[4. In] the Sāmaveda the figures 1, 2, 3 are written above the accented syllable to mark the Udātta, the Svarita, and
+*4. In* the Sāmaveda the figures 1, 2, 3 are written above the accented syllable to mark the Udātta, the Svarita, and
 
 #page-footnotes((
   [¹ In the Pada text on the other hand, each word has its own accent only, unaffected by contiguous words. The two above hemistichs there read as follows: agninā rayim aśnavat poṣām eva diveṛ dive; saḥ naḥ pitā ṛiva sūnavé agné su ṛupāyanaḥ bhava.],
@@ -19088,10 +19082,10 @@ b. When an independent Svarita² immediately precedes an Udātta, it is accompan
 ]
 
 
-#strong[5. The] Śatapatha Brāhmaṇa marks the Udātta only. It does so by means of a horizontal stroke below (like the Anudātta of the RV.); e. g. puruṣaḥ \= púruṣaḥ. Of two or more successive Udāttas only the last is marked; e. g. agnir hi vai dhūr atha \= agnir hí váí dhūr átha. An independent Svarita is thrown back on the preceding syllable in the form of an Udātta; e. g. manuṣyeṣu \= manuṣyeṣu for manuṣyèṣu. The Svarita produced by change to a semivowel, by contraction, or the elision of initial a is similarly treated; e. g. evaitad \= évaitád for evaitád (\= evá etád).
+*5. The* Śatapatha Brāhmaṇa marks the Udātta only. It does so by means of a horizontal stroke below (like the Anudātta of the RV.); e. g. puruṣaḥ \= púruṣaḥ. Of two or more successive Udāttas only the last is marked; e. g. agnir hi vai dhūr atha \= agnir hí váí dhūr átha. An independent Svarita is thrown back on the preceding syllable in the form of an Udātta; e. g. manuṣyeṣu \= manuṣyeṣu for manuṣyèṣu. The Svarita produced by change to a semivowel, by contraction, or the elision of initial a is similarly treated; e. g. evaitad \= évaitád for evaitád (\= evá etád).
 
 
-#strong[6. Accent] of single words. Every Vedic word is, as a rule, accented and has one main accent only. In the original text of the RV. the only main accent was the Udātta which, as Comparative Philology shows, generally rests on the same syllable as it did in the Indo-European period; e. g. ta-tá-s stretched, Gk. τα-τό-s; jánu n. knee, Gk. γόνυ; á-dṛś-at, Gk. ἔ-δρακ-ε; bhára-ta, Gk. φέρε-τε.¹ But in the written text of the RV. the Svarita appears to be the main accent in some words. It then always follows a y or v which represents original i or u with Udātta; e. g. rathyàm
+*6. Accent* of single words. Every Vedic word is, as a rule, accented and has one main accent only. In the original text of the RV. the only main accent was the Udātta which, as Comparative Philology shows, generally rests on the same syllable as it did in the Indo-European period; e. g. ta-tá-s stretched, Gk. τα-τό-s; jánu n. knee, Gk. γόνυ; á-dṛś-at, Gk. ἔ-δρακ-ε; bhára-ta, Gk. φέρε-τε.¹ But in the written text of the RV. the Svarita appears to be the main accent in some words. It then always follows a y or v which represents original i or u with Udātta; e. g. rathyàm
 
 g 2
 
@@ -19110,10 +19104,10 @@ g 2
 \= rathíàm¹; svàr² \= súàr n. light; tanvàm \= tanúàm.³ Here the original vowel with its Udātta must be restored in pronunciation except in a very few late passages.
 
 
-#strong[7. Double] Accent. One form of dative infinitive and two types of syntactical compounds have a double accent. The infinitive in tavai, of which numerous examples occur both in the Saṃhitās and the Brāhmaṇas, accents both the first and the last syllable; e. g. é-tavái to go; ápa-bhar-tavái to take away. Compounds both members of which are duals in form (186 A 1), or in which the first member has a genitive ending (187 A 6 a), accent bothmembers; e. g. mitrá-váruṇā Mitra and Varuṇa; bṛhas-páti lord of prayer. In B. a double accent also appears in the particle vāvá.
+*7. Double* Accent. One form of dative infinitive and two types of syntactical compounds have a double accent. The infinitive in tavai, of which numerous examples occur both in the Saṃhitās and the Brāhmaṇas, accents both the first and the last syllable; e. g. é-tavái to go; ápa-bhar-tavái to take away. Compounds both members of which are duals in form (186 A 1), or in which the first member has a genitive ending (187 A 6 a), accent bothmembers; e. g. mitrá-váruṇā Mitra and Varuṇa; bṛhas-páti lord of prayer. In B. a double accent also appears in the particle vāvá.
 
 
-#strong[8. Lack] of Accent. Some words never have an accent; others lose it under certain conditions.
+*8. Lack* of Accent. Some words never have an accent; others lose it under certain conditions.
 
 A. Always enclitic are:
 
@@ -19154,7 +19148,7 @@ c. oblique cases of the pronoun a, if unemphatic (replacing a preceding substant
 #v(0.18em)
 
 
-#strong[9. The] most important points to be noted here are the following:—
+*9. The* most important points to be noted here are the following:—
 
 A. Primary Suffixes:
 
@@ -19199,7 +19193,7 @@ c. Stems in ma, whether superlatives or ordinals, regularly accent the suffix; e
 #v(0.18em)
 
 
-#strong[10. Stated] generally, the rule is that iteratives, possessives, and governing compounds accent the first member, while determinatives (Karmadhārayas and Tatpuruṣas), and regularly formed co-ordinatives accent the last member (usually on its final syllable). Simple words on becoming members of compounds generally retain their original accent. Some, however, always change it: thus visva regularly becomes visva; others do so in certain combinations only: thus purva prior becomes purva in purva-citti f. first thought, purva-piti f. first draught, purva-huti first invocation; medha sacrifice shifts its accent in medha-pati lord of sacrifice and medha-sati f. reception of the sacrifice, and vira hero in puru-vira possessed of many men and su-vira heroic. An adjective compound may shift its accent from one member to another on becoming a substantive or a proper name; e.g. su-kṛta well done, but su-kṛtá, n. good deed; a-raya niggardly, but a-raya m. name of a demon.
+*10. Stated* generally, the rule is that iteratives, possessives, and governing compounds accent the first member, while determinatives (Karmadhārayas and Tatpuruṣas), and regularly formed co-ordinatives accent the last member (usually on its final syllable). Simple words on becoming members of compounds generally retain their original accent. Some, however, always change it: thus visva regularly becomes visva; others do so in certain combinations only: thus purva prior becomes purva in purva-citti f. first thought, purva-piti f. first draught, purva-huti first invocation; medha sacrifice shifts its accent in medha-pati lord of sacrifice and medha-sati f. reception of the sacrifice, and vira hero in puru-vira possessed of many men and su-vira heroic. An adjective compound may shift its accent from one member to another on becoming a substantive or a proper name; e.g. su-kṛta well done, but su-kṛtá, n. good deed; a-raya niggardly, but a-raya m. name of a demon.
 
 a. Iteratives accent the first member only, the two words being separated by Avagraha in the Pada text, like the members of other compounds; e.g. ahar-ahar day after day; yad-yad whatever; yathā-yathā as in each case; adyá-adya, svah-śvah on each to-day, on each to-morrow; prá-pra forth and again; piba-piba drink again and again.
 
@@ -19224,7 +19218,7 @@ a. But about one-eighth of all Bahuvrīhis accent the second member (chiefly on 
 d. Determinatives accent the final member (chiefly on the final syllable).
 
 
-#strong[1. Ordinary] Karmadhārayas accent the final syllable; e. g. prathama-já first-born, prātar-yúj early yoked, mahā-dhaná great spoil. But when the second member ends in i, man, van, or is a gerundive (used as a n. substantive), the penultimate syllable is accented; e. g. dur-gṛbhi hard to hold; su-tárman crossing well; raghu-pátvan swift-flying; pūrva-péya, n. precedence in drinking.
+*1. Ordinary* Karmadhārayas accent the final syllable; e. g. prathama-já first-born, prātar-yúj early yoked, mahā-dhaná great spoil. But when the second member ends in i, man, van, or is a gerundive (used as a n. substantive), the penultimate syllable is accented; e. g. dur-gṛbhi hard to hold; su-tárman crossing well; raghu-pátvan swift-flying; pūrva-péya, n. precedence in drinking.
 
 #page-footnotes((
   [¹ The later Saṃhitās tend to follow the general rule; e. g. purū-nāman (SV.) many-named.],
@@ -19245,7 +19239,7 @@ d. Determinatives accent the final member (chiefly on the final syllable).
 ]
 
 
-#strong[2. Ordinary] Tatpuruṣas accent the final syllable; e. g. gotra-bhíd opening the cow-pens, agnim-indhá fire-kindling, bhadra-vādín uttering auspicious cries; uda-meghá shower of water. But when the second member is an agent noun in ana, an action noun in ya, or an adjective in i, or van, the radical syllable of that member is accented; e. g. deva-mādana exhilarating the gods; ahi-hátya n. slaughter of the dragon; pathi-rákṣi protecting the road; soma-pāvan Soma-drinking.
+*2. Ordinary* Tatpuruṣas accent the final syllable; e. g. gotra-bhíd opening the cow-pens, agnim-indhá fire-kindling, bhadra-vādín uttering auspicious cries; uda-meghá shower of water. But when the second member is an agent noun in ana, an action noun in ya, or an adjective in i, or van, the radical syllable of that member is accented; e. g. deva-mādana exhilarating the gods; ahi-hátya n. slaughter of the dragon; pathi-rákṣi protecting the road; soma-pāvan Soma-drinking.
 
 a. The first member is, however, accented when it is dependent on past passive participles in ta and na or on action nouns in ti; e. g. devá-hita ordained by the gods, dhána-sāti acquisition of wealth. It is usually also accented, if dependent on páti lord; e. g. gṛhá-pati lord of the house. Some of these compounds with páti accent the second member with its original accent; some others in the later Saṃhitās, conforming to the general rule, accent it on the final syllable; thus apsarā-patí (AV.) lord of the Apsarases, ahar-patí (MS.) lord of day, nadī-patí (VS.) lord of rivers.
 
@@ -19278,7 +19272,7 @@ a. The very rare adverbial Dvandvas accent the first member: áhar-divi¹ day by
 #v(0.18em)
 
 
-#strong[11. a. The] vocative, when accented at all (18), invariably has the acute on the first syllable; e. g. pítar (N. pitá), déva (N. devá-s). The regular vocative of dyú (dyáv) is dyàus, i. e. díaus (which irregularly retains the s of the nom.: cp. Gk. Zεῦ), but the accent of the N., dyáus, usually appears instead.
+*11. a. The* vocative, when accented at all (18), invariably has the acute on the first syllable; e. g. pítar (N. pitá), déva (N. devá-s). The regular vocative of dyú (dyáv) is dyàus, i. e. díaus (which irregularly retains the s of the nom.: cp. Gk. Zεῦ), but the accent of the N., dyáus, usually appears instead.
 
 b. In the a and ā declensions the accent remains on the same syllable throughout (except the vocative); e. g. devá-s, devá-sya, devá-nām. This rule includes monosyllabic stems, pronouns, the numeral dvá, and radical ā stems; e. g. from má: máyā, má-hyam, máy-i; from tá: tá-sya, té-ṣām, tá-bhis; from dvá: dvá-bhyām, dváyos; from já m. f. offspring: já-bhyām, já-bhis, já-bhyas, já-su.
 
@@ -19305,17 +19299,17 @@ a. The cardinal stems in a, páñca, náva, dáśa (and its compounds) shift the
 c. When the final syllable of the stem is accented, the acute is liable to shift (except in the a declension) to the endings in the weak cases.
 
 
-#strong[1. In] monosyllabic stems (except those ending in a) this is the rule;¹ e. g. dhí f. thought: dhiy-á, dhī-bhís, dhī-nám; bhū f. earth: bhuv-ás, bhuv-ós; náu f. ship: nāv-á, nau-bhís, nau-ṣú (Gk. ναυ-σί); dánt, m. tooth: dat-á, dad-bhís.¹
+*1. In* monosyllabic stems (except those ending in a) this is the rule;¹ e. g. dhí f. thought: dhiy-á, dhī-bhís, dhī-nám; bhū f. earth: bhuv-ás, bhuv-ós; náu f. ship: nāv-á, nau-bhís, nau-ṣú (Gk. ναυ-σί); dánt, m. tooth: dat-á, dad-bhís.¹
 
 There are about a dozen exceptions to this rule: gó cow, dyó sky; nf man, stf star; kṣám earth; tán succession, rán joy, ván wood; ví m. bird; víp rod; svár light; e. g. gáv-á, gáv-ám, gó-bhis; dyáv-i, dyú-bhis; nár-e, nf-bhis, nf-ṣu (but nar-ám and nr-ṇám); stf-bhis; kṣám-i; tán-á (also tan-á); ráṇ-e, rám-su; vám-su (but van-ám); ví-bhis, ví-bhyas (but vī-nám); G. víp-as; sūr-as (but sūr-é); also the dative infinitives bádh-e to press and váh-e to convey. The irregular accentuation of a few other monosyllabic stems is due to their being reduced forms of dissyllables; these are drú wood (dáru), snú summit (sánu), śván dog (Gk. κιων), yūn (weak stem of yúvan young); e. g. drú-ṇā; snú-ṣu; śúnā, śvá-bhis; yún-á.
 
 
-#strong[2. When] the final accented syllable loses its vowel either by syncope or change to a semivowel, the acute is thrown forward on a vowel ending; e. g. from mahimán greatness: mahimná; agní fire: agny-ós; dhenú cow: dhenv-á; vadhū bride: vadhv-ái (AV.); pitf father: pitr-á.
+*2. When* the final accented syllable loses its vowel either by syncope or change to a semivowel, the acute is thrown forward on a vowel ending; e. g. from mahimán greatness: mahimná; agní fire: agny-ós; dhenú cow: dhenv-á; vadhū bride: vadhv-ái (AV.); pitf father: pitr-á.
 
 a. Polysyllabic stems in í, ú, f and, in the RV., usually those in f, throw the acute on the ending of the gen. pl. also, even though the final vowel of the stem here retains its syllabic character; e. g. agnī-nám, dhenū-nám, dātf-ṇám, bahvī-nám (ep. 11 b a).
 
 
-#strong[3. Present] participles in át and ánt throw the acute forward on vowel endings in the weak cases; e. g. tud-ánt striking: tudat-á (but tudád-bhis). This rule is also
+*3. Present* participles in át and ánt throw the acute forward on vowel endings in the weak cases; e. g. tud-ánt striking: tudat-á (but tudád-bhis). This rule is also
 
 #page-footnotes((
   [¹ At the end of a compound a monosyllabic stem loses this accentuation; e. g. su-dhí wise, sudhí-nám.],
@@ -19335,7 +19329,7 @@ a. Polysyllabic stems in í, ú, f and, in the RV., usually those in f, throw th
 ]
 
 
-#strong[4. In] the RV. derivatives formed with accented -añc throw the acute forward on vowel endings in the weak cases when the final syllable contracts to īc or ūc; e. g. praty-añc turned towards: pratīc-ā (but pratyák-ṣu); anv-añc following: anūc-ás; but prāñc forward: prāc-i.¹
+*4. In* the RV. derivatives formed with accented -añc throw the acute forward on vowel endings in the weak cases when the final syllable contracts to īc or ūc; e. g. praty-añc turned towards: pratīc-ā (but pratyák-ṣu); anv-añc following: anūc-ás; but prāñc forward: prāc-i.¹
 
 
 #v(0.30em)
@@ -19343,7 +19337,7 @@ a. Polysyllabic stems in í, ú, f and, in the RV., usually those in f, throw th
 #v(0.18em)
 
 
-#strong[12. a. The] augment invariably bears the acute, if the verb is accented at all (19); e. g. impf. á-bhavat; aor. á-bhūt; plup. á-jagan; cond. á-bhariṣyat. The accentuation of the forms in which the augment is dropped (used also as injunctives) is as follows. The imperfect accents the same syllable as the present; e. g. bhárat: bhárati; bhinát: bhinátti. The pluperfect accents the root; e. g. cākán (3\. s.); namámas, tastámbhat; tatánanta; but in the 3\. pl. also occur cakṛpánta, dádhṛṣanta.
+*12. a. The* augment invariably bears the acute, if the verb is accented at all (19); e. g. impf. á-bhavat; aor. á-bhūt; plup. á-jagan; cond. á-bhariṣyat. The accentuation of the forms in which the augment is dropped (used also as injunctives) is as follows. The imperfect accents the same syllable as the present; e. g. bhárat: bhárati; bhinát: bhinátti. The pluperfect accents the root; e. g. cākán (3\. s.); namámas, tastámbhat; tatánanta; but in the 3\. pl. also occur cakṛpánta, dádhṛṣanta.
 
 The aorist is variously treated. The s and the iṣ forms accent the root; e. g. váṃ-s-i (van win); śáṃs-iṣ-am. The root aorist (including the passive form) accents the radical vowel in the sing. active, but the endings elsewhere; e. g. 3\. s. várk (√vrj); pass. véd-i; 2\. s. mid. nut-thās. The aorists formed with -a² or -sa accent those syllables; e. g. ruhám, vidát; budhánta; dhuk-ṣá-nta. The reduplicated aorist accents either the reduplicated syllable; e. g. nīnaśas, pīparat, jījanan; or the root, as pīpárat, śisnáthat.
 
@@ -19431,7 +19425,7 @@ f. Secondary conjugations. As all these (except the primary intensive) belong to
 #v(0.18em)
 
 
-#strong[13. a. Tense] Participles when compounded with one or more prepositions retain their original accent (while the prepositions lose theirs); e. g. apa-gáchant going away, vi-pra-yántaḥ advancing, pary-ā-vívṛtsan wishing to turn round; apa-gácha-māna; apa-jaganvāṃs, apa-jagm-āná.
+*13. a. Tense* Participles when compounded with one or more prepositions retain their original accent (while the prepositions lose theirs); e. g. apa-gáchant going away, vi-pra-yántaḥ advancing, pary-ā-vívṛtsan wishing to turn round; apa-gácha-māna; apa-jaganvāṃs, apa-jagm-āná.
 
 a. A single preposition, or the first of two, not infrequently becomes separated by the interposition of one or more words or by being placed after the participle. It is then treated as independent and recovers its accent; e. g. ápa dr̥hāni dárdrat bursting strongholds asunder; ā ca párā ca pathibhiś cárantam wandering hither and thither on his paths; mádhu bíbhrata úpa bringing sweetness near; prá vayám uj-jíhānāḥ flying up to a branch; avasṛjánn úpa bestowing. Occasionally an immediately preceding preposition is not compounded with the participle and is then also accented; e. g. abhí dákṣat burning around; ví vidvān² discriminating; abhí ā-cárantaḥ approaching.
 
@@ -19458,7 +19452,7 @@ b. On the other hand, the past passive participle,³ when compounded with one or
 ]
 
 
-#strong[14. Infinitives] are as a rule accented like ordinary cases that would be formed from the same stem.
+*14. Infinitives* are as a rule accented like ordinary cases that would be formed from the same stem.
 
 a. Dative infinitives from stems in i, ti, as, van accent the suffix; those in dhyai, the preceding thematic a; and those formed from the root, the ending; e. g. drśáy-e to see, pītáy-e to drink, carás-e¹ to move, dā-ván-e² to give, tur-ván-e³ to overcome; iy-á-dhyai⁴ to go; drś-é to see.
 
@@ -19493,10 +19487,10 @@ a. When compounded, infinitives from tu stems accent the preposition;⁸ e. g. s
 ]
 
 
-#strong[15. Gerunds] formed with tvī, tvā, tvāya accent the suffix, but when they are compounded with prepositions (here always inseparable) and formed with yā or tyā, they accent the root; e. g. bhū-tvā having become, ga-tvī and ga-tvāya having gone; saṃ-gṛbh-yā having gathered, upa-śrú-tya (AV.) having overcome.
+*15. Gerunds* formed with tvī, tvā, tvāya accent the suffix, but when they are compounded with prepositions (here always inseparable) and formed with yā or tyā, they accent the root; e. g. bhū-tvā having become, ga-tvī and ga-tvāya having gone; saṃ-gṛbh-yā having gathered, upa-śrú-tya (AV.) having overcome.
 
 
-#strong[16. Case] forms used as adverbs frequently shift their accent to indicate clearly a change of meaning.² The accusative neuter form is here the commonest; e. g. dravát quickly, but drávat running; aparám later, but áparam as n. adj.; uttarám higher, but úttaram as n. adj.; adverbs in vát e. g. pratna-vát as of old, but the acc. n. of adjectives in vant do not accent the suffix. Examples of other cases are: dív-ā by day, but div-ā through heaven; aparāya for the future, but áparāya to the later; sanāt from of old, but sánāt from the old.
+*16. Case* forms used as adverbs frequently shift their accent to indicate clearly a change of meaning.² The accusative neuter form is here the commonest; e. g. dravát quickly, but drávat running; aparám later, but áparam as n. adj.; uttarám higher, but úttaram as n. adj.; adverbs in vát e. g. pratna-vát as of old, but the acc. n. of adjectives in vant do not accent the suffix. Examples of other cases are: dív-ā by day, but div-ā through heaven; aparāya for the future, but áparāya to the later; sanāt from of old, but sánāt from the old.
 
 
 #v(0.30em)
@@ -19525,10 +19519,10 @@ a. But the contraction of í i is accented as ī,⁴ the enclitic Svarita (í i)
 #fit-page[
 #folio("", "APPENDIX III", "465")
 
-#strong[2. When] ī and ū with Udāṭṭa are changed to y and v, a following unaccented vowel receives the Svarita;¹ e. g. vy ānaṭ \= ví ānaṭ. Here the Svarita assumes the appearance of an independent accent; but the uncontracted form with the Udāṭṭa must almost invariably be pronounced in the RV.
+*2. When* ī and ū with Udāṭṭa are changed to y and v, a following unaccented vowel receives the Svarita;¹ e. g. vy ānaṭ \= ví ānaṭ. Here the Svarita assumes the appearance of an independent accent; but the uncontracted form with the Udāṭṭa must almost invariably be pronounced in the RV.
 
 
-#strong[3. When] accented á is elided it throws back its Udāṭṭa on unaccented e or o; e. g. sūnávé śgne \= sūnáve ágne; vó śvasaḥ \= vo ávasaḥ. But when unaccented a is elided, it changes a preceding Udāṭṭa to Svarita;² e. g. sò śdhamáḥ \= só adhamáḥ.³
+*3. When* accented á is elided it throws back its Udāṭṭa on unaccented e or o; e. g. sūnávé śgne \= sūnáve ágne; vó śvasaḥ \= vo ávasaḥ. But when unaccented a is elided, it changes a preceding Udāṭṭa to Svarita;² e. g. sò śdhamáḥ \= só adhamáḥ.³
 
 
 #v(0.30em)
@@ -19536,7 +19530,7 @@ a. But the contraction of í i is accented as ī,⁴ the enclitic Svarita (í i)
 #v(0.18em)
 
 
-#strong[18. The] vocative, whether it be a single word or a compound expression, can be accented on its first syllable only.
+*18. The* vocative, whether it be a single word or a compound expression, can be accented on its first syllable only.
 
 a. It retains its accent only at the beginning of a sentence or Pāda,⁴ that is, when having the full force of the case it occupies the most emphatic position; e. g. ágne, sūpāyanó bhava O Agni, be easy of access; ūrjo napāt sahasāvan⁵ O mighty son of strength. This rule also applies to doubly accented dual compounds; e. g. mītrā-varuṇā⁶ O Mitra and Varuṇa. Two or more vocatives at the beginning of a sentence are all accented; e. g. ádite, mītra, váruṇa O Aditi, O Mitra, O Varuṇa. Two accented vocatives are sometimes applicable to the same person; e. g. ūrjo napād,
 
@@ -19569,7 +19563,7 @@ H h
 b. When it does not begin the sentence or Pāda, the vocative, being unemphatic, loses its accent; e. g. úpa tvā agne divé-dive | dóṣāvastar² dhiyā vayám | námo bháranta émasi to thee, O Agni, day by day, O illuminer of darkness, bringing homage with prayer we come; ā rājānā maha ṛtasya gopā³ hither (come), O ye two sovereign guardians of great order; ṛténa mitrā-varuṇāv | ṛtāvṛdhāv ṛtasprśā | through Law, O law-loving, law-cherishing Mitra and Varuṇa;⁴ yád indra brahmaṇaspate⁵ | abhidrohám cárāmasi | if, O Indra, O Brahmaṇaspati, we commit an offence.
 
 
-#strong[19. The] verb is differently accented according to the nature of the sentence.
+*19. The* verb is differently accented according to the nature of the sentence.
 
 A. The finite verb in a principal sentence is unaccented; e. g. agním īle puróhitam I praise Agni the domestic priest.
 
@@ -19635,7 +19629,7 @@ H h 2
 #v(0.18em)
 
 
-#strong[20. A.] In principal clauses the preposition, which is detached and usually precedes but sometimes follows the verb, is accented; e. g. ā gamat may he come; gávām ápa vrajáṃ vṛdhi unclose the stable of the kine; jáyema sám yudhí spṛdhaḥ we would conquer our adversaries in fight; gámad vājebhir ā sá naḥ may he come to us with booty.
+*20. A.* In principal clauses the preposition, which is detached and usually precedes but sometimes follows the verb, is accented; e. g. ā gamat may he come; gávām ápa vrajáṃ vṛdhi unclose the stable of the kine; jáyema sám yudhí spṛdhaḥ we would conquer our adversaries in fight; gámad vājebhir ā sá naḥ may he come to us with booty.
 
 a. When there are two prepositions, both are independent and accented; e. g. úpa prá yāhi come forth; pári spáso ní ṣedire the spies have sat down around; ágne ví paśya bṛhatā abhí rāyā O Agni, look forth towards (us) with ample wealth.
 
@@ -21050,10 +21044,10 @@ accents verb, p. 467, 19 A d.
 cāru, a. dear, 98 a, c.
 
 
-#strong[1. ci,] gather, pf., 139, 4\.
+*1. ci,* gather, pf., 139, 4\.
 
 
-#strong[2. ci,] note, pf., 139, 4\.
+*2. ci,* note, pf., 139, 4\.
 
 cit, perceive, pr. stem, 134 A 4 c a;
 
@@ -21642,7 +21636,7 @@ dah, burn, s ao., 144, 5; s ao. pt.,
 151 b 2\.
 
 
-#strong[1. dā,] give, pr. stem, 134 B 1 b;
+*1. dā,* give, pr. stem, 134 B 1 b;
 
 134 B 3 a; 134 B 3 β; pf. pt.,
 
@@ -21655,7 +21649,7 @@ a ao., 147 a 1; rt. ao. inj.,
 pp., 160, 2 b.
 
 
-#strong[2. dā,] cut, s ao., 144, 3; op., 143, 4\.
+*2. dā,* cut, s ao., 144, 3; op., 143, 4\.
 
 dā, m. giver, 97, 2\.
 
@@ -21891,10 +21885,10 @@ dhánvan, n. bow, 90, 3\.
 dhartṛ, n. prop, 101, 2 b.
 
 
-#strong[1. dhā,] put, pr. stem, 134 B 1 b; 134 B 3 a: 134 B 3 β; pf., 137, 2 e; 138, 3; a ao., 147 a 1; rt. ao. inj., 148, 3; op., 148, 4; ipv., 148, 5; ps. ao., 155\.
+*1. dhā,* put, pr. stem, 134 B 1 b; 134 B 3 a: 134 B 3 β; pf., 137, 2 e; 138, 3; a ao., 147 a 1; rt. ao. inj., 148, 3; op., 148, 4; ipv., 148, 5; ps. ao., 155\.
 
 
-#strong[2. dhā,] suck, pr. stem, 133 B 1\.
+*2. dhā,* suck, pr. stem, 133 B 1\.
 
 -dhā, adv. sf. of manner, 179, 1\.
 
@@ -22010,10 +22004,10 @@ návyasā, inst. adv. anew, 178, 3\.
 návyāms, cpv. newer, 103, 2 a.
 
 
-#strong[1. naś,] reach, rt. ao., 148, 1 d, inj., 148, 3, op., 148, 4\.
+*1. naś,* reach, rt. ao., 148, 1 d, inj., 148, 3, op., 148, 4\.
 
 
-#strong[2. naś,] be lost, red. ao., 149, 1; irr., 149 a 2\.
+*2. naś,* be lost, red. ao., 149, 1; irr., 149 a 2\.
 
 náś, f. night, 79, 4\.
 
@@ -22201,10 +22195,10 @@ paścāt, abl. adv. from behind, 178, 5; w. gen., 202 D.
 paścātāt, adv. from behind, 179, 2\.
 
 
-#strong[1. pā,] drink, pr. stem, 133 A 3 a; 134 B 3 β, rt. ao. prc., 148, 4 a; ipv., 148, 5\.
+*1. pā,* drink, pr. stem, 133 A 3 a; 134 B 3 β, rt. ao. prc., 148, 4 a; ipv., 148, 5\.
 
 
-#strong[2. pā,] protect, pr. stem, 134 A 4 c.
+*2. pā,* protect, pr. stem, 134 A 4 c.
 
 Pāṇini, m. a grammarian, 15\.
 
@@ -22700,13 +22694,13 @@ mahimán, m. greatness, 90, 2\.
 mahé, inf. to be glad, 167 a (p. 191).
 
 
-#strong[1. mā,] measure, pr. stem, 134 B 1 a; root ao. ipv., 148, 5\.
+*1. mā,* measure, pr. stem, 134 B 1 a; root ao. ipv., 148, 5\.
 
 
-#strong[2. mā,] bellow, pr. stem, 134 B 3 β; red. ao. inj., 149, 3\.
+*2. mā,* bellow, pr. stem, 134 B 3 β; red. ao. inj., 149, 3\.
 
 
-#strong[3. mā,] exchange, pr. stem, 133 B 1\. mā, f. measure, 97, 2\.
+*3. mā,* exchange, pr. stem, 133 B 1\. mā, f. measure, 97, 2\.
 
 mā, encl. prs. prn. acc. s., me, 109 a; p. 452, 8 A a.
 
@@ -22787,10 +22781,10 @@ mūrdhán, m. head, 90\.
   #set par(leading: 0.22em, first-line-indent: -0.7em, hanging-indent: 0.7em)
   #set block(spacing: 0.06em)
   
-#strong[1. mr,] die, rt. ao. inj., 148, 3; ps., 154 d.
+*1. mr,* die, rt. ao. inj., 148, 3; ps., 154 d.
 
 
-#strong[2. mr,] crush, pr. stem, 134 E 4 a.
+*2. mr,* crush, pr. stem, 134 E 4 a.
 
 mrc, injure, s ao. op., 143, 4\.
 
@@ -22897,10 +22891,10 @@ yāvat, cj. as long as, 180\.
 yāvant, prn. der. as great, 118 c.
 
 
-#strong[1. yu,] unite, pr. stem, 134, 1 a.
+*1. yu,* unite, pr. stem, 134, 1 a.
 
 
-#strong[2. yu,] separate, 133 A 2; 134 B 3 a.
+*2. yu,* separate, 133 A 2; 134 B 3 a.
 
 -yu, pri. nom. sf., 182, 1 b; stems in, 98 a.
 
@@ -23211,14 +23205,14 @@ vaś, desire, pr. stem, 134 A 2 a.
 pt., 157 a.
 
 
-#strong[2. vas,] wear, pr. stem, 134 A 3 b;
+*2. vas,* wear, pr. stem, 134 A 3 b;
 
 135, 4; pf., 139, 2; cs. ft.,
 
 151 a a.
 
 
-#strong[3. vas,] shine, pr. stem, 133 C 2;
+*3. vas,* shine, pr. stem, 133 C 2;
 
 s ao., 144, 1; s ao., 144, 5; root
 
@@ -23322,10 +23316,10 @@ vij, f. (?) stake, 79, 3 a.
 vitarām, adv. more widely, 178, 2\.
 
 
-#strong[1. vid,] know, unred. pf., 139, 3; ao. ps., 155\.
+*1. vid,* know, unred. pf., 139, 3; ao. ps., 155\.
 
 
-#strong[2. vid,] find, pr. stem, 133 C 1; 134 A 4 c a; a ao., 147, 1 (par.); a ao. op., 147, 4 (par.).
+*2. vid,* find, pr. stem, 133 C 1; 134 A 4 c a; a ao., 147, 1 (par.); a ao. op., 147, 4 (par.).
 
 vid, f. knowledge, 77, 3 a.
 
@@ -23392,10 +23386,10 @@ vī, m. receiver, 100, I a.
 vīrā, m. hero, accent of, in compounds, p. 454, 10\.
 
 
-#strong[1. vṛ,] cover, pr. stem, 134 C 3; root ao., 148, 1 d, inj., 148, 3, ipv., 148, 5, pt., 148, 6; red. ao., 149, 1; cs. ft., 151 a a.
+*1. vṛ,* cover, pr. stem, 134 C 3; root ao., 148, 1 d, inj., 148, 3, ipv., 148, 5, pt., 148, 6; red. ao., 149, 1; cs. ft., 151 a a.
 
 
-#strong[2. vṛ,] choose, root ao. inj., 148, 3\.
+*2. vṛ,* choose, root ao. inj., 148, 3\.
 
 vṛj, twist, sa ao., 141 a; root ao., 148, 1 d, op., 148, 4\.
 
