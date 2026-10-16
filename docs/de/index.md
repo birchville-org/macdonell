@@ -4,7 +4,7 @@ description: Digitale Vektor-Neusatz-Edition des Standardwerks von Arthur Anthon
 ---
 
 <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1.5rem; padding: 1rem 1.25rem; background: var(--md-default-bg-color--light); border: 1px solid var(--md-default-fg-color--lightest); border-radius: 8px;">
-  <img src="assets/birchville_logo.png" alt="Birchville Wappen" style="height: 2.4rem; border-radius: 4px; filter: drop-shadow(0 1px 3px rgba(0,0,0,0.18));">
+  <img src="../assets/birchville_logo.png" alt="Birchville Wappen" style="height: 2.4rem; border-radius: 4px; filter: drop-shadow(0 1px 3px rgba(0,0,0,0.18));">
   <div>
     <div style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--md-accent-fg-color); font-weight: 700;">Birchville Scholarly Synthesis</div>
     <div style="font-size: 0.95rem; font-weight: 600; color: var(--md-default-fg-color);">Kanonische Edition klassischer indologischer Referenzwerke</div>
@@ -21,40 +21,74 @@ Dieses Dokumentations- und Editionsportal begleitet die digitale Neusatz-Ausgabe
 
 ## ⚡ Schnellzugriff & Downloads
 
-<div class="grid cards" markdown>
+<div class="quick-access-grid">
+  <div class="quick-card">
+    <div>
+      <div class="quick-card-header">
+        <span class="quick-card-icon">📄</span>
+        <span class="quick-card-title">Publikations-PDF (v1.0.1)</span>
+      </div>
+      <div class="quick-card-body">
+        520 Seiten Vektorsatz in Reinstform mit vollständigem Lesezeichenbaum und originalgetreuen Page-Labels (<code>i</code>–<code>xii</code>, <code>1</code>–<code>508</code>).
+      </div>
+    </div>
+    <div class="quick-card-action">
+      <a href="https://github.com/birchville-org/macdonell/releases/latest" class="quick-btn quick-btn-primary" target="_blank" rel="noopener">
+        <span>⬇️</span> PDF herunterladen (Release)
+      </a>
+    </div>
+  </div>
 
--   :fontawesome-solid-file-pdf:{ .lg .middle } **Publikations-PDF (v1.0.1)**
+  <div class="quick-card">
+    <div>
+      <div class="quick-card-header">
+        <span class="quick-card-icon">📖</span>
+        <span class="quick-card-title">Editionsmerkmale</span>
+      </div>
+      <div class="quick-card-body">
+        Detaillierte Analyse des Satzspiegels, der Clarendon-Typografie und der phonetischen Diakritika.
+      </div>
+    </div>
+    <div class="quick-card-action">
+      <a href="edition/features/" class="quick-btn quick-btn-outline">
+        <span>➔</span> Zu den Merkmalen
+      </a>
+    </div>
+  </div>
 
-    ---
+  <div class="quick-card">
+    <div>
+      <div class="quick-card-header">
+        <span class="quick-card-icon">📑</span>
+        <span class="quick-card-title">Systematische Gliederung</span>
+      </div>
+      <div class="quick-card-body">
+        Vollständige Übersicht aller 7 Hauptkapitel, 3 Anhänge und Indizes mit Seitenreferenzen.
+      </div>
+    </div>
+    <div class="quick-card-action">
+      <a href="edition/structure/" class="quick-btn quick-btn-outline">
+        <span>➔</span> Zur Kapitelübersicht
+      </a>
+    </div>
+  </div>
 
-    520 Seiten Vektorsatz in Reinstform mit vollständigem Lesezeichenbaum und originalgetreuen Page-Labels (`i`–`xii`, `1`–`508`).
-
-    [:octicons-download-16: PDF herunterladen (GitHub Release)](https://github.com/birchville-org/macdonell/releases/latest){ .md-button .md-button--primary }
-
--   :fontawesome-solid-book-open:{ .lg .middle } **Editionsmerkmale**
-
-    ---
-
-    Detaillierte Analyse des Satzspiegels, der Clarendon-Typografie und der phonetischen Diakritika.
-
-    [:octicons-arrow-right-16: Zu den Merkmalen](edition/features.md){ .md-button }
-
--   :fontawesome-solid-list-ol:{ .lg .middle } **Systematische Gliederung**
-
-    ---
-
-    Vollständige Übersicht aller 7 Hauptkapitel, 3 Anhänge und Indizes mit Seitenreferenzen.
-
-    [:octicons-arrow-right-16: Zur Kapitelübersicht](edition/structure.md){ .md-button }
-
--   :fontawesome-solid-code:{ .lg .middle } **Quellcode & Build-Pipeline**
-
-    ---
-
-    Typst-Neusatzcode, TEI-P5-Archivdaten und PyMuPDF-Outline-Injektor auf GitHub.
-
-    [:octicons-mark-github-16: GitHub Repository](https://github.com/birchville-org/macdonell){ .md-button }
-
+  <div class="quick-card">
+    <div>
+      <div class="quick-card-header">
+        <span class="quick-card-icon">💻</span>
+        <span class="quick-card-title">Quellcode & Pipeline</span>
+      </div>
+      <div class="quick-card-body">
+        Typst-Neusatzcode, TEI-P5-Archivdaten und PyMuPDF-Outline-Injektor auf GitHub.
+      </div>
+    </div>
+    <div class="quick-card-action">
+      <a href="https://github.com/birchville-org/macdonell" class="quick-btn quick-btn-outline" target="_blank" rel="noopener">
+        <span>➔</span> GitHub Repository
+      </a>
+    </div>
+  </div>
 </div>
 
 ---

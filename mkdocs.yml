@@ -37,6 +37,24 @@ extra_css:
 
 plugins:
   - search
+  - i18n:
+      docs_structure: folder
+      languages:
+        - locale: de
+          name: Deutsch
+          build: true
+          default: true
+        - locale: en
+          name: English
+          build: true
+          nav_translations:
+            Startseite: Home
+            Edition: Edition
+            Editionsmerkmale: Edition Features
+            Systematische Gliederung: Systematic Outline
+            Urheberrecht & Provenienz: Copyright & Provenance
+            Pipeline & Build: Pipeline & Build
+            Bauanleitung: Build Guide
 
 markdown_extensions:
   - admonition
@@ -48,6 +66,10 @@ markdown_extensions:
   - pymdownx.snippets
   - tables
   - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 nav:
   - Startseite: index.md

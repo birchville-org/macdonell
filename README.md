@@ -32,11 +32,18 @@ Die offizielle Online-Dokumentation mit Editionsmerkmalen und Systematik ist ver
 
 ```text
 macdonell/
-├── docs/                         # Material for MkDocs Dokumentationsportal
+├── docs/                         # Material for MkDocs Dokumentationsportal (DE/EN)
 │   ├── assets/birchville_logo.png
 │   ├── stylesheets/birchville.css
-│   ├── edition/                  # Editionsmerkmale & Gliederung
-│   └── index.md                  # Startseite
+│   ├── de/                       # Deutsche Dokumentation
+│   │   ├── edition/              # Editionsmerkmale & Gliederung
+│   │   ├── guide/                # Bauanleitung
+│   │   └── index.md              # Startseite
+│   └── en/                       # English Documentation
+│       ├── edition/              # Features & Outline
+│       ├── guide/                # Build Guide
+│       └── index.md              # Homepage
+
 ├── typst/
 │   └── macdonell.typ             # Vollständiger Typst-Neusatz-Quellcode
 ├── data/

@@ -10,7 +10,8 @@ clean:
 	@rm -rf site/
 
 docs-build:
-	@uv run --with mkdocs-material mkdocs build --strict
+	@uv run --with mkdocs-material --with mkdocs-static-i18n mkdocs build --strict
 
 docs-serve:
-	@uv run --with mkdocs-material mkdocs serve
+	@uv run --with mkdocs-material --with mkdocs-static-i18n mkdocs serve
+
