@@ -17,9 +17,9 @@ In classical philology and Indology, exact page and section references are essen
 | :--- | :--- | :--- |
 | **Total Pages** | 520 pages | 520 pages |
 | **Front Matter** | pp. `i`–`xii` (12 pages) | pp. `i`–`xii` (PDF labels `i`–`xii`) |
-| **Main Text & Syntax** | pp. `1`–`380` | pp. `1`–`380` |
-| **Appendices I–III** | pp. `381`–`470` | pp. `381`–`470` |
-| **Indexes (Two-column)** | pp. `471`–`508` | pp. `471`–`508` |
+| **Main Text & Syntax** | pp. `1`–`368` | pp. `1`–`368` (PDF labels `1`–`368`) |
+| **Appendices I–III** | pp. `369`–`470` | pp. `369`–`470` (PDF labels `369`–`470`) |
+| **Indexes (Two-column)** | pp. `471`–`508` | pp. `471`–`508` (PDF labels `471`–`508`) |
 | **Page Boundaries** | Original layout | Strictly congruent |
 
 Any citation such as `Macdonell (1916), § 86, p. 78` points directly to page 78 in the digital edition without requiring any offset conversion.

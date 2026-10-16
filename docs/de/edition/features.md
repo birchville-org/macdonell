@@ -17,9 +17,9 @@ In der klassischen Philologie und Indologie sind präzise Seiten- und Paragraphe
 | :--- | :--- | :--- |
 | **Gesamtumfang** | 520 Seiten | 520 Seiten |
 | **Titelei (Front Matter)** | S. `i`–`xii` (12 Seiten) | S. `i`–`xii` (PDF-Labels `i`–`xii`) |
-| **Hauptteil & Syntax** | S. `1`–`380` | S. `1`–`380` |
-| **Anhänge I–III** | S. `381`–`470` | S. `381`–`470` |
-| **Indizes (Zweispaltig)** | S. `471`–`508` | S. `471`–`508` |
+| **Hauptteil & Syntax** | S. `1`–`368` | S. `1`–`368` (PDF-Labels `1`–`368`) |
+| **Anhänge I–III** | S. `369`–`470` | S. `369`–`470` (PDF-Labels `369`–`470`) |
+| **Indizes (Zweispaltig)** | S. `471`–`508` | S. `471`–`508` (PDF-Labels `471`–`508`) |
 | **Seitenumbrüche** | Exakt identisch | Exakt seiten- und zeilenkongruent |
 
 Zitate wie z. B. `Macdonell (1916), § 86, S. 78` verweisen im PDF exakt auf die digitale Seite mit dem PDF-Label `78`.

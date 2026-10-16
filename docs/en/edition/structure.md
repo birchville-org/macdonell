@@ -23,9 +23,9 @@ The organization of Macdonell's *A Vedic Grammar for Students* comprises seven p
 | **Chapter VII** | Syntax (Word Order, Concord, Cases, Tenses, Moods) | 283–368 | 295–380 |
 | **Appendix I** | List of Verbs (Comprehensive root directory with attestations) | 369–435 | 381–447 |
 | **Appendix II** | Vedic Metre (Metres of Vedic hymn poetry) | 436–447 | 448–459 |
-| **Appendix III** | The Vedic Accent (Systematic accentuation principles) | 448–458 | 460–470 |
-| **Vedic Index** | Two-column index of Vedic word forms | 459–486 | 471–498 |
-| **General Index** | Two-column grammatical and subject index | 487–496 | 499–508 |
+| **Appendix III** | The Vedic Accent (Systematic accentuation principles) | 448–470 | 460–482 |
+| **Vedic Index** | Two-column index of Vedic word forms | 471–498 | 483–510 |
+| **General Index** | Two-column grammatical and subject index | 499–508 | 511–520 |
 
 ---
 
@@ -102,9 +102,9 @@ The organization of Macdonell's *A Vedic Grammar for Students* comprises seven p
 - **Participles, Gerund & Infinitive**
 - **Tenses & Moods** (Present, Imperfect, Perfect, Aorist, Subjunctive, Optative, Imperative)
 
-### Appendices & Indexes (pp. 369–496)
+### Appendices & Indexes (pp. 369–508)
 - **Appendix I: List of Verbs** (pp. 369–435): Exhaustive catalogue of Vedic verbal roots, tense stems, and textual citations.
 - **Appendix II: Vedic Metre** (pp. 436–447): Structural analysis of Vedic metrics (Gāyatrī, Triṣṭubh, Anuṣṭubh, Jagatī, etc.).
-- **Appendix III: The Vedic Accent** (pp. 448–458): Detailed rules of accent placement and cadence in the Ṛgveda and other Saṃhitās.
-- **Vedic Index** (pp. 459–486): Alphabetical glossary of attested forms.
-- **General Index** (pp. 487–496): Subject and terminology register.
+- **Appendix III: The Vedic Accent** (pp. 448–470): Detailed rules of accent placement and cadence in the Ṛgveda and other Saṃhitās.
+- **Vedic Index** (pp. 471–498): Alphabetical glossary of attested forms.
+- **General Index** (pp. 499–508): Subject and terminology register.

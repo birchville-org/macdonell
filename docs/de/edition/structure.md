@@ -23,9 +23,9 @@ Die Gliederung von Macdonells *A Vedic Grammar for Students* umfasst sieben Haup
 | **Chapter VII** | Syntax (Word Order, Concord, Cases, Tenses, Moods) | 283–368 | 295–380 |
 | **Appendix I** | List of Verbs (Wurzelverzeichnis mit Belegen) | 369–435 | 381–447 |
 | **Appendix II** | Vedic Metre (Metrik der vedischen Hymnen) | 436–447 | 448–459 |
-| **Appendix III** | The Vedic Accent (Systematik der Akzentuation) | 448–458 | 460–470 |
-| **Vedic Index** | Zweispaltiges Register vedischer Wortformen | 459–486 | 471–498 |
-| **General Index** | Zweispaltiger Sach- und Sachbegriffsindex | 487–496 | 499–508 |
+| **Appendix III** | The Vedic Accent (Systematik der Akzentuation) | 448–470 | 460–482 |
+| **Vedic Index** | Zweispaltiges Register vedischer Wortformen | 471–498 | 483–510 |
+| **General Index** | Zweispaltiger Sach- und Sachbegriffsindex | 499–508 | 511–520 |
 
 ---
 
@@ -102,9 +102,9 @@ Die Gliederung von Macdonells *A Vedic Grammar for Students* umfasst sieben Haup
 - **Participles, Gerund & Infinitive**
 - **Tenses & Moods** (Present, Imperfect, Perfect, Aorist, Subjunctive, Optative, Imperative)
 
-### Anhänge & Indizes (S. 369–496)
+### Anhänge & Indizes (S. 369–508)
 - **Appendix I: List of Verbs** (S. 369–435): Umfassendes Verzeichnis aller vedischen Verben mit ihren Stammformen und Belegstellen.
 - **Appendix II: Vedic Metre** (S. 436–447): Metrik der vedischen Dichtung (Gāyatrī, Triṣṭubh, Anuṣṭubh, Jagatī etc.).
-- **Appendix III: The Vedic Accent** (S. 448–458): Ausführliche Darstellung der Akzentsetzung und Intonation im Ṛgveda und den übrigen Saṃhitās.
-- **Vedic Index** (S. 459–486): Alphabetisches Wörterbuch der belegten Formen.
-- **General Index** (S. 487–496): Sachregister zu Grammatik, Begriffen und Regeln.
+- **Appendix III: The Vedic Accent** (S. 448–470): Ausführliche Darstellung der Akzentsetzung und Intonation im Ṛgveda und den übrigen Saṃhitās.
+- **Vedic Index** (S. 471–498): Alphabetisches Wörterbuch der belegten Formen.
+- **General Index** (S. 499–508): Sachregister zu Grammatik, Begriffen und Regeln.
