@@ -6,3 +6,5 @@ __pycache__/
 .venv/
 site/
 .vscode/
+dist/*Sandwich*.pdf
+*.sandwich.pdf

@@ -42,6 +42,23 @@ This documentation portal accompanies the digital typeset edition of the foundat
   <div class="quick-card">
     <div>
       <div class="quick-card-header">
+        <span class="quick-card-icon">📚</span>
+        <span class="quick-card-title">Sandwich PDF (400 dpi)</span>
+      </div>
+      <div class="quick-card-body">
+        528-page high-resolution scan facsimile with searchable OCR text layer, 70-entry outline bookmarks, and page labels.
+      </div>
+    </div>
+    <div class="quick-card-action">
+      <a href="https://github.com/birchville-org/macdonell/releases/latest/download/Macdonell_1916_Vedic_Grammar_400dpi_Sandwich.pdf" class="quick-btn quick-btn-outline" target="_blank" rel="noopener">
+        <span>⬇️</span> Sandwich PDF (502 MB)
+      </a>
+    </div>
+  </div>
+
+  <div class="quick-card">
+    <div>
+      <div class="quick-card-header">
         <span class="quick-card-icon">📖</span>
         <span class="quick-card-title">Edition Features</span>
       </div>
@@ -120,6 +137,10 @@ Beyond the print-ready publication PDF, the edition provides all raw data source
 - **Publication PDF (1:1 Vector Typeset)** (`dist/Macdonell_1916_Vedic_Grammar_Digital_Edition.pdf` · 3.2 MB)  
   Full 520-page digital typeset edition with strict 1:1 page correspondence to the 1916 Clarendon first edition, complete 81-step hierarchical outline bookmarks, and authentic Roman/Arabic page labels (`i`–`xii`, `1`–`508`).  
   [:octicons-download-16: Download via GitHub Release](https://github.com/birchville-org/macdonell/releases/latest/download/Macdonell_1916_Vedic_Grammar_Digital_Edition.pdf) · [:octicons-mark-github-16: View on GitHub](https://github.com/birchville-org/macdonell/blob/main/dist/Macdonell_1916_Vedic_Grammar_Digital_Edition.pdf)
+
+- **400dpi Sandwich PDF (Facsimile with OCR Text Layer & TOC)** (`dist/Macdonell_1916_Vedic_Grammar_400dpi_Sandwich.pdf` · 502 MB)  
+  528-page high-resolution scan facsimile of the historical original edition (Toronto scan, 400 dpi) with searchable OCR text layer, complete hierarchical outline bookmarks (70 section entries), and native Roman/Arabic PDF page labels (`i`–`xii`, `1`–`508`).  
+  [:octicons-download-16: Download via GitHub Release (502 MB)](https://github.com/birchville-org/macdonell/releases/latest/download/Macdonell_1916_Vedic_Grammar_400dpi_Sandwich.pdf) · [:octicons-tag-16: GitHub Release](https://github.com/birchville-org/macdonell/releases/latest)
 
 - **Typst Master Source Document** (`typst/macdonell.typ` · 1.2 MB)  
   Complete typeset source code for all 520 pages with macro-driven running headers, two-column index registers, and page dimension parameters.  

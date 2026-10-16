@@ -42,6 +42,23 @@ Dieses Dokumentations- und Editionsportal begleitet die digitale Neusatz-Ausgabe
   <div class="quick-card">
     <div>
       <div class="quick-card-header">
+        <span class="quick-card-icon">📚</span>
+        <span class="quick-card-title">Sandwich-PDF (400 dpi)</span>
+      </div>
+      <div class="quick-card-body">
+        528 Seiten hochauflösendes Scan-Faksimile mit OCR-Volltextsuchebene, 70-stufigem Lesezeichenbaum und Page-Labels.
+      </div>
+    </div>
+    <div class="quick-card-action">
+      <a href="https://github.com/birchville-org/macdonell/releases/latest/download/Macdonell_1916_Vedic_Grammar_400dpi_Sandwich.pdf" class="quick-btn quick-btn-outline" target="_blank" rel="noopener">
+        <span>⬇️</span> Sandwich-PDF (502 MB)
+      </a>
+    </div>
+  </div>
+
+  <div class="quick-card">
+    <div>
+      <div class="quick-card-header">
         <span class="quick-card-icon">📖</span>
         <span class="quick-card-title">Editionsmerkmale</span>
       </div>
@@ -120,6 +137,10 @@ Neben dem druckfertigen Publikations-PDF umfasst die Edition sämtliche Quelldat
 - **Publikations-PDF (1:1 Vektor-Neusatz)** (`dist/Macdonell_1916_Vedic_Grammar_Digital_Edition.pdf` · 3,2 MB)  
   520 Seiten Vektorsatz in Reinstform mit vollständigem 81-stufigen Lesezeichenbaum und originalgetreuen Page-Labels (`i`–`xii`, `1`–`508`).  
   [:octicons-download-16: Release-Download](https://github.com/birchville-org/macdonell/releases/latest/download/Macdonell_1916_Vedic_Grammar_Digital_Edition.pdf) · [:octicons-mark-github-16: Datei auf GitHub](https://github.com/birchville-org/macdonell/blob/main/dist/Macdonell_1916_Vedic_Grammar_Digital_Edition.pdf)
+
+- **400dpi-Sandwich-PDF (Faksimile mit OCR-Textebene & TOC)** (`dist/Macdonell_1916_Vedic_Grammar_400dpi_Sandwich.pdf` · 502 MB)  
+  528 Seiten hochauflösendes Scan-Faksimile der historischen Originalausgabe (Toronto-Scan, 400 dpi) mit durchsuchbarer OCR-Textebene, vollständigem hierarchischen Lesezeichenbaum (70 Gliederungspunkte) und nativen römischen/arabischen PDF-Page-Labels (`i`–`xii`, `1`–`508`).  
+  [:octicons-download-16: Release-Download (502 MB)](https://github.com/birchville-org/macdonell/releases/latest/download/Macdonell_1916_Vedic_Grammar_400dpi_Sandwich.pdf) · [:octicons-tag-16: GitHub Release](https://github.com/birchville-org/macdonell/releases/latest)
 
 - **Typst-Master-Satzdatei** (`typst/macdonell.typ` · 1,2 MB)  
   Vollständiger typografischer Quelltext der gesamten 520 Buchseiten mit makrobasierter Kolumnen-, Register- und Satzspiegelführung.  
