@@ -1,0 +1,105 @@
+# AlexandriaSandwich — Table of Contents Specification
+# Arthur Anthony Macdonell: A Vedic Grammar for Students (Oxford Clarendon Press 1916)
+# Syntax: Indentation (2 spaces per level) Title | Page
+# You can edit titles, levels, and page numbers directly in this file.
+# Lines starting with # are comments.
+
+Title: A Vedic Grammar for Students
+Author: Arthur Anthony Macdonell
+Subject: Vedic Sanskrit Grammar
+Keywords: Sanskrit, Vedic Grammar, Macdonell, Indology, AlexandriaSandwich
+Roman-End: 12
+Arabic-Start: 13
+
+# Front Matter
+Title Page | 1
+Imprint | 2
+Preface | 3
+Contents | 9
+List of Abbreviations | 11
+Additions and Corrections | 12
+
+# Main Grammar
+CHAPTER I: PHONETIC INTRODUCTION | 13
+  Relation of Vedic to Sanskrit | 13
+  Sounds of the Vedic Language | 14
+  The Vowels | 15
+  Vowel Gradation | 17
+  The Consonants | 19
+  Ancient Pronunciation | 26
+
+CHAPTER II: EUPHONIC COMBINATION (SANDHI) | 32
+  External Sandhi | 32
+    Combination of Vowels | 32
+    Combination of Consonants | 38
+    Sandhi in Compounds | 48
+  Internal Sandhi | 51
+    Combination of Vowels | 52
+    Combination of Consonants | 52
+
+CHAPTER III: DECLENSION | 59
+  Nouns: Consonant Stems (Unchangeable) | 60
+  Changeable Stems: Two Stems | 70
+  Changeable Stems: Three Stems | 78
+  Vowel Stems | 86
+  Degrees of Comparison | 106
+  Numerals | 109
+    Cardinals | 111
+    Ordinals | 114
+    Numeral Derivatives | 115
+  Pronouns | 115
+    Personal Pronouns | 116
+    Demonstrative Pronouns | 117
+    Interrogative, Relative & Reflexive Pronouns | 120
+    Possessive, Compound & Derivative Pronouns | 121
+    Pronominal Adjectives | 122
+
+CHAPTER IV: CONJUGATION | 129
+  Introductory | 129
+  The Present System | 136
+    First Conjugation | 137
+    Second Conjugation | 148
+  The Perfect | 165
+  The Pluperfect | 172
+  The Aorist | 174
+    First Aorist | 175
+    Second Aorist | 180
+  The Benedictive (Precative) | 186
+  The Future (Simple and Periphrastic) | 186
+  The Conditional | 188
+  The Passive | 190
+  Participles, Gerunds & Infinitives | 192
+  Derivative Verbs (Causative, Desiderative, Intensive, Denominative) | 206
+
+CHAPTER V: INDECLINABLE WORDS | 220
+  Prepositions | 220
+  Adverbial Case-forms | 223
+  Adverbs formed with Suffixes | 225
+  Conjunctive and Adverbial Particles | 228
+  Interjections | 265
+
+CHAPTER VI: NOMINAL STEM FORMATION AND COMPOUNDS | 266
+  Primary Suffixes | 267
+  Secondary Suffixes | 273
+  Gender | 278
+  Nominal Compounds | 279
+    Co-ordinatives (Dvandva) | 280
+    Determinatives (Tatpurusa & Karmadharaya) | 282
+    Possessives (Bahuvrihi) | 288
+    Governing, Syntactical & Iterative Compounds | 292
+
+CHAPTER VII: SYNTAX | 295
+  Order of Words & Concord | 295
+  Pronouns | 304
+  Use of the Cases | 310
+  Locative and Genitive Absolute | 335
+  Participles, Gerund & Infinitive | 338
+  Use of the Tenses | 350
+  Use of the Moods | 355
+
+# Appendices & Indexes
+APPENDIX I: List of Verbs | 381
+APPENDIX II: Vedic Metre | 448
+APPENDIX III: The Vedic Accent | 460
+VEDIC INDEX | 483
+GENERAL INDEX | 511
