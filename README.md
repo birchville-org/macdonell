@@ -99,5 +99,6 @@ make docs-build
 
 ## 📜 Lizenz & Provenienz
 - **Originalwerk**: Arthur Anthony Macdonell (1854–1930), *A Vedic Grammar for Students*, Oxford University Press 1916 (Gemeinfrei / Public Domain).
-- **Digitaler Neusatz & TEI-Encoding**: [MIT License](LICENSE) (AlexandriaSandwich Pipeline, Birchville Foundation).
+- **Digitaler Neusatz & TEI-Encoding**: [MIT License](LICENSE) (Copyright (c) 2026 Marco Demarmels / Birchville Foundation).
+
 

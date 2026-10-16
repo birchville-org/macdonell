@@ -113,17 +113,24 @@ Every digital page corresponds exactly to the physical book page of the historic
 - Native rendering of Vedic pitch accents: **Udātta** (acute / high tone), **Anudātta** (grave / low tone underline), and **Svarita** (circumflex / overline glide).
 - Seamless inline integration of Devanāgarī glyphs.
 
-### 4. Archival Architecture
-Beyond the print-ready PDF, the project provides structured machine-readable formats:
-- **TEI-P5 XML**: Standardized semantic markup following Text Encoding Initiative guidelines.
-- **EPUB 3**: Reflowable e-book optimized for mobile readers.
-- **Single Source of Truth**: Consolidated Markdown and semantic syntax AST (`book.json`).
+### 4. Archival Architecture & Artifacts
+Beyond the print-ready publication PDF, the edition provides all raw data sources and machine-readable archival formats for linguistic processing, long-term preservation, and mobile reading:
+
+| Artifact / Format | File & Path | File Size | Description | Direct Download & Repository |
+| :--- | :--- | :--- | :--- | :--- |
+| **TEI-P5 XML** | [`data/macdonell_1916.tei.xml`](https://github.com/birchville-org/macdonell/blob/main/data/macdonell_1916.tei.xml) | 1.14 MB | Canonical TEI-P5 XML conforming to Text Encoding Initiative guidelines | [:octicons-download-16: Download XML](https://github.com/birchville-org/macdonell/releases/latest/download/macdonell_1916.tei.xml) · [GitHub](https://github.com/birchville-org/macdonell/blob/main/data/macdonell_1916.tei.xml) |
+| **Reflowable EPUB 3** | [`data/macdonell_1916.epub`](https://github.com/birchville-org/macdonell/blob/main/data/macdonell_1916.epub) | 498 KB | E-Book for mobile readers with font embedding for IAST and Devanāgarī | [:octicons-download-16: Download EPUB](https://github.com/birchville-org/macdonell/releases/latest/download/macdonell_1916.epub) · [GitHub](https://github.com/birchville-org/macdonell/blob/main/data/macdonell_1916.epub) |
+| **Semantic AST (JSON)** | [`data/book.json`](https://github.com/birchville-org/macdonell/blob/main/data/book.json) | 2.22 MB | Machine-readable abstract syntax tree with all structural blocks and sections | [:octicons-download-16: Download JSON](https://github.com/birchville-org/macdonell/releases/latest/download/book.json) · [GitHub](https://github.com/birchville-org/macdonell/blob/main/data/book.json) |
+| **Consolidated Markdown** | [`data/book.md`](https://github.com/birchville-org/macdonell/blob/main/data/book.md) | 1.02 MB | Consolidated full-text source corpus (Single Source of Truth) | [:octicons-download-16: Download Markdown](https://github.com/birchville-org/macdonell/releases/latest/download/book.md) · [GitHub](https://github.com/birchville-org/macdonell/blob/main/data/book.md) |
+| **TOC Specification** | [`data/macdonell_1916.toc.txt`](https://github.com/birchville-org/macdonell/blob/main/data/macdonell_1916.toc.txt) | 2.45 KB | 81-step hierarchical outline and page label specification for injection | [:octicons-download-16: Download TOC](https://github.com/birchville-org/macdonell/releases/latest/download/macdonell_1916.toc.txt) · [GitHub](https://github.com/birchville-org/macdonell/blob/main/data/macdonell_1916.toc.txt) |
+| **Publication PDF (v1.0.1)** | [`dist/Macdonell_1916_...pdf`](https://github.com/birchville-org/macdonell/blob/main/dist/Macdonell_1916_Vedic_Grammar_Digital_Edition.pdf) | 3.56 MB | 520 pages of pristine vector typography with complete bookmarks | [:octicons-download-16: Download PDF](https://github.com/birchville-org/macdonell/releases/latest/download/Macdonell_1916_Vedic_Grammar_Digital_Edition.pdf) · [GitHub](https://github.com/birchville-org/macdonell/blob/main/dist/Macdonell_1916_Vedic_Grammar_Digital_Edition.pdf) |
 
 ---
 
 ## 📜 License & Citation
 
 - **Historical Original**: Arthur Anthony Macdonell (1854–1930), *A Vedic Grammar for Students*, Oxford University Press 1916 (Public Domain).
-- **Digital Typesetting & Tooling**: [MIT License](https://github.com/birchville-org/macdonell/blob/main/LICENSE) (Copyright (c) 2026 marcodem / Birchville Foundation).
+- **Digital Typesetting & Tooling**: [MIT License](https://github.com/birchville-org/macdonell/blob/main/LICENSE) (Copyright (c) 2026 Marco Demarmels / Birchville Foundation).
 - **Suggested Citation**:
   > Macdonell, Arthur Anthony: *A Vedic Grammar for Students*. Oxford Clarendon Press 1916. Digital typeset edition with 1:1 page fidelity, ed. by Birchville Foundation (AlexandriaSandwich Pipeline), 2026.
+

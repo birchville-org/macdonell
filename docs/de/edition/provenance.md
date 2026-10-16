@@ -38,7 +38,7 @@ Der gesamte Typst-Quellcode, die TEI-P5-XML-Daten, EPUB-Generatoren, Markdown-Qu
 ```text
 MIT License
 
-Copyright (c) 2026 marcodem
+Copyright (c) 2026 Marco Demarmels
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
