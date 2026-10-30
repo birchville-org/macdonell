@@ -136,35 +136,35 @@ Neben dem druckfertigen Publikations-PDF umfasst die Edition sämtliche Quelldat
 
 - **Publikations-PDF (1:1 Vektor-Neusatz)** (`dist/Macdonell_1916_Vedic_Grammar_Digital_Edition.pdf` · 3,2 MB)  
   520 Seiten Vektorsatz in Reinstform mit vollständigem 81-stufigen Lesezeichenbaum und originalgetreuen Page-Labels (`i`–`xii`, `1`–`508`).  
-  [:octicons-download-16: Release-Download](https://github.com/birchville-org/macdonell/releases/latest/download/Macdonell_1916_Vedic_Grammar_Digital_Edition.pdf) · [:octicons-mark-github-16: Datei auf GitHub](https://github.com/birchville-org/macdonell/blob/main/dist/Macdonell_1916_Vedic_Grammar_Digital_Edition.pdf)
+  [Release-Download](https://github.com/birchville-org/macdonell/releases/latest/download/Macdonell_1916_Vedic_Grammar_Digital_Edition.pdf) · [Datei auf GitHub](https://github.com/birchville-org/macdonell/blob/main/dist/Macdonell_1916_Vedic_Grammar_Digital_Edition.pdf)
 
 - **400dpi-Sandwich-PDF (Faksimile mit OCR-Textebene & TOC)** (`dist/Macdonell_1916_Vedic_Grammar_400dpi_Sandwich.pdf` · 502 MB)  
   528 Seiten hochauflösendes Scan-Faksimile der historischen Originalausgabe (Toronto-Scan, 400 dpi) mit durchsuchbarer OCR-Textebene, vollständigem hierarchischen Lesezeichenbaum (70 Gliederungspunkte) und nativen römischen/arabischen PDF-Page-Labels (`i`–`xii`, `1`–`508`).  
-  [:octicons-download-16: Release-Download (502 MB)](https://github.com/birchville-org/macdonell/releases/latest/download/Macdonell_1916_Vedic_Grammar_400dpi_Sandwich.pdf) · [:octicons-tag-16: GitHub Release](https://github.com/birchville-org/macdonell/releases/latest)
+  [Release-Download (502 MB)](https://github.com/birchville-org/macdonell/releases/latest/download/Macdonell_1916_Vedic_Grammar_400dpi_Sandwich.pdf) · [GitHub Release](https://github.com/birchville-org/macdonell/releases/latest)
 
 - **Typst-Master-Satzdatei** (`typst/macdonell.typ` · 1,2 MB)  
   Vollständiger typografischer Quelltext der gesamten 520 Buchseiten mit makrobasierter Kolumnen-, Register- und Satzspiegelführung.  
-  [:octicons-mark-github-16: Datei auf GitHub](https://github.com/birchville-org/macdonell/blob/main/typst/macdonell.typ)
+  [Datei auf GitHub](https://github.com/birchville-org/macdonell/blob/main/typst/macdonell.typ)
 
 - **TOC-Gliederungsspezifikation** (`data/macdonell_1916.toc.txt` · 2,5 KB)  
   Maschinen- und menschenlesbare Outline- und Paginierungsdefinition zur automatisierten Injektion der hierarchischen PDF-Lesezeichen und Page-Labels via PyMuPDF.  
-  [:octicons-download-16: Release-Download](https://github.com/birchville-org/macdonell/releases/latest/download/Macdonell_1916_Vedic_Grammar_Digital_Edition.toc.txt) · [:octicons-mark-github-16: Datei auf GitHub](https://github.com/birchville-org/macdonell/blob/main/data/macdonell_1916.toc.txt)
+  [Release-Download](https://github.com/birchville-org/macdonell/releases/latest/download/Macdonell_1916_Vedic_Grammar_Digital_Edition.toc.txt) · [Datei auf GitHub](https://github.com/birchville-org/macdonell/blob/main/data/macdonell_1916.toc.txt)
 
 - **Kanonisches TEI-P5 XML** (`data/macdonell_1916.tei.xml` · 1,1 MB)  
   Philologische Vollauszeichnung nach den Richtlinien der Text Encoding Initiative (TEI P5) mit semantischer Erfassung von Paragraphen, grammatischen Wurzeln und Formen für linguistische Korpusanalysen.  
-  [:octicons-download-16: Release-Download](https://github.com/birchville-org/macdonell/releases/latest/download/macdonell_1916.tei.xml) · [:octicons-mark-github-16: Datei auf GitHub](https://github.com/birchville-org/macdonell/blob/main/data/macdonell_1916.tei.xml)
+  [Release-Download](https://github.com/birchville-org/macdonell/releases/latest/download/macdonell_1916.tei.xml) · [Datei auf GitHub](https://github.com/birchville-org/macdonell/blob/main/data/macdonell_1916.tei.xml)
 
 - **Reflowable EPUB 3** (`data/macdonell_1916.epub` · 500 KB)  
   E-Book-Ausgabe mit fließendem Textlayout für E-Reader und mobile Endgeräte inklusive eingebetteter Schriftschnitte für IAST-Diakritika und Devanāgarī.  
-  [:octicons-download-16: Release-Download](https://github.com/birchville-org/macdonell/releases/latest/download/macdonell_1916.epub) · [:octicons-mark-github-16: Datei auf GitHub](https://github.com/birchville-org/macdonell/blob/main/data/macdonell_1916.epub)
+  [Release-Download](https://github.com/birchville-org/macdonell/releases/latest/download/macdonell_1916.epub) · [Datei auf GitHub](https://github.com/birchville-org/macdonell/blob/main/data/macdonell_1916.epub)
 
 - **Semantischer AST (JSON)** (`data/book.json` · 2,2 MB)  
   Vollständiger maschinenlesbarer Abstract Syntax Tree mit allen typisierten Absätzen, Tabellen, grammatischen Paragraphen und Metadaten.  
-  [:octicons-download-16: Release-Download](https://github.com/birchville-org/macdonell/releases/latest/download/book.json) · [:octicons-mark-github-16: Datei auf GitHub](https://github.com/birchville-org/macdonell/blob/main/data/book.json)
+  [Release-Download](https://github.com/birchville-org/macdonell/releases/latest/download/book.json) · [Datei auf GitHub](https://github.com/birchville-org/macdonell/blob/main/data/book.json)
 
 - **Konsolidiertes Markdown (Single Source of Truth)** (`data/book.md` · 1,0 MB)  
   Bereinigter linearer Volltext-Korpus zur universellen Weiterverarbeitung in statischen Generatoren, Notiz-Apps und LLM-Pipelines.  
-  [:octicons-download-16: Release-Download](https://github.com/birchville-org/macdonell/releases/latest/download/book.md) · [:octicons-mark-github-16: Datei auf GitHub](https://github.com/birchville-org/macdonell/blob/main/data/book.md)
+  [Release-Download](https://github.com/birchville-org/macdonell/releases/latest/download/book.md) · [Datei auf GitHub](https://github.com/birchville-org/macdonell/blob/main/data/book.md)
 
 ---
 
